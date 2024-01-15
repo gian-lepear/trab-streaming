@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda em jaguaré, são paulo , 37 m2 por r$ 189.510",
+            "description": "Um empreendimento completo com toda segurança, conforto e lazer que você merece. Preço e disponibilidade do imóvel sujeitos a alteração sem aviso prévio.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "37m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74792",
+                "longitude": "-23.54208"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jaguare-RS189510/id-9910964/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jaguare-RS189510/id-9910964/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na avenida dracena, 450, jaguaré, são paulo, 37 m2 por r$ 189.510",
+            "description": "Um empreendimento completo com toda segurança, conforto e lazer que você merece. Preço e disponibilidade do imóvel sujeitos a alteração sem aviso prévio.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "37m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05329-000",
+                "streetAddress": "Avenida Dracena, 450"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74692",
+                "longitude": "-23.54048"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jaguare-RS189510/id-8946776/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jaguare-RS189510/id-8946776/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Gran kazzas jaguaré - fase 1",
+            "description": "Um empreendimento completo com toda segurança, conforto e lazer que você merece. Preço e disponibilidade do imóvel sujeitos a alteração sem aviso prévio.   Código do Anúncio:  55  Este imóvel tem as seguintes características:   Lazer: Academia, Espaço Kids, Piscina, Quadra Esportiva, Salão de Festas, Salão de Jogos  Destaques: Bicicletário  Básico: Elevador  Estrutura: Portaria 24h  ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "38m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05329-000",
+                "streetAddress": "Avenida Dracena, 450"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74692",
+                "longitude": "-23.54048"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jaguare-38m2-RS189511/id-15655621/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jaguare-38m2-RS189511/id-15655621/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento a venda com 20mts, 1 quartos, 1 wc a 300m do metrô barra funda.",
+            "description": "Apartamento NR a venda com 20mts, 1 quartos, 1 wc a 300m do Metrô Barra Funda.  O apartamento será entregue com piso laminado no quarto de cerâmica na sala e cozinha.  O seu sonho da casa própria, a poucos passos do metrô. Localizado em uma das regiões mais privilegiadas de São Paulo, o Novvo Barra Funda está a poucos passos da Estação Palmeiras ? Barra Funda, em frente ao Memorial da América Latina e ao lado da Record.  Empreendimento com Melhor Custo Benefício da Região. Pagamento Facilitado Lazer de clube: piscina adulto e infantil, quadra, playground, fitness, churrasqueira etc. Visitas com agendamento",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "20m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01140-080",
+                "streetAddress": "Rua da Várzea, 394"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.6635",
+                "longitude": "-23.52548"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-varzea-da-barra-funda-20m2-RS189900/id-18132846/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-varzea-da-barra-funda-20m2-RS189900/id-18132846/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Hype villa lobos",
+            "description": "More em um endereço valorizado, próximo das melhores opções da cidade. Conheça o Hype Style: empreendimento com a assinatura Econ que encanta pela localização e pela união incrível entre conforto e lazer.  O Hype Style fica na valorizada Avenida Dr. Gastão Vidigal e a poucos metros do Parque Villa-Lobos, um ponto de referência fantástico. Por isso, o empreendimento não só respira a energia pulsante de São Paulo, como também traz um clima de tranquilidade e contato com a natureza. Pertinho dele você encontra muitas opções de comércios e atividades para todos os gostos.  Escolha entre apartamentos de 1 ou 2 dormitórios, com plantas que se encaixam com o seu estilo de vida. São unidades com metragens de 29m² a 43m² todas com terraço e opções não residenciais.  O Hype Style também tem lazer para todas as idades. Desfrute de opções incríveis, como piscina, áreas fitness e outros espaços projetados para sua família se divertir ao máximo.  Encontre o lar perfeito para o seu estilo de vida no Hype Style!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "29m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05318-000",
+                "streetAddress": "Rua Baumann, 735"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7324",
+                "longitude": "-23.53332"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-vila-leopoldina-4412m2-RS189900/id-17838179/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-vila-leopoldina-4412m2-RS189900/id-17838179/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 38 m² por r$ 190.000,00 - jardim ipanema (zona oeste) - são paulo/sp",
+            "description": "Imagine acordar todas as manhãs em um apartamento impecavelmente reformado e com acabamentos de primeira qualidade. O Residencial das Palmeiras é um condomínio encantador, localizado na área nobre do Jardim Ipanema, zona oeste de São Paulo. Este apartamento é perfeito para casais jovens que desejam um lar sofisticado e moderno.  A cozinha é incrível! Completamente planejada e integrada com a lavanderia, é o espaço ideal para preparar ótimas refeições para a família ou receber amigos para um jantar. Os quartos, a sala e o corredor têm um piso laminado de uma beleza incomparável: carvalho jaó com rodapé em madeira branco.  O Residencial das Palmeiras é um condomínio seguro e com uma ótima infraestrutura. A taxa de gás já está incluída no valor do condomínio, o que torna tudo mais fácil e confortável para os moradores. Esta é uma oportunidade única para você que está em busca de um apartamento e deseja viver com muito conforto, estilo e sofisticação.  Então, não perca mais tempo! Agende agora mesmo a sua visita a este esplêndido apartamento e tenha a chance de se encantar com cada detalhe deste lugar único. Seu novo lar pode estar esperando por você!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "38m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05187-010",
+                "streetAddress": "Avenida Alexios Jafet, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74821",
+                "longitude": "-23.44768"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-ipanema-zona-oeste-38m2-RS190000/id-11988760/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-ipanema-zona-oeste-38m2-RS190000/id-11988760/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 42 m² por r$ 190.000,00 - jardim boa vista (zona oeste) - são paulo/sp",
+            "description": "Apartamento á venda no Jardim Boa Vista, divisa com Butantã e Osasco e City Bussocaba- SP  Apto de 2 dormitórios, sala, cozinha, área de serviço e banheiro ( não possui vaga de garagem)  Condomínio com acesso por digital, portaria 24 horas, churrasqueira, salão de festas  Aceita financiamento  Aproveite e agende uma visita!   (link removido) ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "42m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05583-000",
+                "streetAddress": "Rua Kenkiti Shimomoto, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7875",
+                "longitude": "-23.57652"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-boa-vista-zona-oeste-42m2-RS190000/id-11642832/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-boa-vista-zona-oeste-42m2-RS190000/id-11642832/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda no jardim celeste, são paulo , 51 m2 por r$ 190.000",
+            "description": "sendo 2 dormitórios, sala, cozinha, área de serviço, banheiro e 1 vaga de garagem.  com portaria 24hs, Salão de festas, quadra, bicicletário e 2 elevadores.  Documentação ok  Região calma, próximo a escolas, ubs, farmácia e mercado. Localizado em área verde, próximo ao Zoo Safári, Zoológico, Jardim Botânico, Parque Cientec Usp. Fácil acesso a Rodovia Anchieta e Rod. Imigrantes, Av. Miguel Stefano, Av. dos Bandeirantes...",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "51m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.75078",
+                "longitude": "-23.599"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-celeste-RS190000/id-10659624/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-celeste-RS190000/id-10659624/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 49 m² por r$ 190.000 - jardim boa vista (zona oeste) - são paulo/sp - ap0151",
+            "description": "Apartamento com 2 dormitórios à venda, 49 m² por R$ 190.000 - Jardim Boa Vista (Zona Oeste) - São Paulo/SP - AP0151  Excelente apartamento com 2 dormitórios, sala, cozinha, banheiro com armário.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "49m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05583-000",
+                "streetAddress": "Rua Kenkiti Shimomoto, 1382"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.78338",
+                "longitude": "-23.5748"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-boa-vista-zona-oeste--RS190000/id-8796335/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-boa-vista-zona-oeste--RS190000/id-8796335/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento de 2 dormitórios por apenas 230mil -2o.andar - 1 vaga - jd boa vista - sp - capital",
+            "description": "Apartamento de 2 dormitórios por apenas 230mil - (link removido)  - 1 vaga Prédio sem Elevador. Condomínio ( no KM 18 da Rod. Raposo Tavares ) em ótima localização. 02 dormitórios sala Cozinha Banheiro com box de vidro Possui uma vaga de garagem. Lazer com playground, quadra poliesportiva, aparelhos de ginástica, portaria 24 horas, junto a Rodovia Raposo Tavares, excelente localização, fácil acesso a Raposo Tavares, Rodoanel, Politécnica. Região servida por várias linhas de ônibus...",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "50m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05583-070",
+                "streetAddress": "Rua Cândido Fontoura, 401"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-47",
+                "longitude": "-24"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-butanta-50m2-RS190000/id-14755854/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-butanta-50m2-RS190000/id-14755854/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento jardim ipanema - jaraguá 2 dormitórios e 1 vaga rotativa",
+            "description": "Apartamento Jardim Ipanema - Jaraguá, localizado a 1,6Km da Estação Vila Aurora, com transporte na porta.  * andar térreo; * 2 dormitórios; * sala para 2 ambientes; * cozinha americana; * banheiro; * área de serviço; * 1 vaga de garagem rotativa.  Condomínio com quadra poliesportiva, playground, churrasqueiras, salão de festas, redário, bicicletário, portaria 24 horas.  Aceita financiamento e FGTS.  Agende sua visita.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05187-010",
+                "streetAddress": "Avenida Alexios Jafet, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74821",
+                "longitude": "-23.44768"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-ipanema-zona-oeste-45m2-RS190000/id-14919264/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-ipanema-zona-oeste-45m2-RS190000/id-14919264/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 42 m² por r$ 190.000,00 - jardim boa vista (zona oeste) - são paulo/sp",
+            "description": "APTO 2 DORMITÓRIOS JARDIM BOA VISTA NA DIVISA DE OSASCO E BUTANTÃ  MORE COM TODO CONFORTO, LAZER E SEGURANÇA EM CONDOMINO FECHADO  LOCALIZAÇÃO: Próximo ao km 17 da rodovia Raposo Tavares, City Bussocaba - Osasco  CONDOMÍNIO TURQUESA FICA LOCALIZADO PRÓXIMO AO PARQUE CHICO MENDES E A AVENIDA ESCOLA POLITECNICA E COM FACIL ACESSO A RODOVIDA RAPOSO TAVARES, IDEAL PARA QUEM SE PREOCUPA COM A QUALIDADE DE VIDA DA FAMÍLIA OU PARA QUEM DESEJA SAIR DO ALUGUEL.  O QUE TEM PERTO?  CARREFOUR HIPERMERCADO, BARBOSA SUPERMERCADO, COLÉGIO ALBERT SABIN, ESCOLA ESTADUAL ROSA BONFIGLIOLI, PARQUE CHICO MENDES, DECATLHON, HOSPITALMUNICIPAL E MATERNIDADE PROF MARIO  APROVEITE E AGENDE SUA VISITA",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "42m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05583-000",
+                "streetAddress": "Rua Kenkiti Shimomoto, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7875",
+                "longitude": "-23.57652"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-boa-vista-zona-oeste--RS190000/id-11642391/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-boa-vista-zona-oeste--RS190000/id-11642391/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento para venda em são paulo, cohab taipas, 2 dormitórios, 1 banheiro, 1 vaga",
+            "description": "Apartamento para Venda no bairro COHAB TAIPAS, localizado na cidade de São Paulo SP.     Com 2 dormitórios, possui 1 banheiro, 1 vaga de garagem, 1 sala.     Área Total de 58 m².     Valor do Imóvel R$ 1.900,00.     Cômodos: Área de Serviço, Cozinha.     Proximidades: Bares e Restaurantes, Escola, Farmácia, Shopping Center, Supermercado.           - Cômodos: Área de Serviço, Cozinha,     - Proximidades: Bares e Restaurantes, Escola, Farmácia, Shopping Center, Supermercado,     Observação: ACEITA FINANCIAMENTO",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "58m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.73507",
+                "longitude": "-23.45151"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-cohab-taipas-58m2-RS190000/id-14424210/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-cohab-taipas-58m2-RS190000/id-14424210/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento para venda em são paulo, cohab taipas, 3 dormitórios, 1 banheiro, 1 vaga",
+            "description": "Apartamento para Venda no bairro COHAB TAIPAS, localizado na cidade de São Paulo SP, situado na zona Norte.     Com 3 dormitórios, possui 1 banheiro, 1 vaga de garagem, 1 sala, localizado em condomínio.     Valor do Imóvel R$ 190.000,00.     Características: Portão Eletrônico.     Cômodos: Área de Serviço, Cozinha.     Proximidades: Bares e Restaurantes, Escola, Farmácia, Shopping Center, Supermercado.           - Características: Portão Eletrônico,     - Cômodos: Área de Serviço, Cozinha,     - Proximidades: Bares e Restaurantes, Escola, Farmácia, Shopping Center, Supermercado,",
+            "numberOfRooms": "3",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "--m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.73507",
+                "longitude": "-23.45151"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-3-quartos-com-garagem-sp-sao-paulo-cohab-taipas-RS190000/id-13378036/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-3-quartos-com-garagem-sp-sao-paulo-cohab-taipas-RS190000/id-13378036/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 49 m² por r$ 190.000 - conjunto promorar raposo tavares - são paulo/sp - ap0204",
+            "description": "Apartamento com 2 dormitórios à venda, 49 m² por R$ 190.000 - Conjunto Promorar Raposo Tavares - São Paulo/SP - AP0204  Ótimo apartamento com 02 dormitórios, sala, cozinha, área de serviço, banheiro e 01 vaga de garagem.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "49m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05574-425",
+                "streetAddress": "Rua Rio Peixe de Couro, 23"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.79903",
+                "longitude": "-23.58762"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-promorar-raposo-tavares-RS190000/id-8796425/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-promorar-raposo-tavares-RS190000/id-8796425/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/196835/9910964/sp-sao-paulo-jaguare-apartamento-a-venda-2-quartos-632b36d2-1.jpg",
+        "name": "Apartamentos à venda na Zona Oeste em São Paulo - Página 10 | Chaves na Mão",
+        "description": "14.908 Apartamentos à venda na Zona Oeste em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Oeste em São Paulo. - Página 10",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "190000",
+            "priceCurrency": "BRL",
+            "lowPrice": "189510",
+            "offerCount": "14908"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-oeste/",
+                    "name": "Zona Oeste"
+                }
+            }
+        ]
+    }
+]

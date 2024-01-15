@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 dormitório à venda, 30 m² por r$ 170.000,00 - vila bela - são paulo/sp",
+            "description": "APARTAMENTO A VENDA, VENDE APARTAMENTO NA VILA BELA, R$170.000,00. PRONTO PARA MORAR. ULTIMA UNIDADE. APARTAMENTO SEM DIVISÓRIA. NO TERRÉO SEM ESCADAS, COM UM QUINTAL NO FUNDO. VENHA CONHECER E TRAGA SUA PROPOSTA.    VALORES PODEM SER ALTERADOS SEM PRÉVIO AVISO, O PROPRIETÁRIO PODE ALTERAR O VALOR SEM NOS AVISAR, CONSULTE-NOS. ´´",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "30m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "03202-060",
+                "streetAddress": "Rua das Dálias, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.56997",
+                "longitude": "-23.59915"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-bela-30m2-RS170000/id-17688419/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-bela-30m2-RS170000/id-17688419/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 48 m² por r$ 170.000,00 - jaraguá - são paulo/sp",
+            "description": "ÓTIMA OPORTUNIDADE DE INVESTIMENTO, OU MORADIA. APARTAMENTO RECÉM REFORMADO,PISO TÉRREO, (link removido)  JÁ A SUA VISITA.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jaragua-48m2-RS170000/id-17373291/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jaragua-48m2-RS170000/id-17373291/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento para venda em são paulo, vila nova parada, 2 dormitórios, 1 banheiro, 1 vaga",
+            "description": "      - Características: Móveis Planejados, Portão Eletrônico,     - Cômodos: Área de Serviço, Cozinha,     - Lazer: Área de Churrasco, Salão de Festas,     - Proximidades: Bares e Restaurantes, Escola, Farmácia, Shopping Center, Supermercado,     - Segurança: Portaria 24 horas,",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "--m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.48413",
+                "longitude": "-23.54524"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-vila-nova-parada-RS170000/id-13378072/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-vila-nova-parada-RS170000/id-13378072/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Residencial - jardim ipanema",
+            "description": "IMÓVEL A VENDA: APARTAMENTO NO JARDIM IPANEMA, SÃO PAULO/SP -   Com 2 dormitórios, sala, cozinha, lavanderia, banheiro, 1 vaga de garagem. Condomínio com playground, espaço pet e bicicletário. Próximo ao Rodoanel.   - ZEQUINHA IMOVEIS - imobiliária em Osasco com amplo cadastro de imóveis a venda e locação. Ligue para 11-  Zequinha Imóveis - Vila Campesina e fale com um de nossos corretores. Se preferir envie uma mensagem ou acesse nosso site  (link removido)  ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "37m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-ipanema-37m2-RS170000/id-7464255/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-ipanema-37m2-RS170000/id-7464255/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda no conjunto habitacional jova rural, são paulo , 48 m2 por r$ 170.000",
+            "description": "Apartamento com 2 dormitórios, sala, cozinha americana, banheiro, área de serviço e 1 vagas fixa e coberta de garagem.  condomínio com Playground, Quadra esportiva, Salão de festas e Área verde.  garantia aceita: Seguro fiança.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.57754",
+                "longitude": "-23.45169"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-jova-rural-RS170000/id-9316822/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-jova-rural-RS170000/id-9316822/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 51 m² por r$ 170.000,01 - vila nova galvão - são paulo/sp",
+            "description": "Apartamento de 2 dormitórios, sala, cozinha, banheiro, área de serviço e 1 vaga de garagem coberta. Ótima localização perto da rodovia Fernão Dias com comércios ao redor Farmácia, Supermercado, Pet Shop, Ponto de Ônibus.  Venda somente a vista.   OBS: CDHU IPTU isento - só contrato de compra e venda.  Agenda já a sua visita! Contato Katia Cilene 11 9  CRECI: 241700-F",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "51m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Rua Mário Lago, 350"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.57847",
+                "longitude": "-23.45558"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-vila-nova-galvao-51m2-RS170000/id-7450199/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-vila-nova-galvao-51m2-RS170000/id-7450199/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 40 m² por r$ 170.212 - jardim brasília - são paulo/sp",
+            "description": "Apartamento com:  - 2 quartos - Sala - Cozinha - Banheiro  - Lavanderia  Próximo a escolas, creches, emei, supermercados, estacionamento, restaurantes , farmácias e muito mais  Venha conhecer, fazer uma visita, apartamento com ótima localização e muito aconhegante!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02858-020",
+                "streetAddress": "Rua José Eduardo Pereira II, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.70227",
+                "longitude": "-23.4467"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-brasilia-RS170212/id-17876704/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-brasilia-RS170212/id-17876704/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda no conjunto habitacional brigadeiro eduardo gomes, são paulo , 58 m2 por r$ 170.212",
+            "description": "02 Dormitório(s)01 Vaga(s)Área útil: 58,00 m²  DESCRIÇAO DO IMÓVEL: Ótimo apartamento! Com 2 dorm, sala, cozinha, banheiro, lavanderia  Possui 1 vaga de garagem.   Documentação tem escritura mas está em nome do antigo proprietário, porém possui procuração no nome da atual proprietaria.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "58m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.6214",
+                "longitude": "-24.09251"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-brigadeiro-eduardo-gomes-RS170212/id-10249047/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-brigadeiro-eduardo-gomes-RS170212/id-10249047/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 dormitório à venda, 35 m² por r$ 170.500 - vila roque - são paulo/sp",
+            "description": "Apartamento na Vila Roque, com 35m², possui 1 dormitório, 1 banheiro, cozinha, área de serviço e varanda.  Excelente localização, próximo das principais vias de acesso e comércios da região.  Aceita financiamento e FGTS. Agende sua visita!",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "35m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02474-020",
+                "streetAddress": "Rua Assuero Roque, 191"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.65529",
+                "longitude": "-23.47774"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-roque-35m2-RS170500/id-17606685/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-roque-35m2-RS170500/id-17606685/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento-são paulo-jaçanã | ref.: reo634099",
+            "description": "Studio novo muito bem localizado, próximo a supermercados, escolas, academias. Fácil acesso ao metrô Tucuruvi. O imóvel tem 1 dorm, 1 sala e 1 banheiro, o imóvel é completamente novo e reformado. *UNIDADE COM 24,20m². FASE DE ACABAMENTO. As unidades serão entregues com piso nas áreas quentes, azulejos no banheiro até o teto Prestigie o meu trabalho e agende uma visita.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "178m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02262-050",
+                "streetAddress": "Rua Antônio Eduardo, 101"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.5753632",
+                "longitude": "-23.4658947"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-192m2-RS171000/id-14705356/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-192m2-RS171000/id-14705356/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento-são paulo-jaçanã | ref.: reo634368",
+            "description": "Studio novo muito bem localizado, próximo a supermercados, escolas, academias. Fácil acesso ao metrô  (link removido)  O imóvel tem 1 dorm, 1 sala e 1 banheiro, o imóvel é completamente novo e reformado. *UNIDADE COM 24,20m². FASE DE ACABAMENTO. As unidades serão entregues com piso nas áreas quentes, azulejos no banheiro até o teto Prestigie o meu trabalho e agende uma visita. ****************",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "178m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02262-050",
+                "streetAddress": "Rua Antônio Eduardo, 101"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.5753632",
+                "longitude": "-23.4658947"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-192m2-RS171000/id-14682587/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-192m2-RS171000/id-14682587/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento-são paulo-jaçanã | ref.: reo634391",
+            "description": "Studio novo muito bem localizado, próximo a supermercados, escolas, academias.´ Fácil acesso ao metrô Tucuruvi. O imóvel tem 1 dorm, 1 sala e 1 banheiro, o imóvel é completamente novo e reformado. *UNIDADE COM 24,20m². FASE DE ACABAMENTO. As unidades serão entregues com piso nas áreas quentes, azulejos no banheiro até o teto Prestigie o meu trabalho e agende uma visita. ****************",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "178m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02262-050",
+                "streetAddress": "Rua Antônio Eduardo, 101"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.5753632",
+                "longitude": "-23.4658947"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-192m2-RS171000/id-14682902/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-192m2-RS171000/id-14682902/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento-são paulo-jaçanã | ref.: reo634343",
+            "description": "Studio novo muito bem localizado, próximo a supermercados, escolas, academias. Fácil acesso ao metrô Tucuruvi. O imóvel tem 1 dorm, 1 sala e 1 banheiro, o imóvel é completamente novo e reformado. *UNIDADE COM 24,20m². FASE DE ACABAMENTO. As unidades serão entregues com piso nas áreas quentes, azulejos no banheiro até o teto Prestigie o meu trabalho e agende uma visita.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "178m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02262-050",
+                "streetAddress": "Rua Antônio Eduardo, 101"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.5753632",
+                "longitude": "-23.4658947"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-192m2-RS171000/id-14687700/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-192m2-RS171000/id-14687700/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento-são paulo-jaçanã | ref.: reo634382",
+            "description": "Studio novo muito bem localizado, próximo a supermercados, escolas, academias. Fácil acesso ao metrô Tucuruvi. O imóvel tem 1 dorm, 1 sala e 1 banheiro, o imóvel é completamente novo e reformado. *UNIDADE COM 24,20m². FASE DE ACABAMENTO. As unidades serão entregues com piso nas áreas quentes, azulejos no banheiro até o teto Prestigie o meu trabalho e agende uma visita..",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "178m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02262-050",
+                "streetAddress": "Rua Antônio Eduardo, 101"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.5753632",
+                "longitude": "-23.4658947"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-192m2-RS171000/id-14682690/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-192m2-RS171000/id-14682690/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento-são paulo-jaçanã | ref.: reo634347",
+            "description": "Studio novo muito bem localizado, próximo a supermercados, escolas, academias. Fácil acesso ao metrô Tucuruvi. O imóvel tem 1 dorm, 1 sala e 1 baxxxnheiro, o imóvel é completamente novo e reformado. *UNIDADE COM 24,20m². FASE DE ACABAMENTO. As unidades serão entregues com piso nas áreas quentes, azulejos no banheiro até o teto Prestigie o meu trabalho e agende uma visita.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "178m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02262-050",
+                "streetAddress": "Rua Antônio Eduardo, 101"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.5753632",
+                "longitude": "-23.4658947"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-192m2-RS171000/id-14687783/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-192m2-RS171000/id-14687783/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/412237/17688419/sp-sao-paulo-vila-bela-rua-das-dalias-apartamento-a-venda-1-quarto-654b2efd-1.jpg",
+        "name": "Apartamentos à venda na Zona Norte em São Paulo - Página 18 | Chaves na Mão",
+        "description": "27.580 Apartamentos à venda na Zona Norte em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Norte em São Paulo. - Página 18",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "171000",
+            "priceCurrency": "BRL",
+            "lowPrice": "170000",
+            "offerCount": "27580"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-norte/",
+                    "name": "Zona Norte"
+                }
+            }
+        ]
+    }
+]

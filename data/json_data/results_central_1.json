@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Arte barra funda - 1 ou 2dorm 27 à 41m2 c/sacada e opção de vaga",
+            "description": "Arte Barra Funda - 1 ou 2 Dormitórios - 27 à 41m2 c/sacada e opção de vaga  SOBRE O VIBRA ARTE BARRA FUNDA  A VIBRA TROUXE MAIS UM LANÇAMENTO PARA A ZONA OESTE DE SÃO PAULO, O ARTES BARRA FUNDA! COM UMA LOCALIZAÇÃO PRIVILEGIADA, PERTINHO DA ESTAÇÃO BARRA FUNDA, DO MEMORIAL DA AMÉRICA LATINA E DO ALLIANZ PARQUE. LAZER COMPLETO.   LOJA E TERRENO: AV. RUDGE, 485 - BOM RETIRO   INFORMAÇÕES DO PRODUTO  NÚMERO DE TORRES: 1  TOTAL DE UNIDADES: 487  ELEVADORES: 6  ANDARES: 20  NÚMERO DE DORMITÓRIOS: 1 E 2  NÚMERO DE VAGAS: 92  ÁREAS DE LAZER  #Churrasqueira I e II   #Piscina   #Mini Quadra   #Playground   #Pet Place   #Salão de Festas   #Academia   #Brinquedoteca   ESTRUTURA DO BAIRRO  #Marginal Tietê 6 min.   #Memorial da América Latina 9 min.   #Metrô Barra Funda/Terminal 10 min.   #Parque Água Branca 10 min.   #Pinacoteca 10 min.   #Estádio do Pacaembu 13 min.  LOCALIZAÇÃO VIBRA ARTE BARRA FUNDA  AV. RUDGE, 485 - BOM RETIRO   AV. RUDGE, 485 - BOM RETIRO",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "28m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01133-000",
+                "streetAddress": "Avenida Rudge, 485"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.65046",
+                "longitude": "-23.52367"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/lancamento/arte-barra-funda-1-ou-2dorm-27-a-41m2-c-sacada-e-opcao-de-vaga/id-16795114/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/lancamento/arte-barra-funda-1-ou-2dorm-27-a-41m2-c-sacada-e-opcao-de-vaga/id-16795114/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Leilão de apartamento 39 m² (esquina com av. nove de julho) - bela vista - são paulo - sp",
+            "description": "IMÓVEL EM LEILÃO PELA EMPRESA MEGA LEILÕES. Para adquirir este imóvel acesse nosso website em  (link removido) , cadastre-se e participe do leilão virtual. Procure pelo código do leilão: ML26979 (Leilão Judicial) - Valor do lance inicial: R$ 102507.86 - Valor de incremento dos lances: R$ 2.000,00 - Inicio da captação de lances: 24/01/2024 às 14:00 - Fim da capitação de lances: 29/01/2024 às 14:00 ----- MATRCULA N 7.969 DO 4 CARTRIO DE REGISTRO DE IMVEIS DA COMARCA DE SO PAULO/SP - IMVEL: Unidade Autnoma nmero 143, localizada no 159 pavimento ou 14 andar do 22 setor, do Edifcio Canad, situado na rua Acarau, nmero 19 ( entrada principal ), no 17 subdistrito Bela Vista, possuindo uma rea til de 39,60m2, frao ideal de 0,682% ou 6,41m2 e nas reas de uso comum, uma participao de 10,40m2, ou seja, um total de 50,00m2. Consta na Av.6 desta matrcula que o imvel desta matrcula foi dado em cauo a ELISEO MIRAMONTES COSTA e outra, para garantia do contrato de locao firmado entre VANDERLEI DE SOUZA SANTANA. Consta na Av.7 desta matrcula que nos autos da ao de Execuo Civil, Processo n 1128256-76.2016.8.26.0100, em trmite na 1 Vara Cvel do Foro Central da Capital/SP, requerida por CONDOMNIO EDIFCIO CANAD contra VERA LCIA CRISTIANO, foi penhorado o imvel desta matrcula, sendo nomeada depositria a  (link removido)  na Av.8 desta matrcula que nos autos do Processo n   19, em trmite na 19 Vara do Trabalho de So Paulo/SP, foi decretada a indisponibilidade de bens de VERA LCIA CRISTIANO. Consta na Av.9 desta matrcula que nos autos do Processo n   75, foi decretada a indisponibilidade de bens de VERA LCIA CRISTIANO. Consta na Av.10 desta matrcula que nos autos do Processo n   34, foi decretada a indisponibilidade de bens de VERA LCIA CRISTIANO. Consta na Av.11 desta matrcula que nos autos do Processo n   08, foi decretada a indisponibilidade de bens de VERA LCIA CRISTIANO. Consta na Av.12 desta matrcula que nos autos do Processo n   58, foi decretada a indisponibilidade de bens de VERA LCIA CRISTIANO. Consta na Av.13 desta matrcula a penhora exequenda do imvel desta matrcula, sendo nomeada depositria a executada. Consta na Av.14 desta matrcula que nos autos da ao de Execuo Civil, Processo n 1001570-81.2017.5.02.0016, em trmite na 16 Vara do Trabalho de So Paulo/SP, requerida por PEDRO RODRIGUES DO NASCIMENTO contra VERA LCIA CRISTIANO e outros, foi penhorado o imvel desta matrcula, sendo nomeada depositria a executada. Contribuinte n 010.036.0367-1. Dbito desta ao s fls.134/135 no valor de R$ 8.778,52 (fevereiro/2023). Acesse nosso website em  (link removido)  e conheça outras oportunidades incríveis. Conquiste seu imóvel. Preços até 60% abaixo do valor de mercado. Condições especiais de pagamento em alguns casos.",
+            "numberOfRooms": "0",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "39m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01306-030",
+                "streetAddress": "Rua Acaraú, 19"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64875",
+                "longitude": "-23.55408"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-sp-sao-paulo-bela-vista-50m2-RS102507/id-18128282/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-sp-sao-paulo-bela-vista-50m2-RS102507/id-18128282/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Leilão de apartamento 27 m² (metrô são bento) - centro - são paulo - sp",
+            "description": "IMÓVEL EM LEILÃO PELA EMPRESA MEGA LEILÕES. Para adquirir este imóvel acesse nosso website em  (link removido) , cadastre-se e participe do leilão virtual. Procure pelo código do leilão: ML26793 (Leilão Judicial) - Valor do lance inicial: R$ 102639.97 - Valor de incremento dos lances: R$ 2.000,00 - Inicio da captação de lances: 07/12/2023 às 11:30 - Fim da capitação de lances: 31/01/2024 às 11:30 ----- MATRCULA N 46.305 DO 5 CARTRIO DE REGISTRO DE IMVEIS DA COMARCA DE SO PAULO/SP - IMVEL: O apartamento n 63, do 6 andar ou 7 pavimento, do Edifcio Colorado, situado Rua Abelardo Pinto, n 91, no 5 Subdistrito, Santa Efignia, com a rea til de 27,80m2, rea comum de 15,01m2, e a rea construda de 42,81m2, correspondendo no terreno a frao ideal de 1,81%. Consta na Av.05 desta matrcula a penhora exequenda do imvel desta matrcula, sendo nomeado depositrio os executados. Contribuinte n 001.058.0086-4. Consta no site da Prefeitura de So Paulo/SP devedor inexistente na Dvida Ativa e no foram encontrados registros de IPTU para o exerccio atual (26/10/2023). Consta Penhora no Rosto dos Autos sobre eventuais crditos extrada do Processo n 1001424-44.2019.5.02.0089, em trmite na 89 Vara do Trabalho de So Paulo/SP. Dbitos desta ao no valor total de R$ 238.442,00 (fevereiro/2022). Acesse nosso website em  (link removido)  e conheça outras oportunidades incríveis. Conquiste seu imóvel. Preços até 60% abaixo do valor de mercado. Condições especiais de pagamento em alguns casos.",
+            "numberOfRooms": "0",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "27m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01034-030",
+                "streetAddress": "Rua Abelardo Pinto Piolin, 91"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.6377314",
+                "longitude": "-23.5434749"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-sp-sao-paulo-centro-42m2-RS102639/id-17732206/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-sp-sao-paulo-centro-42m2-RS102639/id-17732206/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 quarto à venda na rua oscar cintra gordinho, --, liberdade, são paulo, 32 m2 por r$ 105.000",
+            "description": "apto com 1 dorms, 1 sala, 1 cozinha, 1 banheiro, precisa de reforma, otimo para investidorer ou para primeiro imóvel.   com documentação .  ref OD270..",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "32m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Rua Oscar Cintra Gordinho, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.62885",
+                "longitude": "-23.55332"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-33m2-RS105000/id-13633917/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-33m2-RS105000/id-13633917/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 dormitório, 30 m² - venda por r$ 110.000,00 ou aluguel por r$ 1.135,00/mês - liberdade - são paulo/sp",
+            "description": "kit, separada cozinha, sala, dormitório. Aceita financiamneto e Fgts. agende sua visita.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "30m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01512-040",
+                "streetAddress": "Praça Ministro Costa Manso, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.62888",
+                "longitude": "-23.55346"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-75m2-RS110000/id-4722709/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-75m2-RS110000/id-4722709/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamentos com sacada, 1 e 2 quartos",
+            "description": "Bem vindo a um conceito atual, com menos excessos e mais praticidade para cada momento. Por dentro versáteis com mais design, estilo e funcionalidade, na perfeita composição para viver Apartamento com 1 dormitório , sacada, condomínio com lavanderia, lazer completo, academia, salão de festas, churrasqueira, solarium, rooftop com piscina. Em localização privilegiada, oferece mobilidade urbana, fácil acesso via transporte público e a vias expressas da cidade como: Avenida Nove de Julho, Avenida Vinte e Três de Maio - Corredor Norte/ Sul, Avenida Paulista, Avenida Brigadeiro Luís Antônio. FGV, Fundação Cásper Libero, Masp, Faculdade Ibmec, shoppings, hospitais e Vasta gama de comércio como: Bares e Restaurante, Padaria e Farmácias, Supermercados e Academia. a uma quadra da futura estação 14 bis do metrô. Venha Conhecer o Apartamento Decorado. Melhor valor de metro quadrado da região.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "28 a 28m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01328-010",
+                "streetAddress": "Rua Manoel Dutra, 435"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64722",
+                "longitude": "-23.55562"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/lancamento/apartamentos-com-sacada-1-e-2-quartos/id-17450474/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/lancamento/apartamentos-com-sacada-1-e-2-quartos/id-17450474/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 quarto à venda na rua helena zerrener, --, liberdade, são paulo, 37 m2 por r$ 115.000",
+            "description": "KITCHINETTE apto na liberdade, no bairro do Glicerio, 1 quarto grande que da para dividir em sala ,cozinha integrada no quarto e banheiro grande, precisa de reforma, abaixo do preço de mercado.  Proc ref OD272  documentação Ok..",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "37m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Rua Helena Zerrener, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.62886",
+                "longitude": "-23.55387"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-38m2-RS115000/id-14023357/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-38m2-RS115000/id-14023357/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Leilão de apartamento 61 m² (unid. 410) - liberdade - são paulo - sp",
+            "description": "IMÓVEL EM LEILÃO PELA EMPRESA MEGA LEILÕES. Para adquirir este imóvel acesse nosso website em  (link removido) , cadastre-se e participe do leilão virtual. Procure pelo código do leilão: ML27044 (Leilão Extrajudicial) - Valor do lance inicial: R$ 115500.00 - Valor de incremento dos lances: R$ 5.000,00 - Inicio da captação de lances: 11/12/2023 às 14:00 - Fim da capitação de lances: 17/01/2024 às 16:31 ----- Apartamento, Padro, Ocupado. rea(s): 42,25 m de rea total, 61,1 m de rea privativa, 61,1 m de rea til. Matrcula(s): None,32.297. Cartrio: 1 CRI DE SAO PAULO. Inscrio da Prefeitura: VIDE INSCRICAO IMOBILIARIA. >brbrbrbrbrbrbrbr . Acesse nosso website em  (link removido)  e conheça outras oportunidades incríveis. Conquiste seu imóvel. Preços até 60% abaixo do valor de mercado. Condições especiais de pagamento em alguns casos.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "61m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01512-070",
+                "streetAddress": "Rua Conde de Sarzedas, 377"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.62962",
+                "longitude": "-23.55422"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS115500/id-18305605/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS115500/id-18305605/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 dormitório à venda, 34 m² por r$ 120.000,00 - liberdade - são paulo/sp",
+            "description": "KIT COM 01 DORMITÓRIO E 01 BANHEIRO. FICA PRÓXIMO A TRANSPORTE COLETIVO, PARQUES E HOSPITAIS. ALÉM DISSO, SISTEMA DE SEGURANÇA.AGENDE SUA VISITA.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "34m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01512-010",
+                "streetAddress": "Rua Oscar Cintra Gordinho, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.62885",
+                "longitude": "-23.55332"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-65m2-RS120000/id-17126154/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-65m2-RS120000/id-17126154/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda no bairro santa efigênia - são paulo/sp",
+            "description": "Apartamento com 26 m² na Santa Efigênia  Andar bem alto  Escritura, aceita financiamento.  Ao Lado do novo Hospital da mulher o Novo  Pérola Byington  Varias opções de transporte coletivo, Ao lado do Terminal de bus Princesa Isabel. Além de 03 estações de metro (St Cecilia, Republica e Luz) 01- Estação de trem/ Julio Prestes. Supermercado enfrente na Avenida. Varias opções de comercio e lazer, 2000 metros da Galeria do Rock e Teatro municipal, Shopping Light.  As informações estão sujeitas a alterações. Consulte o corretor responsável.    Chave do anúncio: clImj9wHGUvYPaH2",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "26m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01212-001",
+                "streetAddress": "Rua dos Gusmões, 568"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64154",
+                "longitude": "-23.53835"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-santa-ifigenia-26m2-RS120000/id-17726291/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-santa-ifigenia-26m2-RS120000/id-17726291/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 quarto à venda na rua helena zerrener, --, liberdade, são paulo, 30 m2 por r$ 123.000",
+            "description": "Apartamento em ótimo estado, com gás encanado. O prédio possui portaria 24h. Comércios e escolas próximos. Estação do metro Dom Pedro a 500ms Com um dormitorio, piso de ceramica, um banheiro, sem vaga de garagem. Agende sua visita pela Ref. GB601",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "30m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Rua Helena Zerrener, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.62886",
+                "longitude": "-23.55387"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-31m2-RS123000/id-14510294/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-31m2-RS123000/id-14510294/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento a venda",
+            "description": "Portaria 24 horas , fica entre os metrôs Sé Parque Dom Pedro e Liberdade, imóvel amplo, elevadores Edifício em ótimo estado com portaria 24 horas sistema de câmeras de segurança três elevadores modernos ambiente familiar a cinco minutos a pé do metrô água incluso no condomínio",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "33m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01514-020",
+                "streetAddress": "Avenida Cangaíba, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.628958",
+                "longitude": "-23.55448"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS128000/id-1952947/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS128000/id-1952947/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento a venda na liberdade",
+            "description": "Ótima localização!!! Próximo do metrô Liberdade e Sé. Facil acesso ao transporte público (ônibus e metrô) Portaria 24 horas , fica entre os metrôs Sé e liberdade, imóvel amplo, elevadores",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "34m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01512-010",
+                "streetAddress": "Avenida Cangaíba, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.628741",
+                "longitude": "-23.553238"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS128000/id-1953067/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS128000/id-1953067/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento kitchenette/studio em liberdade  -  são paulo",
+            "description": "Excelente kit para investimento 38 metros, proximo ao metro, andar alto, biometria, bicicletario, salão de festas.  Aceita permuta em imóvel no mesmo valor.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "--m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Rua Oscar Cintra Gordinho, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.62885",
+                "longitude": "-23.55332"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS130000/id-6823733/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS130000/id-6823733/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "More e invista no bixiga, um bairro para tudo e para todos.  lançamento nova bixiga,  aqui você é  quem quer ser. a 100 metros da futura estação 14 bis do metrô e próximo da estação bela vista. lazer",
+            "description": "Ruas agitadas e com muita animação. Movimentado 24 horas por dia, tem ótimas opções de passeios que vão de teatros a casas noturnas. Repleto de cantinas e restaurantes populares. Feira livre, próximo ao Sesc 14 Bis. Para quem tem estilo, dinamismo, mente aberta, o NOVA BIXIGA é a junção de culturas e mentes abertas. É respeito pelas diversidades é eletricidade no ar, agito e inspiração. Tudo ao alcance de todos!!!",
+            "numberOfRooms": "1 a 2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "22 a 42m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01328-010",
+                "streetAddress": "Rua Manoel Dutra, 435"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64722",
+                "longitude": "-23.55562"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/lancamento/more-e-invista-no-bixiga-um-bairro-para-tudo-e-para-todos-lancamento-nova-bixiga-aqui-voce-e-quem-quer-ser-a-100-metros-da-futura-estacao-14-bis-do-metro-e-proximo-da-estacao-bela-vista-lazer/id-18269015/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/lancamento/more-e-invista-no-bixiga-um-bairro-para-tudo-e-para-todos-lancamento-nova-bixiga-aqui-voce-e-quem-quer-ser-a-100-metros-da-futura-estacao-14-bis-do-metro-e-proximo-da-estacao-bela-vista-lazer/id-18269015/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/67351/18128282/sp-sao-paulo-bela-vista-rua-acarau-apartamento-a-venda-656b038d-1.jpg",
+        "name": "Apartamentos à venda na Zona Central em São Paulo | Chaves na Mão",
+        "description": "12.389 Apartamentos à venda na Zona Central em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Central em São Paulo.",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "350000",
+            "priceCurrency": "BRL",
+            "lowPrice": "102507",
+            "offerCount": "12389"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-central/",
+                    "name": "Zona Central"
+                }
+            }
+        ]
+    }
+]

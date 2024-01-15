@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamentos 2 dorms e studios na planta a 300m do terminal barra funda",
+            "description": "Apartamentos de 2 dormitórios e Studios na planta em um terreno com mais de 5.900M² e um lazer de clube.  Há apenas 300M do terminal Palmeiras Barra Funda.  Próximo ao Parque da Água Branca e ao Shopping West Plaza. Preço campeão no mercado: STUDIOS a partir de R$179.900,00 2 DORMS a partir de R$245.000,00  GRINGO CORRETOR - CRECI 175-333 Entre em contato através do telefone 11 9 ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "26 a 34m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01141-020",
+                "streetAddress": "Rua Quirino dos Santos, 104"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.66452",
+                "longitude": "-23.52375"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/lancamento/apartamentos-2-dorms-e-studios-na-planta-a-300m-do-terminal-barra-funda/id-17837021/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/lancamento/apartamentos-2-dorms-e-studios-na-planta-a-300m-do-terminal-barra-funda/id-17837021/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 38 m² por r$ 105.852,20 - jardim boa vista (zona oeste) - são paulo/sp",
+            "description": "LEIA ATENTAMENTE A DESCRIÇÃO DO ANUNCIO.  Somos uma empresa credenciada junto CAIXA ECONOMICA FEDERAL, especializada na intermediação de venda dos imóveis de propriedade da CAIXA. Imóveis com até 60% desconto.  Se houver dívidas de condomínio e IPTU, tudo será pago pela CAIXA economica Federal até a data da aquisição do imóvel. Para sua segurança possuímos um DEPARTAMENTO JURÍDICO para auxiliar do ínicio ao fim do processo. NOSSA COMISSÃO será paga exclusivamente pela CAIXA economica Federal. Não são permitidas visitas internas na maioria dos Imóveis CAIXA, pois muitas vezes encontram-se ocupados pelo antigo mutuário;  Se o imóvel estiver OCUPADO, fica de responsabilidade EXCLUSIVA do comprador a emissão da posse do imóvel, e negociação da saída do atual morador. NÃO aceita permuta, automóvel ou contraproposta sobre o valor anunciado;  Financiamento DE ATÉ 95% do valor do imóvel, sujeito análise de crédito   Imóvel NÃO aceita financiamento habitacional.  Imóvel NÃO aceita parcelamento  Valores e disponibilidade Sujeitos a confirmação no momento da consulta  Contato: 9 ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "38m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05583-000",
+                "streetAddress": "Rua Kenkiti Shimomoto, 1382"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.78338",
+                "longitude": "-23.5748"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-boa-vista-zona-oeste-38m2-RS105852/id-17629890/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-boa-vista-zona-oeste-38m2-RS105852/id-17629890/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento cdhu em jaguaré não da financiamento",
+            "description": " Apartamento em Jaguaré  -  São Paulo - ** CDHU NÃO DA FINANCIAMENTO**    Contém 02 dormitórios, cozinha, lavanderia, 1 banheiro, sala.   Detalhes internos: Há armários na cozinha e banheiro, nao tem garagem.   Sua excelente localização alem de disponibilizar uma ampla rede de comercio ao redor, possui um ótimo acesso as principais Avenidas da região.   ATENÇÃO: Os preços e informações exibidos poderão sofrer alterações sem prévio aviso. Por este motivo, deverão ser confirmados pelo departamento comercial.    ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "--m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05328-140",
+                "streetAddress": "Rua Sabiá Branco, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.75242",
+                "longitude": "-23.54876"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jaguare-RS115000/id-12516498/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jaguare-RS115000/id-12516498/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento no condomínio jardim das orquídeas - jaraguá",
+            "description": "Condomínio Jardim das Orquídeas - Jaraguá   R$ 120.000 + 270 Meses de 188,03 Mensal   - Apartamento com 50m², 2 Dormitórios, Sala Ampla, Cozinha com Pia e Armário, Lavanderia, 1 Banheiro e 1 Vaga de Garagem Coberta   - Não Aceita Financiamento -  Cadu - Executivo de Vendas 0 1 1 - 9 9 9 8 6 - 7 3 3 5 (Nextel) WhatsApp Creci: 123.827  Entrem em contato preferencialmente pelo WhatsApp que já teremos um pronto atendimento !!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "50m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02995-160",
+                "streetAddress": "Travessa Árvore-da-Felicidade, 3200"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74033",
+                "longitude": "-23.44733"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-sao-joao-jaragua-50m2-RS120000/id-13188080/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-sao-joao-jaragua-50m2-RS120000/id-13188080/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apto cdhu educandário 2 dormitórios por 120.000",
+            "description": "Apartamento com 2 dormitórios, sala de estar, cozinha um banheiro área de serviço, 1 vaga de garagem .  Ótima localização com farto comércio na região e facial acesso ao transporte público.  * Não aceita financiamento bancário!  Agende uma visita e venha conferir!!!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05547-025",
+                "streetAddress": "Avenida Circular, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7761",
+                "longitude": "-23.59959"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-raposo-tavares-RS120000/id-15863137/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-raposo-tavares-RS120000/id-15863137/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "More em 1 ou 2 dormitórios na barra funda",
+            "description": "Piso laminado nos QUARTOs  Persiana de enrolar NOs QUARTOs  TODAS AS UNIDADES COM Varanda  Cozinha e living com CONCEITO ABERTO  Bicicletário coberto (68 vagas)  Opção de vaga  Área de lazer completa com piscina  obs.: valor do apartamento de 27m² sem vaga",
+            "numberOfRooms": "1 a 2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "27 a 47m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01133-000",
+                "streetAddress": "Avenida Rudge, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.570381",
+                "longitude": "-23.567387"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/lancamento/more-em-1-ou-2-dormitorios-na-barra-funda/id-18155535/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/lancamento/more-em-1-ou-2-dormitorios-na-barra-funda/id-18155535/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Venda | apartamento com 42,00 m², 2 dormitório(s). jardim boa vista (zona oeste), são paulo",
+            "description": "Apartamento Jardim Boa Vista - Osasco   2 dormitorio Sala Cozinha Lavanderia Banheiro  Aceita permuta por casa ou apartamneto 2 dormitórios Zona Sul –Vila das Belezas, Campo Limpo, Santo Amaro, João Dias, Jardim São Luiz, Parque Regina. 120 mil em mão + transferência de parcelas a vencer financiamento bancário 165 mil .",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "42m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7832",
+                "longitude": "-23.58215"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-boa-vista-zona-oeste-42m2-RS120000/id-18116417/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-boa-vista-zona-oeste-42m2-RS120000/id-18116417/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento a venda no cdhu voith, jaraguá",
+            "description": "Apartamento localizado na rua fredrich von voith 1790  Conta com 02 dormitórios, sala 2 ambientes, cozinha, banheiro e lavanderia.   R$ 120 mil mais saldo de R$ 14 mil reais, com prestações de R$ 230,00 mensais. proprietário não aceita financiamento.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "43m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-sao-joao-jaragua-43m2-RS120000/id-13934188/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-sao-joao-jaragua-43m2-RS120000/id-13934188/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 49 m² por r$ 120.000,00 - jardim ester yolanda - são paulo/sp",
+            "description": "Apartamento à Venda - Jardim Ester Yolanda  Este apartamento está localizado no bairro Jardim Ester Yolanda, oferecendo uma residência em um ambiente tranquilo e agradável.  O imóvel é um apartamento padrão com 2 quartos, uma sala, cozinha, área de serviço e um banheiro. Sua metragem é de 49 metros quadrados, o que é ideal para quem busca um espaço prático e funcional.  O valor do condomínio é de R$ 150,00 Reais . Valor para venda à vista. Não aceita financiamento bancário  Agende já a sua visita !!!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "49m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05374-040",
+                "streetAddress": "Rua Celso Lagar, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7587",
+                "longitude": "-23.5782"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-ester-yolanda-49m2-RS120000/id-14956282/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-ester-yolanda-49m2-RS120000/id-14956282/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 38 m² por r$ 120.900,00 - jardim ipanema (zona oeste) - são paulo/sp",
+            "description": "LEIA ATENTAMENTE A DESCRIÇÃO DO ANUNCIO.  Somos uma empresa credenciada junto CAIXA ECONOMICA FEDERAL, especializada na intermediação de venda dos imóveis de propriedade da CAIXA. Imóveis com até 60% desconto.  Se houver dívidas de condomínio e IPTU, tudo será pago pela CAIXA econômica Federal até a data da aquisição do imóvel. Para sua segurança possuímos um DEPARTAMENTO JURÍDICO para auxiliar do início ao fim do processo.  NOSSA COMISSÃO será paga exclusivamente pela CAIXA econômica Federal.  Não são permitidas visitas internas na maioria dos Imóveis CAIXA, pois muitas vezes encontram-se ocupados pelo antigo mutuário;   Se o imóvel estiver OCUPADO, DAREMOS ASSISTÊNCIA JURÍDICA ao comprador referente a emissão da posse do imóvel, e negociação da saída do atual morador. NÃO aceita permuta, automóvel ou contraproposta sobre o valor anunciado;  Financiamento DE ATÉ 95% do valor do imóvel, sujeito análise de crédito  ACEITA financiamento bancário somente da CAIXA  Valores e disponibilidade Sujeitos a confirmação no momento da consulta  Contato: 9  WhatsApp",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "38m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05187-010",
+                "streetAddress": "Avenida Alexios Jafet, 595"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7487246",
+                "longitude": "-23.4437275"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-ipanema-zona-oeste-83m2-RS120900/id-17318623/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-ipanema-zona-oeste-83m2-RS120900/id-17318623/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda no jardim são joão (jaraguá), são paulo , 45 m2 por r$ 125.000",
+            "description": "Apartamento da CDHU de dois dormitórios na Voith. QUITADO - UNICO DONO Não Aceita Financiamento documentação OK Fica 600 metros da estação Vila Aurora  Próximo ponto final do ônibus.  Escola e Creche ao lado. câmeras no prédio Comércios próximos: Shopping Cantareira, Supermercado Extra, Assaí, Atacadão...  Condomínio: R$ 100,00 ( valor pode sofrer alteração sem aviso prévio. )  Área: 50 m² Quartos: 2 Vagas de garagem: 0",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.71194",
+                "longitude": "-23.42952"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-sao-joao-jaragua--RS125000/id-11925033/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-sao-joao-jaragua--RS125000/id-11925033/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Leilão de apartamento 45 m² (condomínio new point) - jd. centenário - são paulo - sp",
+            "description": "IMÓVEL EM LEILÃO PELA EMPRESA MEGA LEILÕES. Para adquirir este imóvel acesse nosso website em  (link removido) , cadastre-se e participe do leilão virtual. Procure pelo código do leilão: ML26961 (Leilão Judicial) - Valor do lance inicial: R$ 127436.72 - Valor de incremento dos lances: R$ 2.000,00 - Inicio da captação de lances: 18/12/2023 às 14:00 - Fim da capitação de lances: 23/01/2024 às 14:00 ----- MATRCULA N 123.264 DO 3 CARTRIO DE REGISTRO DE IMVEIS DE SO PAULO/SP: IMIVEL: APARTAMENTO N 82, localizado no 8 andar do EDIFCIO PAULISTA TORRE  3  parte integrante do  CONDOMNIO NEW POINT , situado rua Professor Jos Soares de Mello, n 179, rua Gonalves Magalhes, rua Joaquim Serra e rua Mario de S Carneiro no 8 Subdistrito - Santana, contendo a rea privativa de 45,690 metros quadrados, rea comum de 43,520 metros quadrados e a rea total de 89,210 metros quadrados, correspondendo-lhe a frao ideal de terreno de 0, ; cabendo-lhe o direito de utilizar um espao individual e indeterminado, sujeito ao uso de manobrista, na garagem localizada no subsolo ou pavimento trreo (plat  1  ou  2 ) do condomnio. Contribuinte n 305.082.0221-0. Consta no site da Prefeitura de So Paulo/SP, dbitos inscritos na Dvida Ativa, referentes aos exerccios de  ,2018 e 2021 no valor total de R$ 7.906,84, e referente ao exerccio de 2008, consta um dbito de R$ 18.568,83 (27/11/2023). Acesse nosso website em  (link removido)  e conheça outras oportunidades incríveis. Conquiste seu imóvel. Preços até 60% abaixo do valor de mercado. Condições especiais de pagamento em alguns casos.",
+            "numberOfRooms": "0",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02882-100",
+                "streetAddress": "Rua Professor José Soares de Mello, 179"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.66721",
+                "longitude": "-23.46992"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-com-garagem-sp-sao-paulo-jardim-centenario-89m2-RS127436/id-18091457/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-com-garagem-sp-sao-paulo-jardim-centenario-89m2-RS127436/id-18091457/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 47 m² por r$ 129.999,00 - jardim são joão (jaraguá) - são paulo/sp",
+            "description": "Lindo apartamento! 2 dormitórios, sala, cozinha, banheiro, área de serviço e 1 vaga de garagem. Não dá financiamento! Próximo de supermercados, padarias, farmácias, escolas , transporte público, Shopping Cantareira . Não perca essa oportunidade, agende já uma visita!!!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "47m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02995-000",
+                "streetAddress": "Rua Friedrich Von Voith, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74029",
+                "longitude": "-23.44111"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-sao-joao-jaragua-47m2-RS129900/id-17234000/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-sao-joao-jaragua-47m2-RS129900/id-17234000/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 47 m² por r$ 130.000,00 - jardim são joão (jaraguá) - são paulo/sp",
+            "description": "Excelente oportunidade Saia do aluguel. Belo apartamento ao lado de posto de saúde UPA e AMA.  Dois dormitórios, sala, cozinha, banheiro, área de serviço e uma vaga de garagem coberta com portão automático, espaço com churrasqueira.  Próximo a supermercados, açougue, padaria, pizzaria, farmácias etc..  Não aceita financiamento bancário.  Agende uma visita 11   Ou via Whatsapp 11 9 ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "47m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02995-000",
+                "streetAddress": "Rua Friedrich Von Voith, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74029",
+                "longitude": "-23.44111"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-sao-joao-jaragua-47m2-RS130000/id-9657920/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-sao-joao-jaragua-47m2-RS130000/id-9657920/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Lindo empreendimento no morumbi - zona sul",
+            "description": "Apartamentos de 2 e 3 dormitórios Entrada a partir de R$200,00 Financiamento através do Programa Minha Casa Minha Vida Subsídio (Desconto de até 55 Mil) Piso Gratis Documentação Grátis* Casa Paulista*  Sphera Panamby Projeto Geral Terreno: 9.142,41m² Número de torres: 3 Total de Unidade: 696 Número de andares: T + 16 O apartamento Área Privativa Apartamento 2 Dorms. de 33,98m² a 48,35m² Apartamento 3 Dorms. de 66,93m² Área Privativa do Térreo Apartamento 2 Dorms. de 34,34m² a 49,05m² Apartamento 3 Dorms. de 67,85m² Ateliê Brinquedoteca Churrasqueira Coworking Espaço bem estar Espaço Delivery Espaço Piquenique Fitness Fitness Externo Mini Mercado Pet Agility Pet Care Piscina Adulto Piscina Infantil Playground Pomar Praças Redário Sala Funcional Salão de Festas Estação Giovanni Gronchi 5min Carrefour Hipermercado 4min Hospital Campo Limpo 10min Escola Adventista vl. Das Belezas 14min Terminal João Dias 5min Morumbi Town Shopping 12min UBS Vila das Belezas 7min Centro Empresarial de SP 15min Shopping Campo Limpo 14min  Venha conhecer o nosso decorado!",
+            "numberOfRooms": "2 a 3",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "33 a 66m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05724-006",
+                "streetAddress": "Avenida Giovanni Gronchi, 7020"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7372",
+                "longitude": "-23.64134"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/lancamento/lindo-empreendimento-no-morumbi-zona-sul/id-17417027/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/lancamento/lindo-empreendimento-no-morumbi-zona-sul/id-17417027/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/40097/17629890/sp-sao-paulo-jardim-boa-vista-zona-oeste-rua-kenkiti-shimomoto-apartamento-a-venda-2-quartos-654455ce-1.jpg",
+        "name": "Apartamentos à venda na Zona Oeste em São Paulo | Chaves na Mão",
+        "description": "14.908 Apartamentos à venda na Zona Oeste em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Oeste em São Paulo.",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "229900",
+            "priceCurrency": "BRL",
+            "lowPrice": "105852",
+            "offerCount": "14908"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-oeste/",
+                    "name": "Zona Oeste"
+                }
+            }
+        ]
+    }
+]

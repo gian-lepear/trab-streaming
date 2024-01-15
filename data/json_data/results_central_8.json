@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 25 m² por r$ 170.000,00 - centro - são paulo/sp",
+            "description": "CONDOMÍNIO ASTRAL!!  Apartamento dispõe de: 25m² de área útil 1 Dormitório 1 Banheiro Sala para 2 ambientes Sem vaga de garagem  Diferenciais: Elevador Condomínio fechado Portaria 24h Portão eletrônico  Studio bem localizado, próximo a Rua Sta. Ifigenia e 25 de março  Você conta com serviços opcionais como: Assessoria Imobiliária para resolver toda a burocracia jurídica e trazer segurança para sua negociação; Suporte para aprovação do  financiamento imobiliário sem custo algum através da nossa assessoria de crédito; Além de todos os suportes do nosso time de especialistas no assunto.   Valores de condomínio e IPTU podem sofrer alteração sem nosso conhecimento. Sujeito a confirmação de disponibilidade.  Entre em contato conosco pelo WhatsApp  (11) 9  BeG Imóveis atendimento com qualidade e rapidez!",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "25m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01032-010",
+                "streetAddress": "Rua Riskallah Jorge, 80"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.63519",
+                "longitude": "-23.54155"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-RS170000/id-17348500/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-RS170000/id-17348500/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 dormitório à venda, 25 m² por r$ 170.000,00 - aclimação - são paulo/sp",
+            "description": "Kitnet com 1 dormitório à venda, 25 m² por R$ 170.000,00 - Aclimação - São Paulo/SP   Kitnet para venda com 01 quarto sala e cozinha.  Ótima localização com vastos comércios, escolas, farmácias, banco, pizzarias, padarias e academias. Fácil acesso a várias avenidas Agende já sua visita!",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "25m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01526-010",
+                "streetAddress": "Rua Tenente Otávio Gomes, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.63208",
+                "longitude": "-23.56345"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-aclimacao-RS170000/id-11328368/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-aclimacao-RS170000/id-11328368/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento para venda!",
+            "description": "Excelente Oportunidade de Compra para quem quer morar bem por um preço acessível. 01 quarto com suite. Condomínio completo com Salão de Festas, Churrasqueira, area Fitness, Lavanderia, Playground e salão de jogos. A região central de São Paulo é um lugar especial para seus moradores, que encontram a poucos quarteirões de casa: Museus, teatros, cinemas, centros culturais, bares, restaurantes, pontos turísticos, baladas e muito mais!O centro também mostra que casa e trabalho podem estar perto um do outro, trazendo muitos benefícios para quem mora nessa região. Escolha agora o seu novo apartamento no Centro e desfrute de todas essas vantagens!",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "32m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01017-904",
+                "streetAddress": "Avenida Rangel Pestana, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.620907",
+                "longitude": "-23.545435"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-se-RS170000/id-1952824/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-se-RS170000/id-1952824/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento para venda em são paulo, santa efigênia, 1 dormitório, 1 banheiro",
+            "description": "Apartamento para Venda no bairro Santa Efigênia, localizado na cidade de São Paulo SP, região Centro, ponto de referência Estação da Luz.     Com 1 dormitório, possui 1 banheiro, 1 sala, construído no ano de 2000.     Área Total de 40 mº, Área Privativa de 32 mº.     Valor do Imóvel R$ 170.000,00, Valor do Condomínio R$ 600,00.     Características: Portaria 24 horas.     Proximidades: Ao lado do Metrô São Bento, Estação da Luz, Santa Efigênia e esquina com a Avenida Rio Branco           - Características: Portaria 24 horas,     - Proximidades: Transporte público,",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "32m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01213-000",
+                "streetAddress": "Rua General Osório, 316"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64134",
+                "longitude": "-23.53723"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-santa-ifigenia-40m2-RS170000/id-17983300/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-santa-ifigenia-40m2-RS170000/id-17983300/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento- 40m², liberdade- são paulo - sp",
+            "description": "Apartamento com 1 dormitório e 1 banheiro. Área de Serviço, Área de Serviço, Arm. Cozinha, Arm. Embutido, , Cozinha, Cozinha Independente, Fogão, Geladeira, Lavabo, Mobiliado, Perto de Escolas, Perto de Shopping Center, Perto de Transporte Público, Perto de Vias de Acesso, Piso de Madeira, Próximo a Hospitais, Sacada, Sala de Estar, Sala de Jantar, Semi Mobiliado, Serviços Públicos Essenciais  Guaíra Negócios Imobiliários – desde 1987 trabalhando com Solidez, Honestidade e Digitalmente Humanizada, com agências no ABC e SP e mais de 200 corretores para ajudar você a comprar, vender e alugar o seu imóvel. Todos os preços e condições comercias estão sujeitos à alteração. Creci 21.699-J",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01512-010",
+                "streetAddress": "Rua Oscar Cintra Gordinho, 121"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.6293502",
+                "longitude": "-23.5533025"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-40m2-RS170000/id-12183232/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-40m2-RS170000/id-12183232/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento para venda!",
+            "description": "Excelente Oportunidade de Compra para quem quer morar bem por um preço acessível. 01 quarto com suite. Condomínio completo com Salão de Festas, Churrasqueira, area Fitness, Lavanderia, Playground e salão de jogos. A região central de São Paulo é um lugar especial para seus moradores, que encontram a poucos quarteirões de casa: Museus, teatros, cinemas, centros culturais, bares, restaurantes, pontos turísticos, baladas e muito mais! O centro também mostra que casa e trabalho podem estar perto um do outro, trazendo muitos benefícios para quem mora nessa região. Escolha agora o seu novo apartamento no Centro e desfrute de todas essas vantagens!",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "32m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01017-904",
+                "streetAddress": "Avenida Cangaíba, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.620907",
+                "longitude": "-23.545435"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-se-RS170000/id-1952919/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-se-RS170000/id-1952919/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 quarto à venda na rua brigadeiro tobias, 669, centro, são paulo por r$ 170.003",
+            "description": "Apartamento com 1 quarto à venda na rua brigadeiro tobias, 669, centro, são paulo por r$ 170.003",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01032-001",
+                "streetAddress": "Rua Brigadeiro Tobias, 669"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.63449",
+                "longitude": "-23.53699"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-40m2-RS170003/id-6788218/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-40m2-RS170003/id-6788218/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 quarto à venda na avenida prestes maia, 241, centro, são paulo por r$ 170.006",
+            "description": "Apartamento com 1 quarto à venda na avenida prestes maia, 241, centro, são paulo por r$ 170.006",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "39m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01031-001",
+                "streetAddress": "Avenida Prestes Maia, 241"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.6166428",
+                "longitude": "-23.6844063"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-39m2-RS170006/id-9615113/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-39m2-RS170006/id-9615113/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 quarto à venda na praça ministro costa manso, 12, liberdade, são paulo por r$ 170.021",
+            "description": "Apartamento com 1 quarto à venda na praça ministro costa manso, 12, liberdade, são paulo por r$ 170.021",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "25m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01512-040",
+                "streetAddress": "Praça Ministro Costa Manso, 12"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.62901",
+                "longitude": "-23.55349"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-25m2-RS170021/id-6811461/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-25m2-RS170021/id-6811461/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Leilão de domínio útil sobre apartamento 51 m² (próx. ao metrô são bento) - centro - são paulo - sp",
+            "description": "IMÓVEL EM LEILÃO PELA EMPRESA MEGA LEILÕES. Para adquirir este imóvel acesse nosso website em  (link removido) , cadastre-se e participe do leilão virtual. Procure pelo código do leilão: ML27188 (Leilão Judicial) - Valor do lance inicial: R$ 170108.71 - Valor de incremento dos lances: R$ 2.000,00 - Inicio da captação de lances: 06/02/2024 às 16:00 - Fim da capitação de lances: 09/02/2024 às 16:00 ----- DOMINIO TIL DA MATRCULA N 45.084 DO 4 CARTRIO DE REGISTRO DE IMVEIS DA COMARCA DE SO PAULO/SP - IMVEL: Unidade autnoma nmero 1.206, do Edifcio Banco do Povo, situado na rua 15 de Novembro, nmero 170/184, no 1 subdistrito S, possui uma rea til de 51,45ms2, rea comum de 14,00ms2, e rea construda de 65,45ms2, correspondendo a essa unidade a frao ideal de 468/120.000 no terreno. Consta na Av.02 desta matrcula que o imvel em parte foreiro. Consta na Av.09 desta matrcula que o Edifcio  Banco do Povo  denomina-se EDIFCIO DAS BANDEIRAS. Consta na Av.10 desta matrcula que nos autos do Processo n   29, foi determinada a indisponibilidade dos bens e direitos de PIONEER PARTICIPAES LTDA EM LIQUIDAO ORDINRIA. Consta na Av.11 desta matrcula a penhora exequenda do imvel desta matrcula, sendo nomeada depositria a executada. Contribuinte n 001.083.0110-9. Consta no site da Prefeitura de So Paulo/SP dbitos inscritos na Dvida Ativa no valor de R$ 4.403,04 e dbitos de IPTU para o exerccio atual no valor de R$ 181,92 (08/12/2023). Dbito desta ao no valor de R$ 79.981,21 (outubro/2022). Acesse nosso website em  (link removido)  e conheça outras oportunidades incríveis. Conquiste seu imóvel. Preços até 60% abaixo do valor de mercado. Condições especiais de pagamento em alguns casos.",
+            "numberOfRooms": "0",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "51m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01013-000",
+                "streetAddress": "Rua Quinze de Novembro, 170/184"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.63406",
+                "longitude": "-23.5473"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-sp-sao-paulo-centro-65m2-RS170108/id-18473606/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-sp-sao-paulo-centro-65m2-RS170108/id-18473606/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento de 38m² com 1 quartos em santa efigenia",
+            "description": "Kitnet bem localizada no centro de São Paulo, no bairro de Santa Efigênia com vista para o Viaduto Santa Efigênia. Próximo de estações de metro, diversas opções de transporte público, comercio em geral. Um cômodo grande com varanda, uma pequena cozinha e 1 banheiro grande o suficiente para abrigar uma máquina lavadora de roupas. Tudo bem distribuído.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "38m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01032-010",
+                "streetAddress": "Rua Riskallah Jorge, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.63525",
+                "longitude": "-23.54163"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-santa-ifigenia-38m2-RS172000/id-13811831/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-santa-ifigenia-38m2-RS172000/id-13811831/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda no bairro aclimação - são paulo/sp",
+            "description": "Bem-vindo ao seu novo lar no Residencial Parque Constance, onde o conforto e a praticidade se encontram. Este incrível apartamento, oferece um ambiente amplo e espaçoso, ideal para a sua família desfrutar de momentos inesquecíveis. Com a possibilidade de financiamento, realizar o sonho da casa própria nunca foi tão acessível.  Áreas comuns:  &bull;Sua segurança é nossa prioridade, com uma equipe dedicada para garantir tranquilidade a qualquer hora do dia com portaria 24hrs.  &bull;Celebre momentos especiais com amigos e familiares em um espaço amplo e aconchegante no salão de festas.  &bull;Desfrute de deliciosos churrascos ao ar livre, proporcionando momentos de confraternização e descontração com quiosques com churrasqueiras.  &bull;Um espaço dedicado para a diversão das crianças, onde podem explorar e criar memórias inesquecíveis no playgroud.  Diferenciais do empreendimento:  &bull;03 dormitórios amplos: Oferecendo o máximo de conforto e privacidade para toda a família.  &bull;Cozinha: Um ambiente funcional e bem planejado, proporcionando praticidade no dia a dia.  &bull;Lavanderia: Espaço dedicado para suas tarefas domésticas, com facilidades para tornar a rotina mais eficiente.  &bull;Banheiro Social: Um ambiente elegante e funcional, pensado para atender às necessidades cotidianas com estilo.  &bull;Sala de jantar: Um local acolhedor para reunir a família em torno das refeições, fortalecendo os laços afetivos.  &bull;Vaga de Garagem: Sua comodidade é valorizada, proporcionando praticidade no estacionamento do seu veículo.  Informações do local:  O Residencial Parque Constance está estrategicamente localizado em uma região que oferece conveniência e acessibilidade. Próximo a comércios locais, escolas e serviços essenciais, sua nova casa proporciona praticidade no dia a dia. Além disso, a área é caracterizada por um ambiente tranquilo e familiar, proporcionando qualidade de vida aos seus moradores.   Contato:  Para obter mais informações ou agendar uma visita, entre em contato conosco através do formulário de cadastro nessa mesma página. Se preferir, estamos disponíveis no WhatsApp; basta clicar no botão correspondente e nossa equipe terá o prazer de atendê-lo prontamente. Estamos comprometidos em fornecer todas as informações possíveis para que você faça a melhor escolha para o seu novo lar.    Chave do anúncio: 0Fq8znIbF9qAVBiQ",
+            "numberOfRooms": "3",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "50m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "0",
+                "streetAddress": "Alameda Itu, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.63297",
+                "longitude": "-23.57048"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-3-quartos-com-garagem-sp-sao-paulo-aclimacao-50m2-RS173500/id-18638796/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-3-quartos-com-garagem-sp-sao-paulo-aclimacao-50m2-RS173500/id-18638796/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento totamente reformado, sem vaga de garagem!",
+            "description": "PRÓXIMO AO METRÔ SÉ, FAMILIAR, PREDIO SEM RECUO, SEM VAGADE GARAGEM, PORÉM TEM ESTACIONAMENTO DENTRO DO PRÉDIO.   AGENDE SUA VISITA E VENHA CONHECER AGORA MESMO SEU NOVO APÊ!! Imobiliária Santa Sales  Atendimento humanizado! Com vasta experiência em venda ,locação e administração de imóveis . Acompanhamento Jurídico até a entrega das chaves ?  entre em contato no nosso whatsap (11 )  Imoveis santa sales",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "22m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01020-000",
+                "streetAddress": "R Tabatinguera, 470"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.62844",
+                "longitude": "-23.55229"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-1m2-RS174000/id-13547438/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-1m2-RS174000/id-13547438/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 33 m² por r$ 175.000,00 - centro histórico de são paulo - são paulo/sp",
+            "description": "UNIDADES Á VENDA EM CAMPOS ELÍSEOS!!  Plantas dispõe de: 33,40m², 34m², 25,80m² e 30m² de área útil 1 Dormitórios Opções com sacada  Diferenciais do condomínio: Torre Unica com 19 Andares  2 Elevadores Sem lazer  Proximidades: stação Julio Prestes  Hospital Perola Byington Terminal Pricesa Isabel Museu da Lingua Portuguesa 13º Batalhão da Policia Militar  Liceu Coração de Jesus Sala São Paulo  Parque da Luz   Você conta com serviços opcionais como: Assessoria Imobiliária para resolver toda a burocracia jurídica e trazer segurança para sua negociação; Suporte para aprovação do  financiamento imobiliário sem custo algum através da nossa assessoria de crédito; Além de todos os suportes do nosso time de especialistas no assunto.   Valores de condomínio e IPTU podem sofrer alteração sem nosso conhecimento. Sujeito a confirmação de disponibilidade.  Entre em contato conosco pelo WhatsApp  (11) 9  BeG Imóveis atendimento com qualidade e rapidez!",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "33m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01205-000",
+                "streetAddress": "Avenida Rio Branco, 735"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.6422091",
+                "longitude": "-23.5372392"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-historico-RS175000/id-11278262/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-historico-RS175000/id-11278262/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Kitinet liberdade reformada à 800 metros do metrô sé",
+            "description": "Apartamento Liberdade Reformado em oferta. Com 33m² - Composto por: 01 Dormitório. 01 Sala de estar. Cozinha com pia e armários novos. 01 Banheiro. Condomínio com portaria 24h, vigilância eletrônica, 3 elevadores, 800m do metro da Sé, próximo a mercados, padarias, restaurantes e escola. Documentação Ok. Aceita Financiamento",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "33m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01514-020",
+                "streetAddress": "Praça Doutor Mário Margarido, 33"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.62897",
+                "longitude": "-23.55451"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-43m2-RS175000/id-16416769/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-43m2-RS175000/id-16416769/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/40097/17348500/sp-sao-paulo-centro-rua-riskallah-jorge-apartamento-a-venda-1-quarto-652f82b1-1.jpg",
+        "name": "Apartamentos à venda na Zona Central em São Paulo - Página 8 | Chaves na Mão",
+        "description": "12.389 Apartamentos à venda na Zona Central em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Central em São Paulo. - Página 8",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "175000",
+            "priceCurrency": "BRL",
+            "lowPrice": "170000",
+            "offerCount": "12389"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-central/",
+                    "name": "Zona Central"
+                }
+            }
+        ]
+    }
+]

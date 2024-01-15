@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Imovel na vila carmosina",
+            "description": "More na melhor localização de Itaquera   Condomínio com lazer completo.    Apartamentos de 1 e 3 dormitórios.  Próximo ao hospital Santa Marcelina, aquario itaquera, neo quimica arena, parque do Carmo Olavo Egidio Setubal Poucos minutos do atacadão itaquera, atacadão assai, carrefour. Próximo a av jacu pêssego.  ",
+            "numberOfRooms": "1 a 3",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "25 a 82m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08290-430",
+                "streetAddress": "Rua Capitania de Itamaracá, 508"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.4549327",
+                "longitude": "-23.5539456"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/lancamento/imovel-na-vila-carmosina/id-18507956/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/lancamento/imovel-na-vila-carmosina/id-18507956/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 48 m² por r$ 100.000,00 - itaim paulista - são paulo/sp",
+            "description": "Condomínio Residencial Santisma Trindade  Apartamento em uma área privilegiada do bairro Jardim Camargo Novo, Itaim Paulista, com muito aconchego e conforto para sua família.  Sobre o Apartamento  Dormitórios: 2 Banheiros: 1 Sala: 1 Andar: 3° andar Área útil do imóvel: 48,00  Proximidades  -22 minutos de ônibus até a Estação Itaim Paulista -1 minuto andando até o Ponto de ônibus mais próximo -3 minutos andando até o EE Thomaz Rodrigues Alckmin -4 minutos de carro até o Parque das Águas -3 minutos de carro até a UBS Encosta Norte  Valor para pagamento a vista! Aceitamos seu FGTS; Consulte condições para pagamento financiado. Agende uma visita conosco!  Lucas Cabral - Assessoria e Consultoria Imobiliária CRECI/SP - 36242-J",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08121-770",
+                "streetAddress": "Rua Eugênio Grieco, 441"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.37776",
+                "longitude": "-23.5075"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-itaim-paulista-48m2-RS100000/id-15788980/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-itaim-paulista-48m2-RS100000/id-15788980/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento 2 dormitórios quartos 1 banheiro vaga 1 sala",
+            "description": "EXCELENTE APARTAMENTO COM 44 M². NO BAIRRO JARDIM PEDRA BRANCA. DESCRIÇÃO: 02 DORMITÓRIOS, 01 SALA, 01 COZINHA, 01 LAVANDERIA, 01 BANHEIRO E 01 VAGAS DE GARAGEM ROTATIVA. Apartamento em ótimas condições, fácil acesso e boa localização. Localizacão: 10 minutos do Terminal Cidade Tiradentes. Perto de escolas, ao lado do Supermercado Negreiros. Farmácias / ponto de ônibus em frente ao condomínio/ padaria/ mercadinho/ posto de gasolina / depósito de materiais de construção/ academias/ açougue, entre outros. Ponto de ônibus para vários metrôs e terminais de ônibus. Condomínio com portaria 24h. Uma ótima oportunidade!!! Fácil acesso e ótima localização.....",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "44m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08490-710",
+                "streetAddress": "Rua Sabiá Da Praia, 160"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.4169323",
+                "longitude": "-23.581042"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-cidade-tiradentes-44m2-RS100000/id-14733147/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-cidade-tiradentes-44m2-RS100000/id-14733147/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na rua eduardo sanches, 1371, cidade tiradentes, são paulo, 48 m2 por r$ 100.000",
+            "description": "Vendo lindo apartamento na cidade Tiradentes!!!! Lindo apartamento Imóvel todo reformado e com móveis planejados. 2 dormitórios , sala, cozinha, lavanderia, banheiro e Garagem fechada com porta de aço ,ótima localização prox. av. dos têxte...",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08475-180",
+                "streetAddress": "Rua Eduardo Sanches, 1371"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.3966",
+                "longitude": "-23.59627"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-cidade-tiradentes-48m2-RS100000/id-9144556/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-cidade-tiradentes-48m2-RS100000/id-9144556/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na rua boré, 35, colônia (zona leste), são paulo, 50 m2 por r$ 100.000",
+            "description": "Apartamento com 2 dormitórios, com s sala e quartos  grandes, com uma vaga de garagem rotativa, Localização:- Perto da Av. Luiz Matheus, 10 minutos para estação Guaianases, e José Bonifácio, Acesso av Ragueb Chof e rodoanel. Infraestrutura- Per...",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "50m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08260-380",
+                "streetAddress": "Rua Boré, 35"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.4401",
+                "longitude": "-23.57708"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-colonia-zona-leste-50m2-RS100000/id-9145053/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-colonia-zona-leste-50m2-RS100000/id-9145053/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Minha casa minha vida estação penha",
+            "description": "Venha participar do Programa Minha Casa Minha Vida. Apartamentos de 1 e 2 dormitórios com sacada. SIMULAÇÃO GRÁTIS Com lazer completo: Piscina Mini Quadra Mini mercado dentro do empreendimento (COWORKING) FOOD HALL* E Muito Mais. *Próximo a estação Penha *Próximo ao Shopping  * Hospitais * Parques",
+            "numberOfRooms": "1 a 2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "28 a 36m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "03630-040",
+                "streetAddress": "Rua Ingu, S/N"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.55268",
+                "longitude": "-23.53393"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/lancamento/minha-casa-minha-vida-estacao-penha/id-14463424/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/lancamento/minha-casa-minha-vida-estacao-penha/id-14463424/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na rua igarapé água azul, 122, conjunto habitacional santa etelvina ii, são paulo, 42 m2 por r$ 100.000",
+            "description": "02 dormitórios, 1 total de banheiro, 01 cozinha, 01 garagem, 01 lavanderia, 01 sala , Área útil 42,00 m², Área total 42,00 m²",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "42m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08485-310",
+                "streetAddress": "Rua Igarapé Água Azul, 122"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.41043",
+                "longitude": "-23.59402"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-santa-etelvina-ii-42m2-RS100000/id-15731480/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-santa-etelvina-ii-42m2-RS100000/id-15731480/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 47 m² por r$ 100.000 - conjunto habitacional barro branco ii - são paulo/sp",
+            "description": "Apartamento com 2 dormitórios no 4° andar com varanda e vaga rotativa.  Condomínio com salão de festas.  Próximo a ponto final de ônibus. Próximo ao CEU barro branco. Padarias e mercados próximos.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "47m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08473-592",
+                "streetAddress": "Rua Alexandre Davidenko, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.49044",
+                "longitude": "-23.48978"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-barro-branco-ii-RS100000/id-17370236/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-barro-branco-ii-RS100000/id-17370236/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na avenida nascer do sol, 21, conjunto habitacional santa etelvina ii, são paulo, 48 m2 por r$ 100.000",
+            "description": "apto 02 dor, sala, coz, ban, garagem , ótima localização , próximo a mercado ,",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08485-020",
+                "streetAddress": "Avenida Nascer do Sol, 21"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.41043",
+                "longitude": "-23.59402"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-santa-etelvina-ii-48m2-RS100000/id-9144708/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-santa-etelvina-ii-48m2-RS100000/id-9144708/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento - padrão, para venda em são paulo/sp",
+            "description": "OPORTUNIDADE, chega de aluguel!Apartamento CDHU com 40m² à venda no Jardim Colorado - Z. Leste.2 quartos, sala, cozinha, banheiro, 1 vaga de garagem e lavanderia, reformado prontinho para  (link removido)  esta muito bem localizado, próximo Av. da Barreira Grande, rodeado de muitos comércios e ao lado da mais nova UBS que no momento encontra-se em construção.  .",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "03918-050",
+                "streetAddress": "Rua dos Banqueiros, BLOCO B"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.52117",
+                "longitude": "-23.59046"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-vila-bancaria-40m2-RS100000/id-18076009/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-vila-bancaria-40m2-RS100000/id-18076009/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento para venda em são paulo, parque são rafael, 2 dormitórios, 1 banheiro, 1 vaga",
+            "description": "Apartamento 50mº     2 dormitórios, banheiro, sala, cozinha, lavanderia e 1 vaga de garagem     Observação: Condominio pode variar devido reformas",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "--m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-parque-sao-rafael-RS100000/id-5351699/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-parque-sao-rafael-RS100000/id-5351699/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 43 m² por r$ 100.000,00 - taipas - são paulo/sp",
+            "description": "Apartamento CDHU a venda  Do lado da Av. Dep. Cantídio Sampaio onde se encontrão linhas de ônibus para os mais distintos pontos da cidade.  Imóvel com:  Dormitórios: 02 Sala: 01 Banheiro: 01 Cozinha: com pia Área de serviço: com tanque  Condomínio com:  Vagas de garagem: 01 a céu aberto e rotativa  Pagamento somente a vista.  Agende sua visita!!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "43m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02858-000",
+                "streetAddress": "Rua Eliseu Reinaldo Moraes Vieira, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.70322",
+                "longitude": "-23.44559"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-taipas-43m2-RS100000/id-10024311/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-taipas-43m2-RS100000/id-10024311/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na rua garça morena, 510, jardim pedra branca, são paulo, 56 m2 por r$ 100.000",
+            "description": "APARTAMENTO DO GRANDE 56M² TODO REFORMADO, 2 DORMITÓRIOS, SALA, COZINHA, LAVANDERIA, BANHEIRO E GARAGEM COBERTA INDIVIDUAL , NAO TEM ESCADA PQ FICA NO NIVEL DA RAMPA OPORTUNIDADE !!!! AGENDE UMA VISITA COM NOSSOS CORRETORES",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "56m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08490-700",
+                "streetAddress": "Rua Garça Morena, 510"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.42152",
+                "longitude": "-23.58224"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-pedra-branca-56m2-RS100000/id-9144543/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-pedra-branca-56m2-RS100000/id-9144543/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Lindo apartamento no bairro colônia, com 50 m² semi-mobiliado, 2 dormitórios, sala, cozinha, banheiro, área de serviço, 1 vaga. ref: 15.455",
+            "description": "Lindo apartamento no bairro Colônia, com 50 m² de área útil recém reformado, semi-mobiliado, 2 dormitórios, sala, cozinha, banheiro, área de serviço, arejado, bairro arborizado, 1 vaga de garagem coberta. Ficarão no imóvel, guarda roupa, moveis do banheiro etc. Condomínio com Playground e Salão de Festas. Ponto de ônibus a menos de 50 metros e 15 min estação Dom Bosco. Vale a pena conhecer o imóvel. Agende já a sua visita. REF: 15.455",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "50m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-colonia-zona-leste--RS100000/id-8467449/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-colonia-zona-leste--RS100000/id-8467449/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Minha casa minha vida cidade mooca",
+            "description": "SIMULAÇÃO GRÁTIS Venha conhecer os benefícios do Minha Casa e Minha Vida. Lazer Completo. Apartamentos de 1 e 2 dormitórios. Com e sem sacada. Avenida do Estado. Estação Juventudes - Mooca. Universidade Anhembi Morumbi. Hospital Sancta Maggiorre. Carrefour Hipermercado.  ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "34 a 41m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "03105-005",
+                "streetAddress": "Avenida do Estado, 500"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.570381",
+                "longitude": "-23.567387"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/lancamento/minha-casa-minha-vida-cidade-mooca/id-16389835/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/lancamento/minha-casa-minha-vida-cidade-mooca/id-16389835/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/130206/15788980/sp-sao-paulo-itaim-paulista-rua-eugenio-grieco-apartamento-a-venda-2-quartos-64cc85f3-1.jpg",
+        "name": "Apartamentos à venda na Zona Leste em São Paulo | Chaves na Mão",
+        "description": "38.320 Apartamentos à venda na Zona Leste em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Leste em São Paulo.",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "200000",
+            "priceCurrency": "BRL",
+            "lowPrice": "100000",
+            "offerCount": "38320"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-leste/",
+                    "name": "Zona Leste"
+                }
+            }
+        ]
+    }
+]

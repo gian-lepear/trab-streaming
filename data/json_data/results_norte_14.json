@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 50 m² por r$ 165.000,00 - jardim brasília - são paulo/sp",
+            "description": "OPORTUNIDADE DE APARTAMENTO UNICA   Apartamento localizado no - Jardim Brasília,  Do lado da  (link removido)  sapaio  Oportunidade de Apartamento pra voce e sua familia, apto com 2 dormis, sala, conzinha, vaga pra vaiculos, imovel todo reformado pronto pra entra e mora  ACEITA FINACIAMENTO   Apartamento",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "50m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02858-020",
+                "streetAddress": "Rua José Eduardo Pereira II, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.70227",
+                "longitude": "-23.4467"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-brasilia-RS165000/id-16850810/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-brasilia-RS165000/id-16850810/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda no parque nações unidas, são paulo , 54 m2 por r$ 165.000",
+            "description": "APTO. 54m²  2 DORMS. A 900 mts. DO SHOPPING CANTAREIRA",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "54m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.73579",
+                "longitude": "-23.44478"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-parque-nacoes-unidas-69m2-RS165000/id-7863382/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-parque-nacoes-unidas-69m2-RS165000/id-7863382/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 dormitório à venda, 24 m² por r$ 165.000,00 - vila gustavo - são paulo/sp",
+            "description": "STUDIOS NOVOS TUCURUVI 24 a 32 m2. PRÓXIMO AVENIDA GUAPIRA . Fácil acesso aos shoppings: Center Norte, D, Internacional Guarulhos. Próximo a amplas áreas de lazer tais como os parques do Trote, da Juventude, SESC Santana, Marginal Tiete e Rodovias Dutra, Fernão dias, Trabalhadores, Metro, Rodoviária do Tiete. Atendimento via WhatsApp. 11.9 .",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "24m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Rua Hamburgo, 89"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.5939032",
+                "longitude": "-23.4744244"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-gustavo-24m2-RS165000/id-6178724/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-gustavo-24m2-RS165000/id-6178724/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento - venda - apartamento jaraguá com 2 dormitórios no valor de r$ 165.000,00",
+            "description": "Apartamento no Jaraguá a venda com 2 Dormitórios em São Paulo  Com apenas uma entrada de R$35mil e renda de R$6mil reais já é possível começar a sonhar!!  O apê da Laura e Luiza já trouxe muitas lindas histórias para elas e sua família, como em um conto de Fadas !! Mas como toda Fada, é hora de mudar de casa e ajudar outras pessoas para cumprir sua missão em outro local. Por esse motivo o papai e a mamãe da Laura e Luiza estão de mudança e colocaram o apê a venda.  Você consegue ver o carinho em cada detalhe do imóvel, o cuidado como ele foi feito e acabado.  Apesar dos seus 39m² é possível ver o espaço confortável por conta de não terem corredores entre os cômodos, o que favorece ainda mais a planta deste imóvel.  A integração da sala e a cozinha toda planejada, dá um ar mais intimista, pois pode receber seus amigos e conversar enquanto prepara aquele almoço maravilhoso que logo será servido em sua mesa.  São 2 dormitórios, um deles, o de casal bem arejado ,o que facilita bastante, além de já ter uma ótima noção deste espaço. O dormitório da Laura e Luiza, tem ótima ventilação e com o sol da manhã.  Contudo, o condomínio Vila Palmeiras conta com Salão de Festas e espaço com churrasqueira. Além de área para os Super Heróis e super Fadas ou ás Princesas brincarem e se divertirem!!  Localizado no Jaraguá, mais precisamente no Jardim Ipanema, com fácil acesso as linhas de ônibus e Trem da região além de todo comércio local.  Agende sua visita com Ana Cristina Nascimento CRECI 240.239 f e venha conhecer seu novo lar, peça pelo código ID  -27  Nossos corretores imobiliários atuam na venda e locação de imóveis nos bairros da Zona Norte de São Paulo como Freguesia do Ó e Pirituba e estão aptos a efetivar negociações em qualquer parte do mundo, pois a RE/MAX está presente em mais de 100 países e conta com mais de 120.000 corretores associados nos 8.000 escritórios ao redor do mundo!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "38m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jaragua-38m2-RS165000/id-16658741/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jaragua-38m2-RS165000/id-16658741/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda no bairro jardim antártica - são paulo/sp",
+            "description": " Já imaginou ter seu próprio cantinho no incrível bairro Jardim Antártica, em São Paulo? Pois bem, temos a opção perfeita para você! Este belíssimo apartamento de 2 dormitórios e 1 banheiro está esperando por alguém que queira transformá-lo em um verdadeiro lar.  Com uma área privativa de 49m², este apartamento é ideal para quem busca praticidade e conforto. Aqui, cada canto foi pensado com carinho, prezando por um ambiente aconchegante e cheio de personalidade.  E a localização não poderia ser melhor! Próximo a escolas, igrejas, praças e com fácil acesso ao transporte público, você estará sempre pertinho de tudo o que precisa. Além disso, o bairro Jardim Antártica é reconhecido por sua tranquilidade e qualidade de vida, perfeito para aqueles que valorizam momentos de paz após um dia agitado.  Se você está em busca de um novo lar, essa é a sua oportunidade! Não perca tempo e entre em contato conosco através do formulário do site. Estamos prontos para te auxiliar nessa jornada e ajudar a encontrar o apartamento dos seus sonhos.  E lembre-se, a compra de um apartamento no bairro Jardim Antártica em São Paulo-SP é um investimento que vale a pena! Então, não deixe essa oportunidade escapar e garanta agora mesmo o seu pedacinho de felicidade nesta região encantadora.  Estamos aguardando o seu contato! Não perca tempo e venha conhecer essa maravilha de apartamento. Afinal, você merece viver no lugar dos seus sonhos. Estamos te esperando de braços abertos!   As informações estão sujeitas a alterações. Consulte o corretor responsável.    Chave do anúncio: dJy4MRWBrX9QBnyU",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "49m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02652-160",
+                "streetAddress": "Rua Solar, 504"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.65551",
+                "longitude": "-23.4561"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-antartica-49m2-RS165000/id-17943480/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-antartica-49m2-RS165000/id-17943480/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento wyndham nortel para venda com 27m², 01 dorm e 01 vaga de garagem",
+            "description": "Cod: 42067  O Wyndham Garden Convention Nortel está localizado no bairro Santana, próximo ao principal polo de eventos, feiras e congressos da América Latina, Expo Center Norte e Anhembi.    O Hotel oferece opções de lazer como piscina ao ar livre, sauna e espaço fitness, onde você pode relaxar após um dia repleto de compromissos na metrópole.  Flat/Condo Hotel com excelente rentabilidade na locação convencional intermediada pela Só Flats ou locação através das Plataformas Digitais, gerando os melhores rendimentos do mercado e valorização do seu imóvel.  A Só Flats é uma empresa especializada em compra e venda de Flats dentro e fora da cidade de São Paulo, para moradia ou investimento.  Não deixe de nos consultar.  Sujeito à confirmação de disponibilidade e valores, sem aviso prévio.  Só Flats Negócios Imobiliários  Creci 19.926-j",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "27m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02085-000",
+                "streetAddress": "Av Luiz Dumont Villares, 400"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.6127",
+                "longitude": "-23.49824"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-com-garagem-sp-sao-paulo-santana-30m2-RS165000/id-17784938/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-com-garagem-sp-sao-paulo-santana-30m2-RS165000/id-17784938/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Flat santana gold, disponível para venda com 32m², 01 dorm e 01 vaga de garagem",
+            "description": "Flat Santana Gold  Cod: 12183  Santana Gold Flat possui uma localização conveniente, a 2 quarteirões da Estação de Metrô Santana, e oferece suítes modernas com ar-condicionado e mini-cozinha. A propriedade possui uma academia, uma sauna e um restaurante.  Se você busca um excelente investimento na zona norte de São Paulo, conheça então este edifício com um apartamento para casal que ofereça conforto e estrutura completa para a sua estadia, você acaba de encontrar o lugar certo. O Brasília Santana Gold tem tradição e a credibilidade para superar a suas expectativas.  Desfrute da melhor hospedagem na zona norte de São Paulo, em um apartamento casal, perfeitamente planejado para tornar os seus dias mais agradáveis e proveitosos, com serviços extras que vão valorizar e muito o seu investimento. Faça uma reserva e conheça nossa academia com vista panorâmica!  Serviços: Recepção 24hs Arrumação diária Room Service TV a Cabo Wireless Fitness Piscina (adulto e infantil) SPA Business Center Segurança e Manobrista  As acomodações têm uma varanda e uma área de estar bem-iluminada. Todas dispõem de várias comodidades, como aquecimento, TV a cabo, telefone e frigobar. O estacionamento é gratuito e o acesso à internet está disponível por uma taxa adicional.  A Estação de Metrô e Rodoviária Tietê fica a 3,5 km e oferece acesso fácil às outras áreas de São Paulo. Os centros de exposições Pavilhão de Exposições Anhembi e Expo Center Norte estão situados próximos à propriedade.  Flat/Condo Hotel com excelente rentabilidade na locação convencional intermediada pela Só Flats ou locação através das Plataformas Digitais, gerando os melhores rendimentos do mercado e valorização do seu imóvel.  A Só Flats é uma empresa especializada em compra e venda de Flats dentro e fora da cidade de São Paulo, para moradia ou investimento.  Não deixe de nos consultar.  Sujeito à confirmação de disponibilidade e valores, sem aviso prévio.  Só Flats Negócios Imobiliários Creci 19.926-j",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "32m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02037-000",
+                "streetAddress": "Rua Doutor Olavo Egídio, 170"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.624",
+                "longitude": "-23.50002"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-com-garagem-sp-sao-paulo-santana-35m2-RS165000/id-11942628/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-com-garagem-sp-sao-paulo-santana-35m2-RS165000/id-11942628/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento para venda em são paulo, jardim maristela, 2 dormitórios, 1 banheiro",
+            "description": "Apartamento para Venda no bairro Jardim Maristela, localizado na cidade de São Paulo SP, situado na zona Norte, região Freguesia do Ó.     Com 2 dormitórios, possui 1 banheiro, 1 sala, construído no ano de 2021.     Área Total de 48,00 m², Área Privativa de 48,00 m².     Valor do Imóvel R$ 165.000,00, IPTU R$ 10,00, Valor do Condomínio R$ 309,00.     : Sala de Jantar, segurança 24 HS.     Acabamentos: Piso Frio.     Características: Sala de Estar.     Cômodos: Área de Serviço, Cozinha.     Proximidades: Bares e Restaurantes, Escola, Farmácia, Supermercado, Feira Livre.           - : Sala de Jantar, segurança 24 HS,     - Acabamentos: Piso Frio,     - Características: Sala de Estar,     - Cômodos: Área de Serviço, Cozinha,     - Proximidades: Bares e Restaurantes, Escola, Farmácia, Supermercado, Feira Livre,",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "43m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02807-000",
+                "streetAddress": "Rua Raulino Galdino da Silva, 72"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.70012",
+                "longitude": "-23.47704"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-maristela-43m2-RS165000/id-18389572/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-maristela-43m2-RS165000/id-18389572/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Santana gold - a poucos metros do terminal e estação de metro santana",
+            "description": "COD. 9651    Santana Gold Flat fica a 2 quarteirões da Estação de Metrô Santana, e oferece suítes modernas com ar-condicionado e mini-cozinha. A propriedade possui uma academia, uma sauna e um restaurante.    As acomodações têm uma varanda e uma área de estar bem-iluminada. Todas dispõem de várias comodidades, como aquecimento, TV a cabo, telefone e frigobar. O estacionamento é gratuito e o acesso à internet está disponível por uma taxa adicional.    A Estação de Metrô e Rodoviária Tietê fica a 3,5 km e oferece acesso fácil às outras áreas de São Paulo. Os centros de exposições Pavilhão de Exposições Anhembi e Expo Center Norte estão situados próximos à propriedade.    Flat/Condo Hotel com excelente rentabilidade na locação convencional intermediada pela Só Flats ou locação através das Plataformas Digitais, gerando os melhores rendimentos do mercado e valorização do seu imóvel.  A Só Flats é uma empresa especializada em compra e venda de Flats dentro e fora da cidade de São Paulo, para moradia ou investimento.   Não deixe de nos consultar.  Sujeito à confirmação de disponibilidade e valores, sem aviso prévio. Só Flats Negócios Imobiliários Creci 19.926-J",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "32m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02037-000",
+                "streetAddress": "Rua Doutor Olavo Egídio, 170"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.624",
+                "longitude": "-23.50002"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-com-garagem-sp-sao-paulo-santana-32m2-RS165000/id-17523197/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-com-garagem-sp-sao-paulo-santana-32m2-RS165000/id-17523197/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 48 m² por r$ 165.000 - jardim brasília - são paulo/sp",
+            "description": "Apartamento com 2 dormitórios à venda, 48 m² por R$ 165.000 - Jardim Brasília - São Paulo/SP. Lindo apartamento amplo próximo a Cidade Líder, que possui: 02 dormitórios, sala ampla, cozinha, banheiro e lavanderia.  Com 01 vaga de garagem rotativa nas dependências do condomínio.  14º andar Condomínio com portaria 24 horas, e áreas de lazer como playground, quadra poliesportiva, bosque, salão de festas e, como novidade, a implantação de um mercadinho dentro do condomínio.   SOMENTE A VISTA (Não aceita financiamento). NÃO PERCA ESSA OPORTUNIDADE, Agende uma visita!    (11)   / (11) 9  (11) 9  / (11) 9 ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "03584-000",
+                "streetAddress": "Avenida Osvaldo Valle Cordeiro, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.49171",
+                "longitude": "-23.55711"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-brasilia-RS165000/id-17488039/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-brasilia-RS165000/id-17488039/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 54 m² por r$ 165.000 - conjunto residencial elisio teixeira leite - são paulo/sp.",
+            "description": "Apartamento á venda ótima oportunidade !  02 dormitórios, 01 WC , sala, cozinha, lavanderia e 01 vaga de garagem. São Paulo, SP - Conjunto Residencial Elísio Teixeira Leite *Aceita Permuta (veiculo /terreno  *Aceita finaciamento   Agende a sua visita !",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "54m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02815-000",
+                "streetAddress": "Rua João Amado Coutinho, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.73184",
+                "longitude": "-23.4891"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-residencial-elisio-teixeira-leite-54m2-RS165000/id-15157861/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-residencial-elisio-teixeira-leite-54m2-RS165000/id-15157861/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "- oportunidade apartamento no conjunto habitacional yadoia - zona norte",
+            "description": "Conjunto Habitacional Yadoia - Zona norte  - Apartamento com 49m, 2 quartos, sala, cozinha, área de serviço, banheiro espaçoso, vaga para carro.  ANDAR DO APTO: Térreo VALOR DE CONDOMÍNIO: 100$ Incluso Água VALOR DE IPTU: Isento  - Não Aceita Financiamento -  Cadu - Executivo de Vendas 0 1 1 - 9 9 9 8 6 - 7 3 3 5 (Nextel) WhatsApp Creci: 123.827  Entrem em contato preferencialmente pelo WhatsApp que já teremos um pronto atendimento !!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "49m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02858-030",
+                "streetAddress": "Rua Mário César De Freitas Levy, 39"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7012",
+                "longitude": "-23.44682"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-brasilia-49m2-RS165000/id-14374280/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-brasilia-49m2-RS165000/id-14374280/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 50 m² por r$ 168.000,00 - jardim brasília - são paulo/sp",
+            "description": "OPORTUNIDADE DE APARTAMENTO UNICA   Apartamento localizado no - Jardim Brasília,  Ao lado da Avenida Deputado Cantídio Sampaio  Oportunidade de Apartamento pra você e sua familia, apto com 2 dormitórios, sala, cozinha, vaga pra veiculos, imóvel todo reformado pronto para entrar e morar  ACEITA FINANCIAMENTO   Apartamento CDHU",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "50m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02858-020",
+                "streetAddress": "Rua José Eduardo Pereira II, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.70227",
+                "longitude": "-23.4467"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-brasilia-RS168000/id-16822750/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-brasilia-RS168000/id-16822750/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 49 m² por r$ 168.606,00 - jardim iracema - são paulo/sp",
+            "description": "LEIA ATENTAMENTE A DESCRIÇÃO DO ANUNCIO.  Somos uma empresa credenciada junto CAIXA ECONOMICA FEDERAL, especializada na intermediação de venda dos imóveis de propriedade da CAIXA. Imóveis com até 60% desconto.  Se houver dívidas de condomínio e IPTU, tudo será pago pela CAIXA econômica Federal até a data da aquisição do imóvel. Para sua segurança possuímos um DEPARTAMENTO JURÍDICO para auxiliar do início ao fim do processo.  NOSSA COMISSÃO será paga exclusivamente pela CAIXA econômica Federal.  Não são permitidas visitas internas na maioria dos Imóveis CAIXA, pois muitas vezes encontram-se ocupados pelo antigo mutuário;   Se o imóvel estiver OCUPADO, DAREMOS ASSISTÊNCIA JURÍDICA ao comprador referente a emissão da posse do imóvel, e negociação da saída do atual morador. NÃO aceita permuta, automóvel ou contraproposta sobre o valor anunciado;  Financiamento DE ATÉ 95% do valor do imóvel, sujeito análise de crédito  ACEITA financiamento bancário somente da CAIXA  Valores e disponibilidade Sujeitos a confirmação no momento da consulta  Contato: 9  WhatsApp",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "49m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05847-570",
+                "streetAddress": "Rua Sagrado Coração de Jesus, 393"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74794",
+                "longitude": "-23.6561"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-iracema-49m2-RS168606/id-17318625/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-iracema-49m2-RS168606/id-17318625/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Mitiz matriz | construtora manasa | lançamento | 24 metros | studio | sem varanda | sem vaga",
+            "description": "Em Lançamento- Entrega em Novembro de 2025.   O empreendimento MITIZ MATRIZ será construído em um terreno de 1.308m², torre única, 02 elevadores, 04 à 08 apartamentos por andar, 16 pavimentos, 115 apartamentos no total.   OPÇÕES DE PLANTAS: 24m²- Studio sem varanda, sem vaga. 29m² 32m²- Studio, com varanda, sem vaga. 34m² à 37m²- 02 dormitórios, sem varanda, com ou sem vaga.   ÁREA DE LAZER: Hall social, academia, brinquedoteca, playground, coworking, espaço yoga, pet place, espaço gamer, youtuber, lavanderia, espaço maker, mercadinho, terraço gourmet, pit fire, espaço poker, cinema, sky lounge, espelho d`Água e apoio lazer.   DESENVOLVIMENTO: Intermediação: Produtiva Imóveis. Construtora e Incorporadora: Manasa. Projeto de Arquitetura: Márcia Gullo.   LOCALIZAÇÃO: Está localizado na rua Chico de Paula, 248- Nossa Senhora do Ó- Zona Norte- São Paulo. Apenas 01 km da Futura Estação Freguesia do Ó.   Prezados clientes, sou Adriano Caglioni, CEO da Imobiliária  Segundo Imóvel .   Trabalhamos diretamente com TODAS as construtoras de São Paulo, 2.200 opções de apartamentos e estúdios.   Compartilhe AGORA a localização, valor, metragem do imóvel e permita-me ajudá-lo a encontrar o apartamento perfeito para você!   Comprando com o  Segundo Imóvel  você ganha um jantar ESPECIAL para 02 pessoas como forma de agradecimento por escolher a nossa empresa.   Escolha uma das opções abaixo: Para obter mais informações, digite (1). Para agendar uma visita, digite (2). Buscar pelo melhor preço ou deseja enviar uma proposta? Digite (3).   Pedimos uma ÚNICA oportunidade para fazer o melhor negócio!!   Lembramos que os valores sempre sofrem alterações   Somos o  GOOGLE  do mercado Imobiliário, a maior imobiliária de São Paulo!  Traga sua PROPOSTA para o SEGUNDO IMÓVEL negociar e brigar por você!  Digita no Google (SEGUNDO IMÓVEL), você terá acesso aos BOOKS TÉCNICOS, DESCRITIVOS, STREET VIEW, VIDEOS, TOUR VIRTUAL E MUITO MAIS. O site segundo imóvel é lindo demais. -------------------------------------------------- O SENHOR é o meu pastor e nada me faltará!  Deus está sempre comigo. Eu ando pela Fé.  Deus é bom o tempo todo.  O AMOR É O ÚNICO CAMINHO...  Em tudo daí graças..   Código do Anúncio:  68  Este imóvel tem as seguintes características:   Lazer: Academia, Brinquedoteca, Churrasqueira, Cinema, Coworking, Espaço Gourmet, Lavanderia, Lounge, Mini Mercado, Pet Place, Playground, Salão de Festas  Regiões: Zona Norte  ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "24m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02926-000",
+                "streetAddress": "Rua Chico de Paula, 248"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7006087",
+                "longitude": "-23.4994599"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-nossa-senhora-do-o-24m2-RS168916/id-17569657/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-nossa-senhora-do-o-24m2-RS168916/id-17569657/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/119738/16850810/sp-sao-paulo-brasilandia-viela-um-apartamento-a-venda-2-quartos-650cbd0f-4.jpg",
+        "name": "Apartamentos à venda na Zona Norte em São Paulo - Página 14 | Chaves na Mão",
+        "description": "27.580 Apartamentos à venda na Zona Norte em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Norte em São Paulo. - Página 14",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "168916",
+            "priceCurrency": "BRL",
+            "lowPrice": "165000",
+            "offerCount": "27580"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-norte/",
+                    "name": "Zona Norte"
+                }
+            }
+        ]
+    }
+]

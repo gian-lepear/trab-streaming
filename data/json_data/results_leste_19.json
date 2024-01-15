@@ -1,0 +1,652 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Res garden ii (par) - oportunidade única em sao paulo - sp | tipo: apartamento | negociação: venda direta far  | situação: imóvel apartamento",
+            "description": "  2 Quartos, Área de Serviço, Wc, Sala, Cozinha. Imóvel Far  004. Matrícula Caixa n. 141.522 do 7. Cri de São Paulo/sp Baixar edital e anexosR CACHOEIRA MORENA S/N ATUAL CACHOEIRA MACARANDUBA,N. 120 APTO. 04 BL A, CONJUNTO HABITACIONAL INACIO MONTEI - CEP: 08472-190, SAO PAULO - SAO PAULO.     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio..     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio.  ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "42m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08472-190",
+                "streetAddress": "R Cachoeira Morena S/n Atual Cachoeira Macaranduba, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.40267",
+                "longitude": "-23.56952"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-conjunto-habitacional-inacio-monteiro-51m2-RS132000/id-11472745/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-conjunto-habitacional-inacio-monteiro-51m2-RS132000/id-11472745/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento em condomínio para venda no bairro parada xv de novembro, 2 dorm, 1 vagas, 49 m²",
+            "description": "Apartamento em Condomínio para Venda no bairro Parada Xv de Novembro, 2 dorm, 1 vagas, 49 m - Área Privativa: Armário na cozinha, Cozinha, Sala de estar, Sala de jantar, Armário embutido, Aceita PET. - Área de Lazer: Academia, Área verde, Churrasqueira, Piscina adulto, Play ground, Quadra poliesportiva, Salão de festas, Salão de jogos, Brinquedoteca, Espaço gourmet. - Infra Estrutura: Água Individualizada, Cerca, Esgoto, Gás encanado, Guarita, Interfone, Portão eletrônico, Segurança 24h, Sistema de incêndio, Sistema de segurança, Vaga coberta. - Imóvel com dívida R$ 105.000,00 para transferir o financiamento. Prestação na Caixa em média de R$ 1.250,00. Valor do Condominio R$: 450,00.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "49m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-itaquera-RS132500/id-17027548/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-itaquera-RS132500/id-17027548/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda em guaianases. apto com 1 vaga e apenas 5 minutos a pé do ponto de ônibus mais",
+            "description": "Apartamento em Guaianases   Apartamento com 45m - Privativo - 2 Dormitórios  - Sala  - Cozinha  - Área de serviço  - 1 vaga de garagem  Aceitamos seu Veículo como Entrada!  Aceita financiamento + FGTS.  Agende agora mesmo sua visita!!!   DICA SOBRE FINANCIAMENTO:  Cada financiamento é único e especial, tem conclusão média de 60 dias, após assinatura da minuta contratual e envio de todos os documentos necessários e solicitados pela imobiliária e agente financeiro.  Veja as 5 etapas abaixo:  1. ANÁLISE DE CRÉDITO:  Considerada a etapa inicial, a análise de crédito é realizada pelo banco, enviada através da imobiliária ou correspondente bancário, que analisa dados de clientes potenciais, como perfil, idade, renda e patrimônio, além do prazo de pagamento do financiamento.   2. SELEÇÃO E AVALIAÇÃO DO IMÓVEL:  Uma vez que sua análise de crédito seja aprovada, ideal é que tenha escolhido o imóvel, em especial o que tem mais do que você procura! Uma vez identificado um imóvel, faz a reserva e assina a minuta contratual com a imobiliária. Documentos apresentados de ambas as partes em ordem e conformidade pelo banco será realizado avaliação da engenharia (CAIXA).  3. ANÁLISE JURÍDICA E ELABORAÇÃO DE CONTRATOS: Ao receber o relatório (LAUDO), o banco realiza uma análise jurídica de todos os documentos com o objetivo de trazer segurança às negociações e proteger os envolvidos de questões futuras. Se necessário, documentos adicionais podem ser solicitados para garantir a transação. Se os documentos estiverem corretos, a instituição financeira elaborará um contrato para formalizar a concessão do financiamento.   4. ASSINATURA DO CONTRATO E REGISTRO: Você será notificado pela imobiliária ou agente financeiro para assinar o contrato na data e horário agendados. Todo processo previamente negociado e aprovado será realizado pelo agente financeiro intermediado pela imobiliária e tem inclusas todas as custas para o registro do imóvel.  5. FINALIZAÇÃO E LIBERAÇÃO DO VALOR DO FINANCIAMENTO:  Para concluir o processo, é necessário entregar ao banco o documento de registro do imóvel (serviço realizado pelo agente financeiro correspondente), e o banco tem de 2 a 5 dias uteis para fazer a liberação para o vendedor o valor do financiamento e ficando totalmente disponível e combinado entre as partes envolvidas a entrega de chaves do imóvel ao comprador.  Lembre-se que a intermediação e solicitação de documentos existe para garantir a segurança de todas as partes envolvidas em uma transação imobiliária e evitar problemas no futuro.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08490-585",
+                "streetAddress": "Rua dos Têxteis, 1500"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.40166",
+                "longitude": "-23.59457"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-chacara-santa-etelvina-RS133000/id-14929522/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-chacara-santa-etelvina-RS133000/id-14929522/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "V1278 - apartamento a venda na chacara santa etelvina - v1278",
+            "description": "  Apartamento a venda na Chacara Santa Etelvina com: 02 dormitórios, banheiro, sala, cozinha, área de serviço e 01 vaga de garagem.  .  Valor da venda: R$ 133.000,00  Valor do Condomínio: R$ 230,00   Valores sujeito á alteração sem aviso prévio. Consulte-nos.   .  Imóvel Localizado próximo á Rua Eduardo Sanchez, Rua Várzea Nova e Rua dos Marceneiros.   .  Cód. Imóvel V1278. CRECI 71.841. Contatos (11)   / (11) 9 .  ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "50m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08490-585",
+                "streetAddress": "Rua dos Têxteis, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.40665",
+                "longitude": "-23.58694"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-chacara-santa-etelvina-50m2-RS133000/id-9726142/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-chacara-santa-etelvina-50m2-RS133000/id-9726142/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, em  guaianases, são paulo, sp - 2 dormitórios, 1 banheiro e 1 vaga de garagem.",
+            "description": "Apartamento a venda, em Guainases, Jardim Santa Etelvina, Apartamento no 3º andar, prédio sem elevador, IPTU isento, 2 dormitórios, sala, cozinha, banheiro, área de serviço, 1 vaga de garagem. O Apartamento está quitado e a documentação está 100% perfeita para venda via financiamento bancá (link removido) ória de Guainases:Guaianases[1][2] é um distrito localizado na zona leste do município de São Paulo, no estado de São Paulo, no Brasil. A região é servida pela Linha 11Coral da CPTM, que dá acesso ao centro de São Paulo e aos municípios de Ferraz de Vasconcelos, Poá, Suzano e Mogi das Cruzes.A formação do distrito de Guaianases é a mesma de Itaquera: ambos nasceram de aldeamentos indígenas e do esforço dos jesuítas, com destaque para o padre Manuel da Nóbrega e José de Anchieta, que fundaram o colégio Jesuíta para a catequese dos guaianás. O aldeamento prosseguiu, mas quot;por volta de 1820 os índios já estavam extintos e a terra encontrava-se em mãos de particulares quot;.Nessa época, o distrito era parada e pousada de viajantes, um ponto de passagem na Estrada do Imperador, que, depois, seguia para as minas de ouro. Existem registros de que a chácara do major Aníbal serviu de estadia para o próprio dom Pedro por mais de uma vez. Como de costume, ergueu-se uma igreja. Dessa vez, em homenagem a Santa Cruz do Lajeado Velho. Onde hoje está instalada a paróquia de Santa Quitéria, foi fundado, a 3 de maio de 1861, o bairro e uma capela chamada Santa Cruz. O bairro era chamado de Lajeado Velho. O local cresceu lentamente com a instalação de diversas olarias nas imediações e com a chegada dos trilhos da Estrada de Ferro do Norte mais tarde foi conhecida como Estrada de Ferro Central do Brasil. Em 1879, foi fundada a nova Capela de Santa Cruz e a antiga teve seu nome alterado para Santa Quitéria, porém viria a ser derrubada em meados do século XX para a construção de um novo templo.A partir dos anos 1920, o bairro se tornou mais populoso, as olarias e a Estrada de Ferro Norte deram um impulso na economia local. Pela estrada de ferro também vieram os imigrantes italianos e posteriormente os espanhóis a partir de 1912, para dedicar-se à extração de pedras através das Pedreiras Lajeado e São Mateus. Mais tarde, começou o domínio da família Matheus que construiu um grande império no bairro. Em 7 de setembro de 1950, Isidoro Mateus fundou o E.C. Santa Cruz de Guaianases, nome que homenageava a Igreja de Santa Cruz. Até hoje, o time é considerado histórico dentro do futebol amador do estado de São Paulo e tinha a maior torcida da várzea paulistana. Além disso ficou conhecido como quot;Galo da Central quot;.[3]Em 1957, o distrito recebeu oficialmente o nome de Guaianases, que era a tribo que o habitava.A grande população e a falta de indústrias no local deram fama a Guaianases como localidade dormitório.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08490-600",
+                "streetAddress": "Rua dos Têxteis, 1500"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.40166",
+                "longitude": "-23.59457"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-chacara-santa-etelvina-45m2-RS133000/id-18629844/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-chacara-santa-etelvina-45m2-RS133000/id-18629844/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na rua cristiano lobe-, 183, cidade tiradentes, são paulo, 46 m2 por r$ 133.000",
+            "description": "2 dormitórios, 1 total de banheiro, 1 cozinha, 1 garagem, 1 lavanderia, 1 sala , Área útil 46,00 m², Área total 48,00 m²",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "46m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08475-340",
+                "streetAddress": "Rua Cristiano Lobe-, 183"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.40011",
+                "longitude": "-23.5919"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-cidade-tiradentes-48m2-RS133000/id-17610160/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-cidade-tiradentes-48m2-RS133000/id-17610160/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios, 1 vaga, 45 m² - chácara santa etelvina ii",
+            "description": "Apartamento com 2 Dormitórios, 1 Vaga, 45 m² - Chácara Santa Etelvina II  Localização/Proximidades: - Próximo a Supermercados e comércios em geral  2 Dormitórios Sala de estar  Cozinha 1 Banheiro com Box de vidro Área de Serviço 1 Vaga de Garagem  Aceita Financiamento, FGTS ou Á vista",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-chacara-santa-etelvina-RS133010/id-12072736/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-chacara-santa-etelvina-RS133010/id-12072736/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na avenida paulo gracindo, 170, conjunto habitacional fazenda do carmo, são paulo, 54 m2 por r$ 134.000",
+            "description": "Apartamento 2 dormitórios 3º andar ,portaria com monitoramento, agua individualizada, gás encanado, garagem coberta...Linha de ônibus para o centro de Itaquera na porta, escola na porta, posto de saúde a 800 metros próximo ao supermercado roldão futuro shopping e mercado rede bem barato...Condominio R$220,00 Agende uma visita com um dos nossos corretores!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "54m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08421-520",
+                "streetAddress": "Avenida Paulo Gracindo, 170"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.41792",
+                "longitude": "-23.56461"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-fazenda-do-carmo-54m2-RS134000/id-10591992/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-fazenda-do-carmo-54m2-RS134000/id-10591992/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 42 m² por r$ 134.393,50 - jardim brasília - são paulo/sp",
+            "description": "LEIA ATENTAMENTE A DESCRIÇÃO DO ANUNCIO.  Somos uma empresa credenciada junto CAIXA ECONOMICA FEDERAL, especializada na intermediação de venda dos imóveis de propriedade da CAIXA. Imóveis com até 60% desconto.  Se houver dívidas de condomínio e IPTU, tudo será pago pela CAIXA econômica Federal até a data da aquisição do imóvel. Para sua segurança possuímos um DEPARTAMENTO JURÍDICO para auxiliar do início ao fim do processo.  NOSSA COMISSÃO será paga exclusivamente pela CAIXA econômica Federal.  Não são permitidas visitas internas na maioria dos Imóveis CAIXA, pois muitas vezes encontram-se ocupados pelo antigo mutuário;   Se o imóvel estiver OCUPADO, DAREMOS ASSISTÊNCIA JURÍDICA ao comprador referente a emissão da posse do imóvel, e negociação da saída do atual morador. NÃO aceita permuta, automóvel ou contraproposta sobre o valor anunciado;   Imóvel NÃO aceita financiamento habitacional.  Imóvel NÃO aceita parcelamento.  Imóvel NÃO aceita consórcio.  Valores e disponibilidade Sujeitos a confirmação no momento da consulta  Contato: 9  WhatsApp",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "42m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "03584-000",
+                "streetAddress": "Avenida Osvaldo Valle Cordeiro, 1260"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.48477",
+                "longitude": "-23.56037"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-brasilia-RS134393/id-17318614/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-brasilia-RS134393/id-17318614/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento para venda em são paulo, jardim robru, 2 dormitórios, 1 banheiro, 1 vaga",
+            "description": "Ótima oportunidade de comprar seu apartamento. Imóvel térreo composto por 2 dormitórios, sala, cozinha, área de serviço e uma vaga de garagem. Condomínio tem parquinho para crianças, quadra de esportes e segurança 24h. A Localização é muito boa, próximo à pontos de interesse como:350 m da Escola Estadual Profº Aurélio Buarque de Holanda Ferreira   350 m da Arena CDC Serra Queimada   500 m do Pronto Socorro Municipal Julio Tupy   700 m da EMEI Magdalena Tagliaferro   1,1 km do Supermercado Rossi   1,4 km do Assaí Atacadista   1,4 km do Hospital Central Leste   2,2 km da estação Guaianazes da CPTM, Linha 11Aceita financiamento e FGTS. Documentação em ordem. Agende sua visita!       - Características: Portão Eletrônico,     - Cômodos: Cozinha,     - Proximidades: Escola, Supermercado,",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "44m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Rua Doutor José Gravonski, 280"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.40728",
+                "longitude": "-23.52821"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-robru-RS134999/id-13102250/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-robru-RS134999/id-13102250/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 50 m² por r$ 135.000,00 - jardim pedra branca - são paulo/sp",
+            "description": "Apartamento à venda, com 50m² por R$ 135.000,00 - Jardim Pedra Branca -(José Bonifácio) São Paulo/SP  CONDOMÍNIO RESIDÊNCIAL VITÓRIA I.  Apartamento com 50m²,02 dormitórios amplos, sala de estar com dois ambientes, 1 banheiro com gabinete, cozinha com armários planejados, área de serviço, 01 vaga de garagem.  Contas de consumo água, gás e luz individuais.   Imóvel CDHU, não dar financiamento.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "50m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08490-885",
+                "streetAddress": "Rua Cambará-Branco, 121"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.5780334",
+                "longitude": "-23.5639984"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-pedra-branca-50m2-RS135000/id-14815973/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-pedra-branca-50m2-RS135000/id-14815973/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na rua visconde de mayrink, 111, cidade tiradentes, são paulo, 49 m2 por r$ 135.000",
+            "description": "2 dormitórios, 1 total de banheiro, 1 cozinha, 1 garagem, 1 lavanderia, 1 sala , Área útil 49,00 m², Área total 49,00 m²",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "49m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08471-760",
+                "streetAddress": "Rua Visconde de Mayrink, 111"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.4030396",
+                "longitude": "-23.600167"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-cidade-tiradentes-49m2-RS135000/id-18307439/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-cidade-tiradentes-49m2-RS135000/id-18307439/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na rua conto de areia, 202, conjunto habitacional castro alves, são paulo, 40 m2 por r$ 135.000",
+            "description": "2 dormitórios, 1 total de banheiro, 1 cozinha, 1 garagem, 1 lavanderia, 1 sala , Área útil 40,00 m², Área total 40,00 m²",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08474-220",
+                "streetAddress": "Rua Conto de Areia, 202"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.4031",
+                "longitude": "-23.58236"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-castro-alves-40m2-RS135000/id-16639337/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-castro-alves-40m2-RS135000/id-16639337/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento reformado e pronto para morar!",
+            "description": "Apartamento com 2 dormitórios e vaga no prédio.   Imóvel todo reformado e pronto para morar.  Entrada a partir de 0 ( necessários fazer a simulação).  participe do programa Minha Casa Minha Vida, com Subsídio de até 24.750,00  Região da Cidade Tiradentes  Rua Alberto Vilanis 3° Andar   Região tem de tudo Próximo: comércios, escolas e transporte publico.  135mil Aceita Financiamento e pode usar FGTS como entrada.   9  Kellersom  CRECI 194771 F",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "47m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08471-700",
+                "streetAddress": "Rua Alberto Villanis, 00"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.40295",
+                "longitude": "-23.58952"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-cidade-tiradentes-RS135000/id-17143898/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-cidade-tiradentes-RS135000/id-17143898/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/46781/11472745/sp-sao-paulo-conjunto-habitacional-inacio-monteiro-r-cachoeira-morena-s-n-atual-cachoeira-macaranduba-apartamento-a-venda-2-quartos-650d820e-1.jpg",
+        "name": "Apartamentos à venda na Zona Leste em São Paulo - Página 19 | Chaves na Mão",
+        "description": "38.320 Apartamentos à venda na Zona Leste em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Leste em São Paulo. - Página 19",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "135000",
+            "priceCurrency": "BRL",
+            "lowPrice": "132000",
+            "offerCount": "38320"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-leste/",
+                    "name": "Zona Leste"
+                }
+            }
+        ]
+    }
+]

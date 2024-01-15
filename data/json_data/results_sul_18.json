@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda possui 54m2 com 2 dormitórios, valor de r$ 180.000,00 - chácara santa maria, sã",
+            "description": "Localizado no Condominio Residencial São Paulo, este encantador apartamento possui 54m², com 2 quartos, sala, cozinha, 1 banheiro, possui uma vaga de garagem, este imóvel proporciona um ambiente acolhedor para todos os momentos.   Desfrute da ótima iluminação natural que preenche o interior, criando um ambiente agradável e energizante. O condomínio tranquilo oferece um ambiente sereno para você se desconectar do agito da cidade, ainda tem portaria 24hrs, para a segurança dos moradores.  Além disso, a localização é ótima , proporcionando fácil acesso a escolas, mercados, uma variedade de comércios, tornando a sua rotina mais conveniente. Não perca a oportunidade de fazer deste apartamento o seu novo lar! Lazer: Churrasqueira, Playground, Salão de Festas e uma Quadra Poliesportiva.  Venda R$ 180.000,00 Condominio R$ 200,00 IPTU R$ ISENTO.  ***Valores estes que podem sofrer alterações de acordo com seus administradores***   Agende já a sua visita pelo telefone: (11) ou pelo WhatsApp: .  Aqui você encontra o que procura, direto ao ponto, rápido e fácil do seu jeito! Estamos a disposição para lhe apresentar as melhores opções para uma locação, venda e compra segura de imóveis.  Trazemos para você uma oportunidade única!! A Leal Invest tem opções de apartamentos, casas residenciais e comerciais, sobrados, terrenos e lojas para venda ou locação, tudo isso na cidade de São Paulo!    Além de empreendimentos em construção ou lançamentos na planta na região com espaços modernos e aconchegantes, com toda a comodidade e praticidade que você procura. Temos milhares de ofertas para você encontrar o imóvel que mais combina com seu estilo de vida, conosco você poderá encontrar o ambiente perfeito para desfrutar de momentos especiais com amigos e familiares.  Somos uma imobiliária online, onde você consegue comprar ou alugar um imóvel em São Paulo mesmo não estando na cidade, com a praticidade e tranquilidade de fazer tudo online, direto do seu computador ou smartphone a qualquer horário. Vamos encontrar seu novo lar em São Paulo!  Na Leal Invest você também consegue negociar seu imóvel de forma totalmente online, com segurança e tranquilidade, criamos soluções inovadoras para simplificar a relação de proprietários, inquilinos e compradores com o mercado imobiliário.    Contamos com uma equipe de corretoras, competentes e capacitadas para sanar todas as suas dúvidas, com fácil agendamento de visitas, avalição e disponibilidade para tirar fotos do seu imóvel.   Há mais de 15 anos no mercado imobiliário, nós da Imobiliária Leal Invest ajudamos você a encontrar o imóvel perfeito para comprar ou alugar. Procuramos atender o quanto antes para conclusão do negócio rápido.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "54m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05879-450",
+                "streetAddress": "Rua Luar do Sertão, 364"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.79407",
+                "longitude": "-23.68884"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-chacara-santa-maria-54m2-RS180000/id-16466495/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-chacara-santa-maria-54m2-RS180000/id-16466495/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 40 m² por r$ 180.000,00 - chácara santana - são paulo/sp",
+            "description": "Apartamento à venda com 2 dormitórios na Chácara Santana-SP   - CDHU-  * 2 Dormitórios  * 1 Banheiros  * Sala de estar  * Cozinha com armários * Lavanderia * 1 Vagas de garagem  * 2° andar    Apartamento com piso laminado de madeira nos quartos sala e cozinha planejada e americana 1 banheiro com mármore importado, lavanderia, pia de granito preto, com frontão de 30 cm já cozinha, passa prato de granito preto, porteiro eletrônico no portão, 1 vaga de garagem, câmeras de vigilância nos andares, anca na sala com lâmpadas florescente embutidas, e moldura de gesso em todos os cômodos.    Localização:   - A 1 Km da AV. Guarapiranga  - A 4 Km da Estação Santo Amaro  - A 1 Km da Casa de Cultura Municipal do MBoi Mirim - A 3 Km do Centro  * Não aceita financiamento bancário, Aberto à negociação.*  Agende já a sua visita!!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05821-140",
+                "streetAddress": "Rua Rinaldo de Handel, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7486",
+                "longitude": "-23.66636"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-chacara-santana-40m2-RS180000/id-13700000/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-chacara-santana-40m2-RS180000/id-13700000/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 50 m² por r$ 180.000 - jardim martini - são paulo/sp",
+            "description": "Excelente Apartamento Térreo na Zona Sul - Oportunidade para Sair do Aluguel!  Descrição:  Este apartamento térreo é uma excelente oportunidade de moradia na Zona Sul! O imóvel apresenta uma sala ampla, dois dormitórios aconchegantes, cozinha com área de serviço conjugada e um banheiro social, todos com piso frio, proporcionando praticidade e conforto. A localização é estratégica, próxima a diversos serviços essenciais, como shopping, escolas, creches, posto de saúde, mercados, paradas de ônibus e bancos. Este imóvel já foi quitado, o que o torna uma opção atraente para quem deseja sair do aluguel.  Características Principais:  -2 Quartos -Área útil de 50m² -1 Vaga de garagem -1 Banheiro  Oportunidade de Sair do Aluguel: Este é o momento perfeito para realizar o sonho da casa própria. O imóvel oferece conforto e praticidade, além de estar localizado em uma região com todas as comodidades necessárias para o seu dia a dia.  Documentação e Financiamento: O imóvel possui escritura e está apto para financiamento, tornando o processo de aquisição ainda mais fácil e acessível.  Características do Condomínio:  -Condomínio fechado, oferecendo segurança -Permitido animais -Portaria  Entre em Contato: Se este apartamento atende às suas necessidades e você deseja obter mais informações ou agendar uma visita, entre em contato conosco.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "50m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04439-080",
+                "streetAddress": "Rua José Moreira dos Santos, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.66673",
+                "longitude": "-23.67662"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-martini-RS180000/id-17510115/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-martini-RS180000/id-17510115/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda no grajaú",
+            "description": "Apartamento à venda no Grajaú de 50m² contendo 2 dormitórios, banheiro, sala, cozinha e área de serviço. Imóvel espaçoso.  O condomínio oferece 1 vaga de garagem descoberta.  Localizado próximo do centro comercial do Grajau, rodeado de escola, creche, centro médicos e bem servido de transporte publico.  Aceita financiamento Bancário!  Agende sua visita com um de nossos corretores!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "52m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04840-110",
+                "streetAddress": "Rua Piraju, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.68253",
+                "longitude": "-23.75575"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-brigadeiro-faria-lima-RS180000/id-16899004/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-brigadeiro-faria-lima-RS180000/id-16899004/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 40 m² por r$ 180.000,00 - parque rebouças - são paulo/sp",
+            "description": "LEIA ATENTAMENTE A DESCRIÇÃO DO ANUNCIO.  Somos uma empresa credenciada junto CAIXA ECONOMICA FEDERAL, especializada na intermediação de venda dos imóveis de propriedade da CAIXA. Imóveis com até 60% desconto.  Se houver dívidas de condomínio e IPTU, tudo será pago pela CAIXA economica Federal até a data da aquisição do imóvel. Para sua segurança possuímos um DEPARTAMENTO JURÍDICO para auxiliar do ínicio ao fim do processo. NOSSA COMISSÃO será paga exclusivamente pela CAIXA economica Federal. Não são permitidas visitas internas na maioria dos Imóveis CAIXA, pois muitas vezes encontram-se ocupados pelo antigo mutuário;  Se o imóvel estiver OCUPADO, fica de responsabilidade EXCLUSIVA do comprador a emissão da posse do imóvel, e negociação da saída do atual morador. NÃO aceita permuta, automóvel ou contraproposta sobre o valor anunciado;  Financiamento DE ATÉ 95% do valor do imóvel, sujeito análise de crédito   Imóvel NÃO aceita financiamento habitacional.  Imóvel NÃO aceita parcelamento  Valores e disponibilidade Sujeitos a confirmação no momento da consulta  Contato: 9 ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05735-030",
+                "streetAddress": "Rua Carlos Magalhães, 60"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7477",
+                "longitude": "-23.63071"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-parque-reboucas-40m2-RS180000/id-17655151/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-parque-reboucas-40m2-RS180000/id-17655151/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 55m² - santa teresa - são paulo/sp",
+            "description": "Apartamento* próximo ao Zoo Safári, com fácil acesso à Av. do Cursino, Av. Padre Arlindo Vieira, Av. do Taboão e Rod. Anchieta. Possui 2 dormitórios, 1 banheiro social, sala, cozinha, área de serviço e 1 vaga descoberta na garagem. IPTU isento!  Área de lazer: salão de festas, brinquedoteca, academia, churrasqueira e playground. Há também bicicletário e mercadinho.   *Necessita de reparos! **O valor do condomínio pode sofrer alteração! ***IMÓVEL SUJEITO À CONFIRMAÇÃO DE VALORES E DISPONIBILIDADE.  A Koyama Imóveis atua em administração, locação, vendas e avaliação de imóveis. Localizada na Av. Bosque da Saúde, 376 - a 350m do metrô Praça da Árvore.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "55m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04190-000",
+                "streetAddress": "Rua Giacomo Cozzarelli, 250"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.60461",
+                "longitude": "-23.65268"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-santa-tereza-RS180000/id-14390568/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-santa-tereza-RS180000/id-14390568/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento 50m² 2 dormitórios vaz de lima",
+            "description": "Apartamento 50m² 2 dormitórios sala 2 ambientes, cozinha, área de serviços, Excelente opção para quem quer sair do aluguel.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "60m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.75942",
+                "longitude": "-23.67145"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-vaz-de-lima-RS180000/id-14391189/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-vaz-de-lima-RS180000/id-14391189/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento residencial à venda, jardim modelo, são paulo.",
+            "description": "Excelente oportunidade, apartamentos com dois dormitórios, sala, cozinha e banheiro, bem localizado, próximo a comércios diversos, escolas e a rodovia Fernão Dias.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "44m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.57458",
+                "longitude": "-23.46696"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jardim-modelo-44m2-RS180000/id-8510586/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jardim-modelo-44m2-RS180000/id-8510586/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento para venda em são paulo, agua funda, 1 dormitório, 1 banheiro",
+            "description": "lindo apartamento com um dormitório. banheiro com bom acabamento. sala de estar . cozinha e área de serviço, prédio com segurança. perto de condução. escolas. comércio e fácil acesso para a rua Miguel estéfano e avenida Abraaão de Moraes,       - Cômodos: Área de Serviço, Cozinha,     - Proximidades: Bares e Restaurantes, Escola, Farmácia, Shopping Center, Supermercado,",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "32m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04312-111",
+                "streetAddress": "Rua Barreto Muniz, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.62853",
+                "longitude": "-23.63093"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-agua-funda-RS180000/id-17192729/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-agua-funda-RS180000/id-17192729/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento para venda no bairro saúde - são paulo/sp",
+            "description": "Apartamento bem localizado, acesso fácil a condução, fica a 5 minutos dos metrôs Saúde, São Judas, Imigrantes; próximo a supermercados, farmácias, bancos, shopping center, comércio em geral... agende sua visita!",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "35m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04312-100",
+                "streetAddress": "Rua Barreto Muniz, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.6313",
+                "longitude": "-23.63167"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-guarani-z-sul-50m2-RS180000/id-9371838/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-guarani-z-sul-50m2-RS180000/id-9371838/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 43 m² por r$ 180.000,00 - capão redondo - são paulo/sp  - co",
+            "description": "Apartamento todo reformado com 2 dormitórios, sala, cozinha, banheiro, área de serviço. Lazer playground, salão de festas, portaria, 3 churrasqueiras na área comum. Ótima localização próximo á comércios e transportes públicos. Não perca essa oportunidade e agende já sua visita com nossa corretora no tel: .",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "43m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05861-260",
+                "streetAddress": "Rua Comendador Antunes dos Santos, 1640"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.75976",
+                "longitude": "-23.67326"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-capao-redondo-43m2-RS180000/id-9852179/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-capao-redondo-43m2-RS180000/id-9852179/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 dormitório à venda, 40 m² por r$ 180.000,00 - vila esperança - são paulo/sp",
+            "description": "KIT NET 1 DORMITORIO, 1 BANHEIRO, 1 SALA, A 100 METROS DA ESTAÇÃO DO METRÔ VILA MATILDE, OPORTUNIDADE",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "03647-000",
+                "streetAddress": "Rua Maria Carlota, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.5284",
+                "longitude": "-23.52549"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-esperanca-RS180000/id-11956465/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-esperanca-RS180000/id-11956465/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 dormitório, 43 m² - venda por r$ 180.000,00 ou aluguel por r$ 1.400,00/mês - jardim monte alegre - são paulo/sp",
+            "description": "Excelente apartamento térreo com sala para dois ambientes, cozinha com gabinete, área de serviço, 1 dormitório com a possibilidade de fazer um 2 dormitorio, 1 banheiro social bem amplo, home office e 43,00m² de área privativa. Valor de locação incluso, condomínio, IPTU, gás e água. Localizado próximo a Rod. Raposo Tavares, altura do Km 16, com acesso a AV. Eng. Heitor Antônio Eiras Garcia, próximo a mercados, padarias, bancos, comércio local e amplo acesso ao transporte público. Portaria e segurança 24 horas.  Aceita pet de pequeno porte  seguro fiança ou deposito bancário  agende já sua visita !!!",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "43m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05548-000",
+                "streetAddress": "Rua João Moreira Salles, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-47.37757",
+                "longitude": "-22.58051"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jardim-monte-alegre-43m2-RS180000/id-13329474/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jardim-monte-alegre-43m2-RS180000/id-13329474/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Seu novo lar a passos do assaí - código 12583, jardim modelo, são paulo!",
+            "description": "Código do Imóvel: 12583  Localização: Travessa Do Místico - Jardim Modelo, São Paulo-SP  Características Principais:  2 Quartos: Ambientes bem distribuídos para acomodar sua família. 1 Banheiro: Prático e bem decorado. Área Total: 45m², proporcionando um ambiente aconchegante. Localização Estratégica:  Próximo ao Assaí da Fernão Dias. Facilita as compras diárias e oferece conveniência. Condomínio Fechado:  Segurança 24 horas. Áreas comuns bem cuidadas. Ambiente amigável para crianças. Andar Baixo:  Abaixo do 5º andar, com acesso fácil por elevador ou escadas. Investimento Acessível:  Valor: R$ 180.000. Agende uma Visita:  Oportunidade única para morar bem em São Paulo. Entre em contato e conheça pessoalmente este imóvel.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02237-040",
+                "streetAddress": "Travessa do Místico, 46"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.56961",
+                "longitude": "-23.46546"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-modelo-RS180000/id-17724394/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-modelo-RS180000/id-17724394/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 48 m² por r$ 180.000,00 - conjunto habitacional instituto adventista - são paulo/sp",
+            "description": "Venha agendar uma visita conosco!!!!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05868-220",
+                "streetAddress": "Travessa Saguaragi, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.77685",
+                "longitude": "-23.66531"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-conjunto-habitacional-instituto-adventista-48m2-RS180000/id-8789428/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-conjunto-habitacional-instituto-adventista-48m2-RS180000/id-8789428/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/114238/16466495/sp-sao-paulo-chacara-santa-maria-rua-luar-do-sertao-apartamento-a-venda-2-quartos-64f25ff2-1.jpg",
+        "name": "Apartamentos à venda na Zona Sul em São Paulo - Página 18 | Chaves na Mão",
+        "description": "34.110 Apartamentos à venda na Zona Sul em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Sul em São Paulo. - Página 18",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "180000",
+            "priceCurrency": "BRL",
+            "lowPrice": "180000",
+            "offerCount": "34110"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-sul/",
+                    "name": "Zona Sul"
+                }
+            }
+        ]
+    }
+]

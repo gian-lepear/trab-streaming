@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apto 2 dorms",
+            "description": "02 dormitórios, 1 total de banheiro, 01 cozinha, 01 garagem, 01 lavanderia, 01 sala , Área útil 42,00 m², Área total 42,00 m²",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "42m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08475-170",
+                "streetAddress": "Rua Moisés De Corena-, 880"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.39896",
+                "longitude": "-23.58958"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-cidade-tiradentes-42m2-RS130000/id-15350847/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-cidade-tiradentes-42m2-RS130000/id-15350847/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento em cidade tiradentes, 2 dormitórios, 1 vaga, 48 m²",
+            "description": "Apartamento em Cidade Tiradentes, 2 dormitórios, 1 vaga, 48 m²  imóvel bem localizado com fácil acesso a principais comércios da região,  escolas, creches, terminal de ônibus e hospitais  2 dormitórios Sala Cozinha Banheiro Área de serviço 1 vaga  Aceita Financiamento, FGTS ou Avista  Agende já sua visita!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-cidade-tiradentes-RS130010/id-12074063/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-cidade-tiradentes-RS130010/id-12074063/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios, 1 vaga, 48 m² - fazenda do carmo",
+            "description": "Apartamento com 2 Dormitórios, 1 Vaga, 48 m² - Fazenda do Carmo  2 Dormitório Sala de estar Cozinha com armários Área de Serviço 1 Banheiro com box de vidro 1 Vaga de Garagem  O condomínio possui: - Portaria 24 Horas - Salão de Jogos  - Playground - Quadra Poliesportiva - Quiosque com Churrasqueira   Pagamento somente Á vista (aceita carro)  Prestação no valor de R$ 199,00",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-fazenda-do-carmo-RS130010/id-12071158/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-fazenda-do-carmo-RS130010/id-12071158/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 45 m² por r$ 130.169,00 - jardim são francisco (zona leste) - são paulo/sp",
+            "description": "LEIA ATENTAMENTE A DESCRIÇÃO DO ANUNCIO.  Somos uma empresa credenciada junto CAIXA ECONOMICA FEDERAL, especializada na intermediação de venda dos imóveis de propriedade da CAIXA. Imóveis com até 60% desconto.  Se houver dívidas de condomínio e IPTU, tudo será pago pela CAIXA econômica Federal até a data da aquisição do imóvel. Para sua segurança possuímos um DEPARTAMENTO JURÍDICO para auxiliar do início ao fim do processo.  NOSSA COMISSÃO será paga exclusivamente pela CAIXA econômica Federal.  Não são permitidas visitas internas na maioria dos Imóveis CAIXA, pois muitas vezes encontram-se ocupados pelo antigo mutuário;   Se o imóvel estiver OCUPADO, DAREMOS ASSISTÊNCIA JURÍDICA ao comprador referente a emissão da posse do imóvel, e negociação da saída do atual morador. NÃO aceita permuta, automóvel ou contraproposta sobre o valor anunciado;  Financiamento DE ATÉ 95% do valor do imóvel, sujeito análise de crédito  ACEITA financiamento bancário somente da CAIXA  Valores e disponibilidade Sujeitos a confirmação no momento da consulta  Contato: 9  WhatsApp",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "03718-090",
+                "streetAddress": "Rua Guirá-Acangatara, 181"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.52857",
+                "longitude": "-23.49867"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-sao-francisco-zona-leste-45m2-RS130169/id-17318636/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-sao-francisco-zona-leste-45m2-RS130169/id-17318636/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 49 m² por r$ 130.341,00 - lajeado - são paulo/sp",
+            "description": "LEIA ATENTAMENTE A DESCRIÇÃO DO ANUNCIO.  Somos uma empresa credenciada junto CAIXA ECONOMICA FEDERAL, especializada na intermediação de venda dos imóveis de propriedade da CAIXA. Imóveis com até 60% desconto.  Se houver dívidas de condomínio e IPTU, tudo será pago pela CAIXA economica Federal até a data da aquisição do imóvel. Para sua segurança possuímos um DEPARTAMENTO JURÍDICO para auxiliar do ínicio ao fim do processo. NOSSA COMISSÃO será paga exclusivamente pela CAIXA economica Federal. Não são permitidas visitas internas na maioria dos Imóveis CAIXA, pois muitas vezes encontram-se ocupados pelo antigo mutuário;  Se o imóvel estiver OCUPADO, fica de responsabilidade EXCLUSIVA do comprador a emissão da posse do imóvel, e negociação da saída do atual morador. NÃO aceita permuta, automóvel ou contraproposta sobre o valor anunciado;  Financiamento DE ATÉ 95% do valor do imóvel, sujeito análise de crédito   Imóvel NÃO aceita financiamento habitacional.  Imóvel NÃO aceita parcelamento  Valores e disponibilidade Sujeitos a confirmação no momento da consulta  Contato: 9 ",
+            "numberOfRooms": "3",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "49m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08450-160",
+                "streetAddress": "Rua Antônio Thadeo, 373"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.40568",
+                "longitude": "-23.54135"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-3-quartos-sp-sao-paulo-lajeado-49m2-RS130341/id-17655275/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-3-quartos-sp-sao-paulo-lajeado-49m2-RS130341/id-17655275/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Res parana - oportunidade única em sao paulo - sp | tipo: apartamento | negociação: venda online  | situação: imóvel apartamento",
+            "description": "  3 Quartos, Área de Serviço, Wc, Sala, Cozinha. Ação de Indisponibilidade Grada no Av-08 da Matrícula. Regularização Por Conta do Adquirente RUA ANTONIO THADEO,N. 373 APTO. 301 BL 01, LAJEADO - CEP: 08450-160, SAO PAULO - SAO PAULO  Imóvel NÃO aceita utilização de FGTS. Imóvel NÃO aceita financiamento habitacional. Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio.  Imóvel NÃO aceita utilização de FGTS. Imóvel NÃO aceita financiamento habitacional. Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio.  ",
+            "numberOfRooms": "3",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "49m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08450-160",
+                "streetAddress": "Rua Antônio Thadeo, N. 373 APT"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.40568",
+                "longitude": "-23.54135"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-3-quartos-sp-sao-paulo-lajeado-50m2-RS130341/id-18566468/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-3-quartos-sp-sao-paulo-lajeado-50m2-RS130341/id-18566468/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Res parana - oportunidade única em sao paulo - sp | tipo: apartamento | negociação: venda online  | situação: imóvel apartamento",
+            "description": "  3 Quartos, Área de Serviço, Wc, Sala, Cozinha. Ação de Indisponibilidade Grada no Av-08 da Matrícula. Regularização Por Conta do Adquirente RUA ANTONIO THADEO,N. 373 APTO. 301 BL 01, LAJEADO - CEP: 08450-160, SAO PAULO - SAO PAULO.     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  Imóvel NÃO aceita utilização de FGTS. Imóvel NÃO aceita financiamento habitacional. Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio..     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  Imóvel NÃO aceita utilização de FGTS. Imóvel NÃO aceita financiamento habitacional. Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio.  ",
+            "numberOfRooms": "3",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "49m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08450-160",
+                "streetAddress": "Rua Antônio Thadeo, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.40549",
+                "longitude": "-23.54092"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-3-quartos-sp-sao-paulo-lajeado-50m2-RS130341/id-16169093/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-3-quartos-sp-sao-paulo-lajeado-50m2-RS130341/id-16169093/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Res parana - oportunidade única em sao paulo - sp | tipo: apartamento | negociação: venda online  | situação: imóvel apartamento",
+            "description": "  3 Quartos, Área de Serviço, Wc, Sala, Cozinha. Ação de Indisponibilidade Grada no Av-08 da Matrícula. Regularização Por Conta do Adquirente RUA ANTONIO THADEO,N. 373 APTO. 301 BL 01, LAJEADO - CEP: 08450-160, SAO PAULO - SAO PAULO  ",
+            "numberOfRooms": "3",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "49m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-3-quartos-sp-sao-paulo-lajeado-50m2-RS130341/id-18566288/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-3-quartos-sp-sao-paulo-lajeado-50m2-RS130341/id-18566288/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Excelente apartamento, com 53  m² a.u. , bem localizado jardim santa terezinha, com 2 dorms, e 1 vaga de garagem. ref. 16.769",
+            "description": "REF. 16.769 - Excelente apartamento, com 53 m² a.u., dois dormitorios, salão de festas e 1 vaga de garagem e muito bem localizado no Jardim Santa Terezinha, próximo a comércios (mercado, açougue, farmácia, padaria ), escola, e quadra de futebol. Fácil acesso a estação do metrô, ônibus, lotação. Imóvel arejado com visão pra rua e salão de festas. Ótima oportunidade, venha conferir!! REF. 16.769",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "53m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-santa-terezinha-RS130400/id-12647393/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-santa-terezinha-RS130400/id-12647393/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Res barro branco b (par) - oportunidade única em sao paulo - sp | tipo: apartamento | negociação: venda direta far  | situação: imóvel apartamento",
+            "description": "  2 Quartos, Área de Serviço, Wc, Sala, Cozinha. Imóvel Far  014 Matrícula Caixa 141.235 - 7 Cri de São Paulo/sp Baixar edital e anexosRUA ALFONSO ASTURARO,N. 351 APTO. 11 BL A, CONJUNTO HABITACIONAL BARRO BRANCO - CEP: 08473-591, SAO PAULO - SAO PAULO.     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio..     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio.  ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08473-591",
+                "streetAddress": "Rua Alfonso Asturaro, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.38408",
+                "longitude": "-23.70362"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-conjunto-habitacional-barro-branco-i-58m2-RS130685/id-10198204/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-conjunto-habitacional-barro-branco-i-58m2-RS130685/id-10198204/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Res garden ii (par) - oportunidade única em sao paulo - sp | tipo: apartamento | negociação: venda direta far  | situação: imóvel apartamento",
+            "description": "  2 Quartos, Área de Serviço, Wc, Sala, Cozinha. Imóvel Far  015 Matrícula Caixa 141.533 do 7 Cri de São Paulo/sp. Atual r Cachoeira Morena, 120 Baixar edital e anexosR CACHOEIRA MORENA,N. SN APTO. 33 BL A, CONJUNTO HABITACIONAL INACIO MONTEI - CEP: 08472-610, SAO PAULO - SAO PAULO.     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio..     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio.  ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "42m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08472-610",
+                "streetAddress": "Rua Cachoeira Morena, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.40267",
+                "longitude": "-23.56952"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-conjunto-habitacional-inacio-monteiro-51m2-RS131000/id-10198208/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-conjunto-habitacional-inacio-monteiro-51m2-RS131000/id-10198208/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Ref 16.396 - lindo apartamento no conj. habitacional santa etelvina ii, térreo de 49 m²a .u.,  sala, cozinha, 2 quartos, 1 banheiro, sem vaga.",
+            "description": "REF 16.396 - Lindo apartamento no Conjunto Habitacional Santa Etelvina II, térreo de 49 m² a.u., com sala, cozinha, 2 quartos, 1 banheiro, janelas de alumínio. cozinha e banheiro em piso frio. Pintura recente área externa e interna. Com facilidades de locomoção e ônibus na porta do prédio. Comercio e mercadinho na rua. Escola no mesmo quarteirão (Céu, Etec, EMEF, EMEI e CEI ). Hospital Cidade Tiradentes a 3 minutos de carro. Terminal de ônibus principal a 7 minutos de carro. Agende a sua visita! Vale a pena conhecer o imóvel.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "49m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-conjunto-habitacional-santa-etelvina-ii-RS131000/id-10922800/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-conjunto-habitacional-santa-etelvina-ii-RS131000/id-10922800/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 quarto à venda na rua severino souto maior, 148, cidade tiradentes, são paulo, 40 m2 por r$ 131.000",
+            "description": "1 dormitório, 1 total de banheiro, 1 cozinha, 1 garagem, 1 sala , Área útil 40,00 m², Área total 40,00 m²",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08471-780",
+                "streetAddress": "Rua Severino Souto Maior, 148"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.670446",
+                "longitude": "-23.6641413"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-com-garagem-sp-sao-paulo-cidade-tiradentes-40m2-RS131000/id-17353429/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-com-garagem-sp-sao-paulo-cidade-tiradentes-40m2-RS131000/id-17353429/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Res garden ii (par) - oportunidade única em sao paulo - sp | tipo: apartamento | negociação: venda direta far  | situação: imóvel apartamento",
+            "description": "  2 Quartos, Área de Serviço, Wc, Sala, Cozinha. Imóvel Far  023. Matrícula Caixa n. 141.541 do 7. Cri de São Paulo/sp Baixar edital e anexosR CACHOEIRA MORENA S/N ATUAL CACHOEIRA MACARANDUBA,N. 120 APTO. 03 BL B, CONJUNTO HABITACIONAL INACIO MONTEI - CEP: 08472-190, SAO PAULO - SAO PAULO.     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio..     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio.  ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "42m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08472-190",
+                "streetAddress": "R Cachoeira Morena S/n Atual Cachoeira Macaranduba, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.40267",
+                "longitude": "-23.56952"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-conjunto-habitacional-inacio-monteiro-51m2-RS132000/id-11472752/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-conjunto-habitacional-inacio-monteiro-51m2-RS132000/id-11472752/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Res terras paulistas 5 (par) - oportunidade única em sao paulo - sp | tipo: apartamento | negociação: venda direta far  | situação: imóvel apartamento",
+            "description": "  2 Quartos, Área de Serviço, Wc, Sala, Cozinha. Imóvel Far  100 Matrícula Caixa 157.349 do 12. Cri de São Paulo/sp Baixar edital e anexosRUA CAPACHOS,N. 280 APTO. 44 BL 05, JARDIM CELIA - CEP: 08191-330, SAO PAULO - SAO PAULO.     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio..     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio.  ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08191-330",
+                "streetAddress": "Rua Capachós, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.38113",
+                "longitude": "-23.47994"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-celia-52m2-RS132000/id-11731147/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-celia-52m2-RS132000/id-11731147/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/212774/15350847/sp-sao-paulo-cidade-tiradentes-rua-moises-de-corena-apartamento-a-venda-2-quartos-64adf0e2-1.jpg",
+        "name": "Apartamentos à venda na Zona Leste em São Paulo - Página 18 | Chaves na Mão",
+        "description": "38.320 Apartamentos à venda na Zona Leste em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Leste em São Paulo. - Página 18",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "132000",
+            "priceCurrency": "BRL",
+            "lowPrice": "130000",
+            "offerCount": "38320"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-leste/",
+                    "name": "Zona Leste"
+                }
+            }
+        ]
+    }
+]

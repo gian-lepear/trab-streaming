@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento em condomínio para venda no bairro jardim guaianazes, 2 dorm, 1 vagas, 46 m²",
+            "description": "Apartamento em Condomínio para Venda no bairro Jardim Guaianazes, 2 dorm, 1 vagas, 46 m² - Área Privativa: Armário no dormitório, Armário na cozinha, Área de serviço, Cozinha, Sala de estar, Sala de jantar, Aceita PET, Gesso - Sanca - Teto Rebaixado. - Área de Lazer: Área verde, Churrasqueira, Play ground, Quadra poliesportiva, Salão de festas, Salão de jogos, Brinquedoteca, Espaço gourmet. - Infra Estrutura: Água Individualizada, Condominio fechado, Elevador, Gás encanado, Gás Individualizado, Segurança 24h, Vaga demarcada. - Imóvel ainda não quitado, negócio apenas por contrato de compra e venda. Aceita proposta! Valor do Condominio R$: 250,00.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "46m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-guaianases-RS130000/id-17272333/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-guaianases-RS130000/id-17272333/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na rua wagner monzoli, 116, cidade tiradentes, são paulo, 48 m2 por r$ 130.000",
+            "description": "2 dormitórios, 1 total de banheiro, 1 cozinha, 1 lavanderia, 1 sala , Área útil 48,00 m², Área total 48,00 m²",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08470-810",
+                "streetAddress": "Rua Wagner Monzoli, 116"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.39488",
+                "longitude": "-23.59244"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-cidade-tiradentes-48m2-RS130000/id-18611238/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-cidade-tiradentes-48m2-RS130000/id-18611238/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na rua rené de toledo-, 97, cidade tiradentes, são paulo, 46 m2 por r$ 130.000",
+            "description": "2 dormitórios, 1 total de banheiro, 1 cozinha, 1 garagem, 1 lavanderia, 1 sala , Área útil 46,00 m², Área total 49,00 m²",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "46m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08471-740",
+                "streetAddress": "Rua René De Toledo-, 97"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.40225",
+                "longitude": "-23.60003"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-cidade-tiradentes-49m2-RS130000/id-17446345/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-cidade-tiradentes-49m2-RS130000/id-17446345/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na rua várzea nova, 243, cidade tiradentes, são paulo, 48 m2 por r$ 130.000",
+            "description": "02 dormitórios, 1 total de banheiro, 01 cozinha, 01 garagem, 01 lavanderia, 01 sala , Área útil 48,00 m², Área total 48,00 m²",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08475-420",
+                "streetAddress": "Rua Várzea Nova, 243"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.3966044",
+                "longitude": "-23.5940181"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-cidade-tiradentes-48m2-RS130000/id-12961527/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-cidade-tiradentes-48m2-RS130000/id-12961527/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento 130.000 - vila matilde - são paulo/sp",
+            "description": "Apartamentos na Planta na Vila Matilde  Apartamentos com 01 dormitório, sala entregada com a cozinha e banheiro   Apto. 13 - Com quintal 26,60 m2 - R$ 135.000,00 Apto. 33 - 24 m2 - R$ 130.000,00  Previsão de entrega Abril 2025  O Bairro oferece uma ampla infraestrutura com comércios, bancos, supermercados, farmácias, restaurantes, parques e comércios em geral.   A Piton Imóveis é uma empresa familiar que atende na Penha e região, propiciando o sonho do imóvel Ideal para milhares de clientes, com honestidade e transparência! Trabalhamos com todos os tipos de imóveis e oferecemos um atendimento com profissionais qualificados e credenciado pelo CRECI. Além de Venda e Locação, temos um departamento jurídico e um departamento especializado em financiamento imobiliário. Tudo para lhe dar toda a assessoria e segurança na intermediação do seu imóvel. Aguardamos o seu contato!",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "24m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Rua Amaro Bezerra Cavalcanti, 599"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.52325",
+                "longitude": "-23.53355"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-matilde-24m2-RS130000/id-17508111/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-matilde-24m2-RS130000/id-17508111/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na rua paulo gracindo, 54, conjunto habitacional fazenda do carmo, são paulo, 48 m2 por r$ 130.000",
+            "description": "Apartamento da cdhu  com 02 Dormitórios, coz, banheiro 01 vaga de Garagem rotativa  com portaria 24 hs Apartamento CDHU com transferência de divida, saldo de R$7.000 prestações de R$190,00 . (somente à vista).",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08421-520",
+                "streetAddress": "Rua Paulo Gracindo, 54"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.41792",
+                "longitude": "-23.56461"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-fazenda-do-carmo-48m2-RS130000/id-9144581/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-fazenda-do-carmo-48m2-RS130000/id-9144581/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na rua paulo gracindo, 54, conjunto habitacional fazenda do carmo, são paulo, 48 m2 por r$ 130.000",
+            "description": "Apartamento da cdhu,TERREO  com 02 Dormitórios, coz, banheiro 01 vaga de Garagem rotativa  com portaria 24 hs Apartamento CDHU com transferência de divida, saldo de R$7.500,00prestações de R$194.00 . (somente à vista).",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08421-520",
+                "streetAddress": "Rua Paulo Gracindo, 54"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.41792",
+                "longitude": "-23.56461"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-fazenda-do-carmo-48m2-RS130000/id-9144573/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-fazenda-do-carmo-48m2-RS130000/id-9144573/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na avenida henriqueta noguez brieba, 770, conjunto habitacional fazenda do carmo, são paulo, 52 m2 por r$ 130.000",
+            "description": "Apartamento 02 dormitórios, 52 metros, playground, quadra poliesportiva e portaria 24 horas. Localização: Localizado no Conjunto Habitacional Fazenda do Carmo, a 5KM da Estação de trem de Guaianases.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "52m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08421-530",
+                "streetAddress": "Avenida Henriqueta Noguez Brieba, 770"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.41792",
+                "longitude": "-23.56461"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-fazenda-do-carmo-52m2-RS130000/id-9145668/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-fazenda-do-carmo-52m2-RS130000/id-9145668/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento 2 quartos para venda em são paulo, itaim paulista, 2 dormitórios, 1 banheiro",
+            "description": "Apartamento 2 Quartos para Venda no bairro Itaim Paulista, localizado na cidade de São Paulo SP, situado na zona Leste, ponto de referência Padaria Rainha do Mabel.     Área Privativa de 44,00 mº. SEM VAGA DE GARAGEM.     Valor do Imóvel R$ 130.000,00, Valor do Condomínio R$ 110,00.     Cômodos: 2 dormitórios, possui 1 banheiro, cozinha, área de serviços lavanderia, 1 sala. Localizado em condomínio.     Proximidades: Bares e Restaurantes, Escola, Farmácia, Supermercado, Hospital, Academia, Pet Shop, Clubes Praças Parques.     Segurança: Portão Eletrônico.           - Cômodos: Cozinha, Área de Serviços Lavanderia,     - Proximidades: Bares e Restaurantes, Escola, Farmácia, Supermercado, Hospital, Academia, Pet Shop, Clubes Praças Parques,     - Segurança: Portão Eletrônico,",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "44m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-itaim-paulista-RS130000/id-8309344/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-itaim-paulista-RS130000/id-8309344/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento em conjunto habitacional juscelino kubitschek  -  são paulo",
+            "description": "Apartamento de 40 m com 2 quartos, sala, cozinha, banheiro. Garagem livre. Andar térreo, prédio com portaria 24 h, automatizado. Prox. à mercado, escola. Ponto de ônibus na porta.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-juscelino-kubitschek-RS130000/id-8972782/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-juscelino-kubitschek-RS130000/id-8972782/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento vazio e pronto para morar.",
+            "description": "Apartamento nó 2°andar, com 2 dormitórios e vaga no prédio.  Oportunidade de comprar seu apartamento Usando apenas seu FGTS como entrada ( sujeito a analise ).  Excelente localização próximo da AVENIDA dos metalúrgicos, e da saída da cidade Tiradentes pelo acesso da av ragueb chohfi.  Rua Arroio Triunfo  Próximo do mercado Negreiros da Cidade Tiradentes e Transporte publico.  Tendo os principais comércios da região a disposição, UBS, posto de saúde e Hospital Santa Marcelina.  Saía do Aluguel e more no que é Seu! Apartamento de Cohab, não é CDHU.  Kellersom 9   CRECI 194771F",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "47m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08485-430",
+                "streetAddress": "Rua Arroio Triunfo, 00"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.41384",
+                "longitude": "-23.58076"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-santa-etelvina-iii-RS130000/id-18616231/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-santa-etelvina-iii-RS130000/id-18616231/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 52 m² por r$ 130.000 - cidade tiradentes - são paulo/sp",
+            "description": "Apartamento com 2 dormitórios à venda, 52 m² por R$ 130.000 - Cidade Tiradentes - São Paulo/SP. Apartamento médio na região da Cidade Tiradentes, que possui: 02 dormitórios, sala, cozinha conjugada com lavanderia e banheiro.  5º andar.   Condomínio organizado, com gás encanado e quadra como área de lazer.  Próximo ao Hospital Municipal de Tiradentes.   Quitado, porém não aceita financiamento.  Somente a vista.  NÃO PERCA ESSA OPORTUNIDADE, Agende uma visita!   Atenciosamente,  Boa Nova imóveis CRECI: 29644-J (11)   / (11) 9  (11) 9  / (11) 9 ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "52m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08470-480",
+                "streetAddress": "Rua Rafael Della Mônica, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.39687",
+                "longitude": "-23.59811"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-cidade-tiradentes-RS130000/id-15487484/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-cidade-tiradentes-RS130000/id-15487484/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na rua francisco josé viana., 310, cidade tiradentes, são paulo, 46 m2 por r$ 130.000",
+            "description": "02 dormitórios, 1 total de banheiro, 01 cozinha, 01 lavanderia, 01 sala , Área útil 46,00 m², Área total 46,00 m²",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "46m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08471-533",
+                "streetAddress": "Rua Francisco José Viana., 310"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.39664",
+                "longitude": "-23.61108"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-cidade-tiradentes-46m2-RS130000/id-11455343/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-cidade-tiradentes-46m2-RS130000/id-11455343/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 55 m² por r$ 130.000,00 - conjunto habitacional santa etelvi",
+            "description": "Apartamento com 2 Dormitórios, possui 1 vaga de garagem. Possui condução fácil para Metrô Itaquera, próximo á escolas e comé (link removido)  em contato com um de nossos consultores e agende já a sua visita!*Imagem meramente ilustrativa.** Anúncio sujeito a alteração sem aviso prévio.*",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "55m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-santa-etelvina-ii-55m2-RS130000/id-16978934/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-santa-etelvina-ii-55m2-RS130000/id-16978934/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 45 m² por r$ 130.000,00 - vila popular - são paulo/sp",
+            "description": "OPORTUNIDADE GUAIANASES 125 MIL!  45M² 2 Dormitórios, sala ampla, cozinha, banheiro e área de serviço   Ótima localização, com o centro comercial praticamente na porta da sua credencia! com diversos pontos de ônibus por perto!  Aceita financiamento e FGTS agende sua visita!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08412-150",
+                "streetAddress": "Rua João Demar, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.40581",
+                "longitude": "-23.55581"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-vila-popular-45m2-RS130000/id-17490270/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-vila-popular-45m2-RS130000/id-17490270/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/202421/17272333/sp-sao-paulo-guaianases-apartamento-a-venda-2-quartos-652715a2-1.jpg",
+        "name": "Apartamentos à venda na Zona Leste em São Paulo - Página 16 | Chaves na Mão",
+        "description": "38.320 Apartamentos à venda na Zona Leste em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Leste em São Paulo. - Página 16",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "130000",
+            "priceCurrency": "BRL",
+            "lowPrice": "130000",
+            "offerCount": "38320"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-leste/",
+                    "name": "Zona Leste"
+                }
+            }
+        ]
+    }
+]

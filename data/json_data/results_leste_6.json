@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Aricanduva",
+            "description": "APARTAMENTOS EM CONSTRUÇÃO ZONA LESTE Fort - Aricanduva * 1 e 2 DORMITORIOS  8 VAGA DE GARAGEM  * VARANDA GOURMET * LAZER ELEVADO NO 5º ANDAR  Características e facilidades 14  Piscina adulto e infantil  Churrasqueira (2x)  Playground (2x)  Quadra  Pet care  Oficina de bikes  Pet care  Espaço Gourmet  Salão de Festas  Salão de Jogos  Brinquedoteca  Coworking  Espaço delivery  Bicicletário",
+            "numberOfRooms": "1 a 2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "43 a 52m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "03573-000",
+                "streetAddress": "Rua Fortuna de Minas, 100"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.51266",
+                "longitude": "-23.55679"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/lancamento/aricanduva/id-18674970/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/lancamento/aricanduva/id-18674970/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 48 m² por r$ 110.000,00 - conjunto habitacional fazenda do carmo - são paulo/sp",
+            "description": "Apartamento com 2 dormitórios à venda, 48 m² por R$ 110.000 - Conjunto Habitacional Fazenda do Carmo - São Paulo/SP.  Lindo apartamento amplo na Cohab Fazenda do Carmo, que possui 02 dormitórios, sala ampla, cozinha, banheiro e lavanderia.  Com 01 vaga de garagem nas dependências do condomínio.  Condomínio com segurança e portaria 24 horas, e áreas de lazer como Playground e jardim.  Ótima localização, com ponto de ônibus em frente ao condomínio, com ônibus que vão até a estação Corinthians-Itaquera do metrô.  À VISTA (Não aceita financiamento).  Assume-se parcelas mensais de R$ 195,00. Proprietário analisa parte de pagamento em veículo.  NÃO PERCA ESSA OPORTUNIDADE, Agende uma visita! Atenciosamente, Boa Nova imóveis CRECI: 29644-J (11)   / (11) 9  (11) 9  / (11) 9 ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08421-570",
+                "streetAddress": "Rua Chuvas de Verão, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.41792",
+                "longitude": "-23.56461"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-fazenda-do-carmo-RS110000/id-12858057/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-fazenda-do-carmo-RS110000/id-12858057/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na rua eugênio grieco, 441, jardim camargo novo, são paulo, 50 m2 por r$ 110.000",
+            "description": "apartamento quitado com dois dormitorios,sala,cozinha,banheiro,bem localizado,perto de varios comercios e ponto de onibus.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "50m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08121-770",
+                "streetAddress": "Rua Eugênio Grieco, 441"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.37776",
+                "longitude": "-23.5075"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-camargo-novo-50m2-RS110000/id-9145166/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-camargo-novo-50m2-RS110000/id-9145166/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na rua paulo gracindo, 54, conjunto habitacional fazenda do carmo, são paulo, 52 m2 por r$ 110.000",
+            "description": "Apartamento com 02 Dormitórios 01 vaga de Garagem Apartamento CDHU com transferência de divida, saldo de R$27000,00 e prestações de R$154,00 . (somente à vista).",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "52m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08421-520",
+                "streetAddress": "Rua Paulo Gracindo, 54"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.41792",
+                "longitude": "-23.56461"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-fazenda-do-carmo-52m2-RS110000/id-9144819/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-fazenda-do-carmo-52m2-RS110000/id-9144819/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na rua paulo gracindo, 54, conjunto habitacional fazenda do carmo, são paulo, 48 m2 por r$ 110.000",
+            "description": "APARTAMENTO MÉDIO DE 48 M² COM 2 DORMITÓRIOS,SALA,COZINHA,AREA DE SERVIÇO, E VAGA ROTATIVA, Condomínio fechado com portaria 24h, quadra poliesportiva, play ground, salão de festas . AGENDE UMA VISITA COM NOSSOS CORRETORES",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08421-520",
+                "streetAddress": "Rua Paulo Gracindo, 54"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.41792",
+                "longitude": "-23.56461"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-fazenda-do-carmo-48m2-RS110000/id-9459963/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-fazenda-do-carmo-48m2-RS110000/id-9459963/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento a venda de 2 a 3 quartos - vila carrão",
+            "description": "ATENÇÃO LEIA A DESCRIÇÃO ATÉ O FINAL !  PRONTO PARA MORAR!  Qual unidade está em 7.200m² (consulte a disponibilidade da campanha promocional)  Apartamento 62 M² na Vila Carrão 3 Dormitórios com Suíte  Apartamento de 52m² na Vila Carrão  2 dormitórios com suíte  Unidades Garden ( com quintal)  95m² - com 3 quartos sendo 1suíte, 1 vaga e varanda   71m² - com 2 quartos sendo 1 suíte, 1 vaga e varanda   70m² - com 2 quartos sendo 1 suíte, 1 vaga e varanda   69m² - com 2 quartos sendo 1 suíte, 1 vaga e varanda  68m² - com 2 quartos sendo 1 suíte, 1 vaga e varanda  Todas as unidades tem : 1 Vaga de Garagem Varanda Infraestrutura de Ar Condicionado Entregue Tomada USB Entregue Piso Laminado Entregue Alto Padrão de Acabamento Lazer Completo para Toda Família Excelente Localização Próximo à Futura Estação da Linha Verde do Metrô  *Valores para pagamento à vista ref. à unidade 109 Charme 52m² **Sujeito a disponibilidade ***Consulte demais formas de pagamento.  Já pensou em morar em um empreendimento com lazer completo em uma região arborizada e tranquila? Aqui no Teg Vila Carrão, sua família desfrutará de um bairro aconchegante sem abrir mão da facilidade de estar próximo a importantes vias de acesso como a Av. Conselheiro Carrão e a Av. Aricanduva. Sua localização estratégica permite que o morador acesse diferentes regiões da cidade em poucos minutos.",
+            "numberOfRooms": "2 a 3",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "52 a 95m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "03411-000",
+                "streetAddress": "Rua Atucuri, 214"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.54637",
+                "longitude": "-23.5466"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/lancamento/apartamento-a-venda-de-2-a-3-quartos-vila-carrao/id-14445036/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/lancamento/apartamento-a-venda-de-2-a-3-quartos-vila-carrao/id-14445036/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 52 m² por r$ 110.000,00 - taipas - são paulo/sp",
+            "description": "Apartamento localizado em Taipas na Av. Elísio Teixeira Leite ao lado do Hospital, próximo ao atacadão e todo comércio.  São 2 dormitórios, sala, cozinha, banheiro, área de serviço, uma vaga de garagem com portaria 24 horas.  Não aceita financiamento Apartamento CDHU com parcelas de R$220,00 com saldo devedor de R$33,000,00. podendo continuar pagando no nome da proprietária mediante contrato. Agende uma visita 11   ou 11 9 .",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "52m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02982-045",
+                "streetAddress": "Travessa Domênico Cerone, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.47135",
+                "longitude": "-23.49276"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-taipas-52m2-RS110000/id-9671756/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-taipas-52m2-RS110000/id-9671756/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda no itaim paulista, são paulo , 48 m2 por r$ 110.000",
+            "description": "Apartamento, e ótimo estado, quitado, último andar, portaria, salão de festa, 1 vaga condomínio fechado, próximo ao mercado, feira livre, sacolão, farmácia, escola, padaria, terminal de ônibus, e ponto de ônibus na porta do condomínio.  Não aceita financiamento, foi quitado, mas não foi feito a escritura.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.39471",
+                "longitude": "-23.50161"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-itaim-paulista-RS110000/id-6764920/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-itaim-paulista-RS110000/id-6764920/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Cond res inacio monteiro iii (par) - oportunidade única em sao paulo - sp | tipo: apartamento | negociação: venda direta far  | situação: imóvel apartamento",
+            "description": "  2 Quartos, Área de Serviço, Wc, Sala, Cozinha. Imóvel Far  008. Matrícula Caixa n. 143932 do 7. ri de São Paulo/sp. Sem Utilização de Fgts. Com Ação Jud. Proc. Nr.   00 da 11. vf de São Paulo/sp.  Baixar edital e anexosRUA CACHOEIRA MORENA,N. 294 APTO. 24 BL B, CONJUNTO HABITACIONAL INACIO MONTEI - CEP: 08472-610, SAO PAULO - SAO PAULO.     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  Imóvel NÃO aceita utilização de FGTS. FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio..     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  Imóvel NÃO aceita utilização de FGTS. FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio.  ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "42m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08472-610",
+                "streetAddress": "Rua Cachoeira Morena, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.40267",
+                "longitude": "-23.56952"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-conjunto-habitacional-inacio-monteiro-51m2-RS110000/id-10198213/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-conjunto-habitacional-inacio-monteiro-51m2-RS110000/id-10198213/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na rua domencio allegri,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 63, cidade tiradentes, são paulo, 48 m2 por r$ 110.000",
+            "description": "02 dormitórios, 1 total de banheiro, 01 cozinha, 01 garagem, 01 lavanderia, 01 sala , Área útil 48,00 m², Área total 48,00 m²",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08475-460",
+                "streetAddress": "Rua Domencio Allegri,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 63"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.39897",
+                "longitude": "-23.59172"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-cidade-tiradentes-48m2-RS110000/id-11173614/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-cidade-tiradentes-48m2-RS110000/id-11173614/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na rua professor hasegawa, 1591, colônia (zona leste), são paulo, 45 m2 por r$ 110.000",
+            "description": "02 dormitórios, 1 total de banheiro, 01 cozinha, 01 garagem, 01 lavanderia, 01 sala , Área útil 45,00 m², Área total 45,00 m²",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08260-090",
+                "streetAddress": "Rua Professor Hasegawa, 1591"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.4288451",
+                "longitude": "-23.5694526"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-colonia-zona-leste-45m2-RS110000/id-12101473/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-colonia-zona-leste-45m2-RS110000/id-12101473/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na avenida henriqueta noguez brieba, 500, conjunto habitacional fazenda do carmo, são paulo, 48 m2 por r$ 110.000",
+            "description": "Apartamento reformado com 02 quartos, sala, cozinha, banheiro, área de serviço, e vaga de garagem, com ótima localização, fica próximo de escolas, comércio, posto de saúde e à 20 minutos de Itaquera, Poupatempo. Vale à pena conferir. Agende sua...",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08421-530",
+                "streetAddress": "Avenida Henriqueta Noguez Brieba, 500"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.41792",
+                "longitude": "-23.56461"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-fazenda-do-carmo-48m2-RS110000/id-9145415/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-fazenda-do-carmo-48m2-RS110000/id-9145415/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na rua chuvas de verão, 180, conjunto habitacional fazenda do carmo, são paulo, 50 m2 por r$ 110.000",
+            "description": "Apartamento com ótima reforma na Fazenda do Carmo, com 02 quartos, sala, cozinha, banheiro, área de serviço, e vaga de garagem coberta, condomínio com câmeras de segurança, portaria 24 horas, rampas de acesso, com excelente localização, fica à 1...",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "50m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08421-570",
+                "streetAddress": "Rua Chuvas de Verão, 180"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.41792",
+                "longitude": "-23.56461"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-fazenda-do-carmo-50m2-RS110000/id-9145621/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-fazenda-do-carmo-50m2-RS110000/id-9145621/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Res barro branco a (par) - oportunidade única em sao paulo - sp | tipo: apartamento | negociação: venda direta far  | situação: imóvel apartamento",
+            "description": "  2 Quartos, Área de Serviço, Wc, Sala, Cozinha. Imóvel Far  098 Matrícula Caixa 141.217 do 7. Cri de São Paulo/sp. Ação Judicial n.   01 - 6. vf de São Paulo/sp. Sem Utilização de Fgts Baixar edital e anexosRUA ALFONSO ASTURARO,N. 301 APTO. 13 BL E, CONJUNTO HABITACIONAL BARRO BRANCO - CEP: 08473-591, SAO PAULO - SAO PAULO.     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  Imóvel NÃO aceita utilização de FGTS. FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio..     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  Imóvel NÃO aceita utilização de FGTS. FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio.  ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08473-591",
+                "streetAddress": "Rua Alfonso Asturaro, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.38408",
+                "longitude": "-23.70362"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-conjunto-habitacional-barro-branco-i-60m2-RS110000/id-12867607/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-conjunto-habitacional-barro-branco-i-60m2-RS110000/id-12867607/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Saia do aluguel !!! use seu fgts - apto pronto - vila carrão 2 dorm",
+            "description": "Um projeto com o charme de vila !!!  Tudo o que você busca em uma região aconchegante, arborizada e tranquila.  Já pensou em morar em um empreendimento com lazer completo em uma região arborizada e tranquila? Aqui no Teg Vila Carrão, sua família desfrutará de um bairro aconchegante sem abrir mão da facilidade de estar próximo a importantes vias de acesso como a Av. Conselheiro Carrão e a Av. Aricanduva. Sua localização estratégica permite que o morador acesse diferentes regiões da cidade em poucos minutos.  A região conta também com uma estrutura completa de serviços e comércio. Próximo a supermercados, restaurantes, padarias e farmácias para facilitar ainda mais o seu dia-a-dia. O Teg Vila Carrão também está a apenas 9 minutos do Shopping Anália Franco e a 7 minutos do Parque CERET.  O Teg Vila Carrão possui apartamentos de 2 e 3 Dormitórios (1 Suíte) e 1 vaga de garagem. O projeto de arquitetura é assinado por MCAA, paisagismo de Núcleo Arquitetura da Paisagem e Decoração de Moz Design.  Para proporcionar momentos inesquecíveis para sua família, o Teg Vila Carrão possui um lazer completo! Com piscina com raia de 20m, fitness, salão de jogos, brinquedoteca, playground, quadra e churrasqueira com forno para pizza. As áreas comuns são entregues equipadas e decoradas. Além disso, o Teg Vila Carrão possui diversos diferenciais como delivery room, bicicletário e proteção perimetral entregue (infravermelho).  Agende sua visita !!! Direto com a construtora !!  ** Valores podem mudar sem aviso prévio - verificar disponibilidade da unidade  ** valor ref unidade no primeirto andar ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "51 a 51m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "03411-000",
+                "streetAddress": "Rua Atucuri, 214"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.54637",
+                "longitude": "-23.5466"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/lancamento/saia-do-aluguel-use-seu-fgts-apto-pronto-vila-carrao-2-dorm/id-15739452/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/lancamento/saia-do-aluguel-use-seu-fgts-apto-pronto-vila-carrao-2-dorm/id-15739452/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/225846/12858057/sp-sao-paulo-conjunto-habitacional-fazenda-do-carmo-rua-chuvas-de-verao-apartamento-a-venda-2-quartos-63f99589-1.jpg",
+        "name": "Apartamentos à venda na Zona Leste em São Paulo - Página 6 | Chaves na Mão",
+        "description": "38.320 Apartamentos à venda na Zona Leste em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Leste em São Paulo. - Página 6",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "420000",
+            "priceCurrency": "BRL",
+            "lowPrice": "110000",
+            "offerCount": "38320"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-leste/",
+                    "name": "Zona Leste"
+                }
+            }
+        ]
+    }
+]

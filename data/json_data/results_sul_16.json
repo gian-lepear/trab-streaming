@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 51 m² por r$ 179.000,00 - jardim macedônia - são paulo/sp",
+            "description": "Condomínio Edifício Santo Amaro!  Apartamento dispõe de: 51m² de área útil 2 Dormitórios 1 Banheiro 1 Vaga de garagem Oito Torres Elevador  Condomínio dispõe de: Churrasqueira Espaço Gourmet Academia Brinquedoteca Quadra Playground Salão de Jogos Salão de Festas Área Verde  Temos paixão por imóveis e por transformar a vida das pessoas! Procuramos levar o melhor atendimento e as melhores opções de imóvel para cada um dos nossos clientes.  A BeG imóveis possui as melhores opções de venda e locação da região!   Valores de condomínio e IPTU podem sofrer alteração sem nosso conhecimento. Sujeito a confirmação de disponibilidade.  Entre em contato conosco pelo WhatsApp (11) 9 ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "51m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05894-420",
+                "streetAddress": "Rua Serra do Pilar, 5"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7874322",
+                "longitude": "-23.6517767"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-macedonia-RS179000/id-14544567/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-macedonia-RS179000/id-14544567/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 52 m² por r$ 179.000,00 - pirajussara - são paulo/sp",
+            "description": "CONJUNTO HABITACIONAL SANTO AMARO C!!!  Apartamento dispõe de: 52m² de área útil 2 Dormitórios 1 Banheiro 1 Vaga   Diferenciadas: Churrasqueira Academia Brinquedoteca Quadra Playground Salão de Festas Área Verde  Você conta com serviços opcionais como: Assessoria Imobiliária para resolver toda a burocracia jurídica e trazer segurança para sua negociação; Suporte para aprovação do  financiamento imobiliário sem custo algum através da nossa assessoria de crédito; Além de todos os suportes do nosso time de especialistas no assunto.   Valores de condomínio e IPTU podem sofrer alteração sem nosso conhecimento. Sujeito a confirmação de disponibilidade.  Entre em contato conosco pelo WhatsApp  (11) 9  BeG Imóveis atendimento com qualidade e rapidez!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "52m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05790-150",
+                "streetAddress": "Rua Cantanhede, 3009"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.78585",
+                "longitude": "-23.64367"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-pirajussara-RS179000/id-12850768/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-pirajussara-RS179000/id-12850768/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 43 m² por r$ 179.000,00 - jardim coimbra - são paulo/sp",
+            "description": "APARTAMENTOS PRONTO PARA MORAR!  ACEITA FINANCIAMENTO E FGTS  PROGRAMA MINHA CASA, MINHA VIDA  UNIDADES DE 1 DORMITORIO - R$179.000,00 UNIDADES DE 2 DORMITORIOS PARTIR - R$210.000,00  UNIDADES COM SACADA, UNIDADES COM QUINTAL  FINO ACABAMENTO - PISO PORCELANATO   5 MINUTOS DA ESTAÇÃO ARTHUR ALVIM",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "43m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "03693-000",
+                "streetAddress": "Rua Cláudio Ptolomeu, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.47648",
+                "longitude": "-23.53172"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-coimbra-43m2-RS179000/id-17490303/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-coimbra-43m2-RS179000/id-17490303/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento - jardim coimbra - são paulo/sp",
+            "description": "Apartamentos - Jardim Coimbra Ermelino Matarazzo - com medidas diferenciadas, de 30 m² e 40m² unidades com ou sem quintal, conta com sala ,cozinha, área de serviço,banheiro,2 dormitórios.  Os de 1 quarto 179 mil  Os de 1 quarto com quintal grande e porta Balcão 189 mil  De 2 quartos sem quintal 215 De 2 quartos com quintal 230  O Bairro oferece uma ampla infraestrutura com comércios, bancos, supermercados, farmácias, restaurantes, parques e comércios em geral.   A Piton Imóveis é uma empresa familiar que atende na Penha e região, propiciando o sonho do imóvel Ideal para milhares de clientes, com idoneidade e transparência! Trabalhamos com todos os tipos de imóveis e oferecemos um atendimento com profissionais qualificados e credenciado pelo CRECI. Além de Venda e Locação, temos um departamento jurídico e um departamento especializado em financiamento imobiliário. Tudo para lhe dar toda a assessoria e segurança na intermediação do seu imóvel. Aguardamos o seu contato!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Rua Cláudio Ptolomeu, 968"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.48021",
+                "longitude": "-23.53162"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-coimbra-40m2-RS179000/id-16566757/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-coimbra-40m2-RS179000/id-16566757/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Venda | apartamento. vila das belezas, são paulo",
+            "description": "CARACTERÍSTICAS DO IMÓVEL Sua conquinta ficou muito mais fácil com a Vitta:  + de 27 mil pessoas e famílias mudaram de vida. + de 12 anos de solidez no mercado. + de 15 mil unidades entregues.  São 100 empreendimentos lançados e + de 50 entregues.  Aproveite nossas facilidades e conquiste seu apê proprio.  PROCURANDO O LUGAR PERFEITO PARA CHAMAR DE LAR ENQUANTO TRABALHA NA REGIÃO CONHEÇA NOSSO NOVO EMPREENDIMENTO RESIDENCIAL IDEAL PARA AQUELES QUE BUSCAM A CONVENIÊNCIA DE MORAR PERTO DO TRABALHO! 1 DORM. a partir de R$ 179.900,00 = 2 DORM. a partir de R$ 212.900,00....  ·  Elevador Sim ·  Quantidade de Plantas 3 Planta(s) ·  Estágio Lançamento  DIFERENCIAIS DO IMÓVEL  ·  Apoio Espaço Grill  ·  Brinquedoteca ·  Coworking ·  Espaço Fitness ·  Espaço Grill ·  Espaço Lava e Seca ·  Espaço Pet ·  Fire Place ·  Horta de Especiarias  ·  Lobby de Acesso ·  Mercado Vitta ·  Mirante ·  Piscina ·  Piscina Adulto ·  Play Kids ·  Pub Torcedor ·  Salão de Festas ·  Solarium ·  Yoga ao Ar Livre  PLANTAS DO IMÓVEL  ·  1Planta tipo 1 24m² ·  2Planta tipo 2 35,97m² ·  3Planta tipo 3 33,11m²  SEGURANÇA DE UM CONDOMÍNIO FECHADO  ÁREA DE LAZER COMPLETA  LOCALIZAÇÃO PRIVILEGIADA ·",
+            "numberOfRooms": "0",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "--m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74239",
+                "longitude": "-23.646"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-sp-sao-paulo-vila-das-belezas-RS179900/id-13626021/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-sp-sao-paulo-vila-das-belezas-RS179900/id-13626021/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Show - zona sul",
+            "description": "A Econ Construtora pensou em tudo para garantir o seu bem-estar. As plantas do Show Zona Sul foram pensadas para contemplar a funcionalidade, garantindo o conforto que você e a sua família sempre buscaram. More em apartamentos de 37 metros quadrados com 2 dormitórios, com lazer completo. O Show Zona Sul oferece a comodidade que você e sua família precisam.  Para complementar a praticidade e comodidade únicas do Show Zona Sul, a Econ Construtora oferece diversos itens de lazer. Aqui, diversão não tem idade. Com direito a churrasqueira, pet place e care, playground, área fitness, brinquedoteca, salão de jogos e de festas, você constrói os melhores momentos de sua vida, ao lado de quem mais ama.  Aqui você mora pertinho da estação Jurubatuba da CPTM. Localizado em um dos bairros mais requisitados da região, a proximidade dos melhores serviços irá facilitar suas tarefas do dia a dia. Com o Show Zona Sul, você realiza os seus desejos com a praticidade de morar próximo a tudo.  O Show Zona Sul está conectado aos melhores serviços da região: Mercados, shopping centers, escolas, hospitais e restaurantes. Com um trajeto seguro para quem gosta de fazer uma boa caminhada enquanto realiza as tarefas. Facilite sua rotina ficando próximo a mercados, shopping centers e restaurantes, com um trajeto seguro e aconchegante para quem gosta de fazer uma boa caminhada enquanto realiza as tarefas.  Morar no Show Zona Sul significa simplificar a sua vida, com o conforto necessário para aproveitar o seu tempo em casa. É a oportunidade perfeita para você sair do aluguel e viver no lugar de seus sonhos.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "32m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04469-000",
+                "streetAddress": "Rua João de Araújo, 830"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.66887",
+                "longitude": "-23.69007"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jurubatuba-3431m2-RS179900/id-17936699/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jurubatuba-3431m2-RS179900/id-17936699/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 quarto à venda na vila das belezas, são paulo , 24 m2 por r$ 179.900",
+            "description": "Um empreendimento completo com toda segurança, conforto e lazer que você merece. Preço e disponibilidade do imóvel sujeitos a alteração sem aviso prévio.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "24m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74239",
+                "longitude": "-23.646"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-das-belezas-RS179900/id-16387231/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-das-belezas-RS179900/id-16387231/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 quarto à venda na rua aristódemo gazzotti, --, vila das belezas, são paulo por r$ 179.900",
+            "description": "Um empreendimento completo com toda segurança, conforto e lazer que você merece. Preço e disponibilidade do imóvel sujeitos a alteração sem aviso prévio.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "--m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05840-020",
+                "streetAddress": "Rua Aristódemo Gazzotti, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.73978",
+                "longitude": "-23.64346"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-das-belezas-RS179900/id-14053495/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-das-belezas-RS179900/id-14053495/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 quarto à venda na rua glória do goitá, --, jardim independência, são paulo, 29 m2 por r$ 179.900",
+            "description": "Lançamento 29 mts2 1 dormitório Novo Acabamento de primeira ótima localização Investimento Melhor custo beneficio Use seu FGTS Procure pela Referencia RM223.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "29m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Rua Glória do Goitá, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.55992",
+                "longitude": "-23.58455"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jardim-independencia-RS179900/id-6382405/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jardim-independencia-RS179900/id-6382405/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Lift vila das belezas - nr - breve lançamento",
+            "description": "Um empreendimento completo com toda segurança, conforto e lazer que você merece. Preço e disponibilidade do imóvel sujeitos a alteração sem aviso prévio.   Código do Anúncio:  34  Este imóvel tem as seguintes características:   Básico: Elevador  Estrutura: Lavanderia, Portaria 24h  ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "24m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05840-020",
+                "streetAddress": "Rua Aristódemo Gazzotti, 128"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.73978",
+                "longitude": "-23.64346"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-das-belezas-24m2-RS179900/id-15654549/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-das-belezas-24m2-RS179900/id-15654549/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 quarto à venda na rua aristódemo gazzotti, 128, vila das belezas, são paulo, 24 m2 por r$ 179.900",
+            "description": "Um empreendimento completo com toda segurança, conforto e lazer que você merece. Preço e disponibilidade do imóvel sujeitos a alteração sem aviso prévio.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "24m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05840-020",
+                "streetAddress": "Rua Aristódemo Gazzotti, 128"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.73978",
+                "longitude": "-23.64346"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-das-belezas-RS179900/id-12378122/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-das-belezas-RS179900/id-12378122/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 quarto à venda na rua aristódemo gazzotti, --, vila das belezas, são paulo por r$ 179.900",
+            "description": "Um empreendimento completo com toda segurança, conforto e lazer que você merece. Preço e disponibilidade do imóvel sujeitos a alteração sem aviso prévio.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "--m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05840-020",
+                "streetAddress": "Rua Aristódemo Gazzotti, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.73978",
+                "longitude": "-23.64346"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-das-belezas-RS179900/id-14053508/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-das-belezas-RS179900/id-14053508/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Look cursino | construtora solidi | construção | 24 metros | studio | sem varanda | sem vaga",
+            "description": "Em Construção- Entrega em Setembro de 2024.   O empreendimento LOOK CURSINO está sendo construído em um terreno de 1.441m², torre única, 18 apartamentos por andar, 02 elevadores, 10 pavimentos, 170 apartamentos no total.   OPÇÕES DE PLANTAS: 24m²- Studios, sem varanda e vaga. 35m²- 02 dormitórios, sem varanda e vaga.   ÁREA DE LAZER: Hall social, lounge, salão de festas com copa, academia, espaço fitness, sala de cinema, lavanderia, quadra recreativa, churrasqueiras, playground, brinquedoteca escritório e espaço coworking.   DESENVOLVIMENTO: Intermediação: Itaplan. Construtora e Incorporadora: Solidi Engenharia. Projeto de Arquitetura: MCAA. Projeto de Decoração: Carolina Ouro.   LOCALIZAÇÃO: Está localizado na rua Paulo Morais, 323- Vila Moraes- Zona Sul- São Paulo. Apenas 3,5 km da Estação Saúde do Metrô.   Prezados clientes, sou Adriano Caglioni, CEO da Imobiliária  Segundo Imóvel .   Trabalhamos diretamente com TODAS as construtoras de São Paulo, 2.200 opções de apartamentos e estúdios.   Compartilhe AGORA a localização, valor, metragem do imóvel e permita-me ajudá-lo a encontrar o apartamento perfeito para você!   Comprando com o  Segundo Imóvel  você ganha um jantar ESPECIAL para 02 pessoas como forma de agradecimento por escolher a nossa empresa.   Escolha uma das opções abaixo: Para obter mais informações, digite (1). Para agendar uma visita, digite (2). Buscar pelo melhor preço ou deseja enviar uma proposta? Digite (3).   Pedimos uma ÚNICA oportunidade para fazer o melhor negócio!!   Lembramos que os valores sempre sofrem alterações.   Somos o  GOOGLE  do mercado Imobiliário, a maior imobiliária de São Paulo!  Traga sua PROPOSTA para o SEGUNDO IMÓVEL negociar e brigar por você!  Digita no Google (SEGUNDO IMÓVEL), você terá acesso aos BOOKS TÉCNICOS, DESCRITIVOS, STREET VIEW, VIDEOS, TOUR VIRTUAL E MUITO MAIS. O site segundo imóvel é lindo demais. -------------------------------------------------- O SENHOR é o meu pastor e nada me faltará!  Deus está sempre comigo. Eu ando pela Fé.  Deus é bom o tempo todo.  O AMOR É O ÚNICO CAMINHO...  Em tudo daí graças..   Código do Anúncio:  25  Este imóvel tem as seguintes características:   Lazer: Academia, Brinquedoteca, Churrasqueira, Cinema, Coworking, Lavanderia, Lounge, Piscina, Piscina Infantil, Playground, Quadra Esportiva, Salão de Festas  Regiões: Zona Sul  ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "24m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04168-010",
+                "streetAddress": "Rua Paulo de Morais, 323"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.61586",
+                "longitude": "-23.63499"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-moraes-24m2-RS179910/id-9892604/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-moraes-24m2-RS179910/id-9892604/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Metrocasa itaquera 03 | construtora metrocasa | construção | 18 metros | studio com varanda",
+            "description": "Em Construção- Entrega em Outubro de 2025.   O empreendimento METROCASA ITAQUERA 03 está sendo construído em uma torre única, 15 pavimentos, 05 à 10 apartamentos por andar, 152 apartamentos no total.   OPÇÕES DE PLANTAS: 18m² à 19m²- Studio com varanda, sem vaga. 28m² à 29m²- 01 dormitório, office, com varanda, sem vaga. 35m²- 02 dormitórios, varanda, sem vaga.   ÁREA DE LAZER: Hall social, academia, churrasqueira, delivery space, espaço kids, espaço cross training, lavanderia, lounge, praças, lounge, market e pet place.   DESENVOLVIMENTO: Incorporação e Construção: Metrocasa.   LOCALIZAÇÃO: Está localizado na rua Palmerino Calabrese, 170- Vila Santana- Zona Leste- São Paulo. Apenas 2,1 km da Estação Dom Bosco.   Prezados clientes, sou Adriano Caglioni, CEO da Imobiliária  Segundo Imóvel .   Trabalhamos diretamente com TODAS as construtoras de São Paulo, 2.200 opções de apartamentos e estúdios.   Compartilhe AGORA a localização, valor, metragem do imóvel e permita-me ajudá-lo a encontrar o apartamento perfeito para você!   Comprando com o  Segundo Imóvel  você ganha um jantar ESPECIAL para 02 pessoas como forma de agradecimento por escolher a nossa empresa.   Escolha uma das opções abaixo: Para obter mais informações, digite (1). Para agendar uma visita, digite (2). Buscar pelo melhor preço ou deseja enviar uma proposta? Digite (3).   Pedimos uma ÚNICA oportunidade para fazer o melhor negócio!!   Lembramos que os valores sempre sofrem alterações..   Somos o  GOOGLE  do mercado Imobiliário, a maior imobiliária de São Paulo!  Traga sua PROPOSTA para o SEGUNDO IMÓVEL negociar e brigar por você!  Digita no Google (SEGUNDO IMÓVEL), você terá acesso aos BOOKS TÉCNICOS, DESCRITIVOS, STREET VIEW, VIDEOS, TOUR VIRTUAL E MUITO MAIS. O site segundo imóvel é lindo demais. -------------------------------------------------- O SENHOR é o meu pastor e nada me faltará!  Deus está sempre comigo. Eu ando pela Fé.  Deus é bom o tempo todo.  O AMOR É O ÚNICO CAMINHO...  Em tudo daí graças..   Código do Anúncio:  28  Este imóvel tem as seguintes características:   Lazer: Academia, Churrasqueira, Espaço Delivery, Lavanderia, Lounge, Mini Mercado, Pet Place, Praça  Regiões: Zona Leste  ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "18m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08230-060",
+                "streetAddress": "Rua Palmerino Calabrese, 170"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.45382",
+                "longitude": "-23.52865"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-santana-18m2-RS179910/id-12821765/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-santana-18m2-RS179910/id-12821765/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na rua joão maximiano, 625, vila das belezas, são paulo, 42 m2 por r$ 179.999",
+            "description": "Esse apartamento na Vila das Belezas é perfeito para quem busca praticidade no dia a dia, tranquilidade e conforto.  Com 42 M², aqui você encontra dois dormitórios aconchegantes, sala de estar com uma ótima iluminação do sol durante o dia, cozinha espaçosa e com boa iluminação, banheiro social, área espaçosa para mesa de jantar ao lado da sala e vaga de garagem.  Conte com uma bom condomínio que trás: salão de festas, câmeras de segurança 24h, tag, portão automático, apartamento com interfone e em andar médio.  Localização que facilita a sua rotina, à 3 minutos da Av. Carlos Caldeira Filho, ao lado do metrô linha lilás, próximo de comércios em geral e pontos de ônibus que auxiliam na locomoção pela grande São Paulo.  Gostou! Agende já sua visita e venha conhecer seu futuro imóvel.   Obs. Não aceita financiamento / Prédio sem elevador sendo lances de escadas. Preço e disponibilidade do imóvel sujeitos a alteração sem aviso prévio. - Atual.13-01-24",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "42m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05776-530",
+                "streetAddress": "Rua João Maximiano, 625"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.744",
+                "longitude": "-23.63672"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-vila-das-belezas-42m2-RS179999/id-18027072/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-vila-das-belezas-42m2-RS179999/id-18027072/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/40097/14544567/sp-sao-paulo-jardim-macedonia-rua-serra-do-pilar-apartamento-a-venda-2-quartos-6473ce67-1.jpg",
+        "name": "Apartamentos à venda na Zona Sul em São Paulo - Página 16 | Chaves na Mão",
+        "description": "34.110 Apartamentos à venda na Zona Sul em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Sul em São Paulo. - Página 16",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "179999",
+            "priceCurrency": "BRL",
+            "lowPrice": "179000",
+            "offerCount": "34110"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-sul/",
+                    "name": "Zona Sul"
+                }
+            }
+        ]
+    }
+]

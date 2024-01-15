@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamentos de 2 dormitórios a 3 minutos do metrô jabaquara. lazer completo, varanda em todas as unidades. menor valor por metro quadrado da região.",
+            "description": "More na Zona Sul!  A 3 minutos a pé do Metro Jabaquara!  Ganhe em qualidade de vida!  Apartamentos de 2 dormitórios de 36,62m2 a 42,79m2.  Todos com Varanda.  Infraestrutura para Ar Condicionado.  Persianas nos Quartos. Lazer Completo.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "36 a 42m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04321-001",
+                "streetAddress": "Rua dos Buritis, 364"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64431",
+                "longitude": "-23.64758"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/lancamento/apartamentos-de-2-dormitorios-a-3-minutos-do-metro-jabaquara-lazer-completo-varanda-em-todas-as-unidades-menor-valor-por-metro-quadrado-da-regiao-/id-17850878/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/lancamento/apartamentos-de-2-dormitorios-a-3-minutos-do-metro-jabaquara-lazer-completo-varanda-em-todas-as-unidades-menor-valor-por-metro-quadrado-da-regiao-/id-17850878/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 48 m² por r$ 140.000,00 - jardim maria estela - são paulo/sp",
+            "description": "Apartamento muito bem cuidado.  2 dormitórios, Sala ampla, Cozinha, Banheiro, Área de serviço, 1 vaga de garagem. Lazer Quadra  Local de excelente localização, na rua de cima tem feira aos sábados, fixa em uma travessa da Av Padre Arlindo Vieira, tem tudo lojas, padarias, farmácias, enfim tem tudo mesmo. 5 minutos a pé do ponto de ônibus, 10 minutos do zoológico, 15 minutos de carro shopping São Caetano, 5 minutos de carro do mercado Assai.  Aceito carro ou moto como parte de pagamento.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04181-150",
+                "streetAddress": "Rua Amélia, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.60421",
+                "longitude": "-23.63897"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-maria-estela-75m2-RS140000/id-15225354/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-maria-estela-75m2-RS140000/id-15225354/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Excelente oportunidade para investimento ou moradia!!",
+            "description": "Lindos apartamentos, recém construídos, com ótimo espaço interno (33m2 ~ 43m2), contendo 01 dormitório, sala, cozinha e banheiro !!  O Condomínio Residencial New Life está em uma ótima localização, região rica em comércios, há 400 metros da Estação de Metrô Campo Limpo e com fácil acesso as principais vias da cidade tais como Avenida João Dias, Avenida Itapecerica da Serra, Avenida Interlagos e Marginal Pinheiros !!  Não perca esta grande oportunidade e agende o quanto antes a sua visita !!",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "33m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05773-020",
+                "streetAddress": "Rua Bernardo Correia Leitão, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.75648",
+                "longitude": "-23.63737"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-parque-regina-33m2-RS140000/id-13392921/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-parque-regina-33m2-RS140000/id-13392921/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 48 m² por r$ 140.000,00 - jardim maria estela - são paulo/sp",
+            "description": "APARTAMENTO 2 DORMITÓRIOS, SALA 2 AMBIENTES, COZINHA, 1 BANHEIRO, 1 VAGA. PREDIO COHAB COM TRANSFERENCIA , TAXA DE R$57,20 MENSAL PAGO DIRETAMENTE PARA COHAB.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04181-150",
+                "streetAddress": "Rua Amélia, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.60421",
+                "longitude": "-23.63897"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-maria-estela-70m2-RS140000/id-13891378/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-maria-estela-70m2-RS140000/id-13891378/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 56 m² por r$ 141.700,00 - parque munhoz - são paulo/sp",
+            "description": "LEIA ATENTAMENTE A DESCRIÇÃO DO ANUNCIO.  Somos uma empresa credenciada junto CAIXA ECONOMICA FEDERAL, especializada na intermediação de venda dos imóveis de propriedade da CAIXA. Imóveis com até 60% desconto.  Se houver dívidas de condomínio e IPTU, tudo será pago pela CAIXA economica Federal até a data da aquisição do imóvel. Para sua segurança possuímos um DEPARTAMENTO JURÍDICO para auxiliar do ínicio ao fim do processo. NOSSA COMISSÃO será paga exclusivamente pela CAIXA economica Federal. Não são permitidas visitas internas na maioria dos Imóveis CAIXA, pois muitas vezes encontram-se ocupados pelo antigo mutuário;  Se o imóvel estiver OCUPADO, fica de responsabilidade EXCLUSIVA do comprador a emissão da posse do imóvel, e negociação da saída do atual morador. NÃO aceita permuta, automóvel ou contraproposta sobre o valor anunciado;  Financiamento DE ATÉ 95% do valor do imóvel, sujeito análise de crédito   Imóvel NÃO aceita financiamento habitacional.  Imóvel NÃO aceita parcelamento  Valores e disponibilidade Sujeitos a confirmação no momento da consulta  Contato: 9 ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "56m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05782-350",
+                "streetAddress": "Rua Adelaide Braga Negrelli, 113"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.76769",
+                "longitude": "-23.65378"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-parque-munhoz-56m2-RS141700/id-17641228/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-parque-munhoz-56m2-RS141700/id-17641228/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Wonder ipiranga - more no ipiranga, ao lado do metrô, com conforto e segurança.",
+            "description": "More no Ipiranga, num condomínio que oferece conforto e segurança, ao lado do Metrô, Em poucos minutos, é possível se chegar ao centro, à Paulista ou aos bairros Moema e Campo Belo.  Stúdios : à partir de 28m²  Apartamentos: à partir de 72m²  Peça informações sem compromisso! Tabela de financiamento direto com a construtora.  Valores podem sofrer alterações, confirme antes de agendar uma visita.  Marco Teixeira - CRECI-SP: 74707f.",
+            "numberOfRooms": "1 a 3",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "28 a 127m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04249-095",
+                "streetAddress": "Rua Ettore Lantieri, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.570381",
+                "longitude": "-23.567387"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/lancamento/wonder-ipiranga-more-no-ipiranga-ao-lado-do-metro-com-conforto-e-seguranca-/id-18597570/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/lancamento/wonder-ipiranga-more-no-ipiranga-ao-lado-do-metro-com-conforto-e-seguranca-/id-18597570/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Venda | apartamento com 38,00 m², 1 dormitório(s). parque regina, são paulo",
+            "description": "1 Sala 1 Cozinha 1 Quarto 1 Banheiro 1 Área de serviço.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "38m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.75281",
+                "longitude": "-23.6354"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-parque-regina-38m2-RS145000/id-12081094/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-parque-regina-38m2-RS145000/id-12081094/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 46 m² por r$ 145.000,00 - saúde - são paulo/sp",
+            "description": "PRÉDIO SEM ELEVADOR, APTO NO 2 ANDAR, SENDO SISTEMA COHAB, NÃO FAZ FINANCIAMENTO, 2 DORMITÓRIOS, SALA 2 AMBIENTES, COZINHA COM ARMÁRIOS . AGENDE SUA VISITA.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "46m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04292-000",
+                "streetAddress": "Rua Dom Macário, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.61026",
+                "longitude": "-23.6154"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-saude-60m2-RS145000/id-15403136/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-saude-60m2-RS145000/id-15403136/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Valo velho apartamento no 1º andar com 2 dormitórios sem vaga garagem",
+            "description": "Valo Velho Apartamento 1º ANDAR SEM VAGA !!!! Travessa da Estrada Itapecerica A 1, 2 KM metros da Avenida com 2 dormitórios sem armários, sala ampla SEM SACADA, 1 banheiro social, cozinha SEM ARMÁRIOS, SEM VAGA GARAGEM Lazer S festas e Playgroud. ACEITA FINANCIAMENTO !!!!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "46m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-conjunto-habitacional-parque-valo-velho-ii-46m2-RS145000/id-7967863/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-conjunto-habitacional-parque-valo-velho-ii-46m2-RS145000/id-7967863/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 46 m² por r$ 145.000,00 - saúde - são paulo/sp",
+            "description": "PRÉDIO SEM ELEVADOR JARDIM DA SAÚDE!!!! APARTAMENTO 2 DORMITÓRIOS, SALA, COZINHA. NÃO ACEITA FINANCIAMENTO. AGENDE SUA VISITA.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "46m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04292-000",
+                "streetAddress": "Rua Dom Macário, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.61026",
+                "longitude": "-23.6154"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-saude-60m2-RS145000/id-10865459/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-saude-60m2-RS145000/id-10865459/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 46 m² por r$ 148.400,00 - jardim das flores - são paulo/sp",
+            "description": "Apartamento de 46m² com 2 dormitórios, sala ampla para 2 ambientes, cozinha, banheiro e área de serviço.   Condomínio com portaria e salão de festas.  Ao lado do Terminal Guarapiranga e á 4 minutos a pé do Atacadão.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "46m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04905-000",
+                "streetAddress": "Estrada do M Boi Mirim, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.73707",
+                "longitude": "-23.66992"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-das-flores-RS148400/id-17043182/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-das-flores-RS148400/id-17043182/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 51 m² por r$ 148.400 - jardim maria estela - são paulo/sp",
+            "description": "Apartamento com 2 dormitórios à venda, 51 m² por R$ 148.400 - Jardim Maria Estela - São Paulo/SP",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "51m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04181-150",
+                "streetAddress": "Rua Amélia, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.60421",
+                "longitude": "-23.63897"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-maria-estela-51m2-RS148400/id-16354472/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-maria-estela-51m2-RS148400/id-16354472/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na rua domingos de góes, 94, jardim catanduva, são paulo, 50 m2 por r$ 149.999",
+            "description": "Procurando apartamento à venda no Jardim Catanduva com dois dormitórios? Encontrou. Lindo apartamento recém reformado, com pintura e piso novo, dois dormitórios com planejados, sala de estar com iluminação do sol durante o dia, cozinha com armários, banheiro social, área de serviço. Condomínio com salão de festas. portaria e segurança 24 horas por dia, apartamento com interfone, sem elevador, quatro lances de escadas. Localizado no Jardim Catanduva, próximo de comércios em geral e pontos de ônibus que auxiliam na locomoção pela grande São Paulo. Agende já sua visita e venha conhecer seu futuro imóvel.  Não Aceita Financiamento. Valor 150 mil + assumir parcelas. Preço e disponibilidade do imóvel sujeitos a alteração sem aviso prévio. - Atual.13-01-24",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "50m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05767-340",
+                "streetAddress": "Rua Domingos de Góes, 94"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7624555",
+                "longitude": "-23.6331561"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-catanduva-50m2-RS149999/id-14060358/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-catanduva-50m2-RS149999/id-14060358/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 45 m² por r$ 150.000,00 - jardim ingá - são paulo/sp",
+            "description": "Apartamento recém reformado pronto pra morar, ótima localização em SP próximo de metrô, shoppings, praças, supermercado, centro comercial, escolas e muito mais. Apartamento da CDHU com 186 parcelas para quitação no valor de 200,00  Detalhes do imóvel Área de serviço, Armários embutidos, Armários na cozinha, Churrasqueira  Detalhes do condomínio Condomínio fechado, Permitido animais, Salão de festas  Aproveite e agende sua visita!   (link removido) ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05736-100",
+                "streetAddress": "Rua Chinigua, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74701",
+                "longitude": "-23.63495"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-inga-RS150000/id-11642871/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-inga-RS150000/id-11642871/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Lançamento em frente metro alto da boa vista!",
+            "description": "Morar no Alto da Boa Vista é a união entre tudo o que é essencial para você com itens que podem fazer com que cada dia seja excepcional.  Plantas de 22 a 45m2 com vaga ou sem. Studio, 1 e 2 Dorm.  Parcelamento direto com a construtora!  Lazer: Churrasqueira Playground Festas Espaço Happy Hour Lounge Externo Lounge Externo Churrasqueira Externa  Piscina com Solarium Pet Care Brinquedoteca Salão de jogos Fitness  Muito perto da Estação Alto da Boa Vista, o empreendimento te coloca em contato com todos os lugares da cidade, mas não precisa ir longe, pois o bairro oferece tudo o que é necessário em serviços, comércios e lazer, com diversos parques ao redor e garantindo qualidade de vida. O Link oferece uma vista incrível no lazer no rooftop e muito mais.  O projeto conta com plantas de studios, 1 e 2 dormitórios, opção de vaga e acesso pelas duas principais vias da região: Santo Amaro e Adolfo Pinheiro.  Viva conectado com o que importa no Link Alto da Boa Vista.  No Stand Procure o corretor: Vini (11)  ",
+            "numberOfRooms": "1 a 2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "31 a 45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04733-400",
+                "streetAddress": "Avenida Adolfo Pinheiro, 1447"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.69815",
+                "longitude": "-23.64121"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/lancamento/lancamento-em-frente-metro-alto-da-boa-vista-/id-17538759/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/lancamento/lancamento-em-frente-metro-alto-da-boa-vista-/id-17538759/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/117343/15225354/sp-sao-paulo-jardim-maria-estela-rua-amelia-apartamento-a-venda-2-quartos-64a5ee32-1.jpg",
+        "name": "Apartamentos à venda na Zona Sul em São Paulo - Página 5 | Chaves na Mão",
+        "description": "34.110 Apartamentos à venda na Zona Sul em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Sul em São Paulo. - Página 5",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "330000",
+            "priceCurrency": "BRL",
+            "lowPrice": "140000",
+            "offerCount": "34110"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-sul/",
+                    "name": "Zona Sul"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Gjpb 301 apto 601361007-21",
+            "description": "Excelente oportunidade! Apartamento reformado de 2 dormitórios e 1 vaga, condomínio, seguro, organizado, Com área para as crianças , dispõe área de serviço, facilitando assim o seu dia a dia, fácil acesso a radial leste. A região conta com uma excelente infraestrutura, linhas de ônibus coletivos, comércio variado contemplando: lojas, padarias, vários restaurantes, sacolão, farmácias, bancos, supermercados, hospitais, escolas, faculdades, Etec, espaço cultural, shopping e outros. Além de fácil acesso para qualquer Região da Cidade. Preço e disponibilidade do imóvel sujeitos a alteração sem aviso prévio.   Código do Anúncio:  28",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08452-420",
+                "streetAddress": "Rua Jerônimo Pedroso Barros, 301"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.39231",
+                "longitude": "-23.52463"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-lourdes-40m2-RS170000/id-15704642/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-lourdes-40m2-RS170000/id-15704642/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 38 m² por r$ 170.000,00 - colônia - são paulo/sp",
+            "description": "Abaixou o preço!!!  Excelente Apartamento em Itaquera, Ideal para casal com filhos. Piso de cerâmica em todos os ambientes, Apartamento é bem arejado e o condomínio contempla de uma ampla área verde, imóvel recentemente pintado. -Benefícios do local: Situado ao lado de um vasto comercio, Assaí Atacadista, Atacadão, Restaurantes, Bancos na Av São teodoro, Casas Bahia, ETEC Guaianases, Hospital Geral, Escola de educação infantil, a 30 m² EMEI, e Escola de 1º e 2º grau nas proximidades, Universidade, ETEC, Escolas particulares de 1º nível adjacentes: Colégio de mais conceito da região, Colégio Oliveira Teles, Colégio Palmarino Calabrez.  10 minutos do Centro de Itaquera: Itau, Bradesco, Caixa,Banco do Brasil, Correios. Fácil acesso ao Terminal Guaianases/Itaquera e da estação Dom Bosco, Próximo ao Parque do Carmo, Parque Raul Seixas, Praça Brasil, 10 minutos de carro do Shoppings Metro Itaquera. Próximo ao Bola de Neve Nação. Sushi Itaquera, Escola de Itaquera, Av Jacu Pêssego, Sesc Itaquera, Aquarius Grill Churrascaria.  Agende agora mesmo sua visita...",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "38m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "R. Agrim. Sugaya, 1203"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.431508",
+                "longitude": "-23.5844493"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-colonia-RS170000/id-14795807/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-colonia-RS170000/id-14795807/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento 2 dormitórios condomínio por do sol",
+            "description": "Apartamento do CDHU de 52 m com 2 dormitórios, sala, cozinha, 1 banheiro, área de serviço e 1 vaga de garagem. Condomínio possui salão de festas com churrasqueira e área de lazer. Ótima localização com fácil acesso a comércios em geral. Pagamento somente a vista.   Link do imóvel no site da imobiliária:  (link removido) +2+dormitorios+condominio+por+do+sol?origem=I",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "52m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05766-270",
+                "streetAddress": "Rua Caraíva, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.75296",
+                "longitude": "-23.62826"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-campo-limpo-52m2-RS170000/id-10328692/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-campo-limpo-52m2-RS170000/id-10328692/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento á venda com 2 dormitórios e 1 vaga na região do campo limpo!",
+            "description": "Apartamento á venda com 2 dormitórios e 1 vaga na região do Campo Limpo Apartamento todo reformado, pronto para morar. Apartamento térreo, com vista para a parte gramada do condomínio. Sala dividida em dois ambientes, permitindo um local reservado para as refeições e uma sala aconchegante para assistir televisão.  Agende uma visita e venha conhecer esse excelente imóvel!!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "47m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05766-270",
+                "streetAddress": "Rua Caraíva, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.75296",
+                "longitude": "-23.62826"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-olinda-RS170000/id-17734351/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-olinda-RS170000/id-17734351/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda  com 2 quarto(s)",
+            "description": "Lindo apartamento no térreo com portaria eletrônica 1 vaga rotativa 2 dormitórios sala ampla para 2 ambientes, 1 banheiro, cozinha e área de serviço. Comércio, Escolas , posto de saúde e lazer nas proximidades  Conforto e praticidade em moradia ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "58m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04840-230",
+                "streetAddress": "Rua São Caetano do Sul, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.570381",
+                "longitude": "-23.567387"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-brigadeiro-faria-lima-58m2-RS170000/id-18400827/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-brigadeiro-faria-lima-58m2-RS170000/id-18400827/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda no bairro conjunto habitacional instituto adventista - são paulo/sp",
+            "description": "Apartamento com 2 dormitórios - sala - cozinha - área de serviços - vaga de garagem. Localizado na Cohab Adventista, rua Dos Jeribas, 107 - Capão Redondo .  Aceita financiamento bancário, podendo usar o FGTS.  As informações estão sujeitas a alterações. Consulte o corretor responsável.    Chave do anúncio: 4TsumXmNyI1UAAtB",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "44m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05868-820",
+                "streetAddress": "Rua dos Jeribás, 107"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.77685",
+                "longitude": "-23.66531"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-instituto-adventista-44m2-RS170000/id-16752774/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-instituto-adventista-44m2-RS170000/id-16752774/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Residencial - jardim ipanema",
+            "description": "IMÓVEL A VENDA: APARTAMENTO NO JARDIM IPANEMA, SÃO PAULO/SP -   Com 2 dormitórios, sala, cozinha, lavanderia, banheiro, 1 vaga de garagem. Condomínio com playground, espaço pet e bicicletário. Próximo ao Rodoanel.   - ZEQUINHA IMOVEIS - imobiliária em Osasco com amplo cadastro de imóveis a venda e locação. Ligue para 11-  Zequinha Imóveis - Vila Campesina e fale com um de nossos corretores. Se preferir envie uma mensagem ou acesse nosso site  (link removido)  ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "37m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-ipanema-37m2-RS170000/id-7464255/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-ipanema-37m2-RS170000/id-7464255/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Condomínio residencial campo limpo - oportunidade única em sao paulo - sp | tipo: apartamento | negociação: venda direta far  | situação: imóvel apartamento",
+            "description": "  2 Quartos, Área de Serviço, Wc, Sala, Cozinha. Imóvel Far  056. Matrícula Caixa n. 339.873 do 11. ri de São Paulo/sp. Sem Utilização de Fgts. Com Ação Jud. Proc. Nr.   00 da 26. vf de São Paulo/sp;   00 da 4. Jef de São Paulo/sp;   00 da 22. vf de São Paulo/sp.  Baixar edital e anexosRUA ATUCUPE,N. 277 APTO. 44 BLOCO 03, JARDIM LEONIDAS MOREIRA - CEP: 05792-050, SAO PAULO - SAO PAULO.     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  Imóvel NÃO aceita utilização de FGTS. FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio..     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  Imóvel NÃO aceita utilização de FGTS. FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio.  ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "42m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05792-050",
+                "streetAddress": "Rua Atucupe, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.77557",
+                "longitude": "-23.64214"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-leonidas-moreira-55m2-RS170000/id-10208990/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-leonidas-moreira-55m2-RS170000/id-10208990/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 quarto à venda na dom joão soares coelho, 220, cupecê, são paulo, 24 m2 por r$ 171.000",
+            "description": "Um empreendimento completo com toda segurança, conforto e lazer que você merece. Preço e disponibilidade do imóvel sujeitos a alteração sem aviso prévio.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "24m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04407-100",
+                "streetAddress": "Dom João Soares Coelho, 220"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.6508838",
+                "longitude": "-23.6724782"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-cupece-RS171000/id-13642157/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-cupece-RS171000/id-13642157/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Nurban conceição | construtora vinx | construção | 25 metros | studios | com varanda",
+            "description": "Em Construção- Entrega em Outubro de 2026.   O empreendimento NURBAN CONCEIÇÃO está sendo construído em um terreno de 1.084m², torre única, 02 elevadores,16 apartamentos por andar, 17 pavimentos, 251 apartamentos no total.   OPÇÕES DE PLANTAS: 25m²- Studios, com varanda, sem vaga.  31m²- 01 dormitório, com varanda, sem vaga. 36m²- 02 dormitórios, com varanda, sem vaga.   ÁREA DE LAZER: Hall social, lavanderia, mercado, academia, pet care, coworking, delivery room, locker, horta comunitária, salão gourmet, rooftop, churrasqueira e piscina.   DESENVOLVIMENTO: Construtora e Incorporadora: Vinx e Vita Urbana.   LOCALIZAÇÃO: Está localizado na rua Guamiúma, 94- Conceição- Zona Sul- São Paulo. Apenas 350 metros da Estação Conceição do Metrô.   Prezados clientes, sou Adriano Caglioni, CEO da Imobiliária  Segundo Imóvel .   Trabalhamos diretamente com TODAS as construtoras de São Paulo, 2.200 opções de apartamentos e estúdios.   Compartilhe AGORA a localização, valor, metragem do imóvel e permita-me ajudá-lo a encontrar o apartamento perfeito para você!   Comprando com o  Segundo Imóvel  você ganha um jantar ESPECIAL para 02 pessoas como forma de agradecimento por escolher a nossa empresa.   Escolha uma das opções abaixo: Para obter mais informações, digite (1). Para agendar uma visita, digite (2). Buscar pelo melhor preço ou deseja enviar uma proposta? Digite (3).   Pedimos uma ÚNICA oportunidade para fazer o melhor negócio!!   Lembramos que os valores sempre sofrem alterações..   Somos o  GOOGLE  do mercado Imobiliário, a maior imobiliária de São Paulo!  Traga sua PROPOSTA para o SEGUNDO IMÓVEL negociar e brigar por você!  Digita no Google (SEGUNDO IMÓVEL), você terá acesso aos BOOKS TÉCNICOS, DESCRITIVOS, STREET VIEW, VIDEOS, TOUR VIRTUAL E MUITO MAIS. O site segundo imóvel é lindo demais. -------------------------------------------------- O SENHOR é o meu pastor e nada me faltará!  Deus está sempre comigo. Eu ando pela Fé.  Deus é bom o tempo todo.  O AMOR É O ÚNICO CAMINHO...  Em tudo daí graças..   Código do Anúncio:  74  Este imóvel tem as seguintes características:   Lazer: Academia, Bicicletário, Churrasqueira, Coworking, Espaço Delivery, Espaço Gourmet, Lavanderia, Mini Mercado, Pet Care, Piscina, Praça  Regiões: Zona Sul  ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "25m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04313-140",
+                "streetAddress": "Rua Guamiúma, 94"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.640338360271",
+                "longitude": "-23.638112846171"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-guarani-z-sul-25m2-RS171110/id-18023955/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-guarani-z-sul-25m2-RS171110/id-18023955/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Cond marina park - oportunidade única em sao paulo - sp | tipo: apartamento | negociação: licitação aberta  | situação: imóvel apartamento",
+            "description": "  3 Quartos, 1 Vaga na Garagem, Varanda/sacada, Área de Serviço, Wc, Sala, Cozinha. Penhora Gravada no Av-13 da Matrícula. Regularização Por Conta do Adquirente Baixar edital e anexosRUA DOS CARIRIS NOVOS,N. 225 APTO. 23 ED ILHA BELA (06), JARDIM SANTA EMILIA - CEP: 04184-020, SAO PAULO - SAO PAULO.     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  Imóvel NÃO aceita utilização de FGTS. FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio. Imóvel com ação judicial:   03..     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  Imóvel NÃO aceita utilização de FGTS. FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio. Imóvel com ação judicial:   03.  ",
+            "numberOfRooms": "3",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "55m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04184-020",
+                "streetAddress": "Rua dos Cariris Novos, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.60095",
+                "longitude": "-23.64754"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-3-quartos-com-garagem-sp-sao-paulo-jardim-santa-emilia-50m2-RS171500/id-16906549/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-3-quartos-com-garagem-sp-sao-paulo-jardim-santa-emilia-50m2-RS171500/id-16906549/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 42 m² por r$ 171.600,00 - jardim mitsutani - são paulo/sp",
+            "description": "CONDOMÍNIO MORADA DOS PASSÁROS!!  Apartamento dispõe de: 42m² de área útil 2 Dormitórios 1 Banheiro  Sem vaga de garagem  Diferenciais: Churrasqueira Aceita animais Ar-condicionado Jardim Playground Salão de festas Quadra poliesportiva Bicicletário Portaria 24h Interfone Ambientes integrados Segurança 24h Acesso para deficientes Câmera de segurança Árvore frutífera Campo de futebol  Ótima localização , mercados na esquina e ponto de ônibus ao lado.  Você conta com serviços opcionais como: Assessoria Imobiliária para resolver toda a burocracia jurídica e trazer segurança para sua negociação; Suporte para aprovação do  financiamento imobiliário sem custo algum através da nossa assessoria de crédito; Além de todos os suportes do nosso time de especialistas no assunto.   Valores de condomínio e IPTU podem sofrer alteração sem nosso conhecimento. Sujeito a confirmação de disponibilidade.  Entre em contato conosco pelo WhatsApp  (11) 9  BeG Imóveis atendimento com qualidade e rapidez!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "42m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05791-220",
+                "streetAddress": "Estrada Pirajussara-Valo Velho, 1900"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.79157",
+                "longitude": "-23.64852"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-mitsutani-RS171600/id-16784385/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-mitsutani-RS171600/id-16784385/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Studio na região da cupece , com varanda",
+            "description": "Apartamento com 2 dormitórios, dentro do projeto casa verde e amarela, onde você ganha até 47 mil de Subsídio para te impulsionar a comprar.  >>>PISO GRÁTIS EM TODO O APARTAMENTO  Ótima Localização, More perto de Metrô, Mercados, Bancos e tenha qualidade de vida!  Lazer com SALÃO DE FESTAS, ACADEMIA, CHURRASQUEIRA, PRAÇA, PLAYGROUND, PET PLAYCE, COWORK, PORTARIA 24 HORAS, MINI MERCADO, BICICLETÁRIO  Parcelamos sua entrada até 36x após a entrega Utilize o FGTS Chaves, documentação registro e ITBI Grátis Facilidade para aprovar seu crédito  Duvidas chame agora mesmo e realize seu sonho!",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "27m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04385-120",
+                "streetAddress": "Rua Manuel Alves de Siqueira, 51"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.6543",
+                "longitude": "-23.66619"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jardim-itacolomi-RS171900/id-12597547/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jardim-itacolomi-RS171900/id-12597547/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 29 m² por r$ 172.000,00 - parque bristol - são paulo/sp",
+            "description": "COMPRE DIRETO DA CONSTRUTORA COM A BeG IMÓVEIS  Jequitibá Alto do Jardim, um novo empreendimento em frente ao Jardim Botânico, fazendo parte do novo destino da zona sul, o Alto do Jardim.É uma oportunidade imperdível para você sair do aluguel em alto nível, pois o Jequitibá oferece a comodidade que você e sua família precisam. Localizado em um dos bairros mais arborizados da Zona Sul, a proximidade dos melhores serviços irá facilitar suas tarefas do dia a dia, muitas opções de comércio: mercados, shopping center e restaurantes, com um trajeto seguro e aconchegante para quem gosta de fazer uma boa caminhada enquanto realiza as tarefas do dia a dia. Além de todas as praticidades, você ainda tem fácil acesso aos terminais e estações de metrô Jabaquara e Sacomã. Morar no Jequitibá significa simplificar a sua vida, com o conforto necessário para aproveitar o seu tempo em casa e com uma vista sem igual.   Área de lazer :  Brinquedoteca Churrasqueira Piscina Adulto Piscina Infantil Playground Quadra gramada Salão de festas Salão Jogos Fitness funcional Solarium Coworking  Você conta com serviços opcionais como: Assessoria Imobiliária para resolver toda a burocracia jurídica e trazer segurança para sua negociação; Suporte para aprovação do  financiamento imobiliário sem custo algum através da nossa assessoria de crédito; Além de todos os suportes do nosso time de especialistas no assunto.  Condições de pagamento e descontos podem sofrer alteração conforme normas da construtora. Sujeito a confirmação de disponibilidade!  BeG Imóveis atendimento com qualidade e rapidez! FOTOS ILUSTRATIVAS (11) 9 ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "29m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04177-070",
+                "streetAddress": "Rua Professor Artur Primavesi, 154"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.60841751098633",
+                "longitude": "-23.64303970336914"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-parque-bristol-RS172000/id-6529096/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-parque-bristol-RS172000/id-6529096/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 29 m² por r$ 172.400,00 - parque bristol - são paulo/sp",
+            "description": "COMPRE DIRETO DA CONSTRUTORA COM A BeG IMÓVEIS  Jequitibá Alto do Jardim, um novo empreendimento em frente ao Jardim Botânico, fazendo parte do novo destino da zona sul, o Alto do Jardim.É uma oportunidade imperdível para você sair do aluguel em alto nível, pois o Jequitibá oferece a comodidade que você e sua família precisam. Localizado em um dos bairros mais arborizados da Zona Sul, a proximidade dos melhores serviços irá facilitar suas tarefas do dia a dia, muitas opções de comércio: mercados, shopping center e restaurantes, com um trajeto seguro e aconchegante para quem gosta de fazer uma boa caminhada enquanto realiza as tarefas do dia a dia. Além de todas as praticidades, você ainda tem fácil acesso aos terminais e estações de metrô Jabaquara e Sacomã. Morar no Jequitibá significa simplificar a sua vida, com o conforto necessário para aproveitar o seu tempo em casa e com uma vista sem igual.   Área de lazer :  Brinquedoteca Churrasqueira Piscina Adulto Piscina Infantil Playground Quadra gramada Salão de festas Salão Jogos Fitness funcional Solarium Coworking  Você conta com serviços opcionais como: Assessoria Imobiliária para resolver toda a burocracia jurídica e trazer segurança para sua negociação; Suporte para aprovação do  financiamento imobiliário sem custo algum através da nossa assessoria de crédito; Além de todos os suportes do nosso time de especialistas no assunto.  Condições de pagamento e descontos podem sofrer alteração conforme normas da construtora. Sujeito a confirmação de disponibilidade!  BeG Imóveis atendimento com qualidade e rapidez! FOTOS ILUSTRATIVAS (11) 9 ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "29m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04177-070",
+                "streetAddress": "Rua Professor Artur Primavesi, 154"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.60841751098633",
+                "longitude": "-23.64303970336914"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-parque-bristol-RS172400/id-6529094/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-parque-bristol-RS172400/id-6529094/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/281571/15704642/sp-sao-paulo-jardim-lourdes-rua-jeronimo-pedroso-barros-apartamento-a-venda-2-quartos-64c4717f-1.jpg",
+        "name": "Apartamentos à venda na Zona Sul em São Paulo - Página 13 | Chaves na Mão",
+        "description": "34.110 Apartamentos à venda na Zona Sul em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Sul em São Paulo. - Página 13",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "172400",
+            "priceCurrency": "BRL",
+            "lowPrice": "170000",
+            "offerCount": "34110"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-sul/",
+                    "name": "Zona Sul"
+                }
+            }
+        ]
+    }
+]

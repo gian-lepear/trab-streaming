@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Lindo imovel",
+            "description": "ESSE LINDO APARTAMENTO LOCALIZADO NO JD BOA VISTA TRAZ TODO CONFORTO E SEGURANÇA PARA VOCÊ E SUA FAMÍLIA! COM ÁREA DE 39M² POSSUI 02 DORMITÓRIOS, COZINHA COM ARMÁRIOS PLANEJADOS, SALA, 01 WC TRABALHADO NO PORCELANATO E PIA DE GRANITO. ESTÁ BEM LOCALIZADO. VOCÊ PODERÁ CONTAR COM A ESTRUTURA QUE A REGIÃO OFERECE COMO COMÉRCIOS EM GERAL, SUPERMERCADOS, FARMÁCIAS E TRANSPORTE PÚBLICO. POSSUI FÁCIL ACESSO ÁS PRINCIPAIS VIAS DA CIDADE.  O QUE ESTÁ ESPERANDO? AGENDE SEU HORÁRIO CONOSCO ATRAVÉS DO TELEFONE/ WHATSAPP: (11) 9  AGENDE A SUA VISITA E SE ENCANTE! ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "39m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-boa-vista-39m2-RS190000/id-11149922/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-boa-vista-39m2-RS190000/id-11149922/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 quarto à venda na raquel chini, 729, cidade são francisco, são paulo por r$ 190.012",
+            "description": "Apartamento com 1 quarto à venda na raquel chini, 729, cidade são francisco, são paulo por r$ 190.012",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "67m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "11701-305",
+                "streetAddress": "Raquel Chini, 729"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.63796",
+                "longitude": "-23.5491"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-com-garagem-sp-sao-paulo-cidade-sao-francisco-67m2-RS190012/id-6810926/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-com-garagem-sp-sao-paulo-cidade-sao-francisco-67m2-RS190012/id-6810926/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 41 m² por r$ 190.800,00 - jardim boa vista (zona oeste) - são paulo/sp",
+            "description": "Pitale imóveis vende ou aluga apartamento de 2 quartos e 42 m² no Jd. Boa Vista, São Paulo/SP. Condomínio recém-construído em localização privilegiada, bairro super tranquilo e acessível a diversos comércios da região.   - Sala - Cozinha - 2 dormitórios - 1 Banheiro - Lavanderia  Possui elevador, playground, churrasqueira gourmet, fitness externo, bicicletários, horta, Praça de Luau e salão de festas.   Venha morar próximo ao km 17 da Rod. Raposo Tavares. A 3 km do Carrefour e a 1 km do Parque Chico Mendes.  * Aceita financiamento bancário * * Condomínio sem vaga de garagem*  Agende sua visita!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "41m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05583-000",
+                "streetAddress": "Rua Kenkiti Shimomoto, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7875",
+                "longitude": "-23.57652"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-boa-vista-zona-oeste-41m2-RS190800/id-10620768/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-boa-vista-zona-oeste-41m2-RS190800/id-10620768/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 40 m² por r$ 190.800 - jardim ipanema (zona oeste) - são paulo/sp",
+            "description": "Apartamento com 2 dormitórios à venda, 40 m² por R$ 190.800 - Jardim Ipanema (Zona Oeste) - São Paulo/SP",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05187-010",
+                "streetAddress": "Avenida Alexios Jafet, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74821",
+                "longitude": "-23.44768"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-ipanema-zona-oeste-40m2-RS190800/id-17320207/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-ipanema-zona-oeste-40m2-RS190800/id-17320207/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento para venda!",
+            "description": "ÓTIMA OPORTUNIDADE!! O imóvel possui 40m, 2 dormitórios, fica no térreo, sem elevador, IPTU isento, 4 apto por andar, 4 andares, uma garagem privada, podendo usar 1 veiculo na parte coberta e um atrás na parte descoberta, Fica no prédio do fundo, pouquíssima movimentação, bem silencioso, excelente para aposentados e pessoas com dificuldade de subir escadas Garagem com portão automático, e churrasqueira privada na parte interna da garagem.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05574-450",
+                "streetAddress": "Avenida Cangaíba, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.801187",
+                "longitude": "-23.586515"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-promorar-raposo-tavares-RS191000/id-1952957/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-promorar-raposo-tavares-RS191000/id-1952957/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Edifício antonio ignacio de mendonça - oportunidade única em sao paulo - sp | tipo: apartamento | negociação: venda online  | situação: imóvel apartamento",
+            "description": "  2 Quartos, 2 Vagas na Garagem, Varanda/sacada, Área de Serviço, 2 Wc, Sala, Cozinha. Indisponibilidade Gravada na Av.17 da Matrícula - Regularização Por Conta do Adquirente AVENIDA MIGUEL FRIAS E VASCONCELOS,N. 623 APTO. 02, JAGUARE - CEP: 05345-000, SAO PAULO - SAO PAULO  ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "77m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jaguare-50m2-RS192310/id-9956454/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jaguare-50m2-RS192310/id-9956454/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Edifício antonio ignacio de mendonça - oportunidade única em sao paulo - sp | tipo: apartamento | negociação: venda online  | situação: imóvel apartamento",
+            "description": "  2 Quartos, 2 Vagas na Garagem, Varanda/sacada, Área de Serviço, 2 Wc, Sala, Cozinha. Indisponibilidade Gravada na Av.17 da Matrícula - Regularização Por Conta do Adquirente AVENIDA MIGUEL FRIAS E VASCONCELOS,N. 623 APTO. 02, JAGUARE - CEP: 05345-000, SAO PAULO - SAO PAULO.     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  Imóvel NÃO aceita utilização de FGTS. Imóvel NÃO aceita financiamento habitacional. Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio..     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  Imóvel NÃO aceita utilização de FGTS. Imóvel NÃO aceita financiamento habitacional. Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio.  ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "77m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05345-000",
+                "streetAddress": "Avenida Miguel Frias e Vasconcelos, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74373",
+                "longitude": "-23.55131"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jaguare-50m2-RS192310/id-7731784/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jaguare-50m2-RS192310/id-7731784/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Edifício antonio ignacio de mendonça - oportunidade única em sao paulo - sp | tipo: apartamento | negociação: venda online  | situação: imóvel apartamento",
+            "description": "  2 Quartos, 2 Vagas na Garagem, Varanda/sacada, Área de Serviço, 2 Wc, Sala, Cozinha. Indisponibilidade Gravada na Av.17 da Matrícula - Regularização Por Conta do Adquirente AVENIDA MIGUEL FRIAS E VASCONCELOS,N. 623 APTO. 02, JAGUARE - CEP: 05345-000, SAO PAULO - SAO PAULO  Imóvel NÃO aceita utilização de FGTS. Imóvel NÃO aceita financiamento habitacional. Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio.  Imóvel NÃO aceita utilização de FGTS. Imóvel NÃO aceita financiamento habitacional. Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio.  ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "77m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05345-000",
+                "streetAddress": "Avenida Miguel Frias e Vasconcelos, N. 623 APT"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74329",
+                "longitude": "-23.55338"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jaguare-50m2-RS192310/id-10478476/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jaguare-50m2-RS192310/id-10478476/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento jaguaré sp - abaixo do preço - 77,15m² ( desconto de 27,43%).",
+            "description": "APARTAMENTO JAGUARÉ SÃO PAULO. IMÓVEL VENDA CAIXA - Não aceita visita.  A VALIMOB é imobiliária, e credenciada para venda de imóveis CAIXA, além correspondente bancário da Caixa Econômica Federal.  Há possibilidade de até 95% de financiamento do valor do imóvel. ATENÇÃO: Os imóveis podem ser retirados ou vendidos a qualquer momento. Se desejar cadastramos você na lista de clientes VIP para receber a lista completa de imóveis diariamente. ATUAMOS em todo o estado de SÃO PAULO com vendas de imóveis CAIXA. Aprovamos seu financiamento, te auxiliamos com proposta, certidões e toda burocracia na compra de imóvel CAIXA VENDA DIRETA E VENDA ON LINE. Também assessoramos com compra de Imóveis de Leilão CAIXA, basta nos indicar (030596-J) que a CAIXA nos envia o dossiê para assessoramento e sem custo algum a mais.   Número do imóvel:  073-0. O que são IMÓVEIS CAIXA a venda?  São imóveis usados, casas, apartamentos e terrenos aptos para uso, de propriedade da CAIXA, disponíveis para compra em diversas modalidades de venda com preços atrativos e condições especiais. Os imóveis são ofertados diariamente com o maior desconto possível. IMOVEISCAIXA FINANCIAMENTOCAIXA IMOVEISJUNDIAI IMOBILIARIAJUNDIAI  IMOVEL DE PROPRIEDADE DA CAIXA ECONÔMICA FEDERAL  Agende uma visita ou atendimento virtual pelo WhatsApp para entender sobre o processo de compra. Assessoria imobiliária completa e gratuita durante todo o processo (* na proposta basta digitar o nº de nosso CRECI 030596 e selecionar VALIMOB SERVIÇOS IMOBILIÁRIOS  Katiuscia Pasqualini)  (Imobiliária Credenciada e Contratada Caixa Econômica Federal sob contrato de credenciamento publicado no Diário Oficial da União)  ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "77m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05345-000",
+                "streetAddress": "Avenida Miguel Frias e Vasconcelos, 623"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74329",
+                "longitude": "-23.55338"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jaguare-77m2-RS192310/id-18558647/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jaguare-77m2-RS192310/id-18558647/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 77 m² por r$ 192.310,50 - jaguaré - são paulo/sp",
+            "description": "LEIA ATENTAMENTE A DESCRIÇÃO DO ANUNCIO.  Somos uma empresa credenciada junto CAIXA ECONOMICA FEDERAL, especializada na intermediação de venda dos imóveis de propriedade da CAIXA. Imóveis com até 60% desconto.  Se houver dívidas de condomínio e IPTU, tudo será pago pela CAIXA economica Federal até a data da aquisição do imóvel. Para sua segurança possuímos um DEPARTAMENTO JURÍDICO para auxiliar do ínicio ao fim do processo. NOSSA COMISSÃO será paga exclusivamente pela CAIXA economica Federal. Não são permitidas visitas internas na maioria dos Imóveis CAIXA, pois muitas vezes encontram-se ocupados pelo antigo mutuário;  Se o imóvel estiver OCUPADO, fica de responsabilidade EXCLUSIVA do comprador a emissão da posse do imóvel, e negociação da saída do atual morador. NÃO aceita permuta, automóvel ou contraproposta sobre o valor anunciado;  Imóvel NÃO aceita utilização de FGTS.  Imóvel NÃO aceita financiamento habitacional.  Valores e disponibilidade Sujeitos a confirmação no momento da consulta  Contato: 9 ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "77m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05345-000",
+                "streetAddress": "Avenida Miguel Frias e Vasconcelos, 623"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74329",
+                "longitude": "-23.55338"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jaguare-77m2-RS192310/id-9987873/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jaguare-77m2-RS192310/id-9987873/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Lançamento reserva barra funda",
+            "description": "Apartamento com opção de 1 e 2 dormitórios com sacada localizado próximo a estação da Barra Funda e com lazer completo.  Torre Única com 20 andares  Lazer : Piscina, Bicicletário, Churrasqueira, Fitness, Pet Care, Playground, Salão de Festas, Salão Gourmet, Salão de Jogos, Sala de Estudos.   Previsão de Entrega : Fev/2025  A facilidade de realizar a comprar do seu imóvel na planta é muito maior.  Com o programa Minha Casa Minha Vida você consegue comprar o apartamento dos seus sonhos, esse programa ajuda muitas famílias a comprar a sua casa própria, com as menores taxas de juros, você só precisa conversar com um corretor para verificar em qual modalidade você se enquadra e você ainda consegue utilizar o seu FGTS como entrada.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "27m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-parque-industrial-tomas-edson-27m2-RS193900/id-13509851/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-parque-industrial-tomas-edson-27m2-RS193900/id-13509851/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 39 m² por r$ 194.000,00 - jardim ipanema (zona oeste) - são paulo/sp",
+            "description": "Apartamento 39m², Jardim Ipanema - Zona Oeste!  Aqui você e sua família conta com uma gama de recursos para usufruir, são eles:  - Área de Playground; - Churrasqueira; - Salão de Festas; - Garagem; - Espaço pet; - Portaria 24 horas; -Quadra.  Além disso, você encontra uma ótima acessibilidade a mercados, aeroportos, hospitais, shoppings, centro comerciais e muito mais!  Você conta com serviços opcionais como: Assessoria Imobiliária para resolver toda a burocracia jurídica e trazer segurança para sua negociação; Suporte para aprovação do  financiamento imobiliário sem custo algum através da nossa assessoria de crédito; Além de todos os suportes do nosso time de especialistas no assunto.   Valores de condomínio e IPTU podem sofrer alteração sem nosso conhecimento. Sujeito a confirmação de disponibilidade.  Entre em contato conosco pelo WhatsApp  (11) 9  BeG Imóveis atendimento com qualidade e rapidez!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "39m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05187-010",
+                "streetAddress": "Avenida Alexios Jafet, 595"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7483454",
+                "longitude": "-23.4455137"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-ipanema-zona-oeste--RS194000/id-8675174/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-ipanema-zona-oeste--RS194000/id-8675174/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "More a 10 minutos metrô barra funda",
+            "description": "Descubra o melhor da Barra Funda! Ótima localização, apenas 10 minutos do metrô Barra Funda e da UNIP Marquês de São Vicente.  Esta é uma oportunidade única para desfrutar de conforto e conveniência ao estudar ou trabalhar. Além disso, você estará a apenas 10 minutos do Parque Jardins das Perdizes, um belo local para relaxar e desfrutar da natureza. Imagine ter um parque incrível tão perto de casa! Este apartamento oferece muito mais do que apenas uma excelente localização. Possui acabamentos de alta qualidade, Além disso, o prédio conta com uma área de lazer completa, incluindo piscina, academia e espaço gourmet. Não perca essa oportunidade de viver no coração da Barra Funda, com todas as comodidades ao seu alcance. Entre em contato conosco agora mesmo e agende uma visita para conhecer este incrível apartamento! Regenerate response  Seu novo lar está esperando por você na Chácara Santo Antônio Entre em contato agora mesmo e agende uma visita. Seu novo lar está esperando por você  ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "34m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01141-070",
+                "streetAddress": "Rua Rubens Porta Nova, 166"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.6647",
+                "longitude": "-23.51996"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-barra-funda-RS194700/id-14880563/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-barra-funda-RS194700/id-14880563/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda  com 2 quarto(s) jardim boa vista",
+            "description": "Apartamento pronto para morar em Jardim Boa Vista - Zona Oeste -SP   Imóvel muito bem conservado, possui 2 dormitórios, todos com armários. Sala ampla e arejada. Cozinha e lavanderia também com armários planejados.  Está localizado a 1,5km do parque Chico Mendes, com fácil acesso à rodovia Raposo Tavares, próximo a escolas e supermercados.    Uma ótima oportunidade para ter seu próprio imóvel.  ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "39m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05583-000",
+                "streetAddress": "Rua Kenkiti Shimomoto, 1382"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.78338",
+                "longitude": "-23.5748"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-boa-vista-zona-oeste-40m2-RS195000/id-17672664/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-boa-vista-zona-oeste-40m2-RS195000/id-17672664/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento a venda no bairro jardim ipanema (zona oeste) em são paulo - sp.",
+            "description": "REF 13285 Imóvel situado próximo ao pico do Jaraguá, em frente a academia jaguar, próximo as estações jaraguá e vila aurora. Características: Bicicletário;Churrasqueira;Fitness externo;Playground;Quadra gramada;Redário;Salão de festas... Valor: R$ 195.000,00 Não perca esta oportunidade, vale a pena conferir, agende sua visita! Somos correspondentes bancários, aprovamos seu crédito em até 48 horas (crédito sujeito a aprovação). CRECI: J-26805",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-ipanema-zona-oeste-40m2-RS195000/id-5125917/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-ipanema-zona-oeste-40m2-RS195000/id-5125917/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/252220/11149922/sp-sao-paulo-jardim-boa-vista-apartamento-a-venda-2-quartos-63872680-1.jpg",
+        "name": "Apartamentos à venda na Zona Oeste em São Paulo - Página 12 | Chaves na Mão",
+        "description": "14.908 Apartamentos à venda na Zona Oeste em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Oeste em São Paulo. - Página 12",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "195000",
+            "priceCurrency": "BRL",
+            "lowPrice": "190000",
+            "offerCount": "14908"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-oeste/",
+                    "name": "Zona Oeste"
+                }
+            }
+        ]
+    }
+]

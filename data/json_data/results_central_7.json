@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento - bela vista -  1 dormitório - sem vaga de garagem -  28m²",
+            "description": "Apartamento/Studio á venda na Bela Vista, com 1 dormitorio. São 28m² de área util, com living, banheiro e cozinha integrada.   Condominio com Portaria.   A Bela Vista, famosa pelo fácil acesso a regiões simbólicas e importantes da cidade, como a Avenida Paulista, está localizada no Centro de São Paulo. Morar nessa região permite a você estar próximo de ótimas opções de bares, restaurantes e baladas, sendo uma área completa para trabalhar e desfrutar de momentos de lazer. Agende uma visita com um de nossos corretores!  Estamos à disposição para melhor atendê-los.  *Os valores estão sujeitos à alterações sem aviso prévio*",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "28m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01313-000",
+                "streetAddress": "Avenida Nove de Julho, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64825",
+                "longitude": "-23.55366"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-bela-vista-RS168000/id-17027344/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-bela-vista-RS168000/id-17027344/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento a venda em sp bela vista",
+            "description": "Apartamento residencial situado no bairro Bela Vista. - O imóvel apresenta uma área de 27 m², composto por um quarto e um banheiro. - Documentação toda em ordem. Aceita financiamento.  - O prédio conta com um belo jardim e elevador, o que proporciona maior praticidade no dia a dia. O tom do anúncio é profissional e a linguagem utilizada é o Português do Brasil. - A localização é estratégica, estando a poucos minutos de pontos de transporte coletivo, padarias, hospitais, estacionamentos, shoppings, restaurantes, farmácias, escolas, parques de diversão, museus e universidades.  Comprando com a Lopes você conta com um atendimento personalizado e com diversos serviços inclusos, como: assessoria jurídica, certidão do imóvel e dos vendedores e avaliação de crédito através da plataforma exclusiva Lopes / Itaú.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "27m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01313-000",
+                "streetAddress": "Avenida Nove de Julho, 337"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64168",
+                "longitude": "-23.54961"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-bela-vista-27m2-RS168000/id-16983299/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-bela-vista-27m2-RS168000/id-16983299/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento disponível para venda - bela vista.",
+            "description": "Apartamento à venda no bairro Bela Vista.  Com 37 m² o imóvel possui uma sala de estar aconchegante, uma cozinha bem equipada, um quarto espaçoso e um banheiro. Ainda conta com uma lavanderia, sem vaga de garagem.  O condomínio oferece uma variedade de comodidades para melhorar ainda mais a sua experiência de vida. Para os amantes de festas, há um salão de festas para realizar suas celebrações.  Para aqueles que gostam de esportes, a quadra de esportes é o local perfeito para jogar uma partida com amigos. O playground é uma ótima opção para as crianças se divertirem e a churrasqueira é um espaço ideal para realizar encontros familiares ou entre amigos ao ar livre.  Este é o lugar perfeito para quem busca conforto, comodidade e lazer em um dos mais belos bairros da cidade. Entre em contato conosco para mais informações e agende uma visita.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "37m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01319-001",
+                "streetAddress": "Avenida Nove de Julho, 337"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64168",
+                "longitude": "-23.54961"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-com-garagem-sp-sao-paulo-bela-vista-37m2-RS168000/id-17478754/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-com-garagem-sp-sao-paulo-bela-vista-37m2-RS168000/id-17478754/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda 1 quarto bela vista - são paulo - sp",
+            "description": "Apartamento Bela Vista de 27m2 na Bela Vista à venda, com 1 dormitório. Sem vaga Piso Porcelanato Comodidades disponíveis: Playground Área Verde Guaíra Imóveis – desde 1987 trabalhando com Solidez, Honestidade e Digitalmente Humanizada, com agências no ABC e SP e mais de 200 corretores para ajudar você a comprar, vender e alugar o seu imóvel. Todos os preços e condições comercias estão sujeitos à alteração.  Creci 21.699-J",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "27m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01313-000",
+                "streetAddress": "Avenida Nove de Julho, 337"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64168",
+                "longitude": "-23.54961"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-bela-vista-27m2-RS168000/id-16951371/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-bela-vista-27m2-RS168000/id-16951371/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Super oferta - apto 1 dorm. reformado na liberdade",
+            "description": "Maravilhosa Oportunidade. Apartamento com 34 m² de área útil e 40 m² de área total. Vago, reformado, tendo 1 dormitório, sala, cozinha e banheiro. Piso porcelanato.  Documentação perfeita e pode ser financiado. Corretor responsável: Henrique Varella CRECI 201407 - Fone: 11. 0 (WhatsApp) Ligue, tire dúvidas ou agende visita. VALOR: R$ 168.000,00 COND.: R$ 442,00 A PARTIR DE NOVEMBRO E A PARTIR DE FEV/2024 R$ 395,00 DEVIDO A IMPLANTAÇÃO DA PORTARIA. IPTU: R$ 35,00 PM",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "34m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01512-020",
+                "streetAddress": "Rua Helena Zerrener, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.62886",
+                "longitude": "-23.55387"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-se-40m2-RS168000/id-17233778/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-se-40m2-RS168000/id-17233778/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 dormitório à venda, 33 m² por r$ 168.000,00 - bela vista - são paulo/sp",
+            "description": "Kit reformada a poucos metros do metrô Anhangabaú Com portaria 24 horas, Próximo a pontos de interesses como Universidade Estadual Paulista Júlio de Mesquita Filho, Praça Paulo Kobayashi, Terminal Bandeira, Galeria Sete de Abril, Estação Anhangabaú e Red Bull station. Agende uma visita e mande sua proposta- Aceita financiamento!",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "33m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01313-000",
+                "streetAddress": "Avenida Nove de Julho, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64825",
+                "longitude": "-23.55366"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-bela-vista-33m2-RS168000/id-17194557/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-bela-vista-33m2-RS168000/id-17194557/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 quarto à venda na avenida nove de julho, 0, bela vista, são paulo, 30 m2 por r$ 168.000",
+            "description": "Apartamento reformado e bem iluminado.  Localizado próximo ao metrô Anhangabaú. Praça Dom Gaspar, Shopping Light, Parque Augusta, comércio e transporte em geral.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "30m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01313-000",
+                "streetAddress": "Avenida Nove de Julho, 0"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64825",
+                "longitude": "-23.55366"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-bela-vista-RS168000/id-18254591/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-bela-vista-RS168000/id-18254591/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 quarto à venda na tabatinguera, --, liberdade, são paulo, 24 m2 por r$ 169.000",
+            "description": "OPORTUNIDADE DE NEGÓCIO - KITNET NA LIBERDADE - 24 MTS ÚTIL  - IMEDIAÇÕES DO METRO SÉ e PRAÇA JOÃO MENDES/PRAÇA DA SÉ - Apartamento REFORMADO - 01 Dormitório - Piso em Taco - WC social - Sem vaga de Garagem - Condomínio Baixo - ISENTO DE IPTU  - AGENDA JÁ SUA VISITA - Peça pela Ref. LM243.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "24m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Tabatinguera, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.63022",
+                "longitude": "-23.55258"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-25m2-RS169000/id-5986715/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-25m2-RS169000/id-5986715/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Metrocasa república | construtora metrocasa | construção | 15 metros | studio sem varanda",
+            "description": "Em Construção- Entrega em Novembro de 2025.   O empreendimento METROCASA REPÚBLICA está sendo construído em uma torre única, 16 pavimentos, 02 elevadores, 06 à 10 apartamentos por andar, 107 apartamentos no total.   OPÇÕES DE PLANTAS: 15m² à 23m²- Studios sem varanda e vaga. 20m²- studio sem varanda, depósito, sem vaga.   ÁREA DE LAZER: Hall social, espaço multiuso, praça da fogueira, lavanderia e market.   DESENVOLVIMENTO: Construtora e Incorporadora : Metrocasa.   LOCALIZAÇÃO: Está localizado na rua Epitácio Pessoa, 137- República- Zona Central- São Paulo. Apenas 500 metros da Estação República do Metrô.   Prezados clientes, sou Adriano Caglioni, CEO da Imobiliária  Segundo Imóvel .   Trabalhamos diretamente com TODAS as construtoras de São Paulo, 2.200 opções de apartamentos e estúdios.   Compartilhe AGORA a localização, valor, metragem do imóvel e permita-me ajudá-lo a encontrar o apartamento perfeito para você!   Comprando com o  Segundo Imóvel  você ganha um jantar ESPECIAL para 02 pessoas como forma de agradecimento por escolher a nossa empresa.   Escolha uma das opções abaixo: Para obter mais informações, digite (1). Para agendar uma visita, digite (2). Buscar pelo melhor preço ou deseja enviar uma proposta? Digite (3).   Pedimos uma ÚNICA oportunidade para fazer o melhor negócio!!   Lembramos que os valores sempre sofrem alterações..   Somos o  GOOGLE  do mercado Imobiliário, a maior imobiliária de São Paulo!  Traga sua PROPOSTA para o SEGUNDO IMÓVEL negociar e brigar por você!  Digita no Google (SEGUNDO IMÓVEL), você terá acesso aos BOOKS TÉCNICOS, DESCRITIVOS, STREET VIEW, VIDEOS, TOUR VIRTUAL E MUITO MAIS. O site segundo imóvel é lindo demais. -------------------------------------------------- O SENHOR é o meu pastor e nada me faltará!  Deus está sempre comigo. Eu ando pela Fé.  Deus é bom o tempo todo.  O AMOR É O ÚNICO CAMINHO...  Em tudo daí graças..   Código do Anúncio:  85  Este imóvel tem as seguintes características:   Regiões: Centro de São Paulo  Lazer: Coworking, Hall Social, Lavanderia, Mini Mercado, Praça  ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "15m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01220-030",
+                "streetAddress": "Rua Epitácio Pessoa, 137"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64625",
+                "longitude": "-23.54604"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-republica-15m2-RS169915/id-12761487/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-republica-15m2-RS169915/id-12761487/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento em campos elíseos",
+            "description": "apartamento kitnet de 28m², tendo cozinha com armários embutidos, e espaço para quarto e guarda roupa, 1 banheiro e varanda. portão elétrico e elevador, com ótima localização próximo de variáveis comércios, bares, restaurantes, diversas lojas, pontos de ônibus e metro. Agende sua visita .",
+            "numberOfRooms": "0",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "28m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01204-000",
+                "streetAddress": "Rua Guaianases, 337"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.6421826",
+                "longitude": "-23.5386359"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-sp-sao-paulo-centro-28m2-RS170000/id-14617300/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-sp-sao-paulo-centro-28m2-RS170000/id-14617300/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 quarto à venda na rua dom josé de barros, 301, centro, são paulo por r$ 170.000",
+            "description": "- KIT BEM AREJADA COM AMPLA JANELA, COZINHA SEPARADA, ARMÁRIO EMBUTIDO NO DORMITÓRIO E BANHEIRO CONSERVADO.   IPTU 2022: ISENTO  NÃO TEM VAGA DE GARAGEM.   O CONDOMÍNIO BOULEVARD DO CENTRO FOI CONSTRUÍDO EM 1961 E ESTÁ LOCALIZADO NA RUA DOM JOSÉ DE BARROS NO BAIRRO DA REPÚBLICA NA CIDADE SÃO PAULO-SP.  LOCALIZADA A 5 MINUTOS DA ESTAÇÃO REPÚBLICA, COM TODAS AS FACILIDADES QUE O CENTRO OFERECE COMO SHOPPINGS, SERVIÇOS, BANCOS, RESTAURANTES, FARMÁCIAS E EMPRESAS EM GERAL.   AGENDE UMA VISITA E VENHA CONHECER!",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "--m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01041-000",
+                "streetAddress": "Rua Dom José de Barros, 301"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.63954",
+                "longitude": "-23.54336"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-RS170000/id-14981891/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-RS170000/id-14981891/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento tipo kitnet, liberdade, a venda, 01 dormitório, sala, cozinha, banheiro, sem vaga",
+            "description": "Apartamento tipo Kitnet, Liberdade, a venda, 01 dormitório, sala, cozinha, banheiro sem vaga,   Kitnet com guarda roupa, cozinha com armários, banheiro, vasto comercio ao redor. Agua inclusa no valor do condomínio, localização excelente, próximo ao metrô Sé, a Praça da Sé, ao Fórum João Mendes, a Rua. Tabatinguera, próximo aos colégios da região, com amplo comercio de supermercados, padarias, academias, escolas, transporte publico,.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "25m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01512-010",
+                "streetAddress": "Rua Oscar Cintra Gordinho, 103"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.6295",
+                "longitude": "-23.55335"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS170000/id-18386826/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS170000/id-18386826/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Bairro da liberdade no centro de são paulo ótimo apartamento com 40mt² de área",
+            "description": "-STUDIO COM 35MTS² DE ÀREA ÚTIL.40MTS² TOTAL NO BAIRRO DA LIBERDADE, APARTAMENTO REFORMADO E AREJADO HÁ 5 MINUTOS A PÉ DA ESTAÇÃO LIBERDADE DO METRÔ, C/ 1 AMPLO DORMITÓRIO, SALA PARA DOIS AMBIENTES, COZINHA, BANHEIRO, ÀREA DE SERVIÇO, CONDOMÍNIO C/ SALÃO DE FESTAS PORTARIA 24HRS, ÓTIMA LOCALIZAÇÃO C/VASTO COMÉRCIO NA REGIÃO, C/ SUPERMERCADOS, FARMÁCIAS, RESTAURANTES, BANCOS, ESCOLAS, PRÉDIO BEM CONSERVADO AMBIENTE FAMILIAR, NAO PERCA ESTA EXCELENTE OPORTUNIDADE DE MORAR NO CENTRO DE SÃO PAULO, AGENDE SUA VISITA COM OS CORRETORES DA LOPES ONE.-",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "41m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01512-010",
+                "streetAddress": "Rua Oscar Cintra Gordinho, 185"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.62871",
+                "longitude": "-23.55307"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-41m2-RS170000/id-14600889/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-41m2-RS170000/id-14600889/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento á venda !!!",
+            "description": "44 m2 quadrados, 1 dormitório grande, sala, cozinha, banheiro. Próximo a Estação de Metrô Liberdade, comercios, padarias, fast food, farmacias, padarias e supermercado.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "44m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01505-001",
+                "streetAddress": "Rua dos Estudantes, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.631797",
+                "longitude": "-23.555371"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-se-RS170000/id-1952665/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-se-RS170000/id-1952665/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento em santa efigênia - são paulo, sp",
+            "description": "Se você está em busca de um lugar para chamar de lar, este apartamento em Santa Efigênia é a escolha perfeita! Com 46 metros quadrados de área útil, este imóvel é ideal para quem busca conforto e praticidade. Com dois dormitórios, uma ampla sala de estar e um banheiro, este apartamento é perfeito para acomodar toda a sua família.  Localizado em uma das regiões mais valorizadas de São Paulo, este apartamento em Santa Efigênia é a escolha ideal para quem busca um estilo de vida moderno e cosmopolita. Com fácil acesso aos principais pontos da cidade, este imóvel é perfeito para quem busca praticidade e comodidade. Além disso, o bairro conta com uma ampla variedade de serviços e comércios, como supermercados, farmácias, restaurantes e muito mais.  Não perca a oportunidade de morar em um dos melhores bairros de São Paulo! Com um preço imperdível de R$ 220.000 para venda e R$ 0 para locação, este apartamento em Santa Efigênia é a escolha perfeita para quem busca um imóvel com excelente custo-benefício. Não perca mais tempo e agende agora mesmo a sua visita!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "46m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Rua Vitória, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.63854",
+                "longitude": "-23.53763"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-santa-ifigenia-RS170000/id-15356655/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-santa-ifigenia-RS170000/id-15356655/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/153903/17027344/sp-sao-paulo-bela-vista-avenida-nove-de-julho-apartamento-a-venda-1-quarto-65176a2f-1.jpg",
+        "name": "Apartamentos à venda na Zona Central em São Paulo - Página 7 | Chaves na Mão",
+        "description": "12.389 Apartamentos à venda na Zona Central em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Central em São Paulo. - Página 7",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "170000",
+            "priceCurrency": "BRL",
+            "lowPrice": "168000",
+            "offerCount": "12389"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-central/",
+                    "name": "Zona Central"
+                }
+            }
+        ]
+    }
+]

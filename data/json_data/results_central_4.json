@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Leilão de apartamento 58 m² (estação japão-liberdade) - cambuci - são paulo - sp",
+            "description": "IMÓVEL EM LEILÃO PELA EMPRESA MEGA LEILÕES. Para adquirir este imóvel acesse nosso website em  (link removido) , cadastre-se e participe do leilão virtual. Procure pelo código do leilão: ML27175 (Leilão Judicial) - Valor do lance inicial: R$ 151157.00 - Valor de incremento dos lances: R$ 2.000,00 - Inicio da captação de lances: 06/02/2024 às 14:00 - Fim da capitação de lances: 09/02/2024 às 14:00 ----- MATRCULA N 117.138 DO 1 CARTRIO DE REGISTRO DE IMVEIS DA COMARCA DE SO PAULO/SP - IMVEL: Apartamento n 304, localizado no 2 pavimento ou 3 andar do Edificio C-14 Residencial Varza do Carmo, situada na Rua Professor Demstenes Batista Figueira Marques n 14, no subdistrito Liberdade, com rea privativa de 58,50 m2, rea de uso comum de 37,08 m (4,47 m de rea comum coberta e 32,61 m2 de rea comum descoberta), nela includo o direito de uso de 01 vaga na garagem do edifcio rea total de 95,58 m, correspondendo-lhe a frao ideal de terreno de 3,1250%. Contribuinte n 004.034.0281-6. Consta no site da Prefeitura de So Paulo/SP, que no h dbitos tributrios pendentes sobre o imvel (01/12/2023). Acesse nosso website em  (link removido)  e conheça outras oportunidades incríveis. Conquiste seu imóvel. Preços até 60% abaixo do valor de mercado. Condições especiais de pagamento em alguns casos.",
+            "numberOfRooms": "0",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "58m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01518-010",
+                "streetAddress": "Rua Professor Demóstenes Batista Figueira Marques, 14"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.62328",
+                "longitude": "-23.55836"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-com-garagem-sp-sao-paulo-cambuci-95m2-RS151157/id-18468010/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-com-garagem-sp-sao-paulo-cambuci-95m2-RS151157/id-18468010/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda no centro - republica.",
+            "description": "Apartamento para venda na região do centro-Republica. Apartamento - Sala Comercial (uso misto) de 40 m² na República ao lado Metro São Bento - Documento Ok! Em excelente estado com portaria 24 horas ao lado do metro São Bento e próximo ao comercio do centro local. Agende sua visita com nossos corretores!",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01041-000",
+                "streetAddress": "Rua Vinte e Quatro de Maio, 241"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-50.42335",
+                "longitude": "-22.66407"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-40m2-RS153875/id-15745251/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-40m2-RS153875/id-15745251/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 dormitório à venda, 36 m² por r$ 154.000,00 - liberdade - são paulo/sp",
+            "description": "Lindo apartamento a venda na Liberdade   1 dormitório cozinha com armário  banheiro cond com elevador  otima localização bem prox ao metrô  tudo o que você precisa ao redor  agende já a sua visita.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "36m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01512-010",
+                "streetAddress": "Rua Oscar Cintra Gordinho, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.62885",
+                "longitude": "-23.55332"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-36m2-RS154000/id-16391680/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-36m2-RS154000/id-16391680/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 25 m² por r$ 155.000,00 - liberdade - são paulo/sp",
+            "description": "Apartamento com 1 dormitórios sendo suíte, 1 banheiros, e sem vaga de garagem, este imóvel se encontra em perfeito estado, muito bem arejado, pronto para morar.   Apartamento para pessoas que valorizam prédios novos e bem administrados.  Condomínio com portaria 24h, Elevador.  Aceita permuta.   Aceita financiamentoO imóvel fica localizado na Liberdade para venda, um excelente aparamento bem localizado no centro de São Paulo, próximo ao metro e Rua 25 de Março, Sé, Liberdade e São Joaquim entre outros.  O valor do imóvel pode ser alterado sem aviso prévio.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "25m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01512-010",
+                "streetAddress": "Rua Oscar Cintra Gordinho, 133"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.62911",
+                "longitude": "-23.55322"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS155000/id-17724629/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS155000/id-17724629/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Ap.v.librsp",
+            "description": "Portaria 24 horas , fica entre os metrôs Sé e liberdade, imóvel amplo, elevadores Edifício em ótimo estado com portaria 24 horas sistema de câmeras de segurança três elevadores modernos Limpo ambiente familiar a cinco minutos a pé do metrô água incluso no condomínio",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01513-000",
+                "streetAddress": "Avenida Cangaíba, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.629797",
+                "longitude": "-23.556832"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS155000/id-1953078/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS155000/id-1953078/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apto 1 dorm, venda - liberdade (helena zerrener)",
+            "description": "Apartamento de 1 dormitório na região Central, bairro Liberdade 37m²  Agende uma visita com nossos corretores",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "37m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01512-020",
+                "streetAddress": "Rua Helena Zerrener, 122"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.62858",
+                "longitude": "-23.55347"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS155000/id-12836561/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS155000/id-12836561/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento de 31m² com 1 quartos em santa efigenia",
+            "description": "Quer morar na Região Central de São Paulo ? Próximo ao trabalho ? Ao lado Viaduto Santa Efigênia, Stúdio com fácil acesso ao metrô São Bento ( linha azul), metrô Luz ( linha azul e amarela ) e Estação de trem,  Próximo a comércio, restaurantes, padarias e farmácias.  Stúdio com 31 m², banheiro amplo e frente a Rua. Portaria 24 horas e Elevador.  Agende já sua visita !   ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "31m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01032-010",
+                "streetAddress": "Rua Riskallah Jorge, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.63525",
+                "longitude": "-23.54163"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-santa-ifigenia-31m2-RS155000/id-15393763/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-santa-ifigenia-31m2-RS155000/id-15393763/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Lindo apartamento à venda na liberdade",
+            "description": "Kitnet grande no Bairro da Liberdade, com sala que pode ser dividida, cozinha separada, banheiro e aréa de serviço. Fica no 13º andar (último), a 5 minutos do metrô Liberdade,onde tem a famosa Feirinha da Liberdade, Próximo a Sé(marco Zero de São Paulo), Viaduto do Chá, Shopping Light, próximo ao Cambuci, próximo ao futuro Shopping Cosmopolitano e do Posto Várzea do Carmo, o maior da América Latina. - Interfone e Porteiros. - Ônibus na Porta. - Feira Livre todos os Domingos ao lado do Edifício",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "43m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01513-000",
+                "streetAddress": "Avenida Cangaíba, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.629797",
+                "longitude": "-23.556832"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS155000/id-1952796/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS155000/id-1952796/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Ótima oportunidade para quem quer morar bem por um preço acessível.",
+            "description": "Edifício em ótimo estado com portaria 24 horas sistema de câmeras de segurança três elevadores modernos Limpo ambiente familiar a cinco minutos a pé do metrô",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "33m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01514-020",
+                "streetAddress": "Avenida Cangaíba, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.628958",
+                "longitude": "-23.55448"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS155000/id-1953098/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS155000/id-1953098/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda!!!",
+            "description": "Apartamento à venda São 30 metros, sendo 01 Dormitório, sem vaga. DESCRIÇAO DO IMÓVEL: Edifício em ótimo estado com portaria 24 horas sistema de câmeras de segurança três elevadores modernos Limpo ambiente familiar a cinco minutos a pé do metrô água incluso no condomínio. ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "30m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-se-RS155000/id-2823062/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-se-RS155000/id-2823062/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento em santa ifigênia  -  são paulo",
+            "description": "Apartamento em santa ifigênia  -  são paulo",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "38m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Rua dos Gusmões, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.63909",
+                "longitude": "-23.53688"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-santa-ifigenia-38m2-RS155000/id-9109275/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-santa-ifigenia-38m2-RS155000/id-9109275/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento na liberdade-próximo a 3 estações de metrô, liberdade, sé e pedro",
+            "description": "Apartamento reformado em ótimas condições, 1 Dormitório, sala e cozinha, 10 unidades por andar, com 34 m2, próximo a 3 estações de metrô, Liberdade, Sé e Pedro I. Ótimo para quem quer estar próximo de tudo e se locomover com muita facilidade.  Detalhes do condominio  Condomínio fechado, Elevador, Portaria, Permitido animais",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "34m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01512-020",
+                "streetAddress": "Rua Helena Zerrener, 53"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.62896",
+                "longitude": "-23.5538"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-34m2-RS155000/id-13050322/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-34m2-RS155000/id-13050322/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda!!!",
+            "description": "APARTAMENTO À VENDA ÓTIMA OPORTUNIDADE!  O apartamento possui 38 metros, sendo 1 dormitório, sem vaga de garagem, 4 por andar e 10 andares. ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "38m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-RS155000/id-2786878/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-RS155000/id-2786878/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda!!!",
+            "description": "Apartamento à venda Apartamento a venda no Bairro da Liberdade, com sala que pode ser dividida, cozinha separada, banheiro e aréa de serviço. Fica no último, a 5 minutos do metrô Liberdade, onde tem a famosa Feirinha da Liberdade, Próximo a Sé(marco Zero de São Paulo), Viaduto do Chá, Shopping Light, próximo ao Cambuci, próximo ao futuro Shopping Cosmopolitano e do Posto Várzea do Carmo, o maior da América Latina. - Interfone e Porteiros. - Ônibus na Porta. - Feira Livre todos os Domingos ao lado do Edifício Apartamento possui 43 metros, 1 dormitório e sem vaga. ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "43m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS155000/id-2807079/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS155000/id-2807079/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 dormitório à venda, 35 m² por r$ 155.000 - liberdade - são paulo/sp",
+            "description": "01 dormitório, sala, cozinha, sem vaga, armário cozinha, elevador, localização excelente, próximo ao metrô Sé, a 200 mts ao Hospital Sancta Maggiore, a Rua. Tabatinguera, próximo aos colégios da região, com amplo comercio de supermercados, padarias, academias, farmácias, faculdade, escolas, transporte publico,  Sujeito à confirmação de disponibilidade e valores, sem aviso prévio.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "35m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01512-010",
+                "streetAddress": "Rua Oscar Cintra Gordinho, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.62885",
+                "longitude": "-23.55332"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-70m2-RS155000/id-16128257/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-70m2-RS155000/id-16128257/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/67351/18468010/sp-sao-paulo-cambuci-rua-professor-demostenes-batista-figueira-marques-apartamento-a-venda-658dc84f-1.jpg",
+        "name": "Apartamentos à venda na Zona Central em São Paulo - Página 4 | Chaves na Mão",
+        "description": "12.389 Apartamentos à venda na Zona Central em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Central em São Paulo. - Página 4",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "155000",
+            "priceCurrency": "BRL",
+            "lowPrice": "151157",
+            "offerCount": "12389"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-central/",
+                    "name": "Zona Central"
+                }
+            }
+        ]
+    }
+]

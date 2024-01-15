@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Elev alto do ipiranga - 2dorm 34 à 37m2 c/sacada e opção de suíte",
+            "description": "Elev Alto do Ipiranga - 2Dorm 34 à 37m2 c/sacada e opção de Suíte  Sobre o imóvel  Em um endereço estratégico, a Trisul lança mais um novo sucesso, o Elev Alto do Ipiranga. O empreendimento está localizado na Rua Coronel Domingos Ferreira, 205, no Ipiranga, que é a região que mais se desenvolve na zona sul e ainda preserva seus traços históricos.   Um projeto criado para quem busca mais conforto, mobilidade e tranquilidade, já que está localizado a apenas 400 metros do metrô Santos-Imigrantes (linha verde), e conta com ótimas opções de comércios e serviços, como hospitais, shoppings, universidades e mercados, além de muitas opções de lazer.   Seus apartamentos variam de 34m² a 37m², com 2 dorms (c/ suíte¹) e varanda, perfeito para você e sua família.  O Elev tem tudo para quem gosta de esportes ou prefere relaxar, para quem gosta de brincar e para todos que adoram confraternizar: Salões de Festas gourmet, Delivery room, Coworking com salas privativas de reunião e estudos, Brinquedoteca, Espaço Bem Estar c/ Sala de Massagem, Mini Mercado, Oficina de Bike, Sala de Oficina com ferramentas, Salão de Jogos, Sports Bar, Pet Care, Lavanderia, Playground, Piscina descoberta com solarium e espreguiçadeiras, Praças de Estar e Convívio, Academia equipada, Espaço Fitness Externo, Quadra de Areia, Churrasqueiras com Apoio externo, Pet Place externo e Bicicletários.   Viver em um residencial com lazer completo de clube e a segurança de ter tudo em casa, fazem com que todos os dias sejam diferentes.   Elev Alto do Ipiranga. Sonhe Alto e realize-se!   Rua Coronel Domingos Ferreira, 205 - Ipiranga  Projetistas   Arquitetônico:   ELG Arquitetos   Paisagístico:   Roberta Ventura Arquitetura & Paisagismo   Decoração:   Gabriela Bosso Arquitetura   R. Cel. Domingos Ferreira, 205   Ipiranga - São Paulo -    Informações do empreendimento  área total  4390m² de terreno   torres  3 torres   Pavimento  20 pavimentos  Salões de festas gourmet   Delivery room  Delivery room   Coworking com salas privativas de reunião e estudos  Coworking com salas privativas de reunião e estudos   Brinquedoteca  Brinquedoteca   Espaço Bem Estar c/ Sala de Massagem  Espaço Bem Estar c/ Sala de Massagem   Mini Market  Mini Market   Oficina de Bike  Oficina de Bike   Sala de Oficina com ferramentas  Sala de Oficina com ferramentas  Salão de Jogos   Sports Bar  Sports Bar   Pet Care  Pet Care   Lavanderia  Lavanderia   Playground  Playground   Piscina descoberta com solarium e espreguiçadeiras  Piscina descoberta com solarium e espreguiçadeiras   Praças de Estar e Convívio  Praças de Estar e Convívio   Academia equipada  Academia equipada  Espaço Fitness Externo   Quadra de Areia  Quadra de Areia   Churrasqueiras com Apoio externo  Churrasqueiras com Apoio externo   Pet Place externo  Pet Place externo   Bicicletários  Bicicletários",
+            "numberOfRooms": "2 a 2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "34 a 37m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04125-200",
+                "streetAddress": "Rua Coronel Domingos Ferreira, 205"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.570381",
+                "longitude": "-23.567387"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/lancamento/elev-alto-do-ipiranga-2dorm-34-a-37m2-c-sacada-e-opcao-de-suite/id-18511543/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/lancamento/elev-alto-do-ipiranga-2dorm-34-a-37m2-c-sacada-e-opcao-de-suite/id-18511543/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na travessa baía de emboraí, 50, jardim santa terezinha, são paulo, 48 m2 por r$ 140.000",
+            "description": "Apartamento 02 dormitórios, na parada  quinze de novembro  , transferencia de divida  junto a CDHU  saldo de vedor de R$ 23 mil com  prestação de R$ 317.00 a 15 minutos do metro Itaquera uma ótima região ,com transporte, escolas ,mercados, farmáci...",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08430-028",
+                "streetAddress": "Travessa Baía de Emboraí, 50"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.4278973",
+                "longitude": "-23.5281942"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-santa-terezinha-48m2-RS140000/id-9145649/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-santa-terezinha-48m2-RS140000/id-9145649/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda em são paulo, parque regina, com 1 quarto, com 38 m²",
+            "description": "1 Sala 1 Cozinha 1 Quarto 1 Banheiro 1 Área de serviço.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "38m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.75281",
+                "longitude": "-23.6354"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-parque-regina-38m2-RS140000/id-12081082/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-parque-regina-38m2-RS140000/id-12081082/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda em são paulo, parque regina, com 1 quarto, com 38 m²",
+            "description": "1 Sala 1 Cozinha 1 Quarto 1 Banheiro 1 Área de serviço.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "38m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.75281",
+                "longitude": "-23.6354"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-parque-regina-38m2-RS140000/id-12077227/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-parque-regina-38m2-RS140000/id-12077227/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda possui 50m2 com 2 dormitórios no valor de r$ 140.000,00 - jardim catanduva, são",
+            "description": "Este apartamento no Condomínio Lírio dos Vales oferece uma excelente oportunidade de aquisição em um ambiente acolhedor e com várias comodidades. Localizado no 1º andar,possui 50m2 o apartamento com dois quartos, uma sala aconchegante, uma cozinha prática e um banheiro.  O imóvel vem com uma vaga de estacionamento rotativa, o que proporciona flexibilidade para estacionar seu veículo com tranquilidade. O condomínio também oferece um salão de festas equipado com churrasqueira, perfeito para celebrar momentos especiais com amigos e familiares.  O condominio fica bem próximo ao Hospital Campo Limpo, Supermercado Catanduva , Terminal Campo Limpo e mais uma variedade de comércios. A presença de um porteiro 24 horas garante a segurança e a conveniência dos moradores, proporcionando tranquilidade e controle de acesso ao condomínio.  Este é um ótimo momento para considerar este apartamento no Condomínio Lírio dos Vales como seu novo lar ou investimento. Agende uma visita para conhecer melhor o imóvel e explorar todas as possibilidades que ele oferece.  Venda R$ 140.000,00 Condominio R$ 200,00 IPTU ISENTO.   ***Valores estes que podem sofrer alterações de acordo com seus administradores***   Agende já a sua visita pelo telefone: (11) ou pelo WhatsApp: .  Aqui você encontra o que procura, direto ao ponto, rápido e fácil do seu jeito! Estamos a disposição para lhe apresentar as melhores opções para uma locação, venda e compra segura de imóveis.  Trazemos para você uma oportunidade única!! A Leal Invest tem opções de apartamentos, casas residenciais e comerciais, sobrados, terrenos e lojas para venda ou locação, tudo isso na cidade de São Paulo! Além de empreendimentos em construção ou lançamentos na planta na região com espaços modernos e aconchegantes, com toda a comodidade e praticidade que você procura. Temos milhares de ofertas para você encontrar o imóvel que mais combina com seu estilo de vida, conosco você poderá encontrar o ambiente perfeito para desfrutar de momentos especiais com amigos e familiares.  Somos uma imobiliária online, onde você consegue comprar ou alugar um imóvel em São Paulo mesmo não estando na cidade, com a praticidade e tranquilidade de fazer tudo online, direto do seu computador ou smartphone a qualquer horário. Vamos encontrar seu novo lar em São Paulo!  Na Leal Invest você também consegue negociar seu imóvel de forma totalmente online, com segurança e tranquilidade, criamos soluções inovadoras para simplificar a relação de proprietários, inquilinos e compradores com o mercado imobiliário.    Contamos com uma equipe de corretoras, competentes e capacitadas para sanar todas as suas dúvidas, com fácil agendamento de visitas, avalição e disponibilidade para tirar fotos do seu imóvel.   Há mais de 15 anos no mercado imobiliário, nós da Imobiliária Leal Invest ajudamos você a encontrar o imóvel perfeito para comprar ou alugar. Procuramos atender o quanto antes para conclusão do negócio rápido.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "50m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05767-340",
+                "streetAddress": "Rua Domingos de Góes, 94"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7624555",
+                "longitude": "-23.6331561"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-catanduva-50m2-RS140000/id-16665852/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-catanduva-50m2-RS140000/id-16665852/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Lindo apartamento fase de construção - próximo ao metrô",
+            "description": "Apartamento de 1 dormitório, região privilegiada. ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "27 a 27m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04047-010",
+                "streetAddress": "Rua das Gardênias, 25"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.570381",
+                "longitude": "-23.567387"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/lancamento/lindo-apartamento-fase-de-construcao-proximo-ao-metro/id-18677218/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/lancamento/lindo-apartamento-fase-de-construcao-proximo-ao-metro/id-18677218/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na rua marinho arcanjo dos santos, 41, jardim santa terezinha, são paulo por r$ 140.000",
+            "description": "APARTAMENTO COM:  02 DORMITÓRIOS SALA COZINHA 01 VAGA DE GARAGEM",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "--m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08430-025",
+                "streetAddress": "Rua Marinho Arcanjo dos Santos, 41"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.42849",
+                "longitude": "-23.52553"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-santa-terezinha-RS140000/id-9841141/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-santa-terezinha-RS140000/id-9841141/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento para venda em são paulo, parque são rafael, 2 dormitórios, 1 banheiro, 1 vaga",
+            "description": "Apartamento para Venda no bairro JARDIM ELIZABETH, localizado na cidade de São Paulo SP.     Com 2 dormitórios, possui 1 banheiro, 1 vaga de garagem, 1 sala, Cozinha, Lavanderia área de serviço.     Valor do Imóvel R$ 140.000,00, Valor do Condomínio R$ 220,00.     Cômodos: Banheiro (WC), Cozinha, Lavanderia área de serviço, QuartoDormitório, Sala de estar, Vaga p auto.     Contas de consumo: Agua individual, Luz individual.     Proximidades: Próximo a escolas, Próximo ao comércio local, Fácil acesso principais vias, Próx. a PontoTerminal de ônibus.           - Cômodos: Banheiro (WC), Cozinha, Lavanderia área de serviço, QuartoDormitório, Sala de estar, Vaga p auto,     - Contas de consumo: Agua individual, Luz individual,     - Proximidades: Próximo a escolas, Próximo ao comércio local, Fácil acesso principais vias, Próx. a PontoTerminal de ônibus,",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "--m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-parque-sao-rafael-RS140000/id-5351622/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-parque-sao-rafael-RS140000/id-5351622/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 48 m² por r$ 140.000,00 - ipiranga - são paulo/sp",
+            "description": "Apartamento COHAB, não aceita financiamento. Bem próximo ao metrô e terminal Sacomã (8 minutos a pé), próximo a área com diversos comércios (Silva Bueno). Apartamento com 2 dormitórios, sala, cozinha, área de serviço e 1 banheiro. Sem vaga. Contrato de compra venda, parcelas na COHAB em dia (R$ 104,00/mês) condomínio (R$ 250,00 com água inclusa). Gás encanado para o fogão.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04218-000",
+                "streetAddress": "Rua Comandante Taylor, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.59797",
+                "longitude": "-23.60004"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-ipiranga-75m2-RS140000/id-12941900/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-ipiranga-75m2-RS140000/id-12941900/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda em são paulo, parque regina, com 1 quarto, com 38 m²",
+            "description": "1 Sala 1 Cozinha 1 Quarto 1 Banheiro 1 Área de serviço.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "38m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.75281",
+                "longitude": "-23.6354"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-parque-regina-38m2-RS140000/id-12081120/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-parque-regina-38m2-RS140000/id-12081120/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 50 m² por r$ 140.000,00 - jardim maria estela - são paulo/sp",
+            "description": "APARTAMENTO VAGO TOTALMENTE REFORMADO, TODO EM PISO PORCELANATO. 2 DORMITÓRIOS, SALA 2 AMBIENTES, COZINHA COM ARMÁRIOS PLANEJADOS , 1 VAGA. NÃO ACEITA FINANCIAMENTO. PRÉDIO SEM ELEVADOR .",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "50m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04181-160",
+                "streetAddress": "Rua Silas, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.6038",
+                "longitude": "-23.63958"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-maria-estela-80m2-RS140000/id-9823883/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-maria-estela-80m2-RS140000/id-9823883/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda no jardim santa terezinha, são paulo , 55 m2 por r$ 140.000",
+            "description": "02 Dormitório(s)01 Vaga(s)Área útil: 55,00 m²  DESCRIÇAO DO IMÓVEL: Apartamento quitado já para financiamento, reformado, com boa localização e fácil acesso de condução  Valor Condomínio:R$ 150,00 Valor IPTU/mês:R$ 330,00 (valores podem sofrer alteração sem aviso prévio). atual.05/12/23",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "55m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64452",
+                "longitude": "-23.69673"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-santa-terezinha-RS140000/id-13380791/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-santa-terezinha-RS140000/id-13380791/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 39 metros quadrados no parque regina!!",
+            "description": "Lindo Apartamentos novíssimo com 39 metros quadrados ,com 1 dormitório,1 banheiro e sala. Localizado no bairro Parque regina,,muito próximo dos comércios do bairro. Fácil acesso a transportes públicos e do Metrô Vila das Belezas. Marque sua visita e venha conhecer este maravilhoso empreendimento. te aguardo.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "39m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05773-020",
+                "streetAddress": "Rua Bernardo Correia Leitão, 947"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7572235",
+                "longitude": "-23.6335627"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-campo-limpo-39m2-RS140000/id-17477294/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-campo-limpo-39m2-RS140000/id-17477294/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 48 m² por r$ 140.000,00 - jardim santa terezinha - são paulo/sp",
+            "description": "Apartamento com 2 dormitórios espaçosos, Sala grande, Lavanderia independente, Próximo de rua de grande comércio Linha de ônibus para Metrô Itaquera na frente do prédio. Pode ser financiado e entra no Programa Minha Casa Minha Vida podendo obter subsídios .",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08430-025",
+                "streetAddress": "Rua Marinho Arcanjo dos Santos, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.42898",
+                "longitude": "-23.52707"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-santa-terezinha-48m2-RS140000/id-17490319/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-santa-terezinha-48m2-RS140000/id-17490319/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamentos studios, 1 e 2 dorm - campo belo",
+            "description": "Apartamentos tipo Studios, 1 e 2 Dormitórios, com lazer completo.  Apartamento na planta, localizado a 250 metros do aeroporto de Congonhas e à estação Congonhas do Metro.  Projeto singular com características exclusivas.  Apartamentos entregues com Infra de ar-condicionado, fechadura eletrônica, varanda, piso nivelado, etc...  Áreas Comuns: - Pet Place - Sistema Locker - Praça de convivência - Bicicletátio - Mini Mercado - Lavanderia Coletiva - Salão de Festas - Espaço Gourmet - Academia - Piscina - Churrasqueira - Lounge com observatório  PARA MAIORES INFORMAÇÕES SÓ ENTRA EM CONTATO",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "24 a 49m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/lancamento/apartamentos-studios-1-e-2-dorm-campo-belo/id-15243898/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/lancamento/apartamentos-studios-1-e-2-dorm-campo-belo/id-15243898/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/212774/9145649/sp-sao-paulo-jardim-santa-terezinha-travessa-baia-de-emborai-apartamento-a-venda-2-quartos-6365295b-1.jpg",
+        "name": "Apartamentos à venda na Zona Sul em São Paulo - Página 4 | Chaves na Mão",
+        "description": "34.110 Apartamentos à venda na Zona Sul em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Sul em São Paulo. - Página 4",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "285000",
+            "priceCurrency": "BRL",
+            "lowPrice": "140000",
+            "offerCount": "34110"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-sul/",
+                    "name": "Zona Sul"
+                }
+            }
+        ]
+    }
+]

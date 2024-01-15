@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento em jardim celeste  -  são paulo",
+            "description": "Apto no Jd. Celeste, 2 dormitórios, todo reformado, Piso em Porcelanato, sala dois ambientes, cozinha com gabinete e revestimento novo, , banheiro com Box de vidro e gabinete, área de serviço, gás encanado, 1 vaga de garagem, em condomínio com Sistema de Segurança, Salão de Festas, Churrasqueira, Playground, e quadra. Localizado em área verde, próximo ao Zoo Safári, Zoológico, Jardim Botânico, Parque Cientec Usp. Fácil acesso a Rodovia Anchieta e Rod. Imigrantes, Av. Miguel Stefano, Av. dos Bandeirantes..",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "52m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-celeste-RS199000/id-14483258/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-celeste-RS199000/id-14483258/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 45 m² por r$ 199.000,00 - jardim ipanema (zona oeste) - são paulo/sp",
+            "description": "RESIDENCIAL DAS PALMEIRAS!!  Apartamento dispõe de: 45m² de área útil 2 Dormitórios Cozinha Sala com sanca 1 Vaga de garagem (vaga é rotativa 6 meses dentro 6 meses fora)  Diferenciais: Churrasqueira Espaço Gourmet Brinquedoteca Quadra Playground Salão de Jogos Salão de Festas Área Verde  Valores de condomínio e IPTU podem sofrer alteração sem nosso conhecimento. Sujeito a confirmação de disponibilidade.  Entre em contato conosco pelo WhatsApp  (11) 9 ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05187-010",
+                "streetAddress": "Avenida Alexios Jafet, 555"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.750667572021484",
+                "longitude": "-23.45028305053711"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-ipanema-zona-oeste--RS199000/id-11223020/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-ipanema-zona-oeste--RS199000/id-11223020/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda no jardim celeste, são paulo , 52 m2 por r$ 199.000",
+            "description": "Apartamento residencial para Venda Jardim Celeste, São Paulo 2 dormitórios, 1 sala, 1 banheiro, 1 vaga 52,00 m² útil",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "52m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.75078",
+                "longitude": "-23.599"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-celeste-RS199000/id-15358886/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-celeste-RS199000/id-15358886/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Gran kazzas jaguaré – são paulo !!!",
+            "description": "Gran Kazzas Jaguaré – São Paulo !!!  2 dormitórios, 1 banheiro. Verificar possibilidade com ou sem vaga de garagem. Varanda.  Área útil: de 37 m2 a 42 m2  Área de Lazer: Piscina (13,65m x 4,90m), Solarium, Brinquedoteca, Playground, Academia, Funcional Externo, Salão de Festas, Espaço Gourmet, Salão de Jogos, Quadra, Pet Place, Delivery, Coworking, Churrasqueira, Cinema, Espaço Jovem, Praça, Estar Externo,   Ponto Grill (Unidade com Terraço), Tomada USB, Método Construtivo: Alvenaria Estrutural, Infra Ar Condicionado: Áreas Comuns (Portaria, Fitness e Salão de Festas), Gás Encanado nas Unidades.  Previsão de Entrega: 30/10/2024.  Para maiores informações !!!  Corretora: Fabiana Fernandes. 13 . 99630 _ 1110 13 . 99716 _ 6155 CRECI. 211.546 F FFM0134  Observação:  As informações contidas neste anúncio, tais como: valores, mobiliário, disponibilidade, etc., sempre serão confirmadas junto aos Proprietários do imóvel no momento do agendamento da visita / apresentação de proposta.  ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "37m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jaguare-37m2-RS199000/id-14953570/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jaguare-37m2-RS199000/id-14953570/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios para venda no butantã",
+            "description": "Condomínio com ótimas opções de lazer como: academia, salão de festas, churrasqueira, quadra esportiva e uma boa área verde. Apartamento com 2 dormitórios, cozinha americana, banheiro com box, área de serviço, vaga de estacionamento para moto e carro. Próximo de comércios, USP, transporte público, escolas e fácil acesso à Rod. Raposo Tavares e Rodoanel.  São 110 mil de entrada e mais 55 mil em parcelas de 500,00. Agende uma visita! Alugue enviando apenas 2 documentos que são analisados em até 48 horas. Adquira seu imóvel recebendo todas as certidões na formalização da proposta. A Camargo Prime digitalizou os seus serviços mantendo o atendimento personalizado, entregando uma experiência única onde o cliente escolhe como será a comunicação. Somos digitais sem perder a essência do contato humano!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05574-010",
+                "streetAddress": "Rua Joaquim Guimarães, 651"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.80232",
+                "longitude": "-23.59059"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-butanta-48m2-RS199000/id-12719555/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-butanta-48m2-RS199000/id-12719555/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda no jardim celeste, são paulo , 52 m2 por r$ 199.000",
+            "description": "Apartamento residencial para Venda Jardim Celeste, São Paulo 2 dormitórios, 1 sala, 1 banheiro, 1 vaga 52,00 m² útil",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "52m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.75078",
+                "longitude": "-23.599"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-celeste-RS199000/id-15881482/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-celeste-RS199000/id-15881482/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios para venda no butantã",
+            "description": "Condomínio com excelentes opções de lazer como: academia, salão de festas, churrasqueira, quadra esportiva e área verde. Apartamento com 2 dormitórios, cozinha americana, banheiro com box, área de serviço e vaga de estacionamento para moto apenas. Comércio, transporte público, escolas, fácil acesso à Rod. Raposo Tavares e Rodoanel. Venha conhecer este belo imóvel, agende uma visita! Alugue enviando apenas 2 documentos que são analisados em até 48 horas. Adquira seu imóvel recebendo todas as certidões na formalização da proposta. A Camargo Prime digitalizou os seus serviços mantendo o atendimento personalizado, entregando uma experiência única onde o cliente escolhe como será a comunicação. Somos digitais sem perder a essência do contato humano!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05574-010",
+                "streetAddress": "Rua Joaquim Guimarães, 651"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.80232",
+                "longitude": "-23.59059"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-butanta-48m2-RS199000/id-13833837/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-butanta-48m2-RS199000/id-13833837/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 1 quarto, vila invernada - são paulo/sp",
+            "description": "Já pensou em morar em um Apartamentos (tipo Studio) de 1dormitório, banheiro, sala, cozinha, área de serviço, sem vaga  (link removido)  bem localizado em uma rua tranquila, aproximadamente 850metros do shopping Anália Franco e da Futura estação do metroAnália  (link removido)  já sua visita!Nós, da BRK Imóveis, trabalhamos diariamente para atender com excelência a todos os nossos clientes buscando superar suas expectativas!Nossa atuação em planejamento, imóveis em lançamentos, construção, imóveis prontos, incorporação e imóveis para locação é marcada pelo comprometimento, seriedade e experiência de mercado, visando garantir assim a realização de sonhos e de excelentes negó (link removido)  compromisso é estabelecer uma relação de confiança para que sempre sejamos sua melhor companhia em negócios imobiliários!",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "33m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Rua Artur Bernardes, 676"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.56085",
+                "longitude": "-23.56854"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-invernada-33m2-RS199000/id-10155427/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-invernada-33m2-RS199000/id-10155427/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Lindo apartamento 1 dormitório morumbi",
+            "description": "VENHA MORAR NO MORUMBI, PERTINHO DO ESTÁDIO!!!  CHEGOU A GRANDE OPORTUNIDADE DE NA COMPRA DO SEU PRIMEIRO APARTAMENTO, JÁ MORAR NA MELHOR PARTE DO MORUMBI. More bem e com valor jamais visto na região (Preço de lançamento, unidades limitadas). Qualidade de vida para toda família, muito estilo, mobilidade, conforto e segurança.  E o melhor de tudo isso é a condição de compra, que está ao seu alcance. Esse empreendimento tem os benefícios do Programa Habitacional Minha Casa Minha Vida. Parcelas de financiamento direto com a Caixa e com a menor taxa de juros do mercado. Subsídio do governo federal. Utilize seu FGTS como entrada e se faltar conseguimos parcelar com a construtora.  Do seu Apê, ali na quadra da Gionanni Gronchi você consegue ir para onde quiser:  -Ponto de ônibus Av. Giovanni Gronchi- 3min -Supermercado Mambo- 4min -Dia Supermercado- 5min -Estádio Cícero Pompeu- 8min -Shopping Jardim Sul / Morumbi Town- 13min -Estação Morumbi- 17min -Petz- 2min -Colégio Evolve- 7min -Butantã Shopping- 16min -Bradesco- 4min  VENHA MORAR NESSE CLUBE!!!  Lazer completo pensado para sua família.  - PORTARIA - HALL SOCIAL - MINIMERCADO - DELIVERY - PISCINA INFANTIL - PISCINA ADULTO - PRAÇA CHURRASQUEIRA - COWORKING - PET CARE - LAVANDERIA - SALA FUNCIONAL - BICICLETÁRIO - ROOFTOP DESCOBERTO - SALÃO DE FESTAS - SALA DE JOGOS - BRINQUEDOTECA - MINIQUADRA - PLAYGROUND  Um empreendimento pensado nos mínimos detalhes, visando praticidade, sustentabilidade e o menor valor de condomínio.  - Bacias com sistema de acionamento Dual Flux nos apartamentos e nas áreas comuns, proporcionando maior economia de água; - Piso cerâmico entregue na cozinha / área de serviço / sala; - Sistema de reaproveitamento de água da chuva; - Previsão de medição individual para gás. Será executada infraestrutura para futura instalação de medidores individuais por parte do Condomínio; - Medição individual para água; - Coleta seletiva planejada. Será entregue kit contendo 4 (quatro) lixeiras para armazenamento, em separado, do lixo reciclável e 1 (uma) para o lixo não reciclável, instalado no local determinado em projeto na área comum do térreo; - As escadas de emergência e halls de circulação dos pavimentos-tipo serão dotados de iluminação com sensores de presença visando economia.  NÃO PERCA TEMPO, ENTRE EM CONTATO E FAÇA UMA SIMULAÇÃO GRÁTIS.  REALIZE SEU SONHO!!  Corretor Capelli",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "31m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05662-060",
+                "streetAddress": "Rua Leandro Teixeira, 310"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.725369",
+                "longitude": "-23.6106291"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-morumbi-RS199000/id-18245880/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-morumbi-RS199000/id-18245880/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento, 1 dormitorio, jardim celeste",
+            "description": "Se você está procurando um lugar tranquilo, confortável e bem localizado, este é o apartamento ideal para você! Com 51m², 1 dormitório, armários planejados, cozinha, sala, área de serviço e 1 vaga de garagem, este apartamento é perfeito para quem busca praticidade e qualidade de vida. O condomínio oferece diversas opções de lazer, como salão de festas, churrasqueira e playground, perfeito para você curtir com sua família e amigos. Além disso, a rua é muito tranquila e fica a apenas 200 metros da entrada do Zoo Safári, um dos principais pontos turísticos da região. Você também terá acesso fácil a diversos comércios, como posto de gasolina, mini mercado, academia, padaria, escola municipal e posto de saúde, tudo isso a poucos minutos de distância do apartamento. E se você precisa se locomover, o apartamento oferece uma farta condução para as estações de metrô linha azul, São Judas, Saúde e Praça da Árvore e linha verde, Alto do Ipiranga e Sacomã. Não perca a oportunidade de morar em um apartamento completo e bem localizado como esse! Com a Nova São Paulo a compra do seu imóvel é mais segura. Oferecemos assessoria gratuita em financiamento imobiliário, orientando o cliente em todo o processo de negociação. Você pode agendar sua visita ou tirar dúvidas também pelo whatsApp. Confira nossos telefones.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "51m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Rua Augusta Santel, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.61301",
+                "longitude": "-23.65651"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-celeste-51m2-RS199000/id-16376899/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-celeste-51m2-RS199000/id-16376899/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento na região da vila sonia, proximo a estação 5min apenas",
+            "description": "Apartamento com 2 dormitórios, dentro do projeto casa verde e amarela, onde você ganha até 47 mil de Subsídio para te impulsionar a comprar.  >>>PISO GRÁTIS EM TODO O APARTAMENTO  Ótima Localização, More perto de Metrô, Mercados, Bancos e tenha qualidade de vida!  Lazer com SALÃO DE FESTAS, ACADEMIA, CHURRASQUEIRA, PRAÇA, PLAYGROUND, PET PLAYCE, COWORK, PORTARIA 24 HORAS, MINI MERCADO, BICICLETÁRIO  Parcelamos sua entrada até 36x após a entrega Utilize o FGTS Chaves, documentação registro e ITBI Grátis Facilidade para aprovar seu crédito  Duvidas chame agora mesmo e realize seu sonho!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "34m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05528-001",
+                "streetAddress": "Rua Edvard Carmilo, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7548",
+                "longitude": "-23.59799"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-celeste-RS199900/id-9965872/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-celeste-RS199900/id-9965872/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Ntos  proximo metro butanta 2 dorm mcmv",
+            "description": "Ficha do produto Projeto Geral Terreno: 5.358,48m² Número de torres : 02 Total de Unidade : 494 Número de andares: Térreo + 20. O apartamento Apartamentos de 2 dorms.  Metragens  Aptos tipo 2 doms - 32,39m² a 32,75m²",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "33m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05528-001",
+                "streetAddress": "Rua Edvard Carmilo, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.570381",
+                "longitude": "-23.567387"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jardim-celeste-RS199990/id-17677439/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jardim-celeste-RS199990/id-17677439/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Plano & reserva barra funda - 1 ou 2 dorm 26 à 35m2 c/sacada e",
+            "description": "Projeto Geral Terreno: 5.508,84m² Número de torres: 03 Total de Unidade: 753 Número de andares: 20 pav. O apartamento Apartamentos de 1 a 2 dorms. Metragens:  Tipo 1 dorms. c/ terraço: 26,64m² a 32,51m² Tipo 2 dorms. c/ terraço: 34,34m² a 34,93m² Giardino 1 dorms.: 29,43m² a 31,39m² Giardino 2 dorms. s/ suíte: 44,16m² e 44,75m",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "26m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01141-070",
+                "streetAddress": "Rua Rubens Porta Nova, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.570381",
+                "longitude": "-23.567387"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-parque-industrial-tomas-edson-RS199999/id-17674867/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-parque-industrial-tomas-edson-RS199999/id-17674867/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "[novidade] apartamento à venda no residencial saint louis -  rua ernest renam, 605 - paraisópolis - são paulo - sp - cep 05659-020",
+            "description": "DISPONÍVEL PARA VISITAS ! Apartamento à venda no Residencial Saint Louis - Rua Ernest Renam, 605 - Paraisópolis - São Paulo - SP - CEP 05659-020  Apartamento 41² , 2 dormitórios. Armarios na cozinha banheiro e dormitórios. Área de lazer com salão de festas.  Atualizado",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "41m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05659-020",
+                "streetAddress": "Rua Ernest Renam, 605"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7236185",
+                "longitude": "-23.6105517"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-morumbi-41m2-RS200000/id-16406580/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-morumbi-41m2-RS200000/id-16406580/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 52 m² por r$ 200.000,00 - jardim celeste - são paulo/sp",
+            "description": "Excelente apto, localizado no bairro Jd. Celeste, próximo ao Simba Safari;  apto c/ 02 dormitórios, sala ampla, cozinha espaçosa, boa área de serviço, 01 vaga de garagem, apto muito bem conservado, bem localizado, área restritamente residencial, muita segurança no entorno, variados comercio próximo, ônibus com destino para vários locais.  Estamos lhe aguardando, venha conhecer.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "52m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04195-110",
+                "streetAddress": "Rua Alexandre Rapin, 52"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.61241149902344",
+                "longitude": "-23.657001495361328"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-celeste-RS200000/id-12837736/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-celeste-RS200000/id-12837736/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/323340/14483258/sp-sao-paulo-jardim-celeste-apartamento-a-venda-2-quartos-646f1223-1.jpg",
+        "name": "Apartamentos à venda na Zona Oeste em São Paulo - Página 15 | Chaves na Mão",
+        "description": "14.908 Apartamentos à venda na Zona Oeste em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Oeste em São Paulo. - Página 15",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "200000",
+            "priceCurrency": "BRL",
+            "lowPrice": "199000",
+            "offerCount": "14908"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-oeste/",
+                    "name": "Zona Oeste"
+                }
+            }
+        ]
+    }
+]

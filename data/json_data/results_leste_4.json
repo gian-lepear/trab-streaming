@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Bosque club 2 ou 3dorm - 40 à 137m2 c/sacada e opção de vaga, suite e closet",
+            "description": "2 DORMS OPÇÃO COM SUÍTE E VAGA   - Unidades com e sem vagas de garagem  - Unidades com opção de suíte  - Varanda Gourmet  - Infraestrutura para chuveiro à gás  - Cozinha tipo americana integrada  - Unidades com porta balcão com folha tripla para maior vão de abertura  - Área de Serviço e Cozinha com ventilação natural  - Contrapiso do terraço nivelado com a sala e cozinha   Melhor valor de m² da região.   *Promoção de lançamento (*ITBI + Registro grátis).   *Consulte o seu consultor para condições de ITBI e Registro grátis, vaga de garagem, disponibilidade de valores das unidades e demais informações.  Empreendimento  20 - BOSQUE CLUB ITAQUERA   Incorporadora  GRAAL ENGENHARIA   Arquitetura  GRAAL ENGENHARIA   Localização  Rua Dona Maria de Camargo, 106 Itaquera  São Paulo SP  cep.: 08215-260   Área do terreno total  2.500m2   Número de torres  2   Andares  12 pavimentos   Total de Unidades  168   Número de elevadores  04   Garagem  98  - Crossfit  - Fitness  - Horta  - Redário  - Pet Wash  - Pet place  - Pet Place e Pet Wash  - Praça Gourmet  - Espaço Gourmet  - Salão de Festas  - Coworking  - Fitness  - Firepit  - Sala de Massagem  - Espaço Mulher  - Salão de Jogos  - Brinquedoteca  - Espaço Delivery  - Lobby de Entrada  - Churrasqueira  - Playground  - Quadra Recreativa  - Piscinas Adulto e Infantil  - Solarium  - Sauna Seca  LOCALIZAÇÃO  Empreendimento  Rua Dona Maria de Camargo,106  São Paulo, Brasil",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40 a 81m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08215-260",
+                "streetAddress": "Rua Dona Maria de Camargo, 106"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.44797",
+                "longitude": "-23.53187"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/lancamento/bosque-club-2-ou-3dorm-40-a-137m2-c-sacada-e-opcao-de-vaga-suite-e-closet/id-16619658/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/lancamento/bosque-club-2-ou-3dorm-40-a-137m2-c-sacada-e-opcao-de-vaga-suite-e-closet/id-16619658/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 41 m² por r$ 105.298,00 - vila são josé - são paulo/sp",
+            "description": "LEIA ATENTAMENTE A DESCRIÇÃO DO ANUNCIO.  Somos uma empresa credenciada junto ao Banco CAIXA ECONÔMICA FEDERAL, especializada na intermediação de venda dos imóveis de propriedade da CAIXA. Imóveis com descontos INCRÍVEIS!  Se houver dívidas de condomínio e IPTU, tudo será pago pela CAIXA econômica Federal até a data da aquisição do imóvel, (salvo disposição em contrário), consulte um de nossos corretores.  Para sua segurança possuímos um DEPARTAMENTO JURÍDICO para auxiliar do início ao fim do processo.  Não são permitidas visitas internas na maioria dos Imóveis CAIXA, pois muitas vezes encontram-se ocupados pelo antigo mutuário;  Se o imóvel estiver OCUPADO, DAREMOS ASSISTÊNCIA JURÍDICA TOTAL ao comprador referente ao processo de IMISSÃO na posse do imóvel e negociação da saída do atual morador. Ou seja, NÃO haverá custos com honorários de advogado, apenas eventual taxa cobrada pelo poder judiciário e destinada diretamente a ele.   NÃO aceita permuta, automóvel ou contraproposta sobre o valor anunciado;  Financiamento DE ATÉ 95% do valor do imóvel, sujeito análise de crédito.  Em caso de aceite de financiamento bancário, este somente poderá ser concedido pela CAIXA, proprietária do bem.  Valores e disponibilidade Sujeitos a confirmação no momento da consulta  Contato: 9  WhatsApp",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "41m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08412-180",
+                "streetAddress": "Rua Bento Soares Mota, 65"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.41106",
+                "longitude": "-23.55971"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-vila-sao-jose-41m2-RS105298/id-18363448/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-vila-sao-jose-41m2-RS105298/id-18363448/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Vila são josé - oportunidade única em sao paulo - sp | tipo: apartamento | negociação: licitação aberta  | situação: imóvel apartamento",
+            "description": "  2 Quartos, Área de Serviço, Wc, Sala, Cozinha. Play, Portaria e ou Guarita Baixar edital e anexosRUA BENTO SOARES MOTA,N. 65 APTO. 24 BL 3, GUAIAUNA - CEP: 08412-180, SAO PAULO - SAO PAULO.     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio..     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio.  ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "41m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08412-180",
+                "streetAddress": "Rua Bento Soares Mota, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.4091",
+                "longitude": "-23.55826"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-guaiauna-63m2-RS105298/id-17423324/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-guaiauna-63m2-RS105298/id-17423324/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Parque saint john - oportunidade única em sao paulo - sp | tipo: apartamento | negociação: licitação aberta  | situação: imóvel apartamento",
+            "description": "  2 Quartos, 1 Vaga na Garagem, Área de Serviço, Wc, Sala, Cozinha. Vaga de Garagem nº 103. Condomínio Possui Equipamento de Segurança, Espaço Com Churrasqueira, Rede Interna de Gás, Piscina, Playground, Portaria E/ou Guarita, Salão de Festas, Outros Salões de Lazer Baixar edital e anexosRUA ALTO BENI,N. 110 APTO. 307 BL 04, GUAIANAZES - CEP: 08421-130, SAO PAULO - SAO PAULO.     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio..     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio.  ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "54m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08421-130",
+                "streetAddress": "Rua Alto Beni, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.42312",
+                "longitude": "-23.56175"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-guaianases-90m2-RS106800/id-16940964/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-guaianases-90m2-RS106800/id-16940964/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios em itaquera",
+            "description": "Portaria 24 horas, IPTU Isento Próximo Atacadão, Assaí, posto de saúde, feira livre, pesqueiro, piscinas. O condomínio tem 5 anos",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08260-120",
+                "streetAddress": "Rua Zituo Karasawa, 44"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.44136",
+                "longitude": "-23.58092"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-colonia-zona-leste-48m2-RS108000/id-10697490/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-colonia-zona-leste-48m2-RS108000/id-10697490/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Vibra estação oratório - 2dorm 37 à 41m2 c/sacada e opção de vaga",
+            "description": "SOBRE O VIBRA ESTAÇÃO ORATÓRIO  O VIBRA ORATÓRIO FOI PENSADO PARA FACILITAR O SEU DIA E SUA MOBILIDADE A 3 MINUTOS DA ESTAÇÃO ORATÓRIO COM INTEGRAÇÃO COM A LINHA VERDE DO METRÔ. CONDOMÍNIO COM LAZER COMPLETO E COM ITENS EXCLUSIVOS .  6 ELEVADORES;  SISTEMA CONSTRUTIVO EM ALVENARIA ESTRUTURAL;  PREVISÃO PARA REDE WIFI NAS ÁREAS COMUNS (INTERNAS);  CERCA ELÉTRICA PERIMETRAL;  INFRAESTRUTURA PARA AS CÂMERAS NAS ÁREAS COMUNS;  NÃO FOI PREVISTA CARGA ELÉTRICA PARA INSTALAÇÃO DE AR CONDICIONADO;  BICICLETÁRIO COBERTO NOS PAVIMENTOS DE GARAGEM: PREVISÃO PARA APROXIMADAMENTE 90 BICICLETAS;  ESPAÇO PARA USO DE DELIVERY (A AQUISIÇÃO DO MOBILIÁRIO DESTE AMBIENTE FICARÁ A CARGO DO FUTURO  CONDOMÍNIO);  DIMENSÃO DA PISCINA: 15,00 X 3,00 0 (COMP. x LARGURA - PROFUNDIDADE 1,30M (LÂMINA D’ÁGUA H = 1,20m)  CADEIRA HIDRÁULICA PARA TRANSFERÊNCIA.  Bancada cozinha em granito sintético com cuba de inox;  Unidades com terraço com piso cerâmico;  Torneiras com redutores de vazão e arejadores (áreas comuns e apartamentos);  Ponto para chuveiro elétrico (o chuveiro não será entregue pela construtora);  Bacias com duplo acionamento (nas áreas comuns e nos apartamentos);  Persianas de enrolar nos dormitórios;  A PRINCÍPIO entregaremos Piso Laminado nos Dormitórios – mas no Memorial do Cliente será  especificado: “Laminado de madeira ou piso vinílico ou contrapiso com atenuante acústico .  Cozinha e living com conceito aberto;  Ponto para Máquina de Lavar e Secar roupas;  Porta de entrada com preenchimento reforçado;  Medição individualizada de água;   TERRENO E LOJA: AV. DO ORATÓRIO, 585   INFORMAÇÕES DO PRODUTO  NÚMERO DE TORRES: 1  TOTAL DE UNIDADES: 392  ELEVADORES: 6  ANDARES: -  NÚMERO DE DORMITÓRIOS: 2  NÚMERO DE VAGAS: 194 AUTO, 4 PCD, 1 PCD/CD* E 45 MOTOS  ÁREAS DE LAZER  #Piscina   #Brinquedoteca   #Pet Place   #Coworking   #Espaço Gourmet   #Espaço Fitness   #Salão de Jogos   #Playground",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "37 a 41m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "03221-000",
+                "streetAddress": "Avenida do Oratório, 585"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.55863",
+                "longitude": "-23.58322"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/lancamento/vibra-estacao-oratorio-2dorm-37-a-41m2-c-sacada-e-opcao-de-vaga/id-14481369/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/lancamento/vibra-estacao-oratorio-2dorm-37-a-41m2-c-sacada-e-opcao-de-vaga/id-14481369/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 40 m² por r$ 108.000,00 - jardim são paulo (zona leste) - são paulo/sp",
+            "description": "LEIA ATENTAMENTE A DESCRIÇÃO DO ANUNCIO.  Somos uma empresa credenciada junto CAIXA ECONOMICA FEDERAL, especializada na intermediação de venda dos imóveis de propriedade da CAIXA. Imóveis com até 60% desconto.  Se houver dívidas de condomínio e IPTU, tudo será pago pela CAIXA economica Federal até a data da aquisição do imóvel. Para sua segurança possuímos um DEPARTAMENTO JURÍDICO para auxiliar do ínicio ao fim do processo. NOSSA COMISSÃO será paga exclusivamente pela CAIXA economica Federal. Não são permitidas visitas internas na maioria dos Imóveis CAIXA, pois muitas vezes encontram-se ocupados pelo antigo mutuário;  Se o imóvel estiver OCUPADO, fica de responsabilidade EXCLUSIVA do comprador a emissão da posse do imóvel, e negociação da saída do atual morador. NÃO aceita permuta, automóvel ou contraproposta sobre o valor anunciado;  Financiamento DE ATÉ 95% do valor do imóvel, sujeito análise de crédito   Imóvel NÃO aceita financiamento habitacional.  Imóvel NÃO aceita parcelamento  Valores e disponibilidade Sujeitos a confirmação no momento da consulta  Contato: 9 ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08412-180",
+                "streetAddress": "Rua Bento Soares Mota, 65"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.41106",
+                "longitude": "-23.55971"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-sao-paulo-zona-leste-40m2-RS108000/id-17641175/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-sao-paulo-zona-leste-40m2-RS108000/id-17641175/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 46 m² por r$ 108.000 - santa etelvina - são paulo/sp",
+            "description": "LEIA ATENTAMENTE A DESCRIÇÃO DO ANUNCIO.  Somos uma empresa credenciada junto ao Banco CAIXA ECONÔMICA FEDERAL, especializada na intermediação de venda dos imóveis de propriedade da CAIXA. Imóveis com descontos INCRÍVEIS!  Se houver dívidas de condomínio e IPTU, tudo será pago pela CAIXA econômica Federal até a data da aquisição do imóvel, (salvo disposição em contrário), consulte um de nossos corretores.  Para sua segurança possuímos um DEPARTAMENTO JURÍDICO para auxiliar do início ao fim do processo.  Não são permitidas visitas internas na maioria dos Imóveis CAIXA, pois muitas vezes encontram-se ocupados pelo antigo mutuário;  Se o imóvel estiver OCUPADO, DAREMOS ASSISTÊNCIA JURÍDICA TOTAL ao comprador referente ao processo de IMISSÃO na posse do imóvel e negociação da saída do atual morador. Ou seja, NÃO haverá custos com honorários de advogado, apenas eventual taxa cobrada pelo poder judiciário e destinada diretamente a ele.   NÃO aceita permuta, automóvel ou contraproposta sobre o valor anunciado;  Financiamento DE ATÉ 95% do valor do imóvel, sujeito análise de crédito.  Em caso de aceite de financiamento bancário, este somente poderá ser concedido pela CAIXA, proprietária do bem.  Valores e disponibilidade Sujeitos a confirmação no momento da consulta  Contato: 9  WhatsApp",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "46m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08490-560",
+                "streetAddress": "Rua Santa Adelaide, 155"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.40655",
+                "longitude": "-23.58558"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-santa-etelvina-46m2-RS108000/id-18537721/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-santa-etelvina-46m2-RS108000/id-18537721/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamentos com 2 dormitórios na cidade tiradentes",
+            "description": "Ótima Oportunidade!  Apartamento na cidade Tiradentes.  2 dormitórios, sala, cozinha, banheiro e área de serviço Cozinha com estilo americano, balcão e gabinete embutidos, armários na cozinha.  Vaga de garagem, vários comércios próximos.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08485-130",
+                "streetAddress": "Rua Dona Eloá Do Valle Quadros., 816"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.41043",
+                "longitude": "-23.59402"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-santa-etelvina-ii-48m2-RS108000/id-10322261/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-habitacional-santa-etelvina-ii-48m2-RS108000/id-10322261/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Cond more mais cidade tiradentes - oportunidade única em sao paulo - sp | tipo: apartamento | negociação: licitação aberta  | situação: imóvel apartamento",
+            "description": "  2 Quartos, Área de Serviço, Wc, Sala, Cozinha. Equipamento de Segurança, Espaço c/ Churrasqueira Privativo, Rede Interna de Gás, Piscina, Playground, Portaria E/ou Guarita, Salão de Festas, Quadra Poliesportiva Baixar edital e anexosRUA SANTA ADELAIDE,N. 155 APTO. 55 BL B, VAGA PARA MOTO, SANTA ETELVINA - CEP: 08490-560, SAO PAULO - SAO PAULO.     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio..     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio.  ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "46m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08490-560",
+                "streetAddress": "Rua Santa Adelaide, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.40624",
+                "longitude": "-23.58525"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-santa-etelvina-50m2-RS108000/id-17154312/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-santa-etelvina-50m2-RS108000/id-17154312/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 43 m² por r$ 110.000,00 - jardim brasília - são paulo/sp",
+            "description": "Apartamento CDHU a venda  Do lado da Av. Dep. Cantídio Sampaio onde se encontrão linhas de ônibus para os mais distintos pontos da cidade.  Dormitorios: 02 sala cozinha Banheiro Lavanderia  NÃO POSSUI VAGA  Pagamento somente a vista.  Agende sua visita!!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "43m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02858-020",
+                "streetAddress": "Rua José Eduardo Pereira II, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.70227",
+                "longitude": "-23.44672"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-brasilia-43m2-RS110000/id-12478453/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-brasilia-43m2-RS110000/id-12478453/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 50 m² por r$ 110.000,00 - itaquera - são paulo/sp",
+            "description": "Venda - Agrimensor Sugaya Apartamento na Colônia - pronto para Morar  Apartamento de 55 m², Sala ampla para 02 ambientes com integração , Cozinha Planejada, 02 Dormitórios, 01 Banheiro, Área de Serviço e 01 Vaga de Garagem .  Localizado no melhor bairro, próximo ao Centro e acesso à Av, Jacupessego - único dono e com direito a uma vista SENSACIONAL. Chegou a hora de proporcionar a sua família, melhor qualidade de vida e bem - estar.  Imóvel Desocupado NÃO aceita Financiamento NÃO aceita FGTS Estuda Permuta em Automóvel  Referencia : AP0035 Valor: R$ 110.000,00 + Condomínio R$ 117,00/mês  Para mais informações e agendamento de visitas: (11)   / (11) 9  atendimento@ (link removido)   (link removido)  Unidade Prime: Rua Virgínia Ferni, 33 - Cj. Res. José Bonifácio.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "50m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08260-100",
+                "streetAddress": "Rua Chubei Takagashi, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.4201",
+                "longitude": "-23.57115"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-itaquera-50m2-RS110000/id-18447913/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-itaquera-50m2-RS110000/id-18447913/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na rua domênico allegri, 63, cidade tiradentes, são paulo, 48 m2 por r$ 110.000",
+            "description": "apartamento, 2 dormitorios, vaga rotativa",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08475-460",
+                "streetAddress": "Rua Domênico Allegri, 63"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.39897",
+                "longitude": "-23.59172"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-cidade-tiradentes-48m2-RS110000/id-9145193/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-cidade-tiradentes-48m2-RS110000/id-9145193/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na rua otelo augusto ribeiro, --, guaianases, são paulo por r$ 110.000",
+            "description": "Apartamento com 2 dormitórios, sala, cozinha, banheiro com Box, area de serviço, 2 andar, vaga de garagem, portaria 24 Horas, salão de festas, quadra poliesportiva. Próximo a estação Guaianases da CPTM. Agende sua Visita. Preço e disponibilidade do imóvel sujeitos a alteração sem aviso prévio.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "--m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08412-000",
+                "streetAddress": "Rua Otelo Augusto Ribeiro, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.40706",
+                "longitude": "-23.55612"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-guaianases-RS110000/id-14053815/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-guaianases-RS110000/id-14053815/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "2 dormitórios - santo amaro e jd. são luis - em obras, entrega em fev. 2025",
+            "description": "Vinx. Parcela a sua entrada em até 48 vezes ! O único Club Residencial da Região. Ao lado da Estação Giovanni. Proximo o atacadão ASSAI, Carrefour e muito mais ... De frente ao CENTRO EMPRESARIAL !  Está conectada com os seus sonhos e está olhando o futuro para criar experiências inteligentes hoje. O que nos move é entregar algo a mais, fazer diferente, desde a construção até o momento em que começa a vida no seu novo lar.  Area de lazer;  - 2 Churrasqueiras  - Piscina  - Pet Place  - Salão de festa  - Orta  - lojas no terreo  - Bicicletario  - OFICINA  - PLAYGROUD  - SOLARIUM  - COWRKING  - BRINQUEDOTECA  - SAUNA  - SPOTS BAR  - MINI QUADRA  - ESPAÇO GOUMERT  E muito mais ....",
+            "numberOfRooms": "null a 2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "38 a 50m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05805-000",
+                "streetAddress": "Avenida Maria Coelho Aguiar, 298"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.570381",
+                "longitude": "-23.567387"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/lancamento/2-dormitorios-santo-amaro-e-jd-sao-luis-em-obras-entrega-em-fev-2025/id-18455700/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/lancamento/2-dormitorios-santo-amaro-e-jd-sao-luis-em-obras-entrega-em-fev-2025/id-18455700/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/40097/18363448/sp-sao-paulo-vila-sao-jose-rua-bento-soares-mota-apartamento-a-venda-2-quartos-657faa1e-1.jpg",
+        "name": "Apartamentos à venda na Zona Leste em São Paulo - Página 4 | Chaves na Mão",
+        "description": "38.320 Apartamentos à venda na Zona Leste em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Leste em São Paulo. - Página 4",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "252000",
+            "priceCurrency": "BRL",
+            "lowPrice": "105298",
+            "offerCount": "38320"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-leste/",
+                    "name": "Zona Leste"
+                }
+            }
+        ]
+    }
+]

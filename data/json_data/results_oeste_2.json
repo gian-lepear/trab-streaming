@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Cury the place barra funda 2dorm 34 à 44m2 opção de vaga, sacada e suíte",
+            "description": "Apartamentos à venda na Barra Funda com 2 dormitórios, opção de suíte e terraço e lazer completo. Conheça o The Place Barra Funda com a Cury!  Ao lado da Marginal Tietê;  Próximo ao Terminal Palmeiras-Barra Funda;  Fácil acesso ao Allianz Parque e ao Shopping Bourbon  Área do Terreno: 7.968,98m²  Apartamentos por andar: 15 unidades  Número de Torres: 3  Número de Elevadores: 6 elevadores por torre  Número de Unidades: 985  Número de Andares: Torres 1 e 2 - Térreo + 22 pavimentos | Torre 3 - Térreo + 21 pavimentos  Número de Vagas: 180  Piscina  Piscina   Fitness  Fitness   Salão de festas  Salão de festas   Piquenique  Piquenique   Easy Market  Easy Market   Pista de caminhada  Pista de caminhada   Sport Bar  Sport Bar   Pet Place  Pet Place   Redário  Redário   Sauna e Descanso  Sauna e Descanso   Bicicletário  Bicicletário   Lavanderia  Lavanderia   Coworking  Coworking  Pet care  Pet care  Sobre a região  A Zona Oeste de São Paulo tem facilidade de locomoção, diversidade de comércios, instituições de ensino, e infinitas opções de lazer e cultura. Tudo isso em excelentes bairros, como: Barra Funda, Vila Madalena, Pinheiros, Sumaré, entre outros.  O estilo de vida com facilidades, qualidade e mobilidade urbana atraem pessoas de todas as idades para morar na Zona Oeste.",
+            "numberOfRooms": "2 a 2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "34 a 58m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01140-001",
+                "streetAddress": "Avenida Thomas Edison, 1006"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.66941",
+                "longitude": "-23.5182"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/lancamento/cury-the-place-barra-funda-2dorm-34-a-44m2-opcao-de-vaga-sacada-e-suite/id-18548802/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/lancamento/cury-the-place-barra-funda-2dorm-34-a-44m2-opcao-de-vaga-sacada-e-suite/id-18548802/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 44 m² por r$ 130.000,00 - jardim arpoador - são paulo/sp",
+            "description": "Apartamento em otimo estado,com 2 dormitorios 1 vaga coberta, sala , cosinha,lavanderia. boa localizacao,faci acesso ponto de onibus,supermecado,padaria,",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "44m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05565-000",
+                "streetAddress": "Avenida General Asdrúbal da Cunha, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.78854",
+                "longitude": "-23.59485"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-arpoador-RS130000/id-6189496/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-arpoador-RS130000/id-6189496/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 43 m² por r$ 135.000,00 - jaguaré - são paulo/sp",
+            "description": "Apartamento com 2 dormitórios à venda, 43 m² - Jaguaré - São Paulo/SP  Um excelente apartamento de COHAB bem conservado no terceiro andar, ele conta com infraestrutura de teto rebaixado com LED, portas de madeira maciça, banheiro com box, condomínio 50 reais, apartamento não está quitado, não da financiamento é quando quitar a escritura já sai no nome do comprador.  Agende já sua visita!!!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "43m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05328-130",
+                "streetAddress": "Rua Quica D'Água, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7527",
+                "longitude": "-23.5492"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jaguare-43m2-RS135000/id-10616206/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jaguare-43m2-RS135000/id-10616206/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na rua diogo pereira, 589, super quadra morumbi, são paulo por r$ 137.800",
+            "description": "Imóvel aconchegante à venda com 2 quartos e 1 banheiro no total. O condomínio fica localizado no bairro Super Quadra Morumbi em São Paulo. Está bem localizado, próximo a pontos de interesse de Super Quadra Morumbi, tais como EMEI Antônio Carlos Pacheco, Lar Jesus Maria e José (CCA), Colégio Anglo Morumbi, Vargas Colégio de Educação Infantil, Uninove Polo EAD Morumbi e Intermédica Centro Clínico Taboão da Serra.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "42m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05750-130",
+                "streetAddress": "Rua Diogo Pereira, 589"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.63741",
+                "longitude": "-23.65034"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-super-quadra-morumbi-42m2-RS137800/id-16720486/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-super-quadra-morumbi-42m2-RS137800/id-16720486/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 48 m² por r$ 137.800 - jaguaré - são paulo/sp",
+            "description": "Apartamento de 48m² com 2 dormitórios, sala para 2 ambientes, cozinha, banheiro e área de serviço.   Condomínio com portão eletrônico.  Fácil acesso à Av. Eng. Bilings e à Av. Pres. Altino.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05322-000",
+                "streetAddress": "Avenida Alexandre Mackenzie, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74955",
+                "longitude": "-23.5384"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jaguare-RS137800/id-16877377/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jaguare-RS137800/id-16877377/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Guedala park 1 ou 2 dorm c/ opção de vaga",
+            "description": "ENDEREÇO: AV. PROFESSOR FRANCISCO MORATO, S/N – JARDIM GUEDALA - SP ÁREA DO TERRENO: 5843,91M2 NÚMERO DE TORRES: 01 NÚMERO DE ELEVADORES: 03 ELEVADORES NÚMERO DE UNIDADES: 498 NÚMERO DE VAGAS: 03 (PCD); 21 (MOTOS); 113 (CARROS) NÚMERO DE ANDARES: TORRES 01 E 02 – TÉRREO + 16 PAVIMENTOS TORRE 03 – TÉRREO + 20 PAVIMENTOS. APARTAMENTOS POR ANDAR: 10 UNIDADES TIPOLOGIA: APARTAMENTOS DE 1 E 2 DORMITÓRIOS REALIZAÇÃO E CONSTRUÇÃO: CURY CONSTRUTORA E INCORPORADORA S/A. LAZER DESCOBERTO • APOIO CHURRASQUEIRA • MINI PLAY/APOIO FESTAS • CHURRASQUEIRA GOURMET • PET PLACE • WINE GARDEN • PLAYGROUND • FITNESS EXTERNO • SOLÁRIO • LOUNGE LAREIRA • LOUNGE FESTAS LAZER COBERTO • BIRNQUEDOTECA E PLAYBABY • LAVANDERIA • CHURRASQUEIRA • PET CARE • SALA MULTIFUNCIONAL • COWORKING • EASY MARKET • SALÃO DE FESTAS • FITNESS • SPORT BAR PCD • 02º PAVIMENTO - TORRES 01 E 02 FINAIS: 02, 06 E 07 - 40M2 • 02º E 03º PAVIMENTO – TORRES 01 E 02 FINAL: 01 - 40M2 • 01º PAVIMENTO – TORRE 03 FINAIS: 06 E 07 - 40M2 • 01º E 02º PAVIMENTO – TORRE 03 FINAIS: 01 E 02 - 40M2  PONTA • 03º AO 16º PAVIMENTO – TORRES 01 E 02 FINAIS: 02, 06 E 07 - 40M2 • 04º AO 16º PAVIMENTO – TORRES 01 E 02 FINAL: 01 - 40M2 • 02º AO 20º PAVIMENTO – TORRE 03 FINAIS: 06 E 07 - 40M2 • 03º AO 20º PAVIMENTO – TORRE 03 FINAIS: 01 E 02 - 40M2 MEIO • 02º AO 16º PAVIMENTO – TORRES 01 E 02 FINAIS: 03, 04, 05, 08, 09 E 10 - 40M2 • 01º AO 20º PAVIMENTO – TORRE 03 FINAIS: 03, 04, 05 E 10 - 40M2 • 02º AO 20º PAVIMENTO – TORRE 03",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "37 a 40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05513-200",
+                "streetAddress": "Avenida Professor Francisco Morato, 1767"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7160014",
+                "longitude": "-23.5838594"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/lancamento/guedala-park-1-ou-2-dorm-c-opcao-de-vaga/id-14918887/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/lancamento/guedala-park-1-ou-2-dorm-c-opcao-de-vaga/id-14918887/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento localizado no jaguaré - sp",
+            "description": "Apartamento Localizado no Jaguaré - Sp   - Apartamento com 50m², 2 Dormitórios, Sala, Cozinha, Lavanderia, 1 Banheiro; Não tem vaga de garagem    Andar: 3º Valor de Condomínio: 70,00   -Não Aceita Financiamento -  Cadu - Executivo de Vendas 0 1 1 - 9 9 9 8 6 - 7 3 3 5 (Nextel) WhatsApp Creci: 123.827  Entrem em contato preferencialmente pelo WhatsApp que já teremos um pronto atendimento !!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "50m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05322-000",
+                "streetAddress": "Avenida Alexandre Mackenzie, 950"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7511171",
+                "longitude": "-23.5387832"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jaguare-50m2-RS138000/id-17235343/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jaguare-50m2-RS138000/id-17235343/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento a venda no jaraguá, friedrich von voith",
+            "description": "Apartamento bem localizado, a venda no Jaraguá, conta com  2 quartos, sala, cozinha, banheiro e área de serviço. Com piso laminado novo, pintura nova e box de vidro no banheiro. Condomínio baixo R$ 130,00 não possui vaga de garagem  Proprietário aceita financiamento habitacional e FGTS apartamento a venda no Jaraguá apartamento a venda em Pirituba  whats (11) 9 / pabx (11)  ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-sao-joao-jaragua-45m2-RS138000/id-6829521/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-sao-joao-jaragua-45m2-RS138000/id-6829521/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento de 27m² com 1 dormitórios para venda na região de campos elíseos",
+            "description": "Apartamento de 27m² com 1 dormitórios para Venda na região de Campos Elíseos O Condomínio Edifício General Rondon fica localizado em Rua Conselheiro Nébias em São Paulo. É bem localizado, próximo a alguns pontos de interesse, tais como Terminal Princesa Isabel, Colégio Salesiano Liceu Coração de Jesus, Parque Minhocão (Via Elevado Pres. João Goulart), Sesc Bom Retiro, Teatro Porto Seguro e Teatro Escola Macunaíma - Unidade Matriz.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "27m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01203-001",
+                "streetAddress": "Rua Conselheiro Nébias, 719"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64474",
+                "longitude": "-23.53676"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-barra-funda-35m2-RS139000/id-15326978/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-barra-funda-35m2-RS139000/id-15326978/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento para venda em são paulo, jardim paulistano, 2 dormitórios, 1 banheiro, 1 vaga",
+            "description": "NÃO ACEITA FINANCIAMENTO       - Características: Portão Eletrônico,     - Cômodos: Área de Serviço, Cozinha,     - Proximidades: Bares e Restaurantes, Escola, Farmácia, Shopping Center, Supermercado,",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "--m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.68685",
+                "longitude": "-23.57191"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-paulistano-RS140000/id-13378133/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-paulistano-RS140000/id-13378133/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento a venda cdhu voith entrada r$ 140 mil +transf dívida",
+            "description": "Apartamento com 02 dormitórios, sala 2 ambientes, armário quarto do casal, cozinha com armários.  -IPTU : ISENTO   - Condomínio: 189,00  - Saldo devedor 180.000,00   - Financiamento faltam 24 anos  - Parcela crescente: esse ano R$ 540,00  - Entrada a vista : R$ 140 mil + transferência de dívida  Apartamento a venda no CDHU",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "55m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-sao-joao-jaragua-55m2-RS140000/id-15760596/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-sao-joao-jaragua-55m2-RS140000/id-15760596/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 64 m² por r$ 140.000,00 - jardim do lago - são paulo/sp",
+            "description": "Apartamento com 2 dormitórios à venda - Jardim do Lago - São Paulo/SP  Características do Apartamento: 2 dormitórios espaçosos 1 banheiro completo Sala ampla com dois ambientes Cozinha com armários Área de lavanderia 1 vaga de garagem  Móveis planejados nos quartos (opcional): Os quartos estão equipados com móveis planejados, porém, é opcional mantê-los. Os móveis podem ser substituídos por móveis normais, de acordo com a preferência dos moradores.  Revestimento: O piso é revestido com cerâmica em todos os cômodos, exceto na sala, onde o piso é de porcelanato.  Forro de gesso e PVC: O imóvel possui forro de gesso nos cômodos, proporcionando um acabamento elegante. No banheiro, o forro é de PVC, garantindo durabilidade e facilidade de manutenção.  Obs: Não aceita financiamento Condomínio R$60,00 reais, . Aceita 70 mil mais 170 parcelas de 900 reais mensais.  O apartamento não possui churrasqueira e não conta com elevador. A área de lazer do condomínio é simples, contando apenas com playground.  Agende já a sua visita !!!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "64m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05397-040",
+                "streetAddress": "Rua Teresa de Marco, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.77323",
+                "longitude": "-23.57918"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-do-lago-64m2-RS140000/id-12763947/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-do-lago-64m2-RS140000/id-12763947/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apto 2 dormitórios 1 vaga - jd. raposo",
+            "description": "Apartamento com 2 dormitórios, sala de estar, cozinha um banheiro área de serviço, depósito e 1 vaga de garagem e 1 para moto. Estacionamento com portão automático, salão de festas. Ótima localização com farto comércio na região e facial acesso ao transporte público. * Não dá financiamento, aceita corro como parte de pagamento até 30.000,00. Agende uma visita e venha conferir!!!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05547-025",
+                "streetAddress": "Avenida Circular, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7761",
+                "longitude": "-23.59959"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-raposo-tavares-RS140000/id-9494483/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-raposo-tavares-RS140000/id-9494483/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Res vista politecnica - oportunidade única em sao paulo - sp | tipo: apartamento | negociação: licitação aberta  | situação: imóvel apartamento",
+            "description": "  2 Quartos, 1 Vaga na Garagem, Área de Serviço, Wc, Sala, Cozinha. Equipamento de Segurança, Espaço Com Churrasqueira, Rede Interna de Gás, Playground, Portaria E/ou Guarita, Salão de Festas, Outros Baixar edital e anexosRUA CLEMENTE BERNINI,N. 160 APTO. 87 BL 01, JARDIM DO LAGO - CEP: 05397-100, SAO PAULO - SAO PAULO.     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio..     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio.  ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "52m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05397-100",
+                "streetAddress": "Rua Clemente Bernini, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.77393",
+                "longitude": "-23.58092"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-do-lago-50m2-RS141830/id-16950064/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-do-lago-50m2-RS141830/id-16950064/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Holistic residence - 2 ou 3 dorm 44 à 54m2 c/suíte, sacada gourmet e opção de vaga",
+            "description": "Sobre o empreendimento  Holístico é compreender os fenômenos na sua totalidade e globalidade. É entender que tudo está conectado, que mesmo os pequenos detalhes importam e são fundamentais para chegar ao resultado que você procura. Essa é nossa inspiração para trazer para você um projeto único, que traduz de forma genuína o sentimento de completude que queremos oferecer. Com um olhar abrangente e global, criamos um empreendimento exclusivo, em uma localização privilegiada, que vai atender as suas necessidades de forma completa. Aqui você vai encontrar bem-estar, conforto, praticidade, sofisticação e diversão. Porque isso é holístico. Isso é Holistic Residence. Viva o presente em toda sua plenitude e encare o futuro como seu maior presente.   Building blue  Diferenciais do Condomínio  Icon  Lazer Completo  Opções de lazer para toda a família, desde espaços para praticar atividades físicas até áreas exclusivas para garantir a diversão das crianças.   Icon  Opções na Planta  Aproveite as vantagens de adquirir seu imóvel na planta, com condições de pagamento ainda mais especiais!   Icon  Estacionamento para Bicicletas  Gosta de andar de bike? Tenha um espaço exclusivo para guardar sua bicicleta com total segurança.   Icon  Espaço Gourmet  Reúna amigos e familiares em um espaço gourmet amplo e equipado para celebrar grandes momentos.   Icon  Tomadas para Carros Elétricos  Este empreendimento conta com tomadas eficientes para carregar carros elétricos, contribuindo para o meio ambiente.   Icon  Localização Privilegiada  More em uma localização privilegiada, com comodidades e diversas opções de comércio, transporte e lazer.   Icon  Número de Quartos  Espaço e conforto para toda a família! O empreendimento possui imóveis com opção de mais dormitórios.   Icon  Varanda  Tenha um espaço só seu para admirar a paisagem! Este empreendimento possui imóveis com varanda.   Icon  Suíte  Mais conforto e comodidade para você! Este empreendimento possui imóveis com suíte.   Icon  Condomínio Fechado  Condomínio de acesso privativo, garantindo mais privacidade e segurança para sua família.   Icon  Acabamento Diferenciado  Apartamento com acabamento diferenciado, valorizando o imóvel, prezando pela funcionalidade e beleza.   Icon  Comércios no local  Diversas opções de comércio perto do condomínio, garantindo mais comodidade e praticidade para seu dia a dia.   Icon  Qualidade de Vida  Tenha mais qualidade de vida aproveitando o lazer completo do condomínio e viva com mais comodidade e praticidade oferecidas pela excelente localização.   Icon  Espaço Fitness  Leve uma vida mais saudável praticando atividades físicas no Espaço Fitness, que já vem equipado para você dar esse grande passo de cuidados com a sua saúde.   Icon  Espaço Verde e Contato com a Natureza  Temos áreas verdes que, além de proporcionarem contato com a natureza, ajudam no bem-estar e preservação do meio-ambiente.   Icon  Condições de Pagamento Facilitadas  Flexibilidade e facilidade para sempre se ajustar às suas condições de pagamento.   Icon  Diversas opções de transporte público  Este empreendimento tem uma localização privilegiada ao lado de diversas linhas e rotas de transporte públicos importantes da região.   Icon  Piscina  O empreendimento oferece mais essa opção de lazer e diversão para você curtir nos dias quentes.  Ficha Técnica  PRODUTO: Apartamentos em São Paulo/SP   LOCALIZAÇÃO: Av. Santa Marina, 1550 – Barra Funda   ÁREA DO TERRENO: 4.531,23m²   TOTAL DE UNIDADES: 424   NÚMERO DE TORRES: 3   NÚMERO DE PAVIMENTOS: Torre 1 e 2 – T+20 / Torre 3 – T+19   NUMERO DE UNIDADES POR PAVIMENTO: 8 unidades   VAGAS: 260 vagas (211 cobertas e 49 descobertas).   TIPOLOGIA: Apartamento tipo ponta de 2 dormitórios com suíte e 44m²   Apartamento tipo meio de 2 dormitórios com suíte e 44m²   Apartamento tipo ponta de 3 dormitórios com suíte e 54m²   SISTEMA CONSTRUTIVO: Parede de concreto   ITENS ÁREA SOCIAIS: Espaço Zen, Salão de festas, Espaço gourmet, Lounge Sunset, Churrasqueira, Lounge das palmeiras, Espaço fit saúde, Fitness, Playground, Brinquedoteca, Lounge Sunrise, Quadra recreativa, Piscina infantil, Piscina adulto, Solarium, Sport bar, Coworking, Varanda conecting, Salão de jogos, Pet care, Pet Place, Bicicletário.   PROXIMIDADE: Futura Estação Santa Marina, Estação Água Branca, Terminal Barra Funda, Senac Lapa Scipião, UNIP – Marquês, Uninove – Campus Memorial, Unesp, PUC – SP, 09 – Sonda Supermercados – Vila Romana, Carrefour Market – Jardim das Perdizes, Shopping Center Lapa, Bourbon Shopping, Shopping West Plaza, Sesc Pompeia, MIS Experience, Parque Jardim das Perdizes, Allianz Parque, Parque da Água Branca, Memorial da América Latina   REALIZAÇÃO: Direcional",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "44 a 54m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05036-001",
+                "streetAddress": "Avenida Santa Marina, 1550"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.69324",
+                "longitude": "-23.51101"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/lancamento/holistic-residence-2-ou-3-dorm-44-a-54m2-c-suite-sacada-gourmet-e-opcao-de-vaga/id-15743950/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/lancamento/holistic-residence-2-ou-3-dorm-44-a-54m2-c-suite-sacada-gourmet-e-opcao-de-vaga/id-15743950/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/39679/6189496/sp-sao-paulo-jardim-arpoador-avenida-general-asdrubal-da-cunha-apartamento-a-venda-2-quartos-61e44acc-1.jpg",
+        "name": "Apartamentos à venda na Zona Oeste em São Paulo - Página 2 | Chaves na Mão",
+        "description": "14.908 Apartamentos à venda na Zona Oeste em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Oeste em São Paulo. - Página 2",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "309900",
+            "priceCurrency": "BRL",
+            "lowPrice": "130000",
+            "offerCount": "14908"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-oeste/",
+                    "name": "Zona Oeste"
+                }
+            }
+        ]
+    }
+]

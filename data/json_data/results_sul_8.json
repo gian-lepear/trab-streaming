@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 43 m² por r$ 159.000,00 - jardim das oliveiras - são paulo/sp",
+            "description": "Vende-se apartamento no condomínio jardim Romano, no Jd das Oliveiras, 2 dorm, sala, cozinha, banheiro, 1 vaga, muitos comércios e meios de transportes por perto e pronto para financiar.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "43m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08111-160",
+                "streetAddress": "Rua Carmine Monetti, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.3809",
+                "longitude": "-23.49025"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-das-oliveiras-RS159000/id-15060572/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-das-oliveiras-RS159000/id-15060572/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Studio com varanda e piscina na regiao do morumbi",
+            "description": "Apartamento STUDIO com varanda, dentro do projeto casa verde e amarela, onde você ganha até 55 mil de Subsídio para te impulsionar a comprar.  >>>PISO GRÁTIS EM TODO O APARTAMENTO  Ótima Localização, More perto de Metrô, Mercados, Bancos e tenha qualidade de vida!  Lazer com SALÃO DE FESTAS, ACADEMIA, CHURRASQUEIRA, PRAÇA, PLAYGROUND, PET PLAYCE, COWORK, PORTARIA 24 HORAS, MINI MERCADO, BICICLETÁRIO  Parcelamos sua entrada até 36x após a entrega Utilize o FGTS Chaves, documentação registro e ITBI Grátis Facilidade para aprovar seu crédito  Duvidas chame agora mesmo e realize seu sonho!",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "28m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05662-060",
+                "streetAddress": "Rua Leandro Teixeira, S/n"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.72556",
+                "longitude": "-23.61074"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-paraisopolis-RS159900/id-17695596/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-paraisopolis-RS159900/id-17695596/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento para venda em são paulo, parque são rafael, 2 dormitórios, 1 banheiro, 1 vaga",
+            "description": "Apartamento para Venda no bairro Parque são Rafael, localizado na cidade de São Paulo SP, situado na zona Leste.     Com 2 dormitórios, possui 1 banheiro, 1 vaga de garagem, 1 sala, cozinha com armários.     Área Privativa de 45,00 mº.     Valor do Imóvel R$ 160.000,00, Valor do Condomínio R$ 220,00.     Características: Móveis Planejados.     Cômodos: Banheiro (WC), Cozinha, Lavanderia área de serviço, QuartoDormitório, Sala de estar, Vaga p auto.     Investimento: ACEITA financiamento bancário.     Proximidades: Próximo a escolas, Próximo ao comércio local, Próx. a PontoTerminal de ônibus.           - Características: Móveis Planejados,     - Cômodos: Banheiro (WC), Cozinha, Lavanderia área de serviço, QuartoDormitório, Sala de estar, Vaga p auto,     - Investimento: ACEITA financiamento bancário,     - Proximidades: Próximo a escolas, Próximo ao comércio local, Próx. a PontoTerminal de ônibus,",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-parque-sao-rafael-RS160000/id-18545514/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-parque-sao-rafael-RS160000/id-18545514/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 1 quarto, vila esperança - são paulo/sp",
+            "description": "A 5 minutos do Metrô Vila Matilde, Hospital Santa Clara, UBS, Colégio Olivetano, Supermercado PreçoApartamento com 1 Dormitório, Sala, cozinha, banheiro, com portaria,interfone, ambiente familiar, segurança total, amplo espaço para  (link removido)  a vistaNós, da BRK Imóveis, trabalhamos diariamente para atender com excelência a todos os nossos clientes buscando superar suas  (link removido)  atuação em planejamento, imóveis em lançamentos, construção, imóveis prontos, incorporação e imóveis para locação é marcada pelo comprometimento, seriedade e experiência de mercado, visando garantir assim a realização de sonhos e de excelentes negó (link removido)  compromisso é estabelecer uma relação de confiança para que sempre sejamos sua melhor companhia em negócios imobiliários.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "36m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Rua Maria Carlota, 1015"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.52749",
+                "longitude": "-23.53083"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-esperanca-36m2-RS160000/id-10155602/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-esperanca-36m2-RS160000/id-10155602/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento de  52 m² à venda por r$160.000,00/ jardim guarujá, são paulo, sp",
+            "description": "Apartamento de 52m ², 2 dormitórios, sala, cozinha, banheiro, área de serviço e 1 vaga de garagem. Agende já a sua visita com uma de nossas corretoras pelo telefone: (11) ou pelo WhatsApp: .",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "52m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05877-250",
+                "streetAddress": "Rua Ilha Maiorca, 1022"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.79217",
+                "longitude": "-23.69044"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-guaruja-RS160000/id-15272891/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-guaruja-RS160000/id-15272891/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartaemnto vila fazzeoni  capão redono",
+            "description": "O Capão Redondo conta com diversas opções de lazer, como o famoso Parque Santos Dias, muito frequentado pela população. O parque possui playground, trilhas, viveiro de plantas medicinais e um bosque.  De acordo a tradição contada por antigos moradores da região, o nome Capão Redondo foi dado por existir na região uma moita (capão) bem redonda, com cerca de 50 quilômetros de circunferência.  Morar em Capão Redondo tem suas vantagens, já que conta com uma boa localização, serviços médicos e educacionais, além de transporte público em grande quantidade e qualidade. Mas há outros serviços atraentes nas redondezas, como bares e restaurantes, além de praças e locais para crianças e jovens.  Você tem um Sonho. Eu o Imóvel. Fale com Personal Broker Aurino Brito 11 9  @aurinobritode CRECISP 255756F *Que Deus sempre te abençoe*  ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "48m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05884-150",
+                "streetAddress": "Rua Professora Eunice Bechara de Oliveira, 849"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.570381",
+                "longitude": "-23.567387"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-vila-fazzeoni-48m2-RS160000/id-18230722/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-vila-fazzeoni-48m2-RS160000/id-18230722/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 50 m² por r$ 160.000,00 - jardim santa terezinha - são paulo/sp",
+            "description": "Oportunidade Imperdível Apartamento no Conjunto Habitacional Guaianazes  Se você está em busca de um novo lar na Zona Leste de São Paulo, esta é a oportunidade que você esperava. Este charmoso apartamento no Conjunto Habitacional Guaianazes, localizado no Jardim Santa Terezinha, oferece conforto, conveniência e uma localização privilegiada.  Com 50m² de área, este apartamento é perfeito para acomodar sua família. Ele possui 2 dormitórios, proporcionando espaço suficiente para todos.  Além dos quartos, o apartamento inclui 1 banheiro, uma cozinha funcional e uma área de serviço. Você terá tudo o que precisa para viver com conforto e praticidade.  Este apartamento vem com uma vaga de garagem, o que é uma comodidade valiosa para quem possui carro.  Além disso, é permitida a presença de animais de estimação, tornando este local ainda mais acolhedor para todos os membros da família.  Este imóvel está estrategicamente localizado a apenas 15 minutos das estações de metrô Itaquera e CPTM, proporcionando fácil acesso ao transporte público e à mobilidade urbana. Nas proximidades, você encontrará a Drogaleste, a Escola Estadual Professora Nancy de Oliveira Fidalgo, a Praça Padre Nildo do Amaral e o Pronto Socorro Municipal Julio Tupy. Além disso, a região conta com uma ampla variedade de comércios e serviços, tornando a vida cotidiana mais conveniente.  Não perca a oportunidade de adquirir este apartamento aconchegante em uma localização tão estratégica. Agende uma visita hoje mesmo e faça deste lugar o seu novo lar!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "50m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Rua Marinho Arcanjo dos Santos, 344"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.4287212",
+                "longitude": "-23.5275615"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-santa-terezinha-50m2-RS160000/id-16981562/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-santa-terezinha-50m2-RS160000/id-16981562/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 38 m² por r$ 160.000,00 - colônia - são paulo/sp",
+            "description": "Apartamento com 2 dormitórios, sala, cozinha, banheiro, área de serviço e vaga de garagem (Coletiva).  Condomínio possui salão de festas, churrasqueira, playground e portaria 24 horas, local arborizado e tranquilo.  Ótima localização próximo de mercados, padaria, farmácias, escolas e comércios em geral e a 10 minutos do Metrô e Shopping Itaquera com fácil acesso a Avenida Jacu pêssego.   Aceita financiamento, utilize o seu FGTS.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "38m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00008-260",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64764",
+                "longitude": "-23.89132"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-colonia-RS160000/id-16946942/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-colonia-RS160000/id-16946942/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda no jardim belcito",
+            "description": "Apresentamos um charmoso apartamento de 62 metros quadrados, perfeito para atender às suas necessidades. Este imóvel oferece:  2 dormitórios, proporcionando espaços confortáveis para a família ou acomodação adicional. Sala de estar, ideal para relaxar e receber visitas. Cozinha funcional, que facilita o preparo de refeições e o convívio familiar. Banheiro, atendendo às necessidades diárias. 1 vaga de estacionamento, garantindo conveniência e segurança para o seu veículo. Além disso, o condomínio oferece uma área comum com diversas comodidades, incluindo:  Churrasqueira, para encontros ao ar livre e confraternizações. Quadra poliesportiva, proporcionando a prática de esportes e atividades físicas. Salão de festas, ideal para celebrar momentos especiais com amigos e familiares. A localização deste apartamento é estratégica, estando próximo a diversos comércios, escolas e transporte coletivo, tornando a vida mais prática e conveniente.  O valor deste imóvel é de $160.000 à vista ou você tem a opção de financiamento direto com o proprietário. Ainda mais, é possível fazer um pagamento inicial de 50% e parcelar o restante em 36 vezes. O proprietário também aceita carro como parte do pagamento.  Esta é a oportunidade perfeita para você sair do aluguel e conquistar o seu próprio espaço. Entre em contato conosco para mais informações e agende uma visita. Venha morar no que é seu. Estamos à disposição para ajudá-lo nesse processo.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "65m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04855-257",
+                "streetAddress": "Rua Maria Moura da Conceição, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.67952",
+                "longitude": "-23.76679"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-belcito-RS160000/id-18378976/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-belcito-RS160000/id-18378976/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Venda | apartamento com 50,00 m², 2 dormitório(s). jardim leônidas moreira, são paulo",
+            "description": "apto abaixo do preço para venda rápida  2 dormitórios  sala  cozinha  banheiro  area de lazer  portaria motorizada sistema de alarme com monitoramento.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "50m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.77614",
+                "longitude": "-23.64226"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-leonidas-moreira-50m2-RS160000/id-12082165/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-leonidas-moreira-50m2-RS160000/id-12082165/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda no bairro jardim mitsutani - são paulo/sp",
+            "description": "Lindo apartamento a venda na região do Campo Limpo.  Localizado no Jardim Mitsutani, com fácil acesso ao terminal Campo Limpo, total infraestrutura de comércios, escolas, supermercados e transporte publico na região, além de saída as principais vias de acesso a Estrada Pirajuçara Valo Velho, e mais...  Apartamento com 45m² bem distribuídos em: 2 dormitórios Sala de estar ampla para dois ambientes Cozinha Banheiro Área de serviço Vaga fixa de garagem Todos os cômodos com excelente acabamento, janelas com vista livre para ambiente arborizado.  Valor: 160.000,00 / Condomínio: 260,00 incluso água. Aceita financiamento bancário e uso do FGTS!  Maiores informações: 11 9  ( Whatsapp)    Chave do anúncio: Y9cxfpbvuAMpHAYV",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05791-070",
+                "streetAddress": "Rua Francisco Caminhoa, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.78711",
+                "longitude": "-23.64563"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-mitsutani-45m2-RS160000/id-10815868/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-mitsutani-45m2-RS160000/id-10815868/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda no bairro jardim catanduva - são paulo/sp",
+            "description": "Apartamento CDHU boa localização. Possui 02quartos , sala , cozinha , banheiro , área de serviço e 01 vaga de garagem .  Não aceita financiamento bancário Agende sua visita.   As informações estão sujeitas a alterações. Consulte o corretor responsável.    Chave do anúncio: DBB6GBZcNtF5g2tC",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "44m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05767-340",
+                "streetAddress": "Rua Domingos de Góes, 94"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7624555",
+                "longitude": "-23.6331561"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-catanduva-44m2-RS160000/id-16202994/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-catanduva-44m2-RS160000/id-16202994/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Lindo apartamento localizado em vila fazzeoni, com área total de 52m², sendo:",
+            "description": "2 dormitórios 1 vaga de garagem  Cozinha Sala de estar  Aceitamos Financiamento  Agende agora uma visita, e venha conhecer seu novo Lar!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "52m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05884-150",
+                "streetAddress": "Rua Professora Eunice Bechara de Oliveira, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.570381",
+                "longitude": "-23.567387"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-vila-fazzeoni-RS160000/id-18419837/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-vila-fazzeoni-RS160000/id-18419837/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento 2 quartos 55m² vaga de garagem no porque santo santonio",
+            "description": "APARTAMENTO À VENDA REFORMADO NO PARQUE SANTO ANTONIO, SENDO 55M² , COM 2 QUARTOS, SALA, COZINHA, BANHEIRO, ÁREA DE SERVIÇOS E 1 VAGA DE GARAGEM COM PORTÃO AUTOMATICO. PRÓXIMO DE DROGARIAS, ESCOLAS, PONTO DE ÔNIBUS, SUPERMERCADOS, DELEGACIA 92 DP EXCELENTE LOCALIZAÇÃO AGENDE SUA VISITA COM UM DOS NOSSOS CORRETORES DA LOPES ONE IMÓVEL NÃO ACEITA FINANCIAMENTO BANCÁRIO!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "55m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05851-240",
+                "streetAddress": "Rua Júlio Lourenço Pinto, 451"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.75888",
+                "longitude": "-23.66453"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-sao-luis-55m2-RS160000/id-15456733/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-sao-luis-55m2-RS160000/id-15456733/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos 1 sala sendo 44m² no parque fernanda",
+            "description": "APARTAMENTO TOP RECÉM REFORMADO SENDO 2 DORMS, 1 SALA BEM AMPLA, 1 COZINHA, 1 BANHEIRO COM 44M² , BEM LOCALIZADO. PRÓXIMO À DROGARIAS, FACULDADE UNASP, SONDA SUPERMERCADO, FEIRAS LIVRES, UBS, COLÉGIOS, A POUCOS METROS DA ESTRADA DE ITAPECERICA! AGENDE SUA VISITA COM UM CORRETOR DE IMÓVEIS DA LOPES ONE",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "44m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05889-335",
+                "streetAddress": "Rua João Carlos Santos Da Silva, 243"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.6395571",
+                "longitude": "-23.5557714"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-campo-limpo-44m2-RS160000/id-14710665/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-campo-limpo-44m2-RS160000/id-14710665/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/39679/15060572/sp-sao-paulo-jardim-das-oliveiras-rua-carmine-monetti-apartamento-a-venda-2-quartos-6498acc6-1.jpg",
+        "name": "Apartamentos à venda na Zona Sul em São Paulo - Página 8 | Chaves na Mão",
+        "description": "34.110 Apartamentos à venda na Zona Sul em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Sul em São Paulo. - Página 8",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "160000",
+            "priceCurrency": "BRL",
+            "lowPrice": "159000",
+            "offerCount": "34110"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-sul/",
+                    "name": "Zona Sul"
+                }
+            }
+        ]
+    }
+]

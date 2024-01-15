@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Kitnet|toda dividia| 34m| varanda| santa cecilia|sp",
+            "description": "Apartamento para venda Santa Cecília ,próximo da estação do Metrô Santa Cecília e Marechal Deodoro   Apartamento amplo e iluminado, com 34 metros quadrados distribuídos em 1 dormitório, sala, banheiro, cozinha americana e área. Possui pé-direito alto, piso frio, janelas grandes com varanda e gás encanado.  Localização privilegiada, próximo das Linhas do Metrô Amarela e Vermelha, e próximo também do Shopping Light, Hospital Santa Casa, Sesc Consolação, Sesc 24 de Maio, Mackenzie, Galeria do Rock, Theatro Municipal de São Paulo, Praça Franklin Roosevelt, Praça Rotary, Praça Dom José Gaspar, Parque Parque Augusta, Terminal de ônibus Amaral Gurgel e Terminal Bandeira.  Região em constante valorização com ruas tranquilas e arborizadas, próximo de grande variedade de comércios, tais como: Mercados, farmácias, padarias, academias, bancos, bares e restaurantes.  Venda R$ 210.000,00 Condomínio R$ 333,00 IPTU R$ Isento  Oportunidade para investimento ou moradia! Agende uma visita!",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01211-100",
+                "streetAddress": "Avenida São João, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.65149",
+                "longitude": "-23.53614"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-santa-cecilia-45m2-RS190000/id-14960466/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-santa-cecilia-45m2-RS190000/id-14960466/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Kitnet no bairro da liberdade 39m",
+            "description": "Kitnet com 39m² próximo a metro, prédio antigo.  O Bairro da Liberdade é o reduto oriental em São Paulo. Por lá, a cultura asiática toma conta das ruas, construções, restaurantes, pessoas, eventos e tudo mais o que você imaginar.  No entanto, muitos relacionam o bairro somente com a cultura japonesa, mas há também, forte presença dos imigrantes e tradições chinesas, coreanas, tailandesas e tawainesas. Assim, conheça mais sobre o Bairro da Liberdade em São Paulo, veja o que fazer por lá, onde comer, onde se hospedar e muito mais.  Esse é o melhor programa para se fazer em um dia de passeio pelo Bairro da Liberdade. Ao andar pelas ruas, sem pressa, você vai conhecendo mais sobre o bairro e consegue admirar os pequenos detalhes únicos que só existem por lá. Chegar na Liba, como é conhecida, é fácil, pois a estação de metrô ‘Liberdade’ fica muito bem localizada. Portanto, o carro é totalmente dispensável por lá. Em uma caminhada pelas suas ruas não deixe de conhecer: o Jardim Oriental, o Largo da Pólvora, a arte de rua, que também é existente nos muros e prédios e o Viaduto Cidade de Osaka.  Aos finais de semana, desde 1975, acontece a Feirinha da Liberdade, na praça que leva o mesmo nome. Nela, você encontra de tudo um pouco, arte, artigos de decoração, lembrancinhas, acessórios, e por fim, comidinhas asiáticas!  Então, aproveite para experimentar algumas delícias típicas, tais como: takiyoki (bolinho frito recheado de polvo), doce de feijão azuki e o tradicional pastel japonês frito na hora. É comum que a feira esteja movimentada, pois é uma das atrações mais tradicionais e famosas do bairro.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "39m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01512-010",
+                "streetAddress": "Rua Oscar Cintra Gordinho, 151"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.62893",
+                "longitude": "-23.55312"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-39m2-RS190000/id-17039236/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-39m2-RS190000/id-17039236/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento para venda em são paulo, liberdade, 1 dormitório, 1 banheiro",
+            "description": "Prédio antigo, sem portaria e sem vaga de garagem.     IPTU Isento",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "39m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Rua Sinimbu, 148"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.63145",
+                "longitude": "-23.55835"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS190000/id-17376242/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS190000/id-17376242/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Kit à venda!!!",
+            "description": "Apartamento à venda A Kit possui 30 metros, sendo cozinha, área de serviço, sala, banheiro e 1 dormitório.  15 andares 6 apartamentos por andar  sem garagem ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "30m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-bela-vista-RS190000/id-2840370/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-bela-vista-RS190000/id-2840370/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento para aluguel e venda com 30 metros quadrados com 1 quarto em liberdade - são paulo - sp",
+            "description": "O apartamento está localizado no bairro Liberdade possui 30 metros quadrados com 1 quarto e 1 banheiro. Fica a alguns minutos de farmácias, hospitais, museus, hospitais, shoppings, restaurantes, universidades, parque de diversão, transporte coletivo, padarias, transporte coletivo, estacionamentos.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "30m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01514-020",
+                "streetAddress": "Praça Doutor Mário Margarido, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.628737",
+                "longitude": "-23.55467"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS190000/id-1952463/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS190000/id-1952463/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento a venda em sp república",
+            "description": "Apartamento kitnet com 44 m² na República  - Com cozinha, banheiro e lavanderia. Há espaço para fazer móveis planejados como guarda roupas ou armários. Toda a parte hidráulica e elétrica foram trocadas recentemente, por isso há a necessidade de terminar o acabamento do piso. - Localizado no bairro da republica, é um ótimo investimento tanto para morar quanto para alugar, pois a localização é 3 minutos do metrô e é situado ao lado de shoppings, cinemas, farmácias, mercados e muito mais.  Comprando com a Lopes você conta com um atendimento personalizado e com diversos serviços inclusos, como: assessoria jurídica, certidão do imóvel e dos vendedores e avaliação de crédito através da plataforma exclusiva Lopes / Itaú.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "44m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01041-000",
+                "streetAddress": "Rua Vinte e Quatro de Maio, 188"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64015",
+                "longitude": "-23.54359"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-republica-44m2-RS190000/id-13861713/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-republica-44m2-RS190000/id-13861713/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apto a venda",
+            "description": "Apro a venda  Imobiliária Santa Sales  Atendimento humanizado! Com vasta experiência em venda ,locação e administração de imóveis . Acompanhamento Jurídico até a entrega das chaves ?  entre em contato no nosso whatsap (11 )  Imoveis santa sales",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01211-100",
+                "streetAddress": "Avenida São João, 1613"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64838",
+                "longitude": "-23.53796"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-santa-cecilia-RS190000/id-16816400/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-santa-cecilia-RS190000/id-16816400/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento em centro  -  são paulo",
+            "description": "KITÃO DIVIDIDA PARA DOIS AMBIENTES COM UMA BELA VISTA E LUMINOSIDADE, WC SOCIAL E COZINHA SEPARADA. AGENDE SUA VISITA COM LIMA F:9 .",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "33m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Rua Vinte e Quatro de Maio, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.4550895",
+                "longitude": "-23.6149646"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-RS190000/id-6962177/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-RS190000/id-6962177/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento em república  -  são paulo",
+            "description": "Apartamento em república  -  são paulo",
+            "numberOfRooms": "0",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "28m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Largo do Arouche, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64533",
+                "longitude": "-23.54038"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-sp-sao-paulo-republica-30m2-RS190000/id-9271017/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-sp-sao-paulo-republica-30m2-RS190000/id-9271017/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda!!!",
+            "description": "Apartamento à venda O apartamento possui 33 metros. Tem bicicletario salão de festas 10 apartamentos por andar - 10 andares Sem garagem ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "33m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-RS190000/id-2840349/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-RS190000/id-2840349/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda!!!",
+            "description": "Apartamento à venda São 33 metros 1 elevador 3 apartamentos por andar  8 andares ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "33m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-RS190000/id-2840358/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-RS190000/id-2840358/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartment liberdade sao paulo sp brasil",
+            "description": " LIBERDADE - Maravilhoso apartamento localizado na parte da frente do predio, 36 m de area util dividido em 01 dormitorios, sala, cozinha, 01 WC e sem vaga de garagem - Portaria 24 horas e 02 elevadores - Otima localizacao - Proximo a Estacao do Metro Se, Poupa Tempo e AMA. Facil acesso a Radial Leste e Av. dos Estados. A regiao conta com comercio variado e e favorecida pela farta oferta de linhas de onibus coletivos. Otima oportunidade, agende sua visita!.  ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "36m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-36m2-RS190000/id-17034939/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-36m2-RS190000/id-17034939/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 quarto à venda na liberdade, são paulo , 25 m2 por r$ 190.000",
+            "description": "Número de dormitórios e suítes: 1 dormitorio Banheiros:1 Área útil: 25,58m2 Quantidade de vagas de garagem: 0 Portaria é 24h ou eletrônica?: Portaria 24h Imóvel em reforma? Se sim, o que está sendo feito? esta terminando Existe inquilino no local?: não Aceita Pet?: Sim Ficará Mobília ou armários embutidos?: Sim  Valor total do IPTU: Este ano isento  Valor do condomínio: 329,04",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "25m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.63292",
+                "longitude": "-23.55839"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS190000/id-6764080/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS190000/id-6764080/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento espaçoso na liberdade centro histórico de são paulo",
+            "description": "Studio espaçoso, em região movimentada e de muito comércio, bairro da Liberdade, podendo ir a pé até pontos turísticos históricos do centro de São Paulo, tais como a Catedral Metropolitana de São Paulo, Parque Dom Pedro II, a Praça da Liberdade, Sogo Plaza Shopping, e daí em diante.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "47m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01514-000",
+                "streetAddress": "Rua Glicério, 28"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.6276569",
+                "longitude": "-23.5534547"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-47m2-RS190000/id-16126524/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-47m2-RS190000/id-16126524/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento 1 quarto para venda em são paulo, santa cecilia, 1 dormitório, 1 banheiro",
+            "description": "Kitnet, na Avenida São João no Bairro de Santa Cecília.     Com 46mº sem Garagem.     Imóvel à duas quadras do Metrô Santa Cecília, com amplo comércio, supermercados, padarias, restaurantes, bares e hospital.           - : elevador,     - Cômodos: Cozinha,     - Proximidades: Bares e Restaurantes, Escola, Farmácia, Shopping Center, Supermercado,",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "46m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01211-100",
+                "streetAddress": "Avenida São João, 1901"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.65084",
+                "longitude": "-23.53658"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-santa-cecilia-46m2-RS190000/id-16279356/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-santa-cecilia-46m2-RS190000/id-16279356/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/334179/14960466/sp-sao-paulo-santa-cecilia-avenida-sao-joao-apartamento-a-venda-1-quarto-648fe873-1.jpg",
+        "name": "Apartamentos à venda na Zona Central em São Paulo - Página 16 | Chaves na Mão",
+        "description": "12.389 Apartamentos à venda na Zona Central em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Central em São Paulo. - Página 16",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "190000",
+            "priceCurrency": "BRL",
+            "lowPrice": "190000",
+            "offerCount": "12389"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-central/",
+                    "name": "Zona Central"
+                }
+            }
+        ]
+    }
+]

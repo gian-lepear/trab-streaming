@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento a venda no bairro jardim ipanema (zona oeste) em são paulo - sp.",
+            "description": "REF A-13550  Imóvel com 2 dormitórios, 1 vaga de garagem e 40m² situado próximo ao pico do Jaraguá, em frente a academia jaguar, próximo as estações jaraguá e vila aurora. Características: Bicicletário; Churrasqueira, fitness externo, playground, quadra gramada, redário e salão de festas.  Valor do imóvel: R$195.000,00 Condomínio: R$250,00  Não perca esta oportunidade, vale a pena conferir, agende sua visita!Somos correspondentes Caixa/ Itaú/ Santander aprovamos seu crédito em até 48 horas (crédito sujeito a aprovação). CRECI: J-26805      As informações estão sujeitas a alterações. Consulte o corretor responsável. ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-ipanema-zona-oeste-40m2-RS195000/id-7441744/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-ipanema-zona-oeste-40m2-RS195000/id-7441744/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 40 m² por r$ 195.000,00 - jardim ipanema (zona oeste) - são paulo/sp",
+            "description": "Imóvel situado próximo ao pico do Jaraguá, em frente a academia jaguar, próximo as estações jaraguá e vila aurora. Características: Bicicletário;Churrasqueira;Fitness externo;Playground;Quadra gramada;Redário;Salão de festas...  Agende já sua visita !!!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05187-010",
+                "streetAddress": "Avenida Alexios Jafet, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74821",
+                "longitude": "-23.44768"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-ipanema-zona-oeste-40m2-RS195000/id-9700333/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-ipanema-zona-oeste-40m2-RS195000/id-9700333/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 40 m² por r$ 195.000,00 - jardim ipanema (zona oeste) - são paulo/sp",
+            "description": "Apartamento com 02 quartos, 01 banheiro social completo, , Cozinha , Sala ampla, todo em piso laminado e ceramica bem conservado, Lavanderia coberta, 01 vaga coberta.  Localização: Próximo a Supermercados , Hipermercados , próximo a diversos comércios, , Bancos e linhas de ônibus de fácil acesso a estação de trem da CPTM Jaragua ou de Pirituba. Fácil acesso Rodovia Anhanguera e Marginais.  Vantagens: Imóvel muito espaçoso e aconchegante, bem conservado, excelente localização. Vale a pena Conferir, Documentação regular, agende uma visita com nossos corretores, através dos tels 11   ou whatsapp 11 9 . Características: Bicicletário;Churrasqueira;Fitness externo;Playground;Quadra gramada;Redário;Salão de festas...",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.75419",
+                "longitude": "-23.44262"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-ipanema-zona-oeste-40m2-RS195000/id-7872265/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-ipanema-zona-oeste-40m2-RS195000/id-7872265/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 3 quartos à venda na rua pasquale gallupi, morumbi, são paulo, 50 m2 por r$ 195.000",
+            "description": "PRONTO PARA MORAR,OPORTUNIDADE!!!! FÁCIL ACESSO A GIOVANNI GRONCHI E BERRINI, COM PISO FRIO,VISTA PARA O ESTÁDIO DO MORUMBI,PAINEL,VENTILADORES,COZINHA E QUARTOS COM EXCELENTES ARMÁRIOS.  AGENDE SUA VISITA,TRATAR COM BARBARA  ",
+            "numberOfRooms": "3",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "50m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Rua Pasquale Gallupi, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.72574",
+                "longitude": "-23.60999"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-3-quartos-com-garagem-sp-sao-paulo-morumbi-RS195000/id-8131507/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-3-quartos-com-garagem-sp-sao-paulo-morumbi-RS195000/id-8131507/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda - jd. boa vista - r$ 195.000,00",
+            "description": "APARTAMENTO COM ÓTIMO ACABAMENTO COM 02 DORMITÓRIOS, SALA,COZINHA COM ARMÁRIOS, BANHEIRO E ÁREA DE SERVIÇO. CONDOMÍNIO COM SEGURANÇA 24 HORAS, PERMITIDO PET, SALÃO DE FESTAS E CHURRASQUEIRA. BOA LOCALIZAÇÃO, COM FÁCIL ACESSO AO METRÔ BUTANTÃ, SUPERMERCADOS, PARQUES, FARMÁCIAS.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "38m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-boa-vista-zona-oeste-38m2-RS195000/id-13596772/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-boa-vista-zona-oeste-38m2-RS195000/id-13596772/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com localização privilegiada",
+            "description": "Ótimo apartamento espaçoso com 2 dormitórios, sala, cozinha com gabinete , banheiro , área de serviço. Localização privilegiada com comércio locais ao redor, transporte público pra várias regiões.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "50m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05563-080",
+                "streetAddress": "Rua Anésio João da Silva, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.78657",
+                "longitude": "-23.60029"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-raposo-tavares-50m2-RS195000/id-12387429/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-raposo-tavares-50m2-RS195000/id-12387429/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 40 m² por r$ 195.000,00 - jardim ipanema (zona oeste) - são paulo/sp",
+            "description": "C-OK _____ACEITA FINANCIAMENTO BANCÁRIO   ESTUDA PERMUTA POR TERRENO, ACEITA CARRO,MOTO, !  Apto a venda no Jaraguá 40m2, em condomínio fechado 2 dorms Sala Cozinha 1wc Área de serviço  Lazer: Portaria 24h Playground Espaço pet Churrasqueiras Salão de festas Bicicletário Quadra Garagem rotativa Condomínio 270 reais IPTU: isento (( Vaga de garagem rotativa , dentro coberta e fora descoberta e por conta do morador ))).",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05187-010",
+                "streetAddress": "Avenida Alexios Jafet, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74821",
+                "longitude": "-23.44768"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-ipanema-zona-oeste-40m2-RS195000/id-12388987/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-ipanema-zona-oeste-40m2-RS195000/id-12388987/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na travessa cachoeira do arrependido, 0, conjunto promorar raposo tavares, são paulo, 45 m2 por r$ 195.000",
+            "description": "Apartamento com 2 quartos à venda na travessa cachoeira do arrependido, 0, conjunto promorar raposo tavares, são paulo, 45 m2 por r$ 195.000",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05574-440",
+                "streetAddress": "Travessa Cachoeira do Arrependido, 0"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.79903",
+                "longitude": "-23.58762"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-conjunto-promorar-raposo-tavares-RS195000/id-10412090/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-conjunto-promorar-raposo-tavares-RS195000/id-10412090/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 43 m² por r$ 195.000,00 - jardim são joão (jaraguá) - são paulo/sp",
+            "description": "Vendo apto Jaraguá, próximo a empresa Voith, com 02 dorms, sala ampla com 02 ambientes, cozinha americana, área de serviço, banheiro social completo, 01 vaga de garagem.   Condomínio oferece 02 salões de festas com churrasqueiras, 02 playgrounds, quadra poliesportiva, vaga de garagem adicional para moto, circuito interno de cameras e portaria com segurança 24hs.   Documentação regular permitindo financiamento bancário.   Agende uma visita com nossos corretores e aproveite esta oportunidade. Ligue 11 9301 5 308 4",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "43m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.71194",
+                "longitude": "-23.42952"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-sao-joao-jaragua-58m2-RS195000/id-10035751/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-sao-joao-jaragua-58m2-RS195000/id-10035751/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 26 m² por r$ 196.000,00 - parque industrial tomas edson - são paulo/sp",
+            "description": "COMPRE DIRETO DA CONSTRUTORA COM A IMOBILIÁRIA BeG IMÓVEIS!!!  PLANO ESTAÇÃO RESERVA BARRA FUNDA!!!  Plantas dispõem de: 26m² á 34m² de área  1 á 2 Dormitórios Sem vaga de garagem  Diferenciais: Bicicletário Churrasqueira Fitness Fitness Externo Pet Agility Playground Sala de Reunião Salão de Festas  Do seu apê, você consegue ir para onde quiser: Assai 5min Sesc Pompéia 17min Terminal Barra Funda 16min Supermercado Big 17min  Você conta com serviços opcionais como: Assessoria Imobiliária para resolver toda a burocracia jurídica e trazer segurança para sua negociação; Suporte para aprovação do  financiamento imobiliário sem custo algum através da nossa assessoria de crédito; Além de todos os suportes do nosso time de especialistas no assunto.   Valores de condomínio e IPTU podem sofrer alteração sem nosso conhecimento. Sujeito a confirmação de disponibilidade.  Entre em contato conosco pelo WhatsApp  (11) 9  BeG Imóveis atendimento com qualidade e rapidez!",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "26m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01141-070",
+                "streetAddress": "Rua Rubens Porta Nova, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.67392",
+                "longitude": "-23.51957"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-parque-industrial-tomas-edson-RS196000/id-11059554/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-parque-industrial-tomas-edson-RS196000/id-11059554/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 26 m² por r$ 196.100,00 - parque industrial tomas edson - são paulo/sp",
+            "description": "COMPRE DIRETO DA CONSTRUTORA COM A IMOBILIÁRIA BeG IMÓVEIS!!!  PLANO ESTAÇÃO RESERVA BARRA FUNDA!!!  Plantas dispõem de: 26m² á 34m² de área  1 á 2 Dormitórios Sem vaga de garagem  Diferenciais: Bicicletário Churrasqueira Fitness Fitness Externo Pet Agility Playground Sala de Reunião Salão de Festas  Do seu apê, você consegue ir para onde quiser: Assai 5min Sesc Pompéia 17min Terminal Barra Funda 16min Supermercado Big 17min  Você conta com serviços opcionais como: Assessoria Imobiliária para resolver toda a burocracia jurídica e trazer segurança para sua negociação; Suporte para aprovação do  financiamento imobiliário sem custo algum através da nossa assessoria de crédito; Além de todos os suportes do nosso time de especialistas no assunto.   Valores de condomínio e IPTU podem sofrer alteração sem nosso conhecimento. Sujeito a confirmação de disponibilidade.  Entre em contato conosco pelo WhatsApp  (11) 9  BeG Imóveis atendimento com qualidade e rapidez!",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "26m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01141-070",
+                "streetAddress": "Rua Rubens Porta Nova, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.67392",
+                "longitude": "-23.51957"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-parque-industrial-tomas-edson-RS196100/id-11059553/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-parque-industrial-tomas-edson-RS196100/id-11059553/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Aparatamentos na barra funda",
+            "description": "MAPP BARRA FUNDA  Entrada a partir de R$200,00 Financiamento através do Programa Minha Casa Minha Vida Subsídio (Desconto de até 55 Mil) Casa Paulista* Piso Grátis Documentação Grátis* Utilize seu FGTS  Projeto Geral Terreno: 3.356,83m² Número de torres: 01 Total de Unidade: 446 Número de andares: Térreo + 18 O apartamento Aptos. do tipo: Apto. tipo 2 dorms. s/ suíte c/ terraço: 33,92m² Aptos. tipo 2 dorms. s/ suíte s/ terraço: 33,61m² Aptos. tipo 1 dorm. s/ suíte s/ terraço: 24,64m² a 24,69m² Aptos. Térreo: Térreo 2 dorms. s/ suíte c/ terraço: 33.61m² a 33,92m² Térreo 2 dorms. s/ suíte s/ terraço: 33,61m² Térreo 1 dorm. s/ suíte s/ terraço: 24,64m² a 24.69m²  Brinquedoteca  Churrasqueira  Coworking  Fitness  Mini Mercado  Playground  Pomar  Salão de Festas  Salão Jogos  Big Pacaembu 12min  Shopping Bourbon 16min  Terminal Barra Funda 5min  Pontos de ônibus 4min   Giga Atacado Barra Funda 11min  Assaí Barra Funda 6min  UNIP Marques de São Vicente 15min  UBS/AMA Boraceia 16min  Venha conhecer o nosso decorado!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "24m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01139-003",
+                "streetAddress": "Avenida Marquês de São Vicente, 995"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.67005",
+                "longitude": "-23.52082"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-barra-funda-RS197240/id-17381477/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-barra-funda-RS197240/id-17381477/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 quarto à venda na do imigrante japônes, --, vila sônia, são paulo por r$ 197.275",
+            "description": "Localização privilegiada, próximo aos principais pontos da cidade, com tranquilidade e lazer completo. Vizinho da mais nova estação da linha amarela do metrô. Preço e disponibilidade do imóvel sujeitos a alteração sem aviso prévio.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "--m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05519-030",
+                "streetAddress": "Do Imigrante Japônes, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.73237",
+                "longitude": "-23.59093"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-sonia-RS197275/id-14468979/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-sonia-RS197275/id-14468979/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 28 m² por r$ 198.000,00 - butantã - são paulo/sp",
+            "description": "Apartamento Moderno ao Lado da USP - Perfeito para Estudantes e Profissionais  Você está procurando um apartamento aconchegante e conveniente, a apenas passos de distância da Universidade de São Paulo (USP)? Temos a opção perfeita para você!  Características do Apartamento:  01 dormitório espaçoso, ideal para uma vida confortável e tranquila. Layout inteligente que otimiza o espaço e oferece funcionalidade. Sala de estar arejada e iluminada, perfeita para relaxar e socializar.  Localização privilegiada ao lado da USP, proporcionando fácil acesso a aulas e eventos. Excelentes opções de transporte público nas proximidades, facilitando o deslocamento. Área de lazer completa no prédio, com piscina, academia e espaços de convivência. Segurança 24 horas e sistema de monitoramento para sua tranquilidade.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "28m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05360-130",
+                "streetAddress": "Rua Pangaré, 462"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74375",
+                "longitude": "-23.565"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-butanta-28m2-RS198000/id-18150236/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-butanta-28m2-RS198000/id-18150236/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento a venda no bairro jardim ipanema (zona oeste) em são paulo - sp.",
+            "description": "REF 12397 Apartamento á venda no Jaraguá com 02 dormitórios, sala para 02 ambientes, cozinha, lavanderia, 01 vaga de garagem, banheiro e 38 m².  Áreas PrivativasGas encanadoLavanderiaLumináriasPermite animaisPiso frioValor: R$ 198.000,00 Não perca esta oportunidade, vale a pena conferir, agende sua visita Com o corretora Joseane Martins 11-9-  Somos correspondentes Caixa/ Itaú/ Santander aprovamos seu crédito em até 48 horas (crédito sujeito a aprovação). CRECI: J-26805   ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "38m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-ipanema-zona-oeste-38m2-RS198000/id-5133922/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-ipanema-zona-oeste-38m2-RS198000/id-5133922/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/128401/7441744/sp-sao-paulo-jardim-ipanema-zona-oeste-avenida-alexios-jafet-apartamento-a-venda-2-quartos-6268310d-1.jpg",
+        "name": "Apartamentos à venda na Zona Oeste em São Paulo - Página 13 | Chaves na Mão",
+        "description": "14.908 Apartamentos à venda na Zona Oeste em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Oeste em São Paulo. - Página 13",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "198000",
+            "priceCurrency": "BRL",
+            "lowPrice": "195000",
+            "offerCount": "14908"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-oeste/",
+                    "name": "Zona Oeste"
+                }
+            }
+        ]
+    }
+]

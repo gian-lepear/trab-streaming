@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento kitchenette/studio em república  -  são paulo",
+            "description": "Apartamento kitchenette/studio em república  -  são paulo",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "28m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Avenida Vieira de Carvalho, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64305",
+                "longitude": "-23.54259"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-republica-RS175000/id-18609984/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-republica-RS175000/id-18609984/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 quarto à venda na avenida prestes maia, 241, centro, são paulo por r$ 175.012",
+            "description": "Apartamento com 1 quarto à venda na avenida prestes maia, 241, centro, são paulo por r$ 175.012",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "37m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01031-001",
+                "streetAddress": "Avenida Prestes Maia, 241"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.6166428",
+                "longitude": "-23.6844063"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-37m2-RS175012/id-6788747/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-37m2-RS175012/id-6788747/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 quarto à venda na rua joaquim dos santos andrade, 49, sé, são paulo por r$ 175.034",
+            "description": "Apartamento com 1 quarto à venda na rua joaquim dos santos andrade, 49, sé, são paulo por r$ 175.034",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01019-030",
+                "streetAddress": "Rua Joaquim dos Santos Andrade, 49"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.62972",
+                "longitude": "-23.55165"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-se-40m2-RS175034/id-6815546/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-se-40m2-RS175034/id-6815546/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 33 m² por r$ 175.760,00 - liberdade - são paulo/sp",
+            "description": "Apartamento 1 dormitório, sala , cozinha com armário planejado , banheiro com box e gabinete , próximo a comércio, estações de metrô, terminais de ônibus.  Condomínio seguro com portaria 24 horas , elevadores, Iluminação e ventilação natural.    Valores de condomínio e IPTU podem sofrer alteração sem nosso conhecimento. Sujeito a confirmação de disponibilidade.  Entre em contato conosco pelo WhatsApp  (11) 9  BeG Imóveis atendimento com qualidade e rapidez!",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "33m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01512-010",
+                "streetAddress": "Rua Oscar Cintra Gordinho, 76"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.6295041",
+                "longitude": "-23.553697"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS175760/id-5094076/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS175760/id-5094076/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Studio arco-iris, apto disponível para venda com 27m² e 01 dormitório",
+            "description": "Studio Arco-Iris  Cod: 45853  Localizado na Av. Nove de Julho na região da Bela Vista, com fácil acesso a região central de São Paulo, Terminal Bandeira e ao Metrô Anhangabaú.  Condomínio comercial construído em 1967. O condomínio Arco-Iris é composto por uma torre única. As unidades vão de 25m² a 50m².  Apartamento no Modelo Studio com 27m², com 01 dormitório, cozinha americana.  A Só Flats é uma empresa especializada em compra, venda e locação de Flats e residenciais dentro e fora da cidade de São Paulo, para moradia ou investimento.   Não deixe de nos consultar.   Sujeito à confirmação de disponibilidade e valores, sem aviso prévio  Só Flats Negócios Imobiliários Creci 19.926-j",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "27m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01313-000",
+                "streetAddress": "Avenida Nove de Julho, 337"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64168",
+                "longitude": "-23.54961"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-bela-vista-30m2-RS178000/id-16062385/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-bela-vista-30m2-RS178000/id-16062385/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento 1 dorm centro",
+            "description": "-Com 1 quarto, sala, cozinha e banheiro. IPTU: Isento Porteiro 24h Escritura e registro em ordem. O diferencial do bairro é a boa oferta de transporte (Final da Rua Conde de Sarzedas e final da Rua dos Estudantes). Próximo as estações do Metro Liberdade e Sé, Terminal Pq. D. Pedro II de ônibus. Fácil acesso à Poupa Tempo Sé, Rua 25 de Março e ao Mercado Municipal. Tem comércios próximo: lavanderia, padaria, mercados, restaurantes, academia, escola, chaveiro e um Extra a 3 minutos a pé.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "34m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01514-020",
+                "streetAddress": "Praça Doutor Mário Margarido, 33"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.62897",
+                "longitude": "-23.55451"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-34m2-RS178000/id-14658615/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-34m2-RS178000/id-14658615/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 27 m² por r$ 178.000,00 - santa cecília - são paulo/sp",
+            "description": "Corretora Luciene: 11 9  Creci: 157058  Apartamento tipo kit 27 m2, em prédio residencial, com 4 unidades por andar com 2 elevadores, sem salão de festas e sem área de lazer. Localizado de frente para a rua Ana Cintra.  A 30 metros do Metrô Santa Cecília. Aceita financiamento Carro como parte de pagamento",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "27m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Rua Ana Cintra, 63"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64691",
+                "longitude": "-23.53756"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-santa-cecilia-27m2-RS178000/id-18136987/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-santa-cecilia-27m2-RS178000/id-18136987/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Studio arco-iris, apto disponível para venda com 27m² e 01 dormitório",
+            "description": "Studio Arco-Iris  Cod: 45853  Localizado na Av. Nove de Julho na região da Bela Vista, com fácil acesso a região central de São Paulo, Terminal Bandeira e ao Metrô Anhangabaú.  Condomínio comercial construído em 1967. O condomínio Arco-Iris é composto por uma torre única. As unidades vão de 25m² a 50m².  Apartamento no Modelo Studio com 27m², com 01 dormitório, cozinha americana.  A Só Flats é uma empresa especializada em compra, venda e locação de Flats e residenciais dentro e fora da cidade de São Paulo, para moradia ou investimento.   Não deixe de nos consultar.   Sujeito à confirmação de disponibilidade e valores, sem aviso prévio  Só Flats Negócios Imobiliários Creci 19.926-j",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "27m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01313-000",
+                "streetAddress": "Av Nove De Julho, 337"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-45.5633576",
+                "longitude": "-23.0249232"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-30m2-RS178000/id-16062382/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-30m2-RS178000/id-16062382/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda!!!",
+            "description": "Apartamento à venda 2 elevadores 5 apartamentos por andar 38 metros 15 andares ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "38m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-se-RS178000/id-2822310/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-se-RS178000/id-2822310/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda!!!",
+            "description": "Apartamento à venda Vende-se Kitnet grande no Bairro da Liberdade, a 5 minutos do metrô Liberdade, onde tem a famosa Feirinha da Liberdade, próximo a Sé(marco Zero de São Paulo), Viaduto do Chá, Shopping Light, próximo ao Cambuci, próximo ao futuro Shopping Cosmopolitano e do Posto Várzea do Carmo, o maior da América Latina. Interfone e Porteiros. 1 elevador 5 apartamentos por andar 38 metro 10 andares ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "38m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS178000/id-2822329/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS178000/id-2822329/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Kitchenette   -  próximo à igreja da consolação",
+            "description": "Apartamentos Tipo kitchenette 4 andar, janela para os fundos. Próximo à Igreja da Consolação.  Rua Doutor Teodoro Baima  Condomínio R$ 290 Área útil 26m² Quartos 1 Banheiros 1 sem Vagas na garagem  Detalhes do condomínio Permitido animais Tipo Kitnet",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "26m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01220-040",
+                "streetAddress": "Rua Doutor Teodoro Baima, 28"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64617",
+                "longitude": "-23.5463"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-republica-26m2-RS180000/id-14033269/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-republica-26m2-RS180000/id-14033269/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 dormitório à venda, 42 m² por r$ 180.000,00 - liberdade - são paulo/sp",
+            "description": "Apartamento bem arejado e iluminado, com 45 m²,1 dorm. sala cozinha e banheiro. Localizado a poucos metros do Metrô Liberdade , não tem garagem.  Rua tranquila e próximo a importantes pontos de interesse, como restaurantes, teatros, padarias, supermercados e toda a infraestrutura que a Liberdade oferece, além de ser bem servido em transportes públicos . Aceita financiamento Agende uma visita !!",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "42m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01512-030",
+                "streetAddress": "Rua João de Carvalho, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.63016",
+                "longitude": "-23.55345"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-42m2-RS180000/id-17264988/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-42m2-RS180000/id-17264988/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento na liberdade com 45m² - ap 230413v",
+            "description": "Apartamento na Liberdade com 45m² - AP 230413V  Imóvel amplo à venda com 1 quarto e 1 banheiro no total. é ideal para quem procura conforto e comodidade O condomínio fica localizado em Rua Conde de Sarzedas no bairro Liberdade em São Paulo. Está bem localizado, próximo a pontos de interesse de Liberdade, tais como EMEF Duque de Caxias, CEI Quintal da Criança, Sesc Carmo, Museu do Tribunal de Justiça SP, FAZESP - Escola Fazendária do Estado de São Paulo e Instituto/Faculdade Damásio.  Agende já sua visita! Ouro Vallota Imóveis Tel:   / Wpp:    (link removido) ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01512-070",
+                "streetAddress": "Rua Conde de Sarzedas, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.6312",
+                "longitude": "-23.55396"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS180000/id-13813825/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS180000/id-13813825/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento para venda na liberdade  com 35m², 1 dormitório, 1 vaga",
+            "description": "Apartamento a venda próximo ao metrô Liberdade. com 35m², 1 dormitório, 1 vaga, aconchegante com sala, dormitório com armários, cozinha também com armários, área de serviço com armário e sanitário com Box, garagem coberta bem localizada e demarcada. Ideal para quem trabalha ou estuda na região, perto de tudo que o centro de São Paulo pode lhe oferecer, faculdades, teatro, cinema, bares gourmet temáticos, infra estrutura de comércio sem igual no Brasil ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "35m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.570381",
+                "longitude": "-23.567387"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-com-garagem-sp-sao-paulo-liberdade-35m2-RS180000/id-4245493/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-com-garagem-sp-sao-paulo-liberdade-35m2-RS180000/id-4245493/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Residencial - vila buarque",
+            "description": "01 DORMITÓRIO - SALA EM DOIS AMBIENTES COM SANCA, COZINHA, - WC, - ÁREA DE SERVIÇO - NÃO TEM VAGA DE GARAGEM LOCALIZAÇÃO - PRÓXIMO AO METRO SANTA CECILIA, FACULDADES MACKENZIE, FAAP, HOSPITAL SAMARITANO, SANTA CASA, SHOPPING PÁTIO HIGIENÓPOLIS E COMERCIO DIVERSOS  ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "32m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-buarque-32m2-RS180000/id-18343282/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-buarque-32m2-RS180000/id-18343282/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/157773/18609984/sp-sao-paulo-republica-avenida-vieira-de-carvalho-apartamento-a-venda-1-quarto-659ef826-1.jpg",
+        "name": "Apartamentos à venda na Zona Central em São Paulo - Página 10 | Chaves na Mão",
+        "description": "12.389 Apartamentos à venda na Zona Central em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Central em São Paulo. - Página 10",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "180000",
+            "priceCurrency": "BRL",
+            "lowPrice": "175000",
+            "offerCount": "12389"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-central/",
+                    "name": "Zona Central"
+                }
+            }
+        ]
+    }
+]

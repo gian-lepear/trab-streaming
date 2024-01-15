@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Lançamento próximo ao metrô",
+            "description": "O Nurban Conceição oferece uma vida integrada e inteligente dentro e fora de casa. Com Studios e Aptos pensados para aliar conforto, privacidade e bem-estar em meio à correria da rotina, o condomínio conta com áreas de lazer ideais para trabalhar, relaxar, curtir e compartilhar a vida. Tudo isso pelas condições de pagamento que melhor se encaixam na sua realidade. Studios com 25,90 m² - Aptos 1 Dormitório com 31,21 m²  Aptos 2 Dormitórios com 36,67 m² Gardens de 40,81 m² a 60,91 m² Lazer com piscinas adulto e infantil, solarium, bar, fitness, salão festas, espaço gourmet com churrasqueira, playground, brinquedoteca, bicicletário, pet care, espaço delivery, mini mercado, coworking, lavanderia coletiva. Previsão de Entrega 12/2026 Fotos Ilustrativas e dos Aptos Decorados",
+            "numberOfRooms": "1 a 2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "25 a 60m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04313-140",
+                "streetAddress": "Rua Guamiúna, 94"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64043",
+                "longitude": "-23.63816"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/lancamento/lancamento-proximo-ao-metro/id-18122845/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/lancamento/lancamento-proximo-ao-metro/id-18122845/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Condominio morada dos pássaros - oportunidade única em sao paulo - sp | tipo: apartamento | negociação: licitação aberta  | situação: imóvel apartamento",
+            "description": "  2 Quartos, Área de Serviço, Wc, Sala, Cozinha. Penhora Gravada na Av-3 da Matrícula - 185725. Regularização Por Conta do Adquirente Baixar edital e anexosRUA GIACOMO COZZARELLI,N. SN APTO. 102 BL A, CONDOMINIO MORADA DOS PASSAROS, VILA SANTA TERESA (ZONA SUL) - CEP: 04190-000, SAO PAULO - SAO PAULO.     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  Imóvel NÃO aceita utilização de FGTS. FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio..     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  Imóvel NÃO aceita utilização de FGTS. FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio.  ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "47m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04190-000",
+                "streetAddress": "Rua Giácomo Cozzarelli, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.60344",
+                "longitude": "-23.65359"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-vila-santa-teresa-zona-sul-50m2-RS116173/id-17492684/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-vila-santa-teresa-zona-sul-50m2-RS116173/id-17492684/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 47 m² por r$ 116.173 - vila santa teresa (zona sul) - são paulo/sp",
+            "description": "LEIA ATENTAMENTE A DESCRIÇÃO DO ANUNCIO.  Somos uma empresa credenciada junto ao Banco CAIXA ECONÔMICA FEDERAL, especializada na intermediação de venda dos imóveis de propriedade da CAIXA. Imóveis com descontos INCRÍVEIS!  Se houver dívidas de condomínio e IPTU, tudo será pago pela CAIXA econômica Federal até a data da aquisição do imóvel, (salvo disposição em contrário), consulte um de nossos corretores.  Para sua segurança possuímos um DEPARTAMENTO JURÍDICO para auxiliar do início ao fim do processo.  Não são permitidas visitas internas na maioria dos Imóveis CAIXA, pois muitas vezes encontram-se ocupados pelo antigo mutuário;  Se o imóvel estiver OCUPADO, DAREMOS ASSISTÊNCIA JURÍDICA TOTAL ao comprador referente ao processo de IMISSÃO na posse do imóvel e negociação da saída do atual morador. Ou seja, NÃO haverá custos com honorários de advogado, apenas eventual taxa cobrada pelo poder judiciário e destinada diretamente a ele.   NÃO aceita permuta, automóvel ou contraproposta sobre o valor anunciado;  Financiamento DE ATÉ 95% do valor do imóvel, sujeito análise de crédito.  Em caso de aceite de financiamento bancário, este somente poderá ser concedido pela CAIXA, proprietária do bem.  Valores e disponibilidade Sujeitos a confirmação no momento da consulta  Contato: 9  WhatsApp",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "47m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04190-000",
+                "streetAddress": "Rua Giácomo Cozzarelli, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.60344",
+                "longitude": "-23.65359"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-vila-santa-teresa-zona-sul-47m2-RS116173/id-18561040/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-vila-santa-teresa-zona-sul-47m2-RS116173/id-18561040/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na rua domingos de góes, 89, jardim catanduva, são paulo por r$ 118.000",
+            "description": "Apartamento a venda no terceiro andar com apenas 2 lances de escadas.  2 dormitórios, sala, cozinha, banheiro e área de serviço.  Valor do condomínio incluso água. Portaria 24 horas   Vaga de garagem rotativa descoberta, lazer com parquinho, salão de festas.  Consulte um Corretor (a) da Sky Realty e realize um negócio rápido e seguro!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "49m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Rua Domingos de Góes, 89"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7624436",
+                "longitude": "-23.6331701"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-catanduva-49m2-RS118000/id-18684761/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-catanduva-49m2-RS118000/id-18684761/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na rua francisco josé alves, 85, vila paulista, são paulo, 50 m2 por r$ 120.000",
+            "description": "Apartamento com 2 dormitórios , sala, cozinha, banheiro. Lavanderia e Garagem Coberta. Ótima localização: lojas Cem, UBS Castro Alves, Padaria, Mercados Dia e Extra, Terminal Cidade Tiradentes entre outros comércios em gerais. Apartamento Quitado...",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "50m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08490-630",
+                "streetAddress": "Rua Francisco José Alves, 85"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.6456723",
+                "longitude": "-23.4720433"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-vila-paulista-50m2-RS120000/id-9145436/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-vila-paulista-50m2-RS120000/id-9145436/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento de  02 e 03 dormitórios",
+            "description": "SPHERA PANAMBY Com 2 e 3 Dorms 1 Vaga de Garagem Varanda Gourmet A 250m da Estação Giovanni do Metro Próximo ao mercado Carrefour, Shopping Morumbi Tows e Jardim Sul, Hospital Campo Limpo, Albert Einstein.   Condomínio Club - Churrasqueira - Food Bike - Pet Place - Piscina - Playground - Redario Luau - Bar - Brinquedoteca - Delivery - Espaço Beleza  - Mercado - Sala de Estudos - Salão de Festa - Atelier - Fitness - Funcional  - Influencer - Jogos - Pet Care ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "34 a 67m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05724-006",
+                "streetAddress": "Avenida Giovanni Gronchi, 7.020"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7372",
+                "longitude": "-23.64134"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/lancamento/apartamento-de-02-e-03-dormitorios/id-17033079/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/lancamento/apartamento-de-02-e-03-dormitorios/id-17033079/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento 2 quartos para venda em são paulo, jardim miriam, 2 dormitórios, 1 banheiro, 1 vaga",
+            "description": "Apartamento 2 Quartos para Venda no bairro Jardim Miriam, localizado na cidade de São Paulo SP, situado na zona Leste, ponto de referência Coca Cola.     Valor do Imóvel R$ 120.000,00     Cômodos: 2 dormitórios, possui 1 banheiro, 1 sala, cozinha, área de serviços lavanderia, 1 vaga de garagem, localizado em condomínio.     Proximidades: Bares e Restaurantes, Escola, Farmácia, Supermercado, Estação de TremMetrô, Hospital, Academia, Pet Shop.           - Cômodos: Cozinha, Área de Serviços Lavanderia,     - Proximidades: Bares e Restaurantes, Escola, Farmácia, Supermercado, Estação de TremMetrô, Hospital, Academia, Pet Shop,",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "--m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-miriam-RS120000/id-8309453/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-miriam-RS120000/id-8309453/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 40 m² por r$ 122.478,20 - parque bristol - são paulo/sp",
+            "description": "LEIA ATENTAMENTE A DESCRIÇÃO DO ANUNCIO.  Somos uma empresa credenciada junto ao Banco CAIXA ECONÔMICA FEDERAL, especializada na intermediação de venda dos imóveis de propriedade da CAIXA. Imóveis com descontos INCRÍVEIS!  Se houver dívidas de condomínio e IPTU, tudo será pago pela CAIXA econômica Federal até a data da aquisição do imóvel, (salvo disposição em contrário), consulte um de nossos corretores.  Para sua segurança possuímos um DEPARTAMENTO JURÍDICO para auxiliar do início ao fim do processo.  Não são permitidas visitas internas na maioria dos Imóveis CAIXA, pois muitas vezes encontram-se ocupados pelo antigo mutuário;  Se o imóvel estiver OCUPADO, DAREMOS ASSISTÊNCIA JURÍDICA TOTAL ao comprador referente ao processo de IMISSÃO na posse do imóvel e negociação da saída do atual morador. Ou seja, NÃO haverá custos com honorários de advogado, apenas eventual taxa cobrada pelo poder judiciário e destinada diretamente a ele.   NÃO aceita permuta, automóvel ou contraproposta sobre o valor anunciado;  Financiamento DE ATÉ 95% do valor do imóvel, sujeito análise de crédito.  Em caso de aceite de financiamento bancário, este somente poderá ser concedido pela CAIXA, proprietária do bem.  Valores e disponibilidade Sujeitos a confirmação no momento da consulta  Contato: 9  WhatsApp",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04194-260",
+                "streetAddress": "Avenida Dos Ourives, 7480"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.60851",
+                "longitude": "-23.65525"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-parque-bristol-40m2-RS122478/id-18396580/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-parque-bristol-40m2-RS122478/id-18396580/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 41 m² por r$ 130.000,00 - colônia - são paulo/sp",
+            "description": "LEIA ATENTAMENTE A DESCRIÇÃO DO ANUNCIO.  Somos uma empresa credenciada junto CAIXA ECONOMICA FEDERAL, especializada na intermediação de venda dos imóveis de propriedade da CAIXA. Imóveis com até 60% desconto.  Se houver dívidas de condomínio e IPTU, tudo será pago pela CAIXA econômica Federal até a data da aquisição do imóvel. Para sua segurança possuímos um DEPARTAMENTO JURÍDICO para auxiliar do início ao fim do processo.  Não são permitidas visitas internas na maioria dos Imóveis CAIXA, pois muitas vezes encontram-se ocupados pelo antigo mutuário;   Se o imóvel estiver OCUPADO, DAREMOS ASSISTÊNCIA JURÍDICA ao comprador referente a emissão da posse do imóvel, e negociação da saída do atual morador. NÃO aceita permuta, automóvel ou contraproposta sobre o valor anunciado;  Financiamento DE ATÉ 95% do valor do imóvel, sujeito análise de crédito  ACEITA financiamento bancário somente da CAIXA   Imóvel NÃO aceita utilização de FGTS. Valores e disponibilidade Sujeitos a confirmação no momento da consulta  Contato: 9  WhatsApp",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "41m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "08260-030",
+                "streetAddress": "Rua Agrimensor Sugaya, 1133"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.43573",
+                "longitude": "-23.55979"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-colonia-148m2-RS130000/id-17008405/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-colonia-148m2-RS130000/id-17008405/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento 2 dormitórios cdhu jardim catanduva",
+            "description": "Apartamento de 50m com 2 dormitórios, sala, cozinha, área de serviço, piso frio, 1 banheiro e 1 vaga de garagem. Condomínio possui salão de festas, automação predial, vigilância 24 horas, portaria com controle de acesso e guarita de segurança.   NÃO ACEITA FINANCIAMENTO, ACEITA APENAS PAGAMENTO A VISTA! Link do imóvel no site da imobiliária:  (link removido) +2+dormitorios+cdhu+jardim+catanduva?origem=I",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "50m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05767-340",
+                "streetAddress": "Rua Domingos de Góes, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.76259",
+                "longitude": "-23.63278"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-catanduva-50m2-RS130000/id-15037240/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-catanduva-50m2-RS130000/id-15037240/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento 02 dormitórios 50 m², com vaga no campo limpo",
+            "description": "Apartamento em prédio construído pela CDHU em 2004, sendo 02 dormitórios, sala, cozinha e uma vaga para carro. Próximo da estrada do campo limpo, do lado do terminal Campo limpo, 10 minutos do metrô Campo Limpo, 25 minutos do metrô Vila Sônia,  Água está inclusa no condomínio, Gás encanado e luz individualizada. Não aceita financiamento bancário. Entre em contato para maiores informações.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "50m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Rua Domingos De Góes, 94"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7624555",
+                "longitude": "-23.6331561"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-campo-limpo-50m2-RS130000/id-15256330/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-campo-limpo-50m2-RS130000/id-15256330/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento para venda tem 49 metros quadrados com 2 quartos em jardim guarujá - são paulo - sp",
+            "description": "O apartamento está localizado no bairro Jardim Guarujá tem 49 metros quadrados com 2 quartos e 1 banheiro Possui espaço gourmet, salão de festas. Churrasqueira para você aproveitar nos momentos de descontração. Encontra-se em um condomínio protegido por muros. Não aceita financiamento bancário, apenas contrato.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "49m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05877-250",
+                "streetAddress": "Rua Ilha Maiorca, 180"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.570381",
+                "longitude": "-23.567387"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-guaruja-RS130000/id-15282610/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-guaruja-RS130000/id-15282610/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 quarto à venda na rua são borja, 70, cidade vargas, são paulo, 20 m2 por r$ 130.000",
+            "description": "Apartamento/Studio aconchegante e moderno a venda com 20m², semi- mobiliado, sem elevador, sem vaga de garagem. Ótima iluminação natural. O apartamento está localizado num prédio charmoso e pequeno, a poucos metros de um posto policial, com monitoração de câmeras, rua residencial silenciosa, estando a menos de uma quadra da avenida principal e todas as suas facilidades (avenida Engenheiro Armando Arruda Pereira) .Localizado na rua São Borges próximo ao metro e terminal rodoviário  (link removido)  ao seu entorno pontos de interesse: Aeroporto, São Paulo Expo, Creches, colégios, Faculdades, EMEI, AMAS. Hipermercados, Padarias, shoppings.Fácil acesso ao metro e principais vias de São Paulo Agende hoje sua visita!!   Chave do anúncio: GldwhA3oIV6MdSnI",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "20m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04320-060",
+                "streetAddress": "Rua São Borja, 70"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.63974",
+                "longitude": "-23.6492"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-cidade-vargas-20m2-RS130000/id-16851726/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-cidade-vargas-20m2-RS130000/id-16851726/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Excelente apartamento, com 53  m² a.u. , bem localizado jardim santa terezinha, com 2 dorms, e 1 vaga de garagem. ref. 16.769",
+            "description": "REF. 16.769 - Excelente apartamento, com 53 m² a.u., dois dormitorios, salão de festas e 1 vaga de garagem e muito bem localizado no Jardim Santa Terezinha, próximo a comércios (mercado, açougue, farmácia, padaria ), escola, e quadra de futebol. Fácil acesso a estação do metrô, ônibus, lotação. Imóvel arejado com visão pra rua e salão de festas. Ótima oportunidade, venha conferir!! REF. 16.769",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "53m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-santa-terezinha-RS130400/id-12647393/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-santa-terezinha-RS130400/id-12647393/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Guido park - 2dorm 34 à 41m2 c/ opção de sacada",
+            "description": "Guido Park - 2Dorm 34 à 41m2 c/ opção de Sacada FICHA TÉCNICA – GUIDO PARQUE – NAÇÕES UNIDAS  ENDEREÇO: Avenida Guido Caloi, S/N  Área do terreno: 11.603,28m²  Número de torres: 04  Número de elevadores: Torre 01 e 04 – 04 Elevadores / Torre 02 e 03 – 02 Elevadores  Número de unidades: 744  Número de vagas: 01 (PCD); 14 (Visitantes).  Número de andares: Térreo + 09 Pavimentos  Apartamentos por Andar: Torre 01 e 04 – 22 unidades / Torre 02 e 03 – 16 unidades.  Tipologia: Apartamentos de 1 e 2 dormitórios.  Realização e Construção: Cury Construtora e Incorporadora S/A.  PCD  Torres 02 e 03 – Final: 11 (34m²)  Torre 02 – Final 14 (34m²) – Térreo ao 2º Pav.   SEM TERRAÇO  Torres 01 e 04 – Finais: 01, 02, 03, 04, 07, 08, 09, 10,  12, 13, 14, 15, 16, 19, 20, 21 e 22 (34m²)  Torres 02 e 03 – Finais: 01, 02, 03, 06, 07, 08, 09, 10,  14, 15 e 16 (34m²)   COM TERRAÇO  Torres 01 e 04 – Finais: 05, 06, 17 e 18 (38m²)  Torres 01 e 04 – Final: 11 (41m²)  Torres 02 e 03 – Finais: 04, 05, 12 e 13 (38m²)  LAZER DESCOBERTO:  Horta Playground  Pic - Nic Praça da Fogueira  Piscina Adulto Quadra Grama Sintética  Piscina Infantil Redário  LAZER COBERTO:  Brinquedoteca Jogos  Churrasqueiras Lavanderia  Coworking (3) Oficina (2)  Delivery Pet Care  Easy Market Play Baby  Espaço Beleza Salão de Festas  Espaço Multifuncional Sauna e Descanso  Fitness Sport Bar  DIFERENCIAIS DO PRODUTO:  Piso laminado nos quartos.  Duplo acionamento nos vasos sanitários.  Arejadores nas torneiras.  LOCALIZAÇÃO  Próximo: *Terminais de Onibus Santo  Amaro e Guido Caloi *Estação de Metrô  Santo Amaro *Poupatempo *Shopping  Fiesta *Assai Atacadista.  Fácil Acesso: *Marginal Pinheiros  *Complexo Viário Nelson Paulino  *Avenidas Washington Luis, Guarapiranga,  Santo Amaro e João Dias.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "35m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05802-140",
+                "streetAddress": "Avenida Guido Caloi, 1987"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.72561",
+                "longitude": "-23.6613"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/lancamento/guido-park-2dorm-34-a-41m2-c-opcao-de-sacada/id-17680067/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/lancamento/guido-park-2dorm-34-a-41m2-c-opcao-de-sacada/id-17680067/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/46781/17492684/sp-sao-paulo-vila-santa-teresa-zona-sul-rua-giacomo-cozzarelli-apartamento-a-venda-2-quartos-6590a6c5-1.jpg",
+        "name": "Apartamentos à venda na Zona Sul em São Paulo - Página 2 | Chaves na Mão",
+        "description": "34.110 Apartamentos à venda na Zona Sul em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Sul em São Paulo. - Página 2",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "240195",
+            "priceCurrency": "BRL",
+            "lowPrice": "116173",
+            "offerCount": "34110"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-sul/",
+                    "name": "Zona Sul"
+                }
+            }
+        ]
+    }
+]

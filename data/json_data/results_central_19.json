@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Exclusivo apartamento 11m² para investimento ou moradia.",
+            "description": "*** VN Nova Higienopolis ***   Apartamento pronto    O menor apartamento da América Latina, na medida ideal para morar e investir com inteligência    Studio de 11m²    Formato: residencial      Prático, moderno, essencial. Na medida do seu estilo de vida. O apartamento mais inteligente das Américas. Studios de 10 a 77m² numa região completa e diversificada.      ÁREA DE LAZER  Bar, Bicicletário, Box wash Car, Cinema, Espaço gourmet, Fitness, Fitness ao ar livre, Lavanderia, Lobby, Office, Pomar, Spa    A Só Flats é uma empresa especializada em compra e venda de Apartamentos Residenciais e Flats dentro e fora da cidade de São Paulo, para moradia ou investimento.    Não deixe de nos consultar, temos o apartamento que você tanto procura.    Sujeito à confirmação de disponibilidade e valores, sem aviso prévio.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "11m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01226-010",
+                "streetAddress": "R Das Palmeiras, 410"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.65254",
+                "longitude": "-23.53621"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-higienopolis-15m2-RS197000/id-16557055/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-higienopolis-15m2-RS197000/id-16557055/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento a venda em sp centro",
+            "description": "Descrição do imóvel: Kitchenete com 33m², com varanda, gás encanado e portaria 24h. Mobiliada com geladeira, micro-ondas, fogão, sofá, TV, aparelho de som e armário no banheiro. Piso de vinílico recem colocado, bem como as pastilhas recem instaladas no banheiro, deixando o ambiente mais moderno e confortável. Valorize seu tempo com deslocamentos. O imóvel está localizado a 50m do Metrô Anhangabau e do Terminal Bandeira, com fácil acesso a tudo. A uma quadra do Shopping Light, próxima as ruas 7 de Abril e Barão de Itapetininga. Oportunidade única",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "33m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01050-020",
+                "streetAddress": "Rua João Adolfo, 27"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-48.0458552",
+                "longitude": "-23.5829953"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-49m2-RS197000/id-10334317/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-49m2-RS197000/id-10334317/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 dormitório à venda, 29 m² por r$ 197.000,00 - centro - são paulo/sp",
+            "description": "Apartamento à Venda - Centro - São Paulo/SP  Tamanho: 29 m² totais, 29 m² úteis Dormitórios: 1 quarto Banheiro: 1 Permite animais de estimação  Descrição: Encante-se com este apartamento no coração do Centro de São Paulo, perfeito para morar com conforto ou investir. Com 29 metros quadrados, este imóvel é otimizado para máxima funcionalidade.  Características do Imóvel:  Sala aconchegante Quarto amplo Cozinha americana Banheiro funcional Amplas janelas para iluminação natural  Características do Condomínio:  Portaria 24 horas Mercadinho no térreo Elevadores Zelador Sistema de interfone Ambiente familiar  Localização Privilegiada:  Apenas 50 metros da estação de metrô Sol da manhã Próximo a locais importantes, como 25 de Março, Brás e Bom Retiro  Oportunidade de Moradia e Investimento:  Este apartamento oferece uma oportunidade única para viver com comodidade no Centro de São Paulo ou como investimento.  Agende uma visita para descobrir mais sobre esta incrível propriedade.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "29m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01028-000",
+                "streetAddress": "Rua Mauá, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.63106",
+                "longitude": "-23.53647"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-29m2-RS197000/id-17531152/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-29m2-RS197000/id-17531152/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 35 m² por r$ 197.000,00 - santa cecília - são paulo/sp",
+            "description": "CONDOMÍNIO ISNARD!!  Apartamento dispõe de: 35m² de área útil 1 Dormitório 1 Banheiro   Diferenciais: Churrasqueira Salão de Festas  Campos Elíseos conta com muitos pontos de interesse de São Paulo! Você pode encontrar shoppings, tais como Shopping Etecompe, Galeria 490, Shopping Maravilha, Shopping Intercontinetal, Galeria Cinelli, Galeria Arouche, Shopping 373, Galeria São Paulo, Shopping Mundial, Shopping 355, Iphigenia Shopping e Galeria Copacabana; além de museus, teatros ou arenas de shows, tais como Teatro Porto Seguro, Sesc Bom Retiro, Theatro São Pedro, Sala São Paulo, Universidade de Música Tom Jobim, La Salsa Discotek e Memorial da Imigração Judaica e do Holocausto.  Você conta com serviços opcionais como: Assessoria Imobiliária para resolver toda a burocracia jurídica e trazer segurança para sua negociação; Suporte para aprovação do  financiamento imobiliário sem custo algum através da nossa assessoria de crédito; Além de todos os suportes do nosso time de especialistas no assunto.   Valores de condomínio e IPTU podem sofrer alteração sem nosso conhecimento. Sujeito a confirmação de disponibilidade.  Entre em contato conosco pelo WhatsApp  (11) 9  BeG Imóveis atendimento com qualidade e rapidez!",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "35m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01211-100",
+                "streetAddress": "Via Elevado Presidente João Goulart, 1382"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.658",
+                "longitude": "-23.53246"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-santa-cecilia-RS197000/id-14046203/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-santa-cecilia-RS197000/id-14046203/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento venda/locação cambuci",
+            "description": "Ótimo apartamento em área nobre de São Paulo localizado no bairro Cambuci.  Bem montado com 27m² distribuídos em 01 dormitório, 01 WC, cozinha e sala ampla para duplo ambiente, área de serviço. O edifício possui playground, salão de festas, espaço pet, sala de estudos, brinquedoteca, academia, portaria 24 horas, interfone, elevadores, sistema de segurança com câmeras e cerca elétricas e churrasqueira.  Agende uma visita conosco e venha conhecê-lo!",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "27m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01519-000",
+                "streetAddress": "Rua do Lavapés, 245"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.62932",
+                "longitude": "-23.56045"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-cambuci-RS198000/id-15364554/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-cambuci-RS198000/id-15364554/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 dormitório à venda, 25 m² por r$ 198.000,00 - bela vista - são paulo/sp",
+            "description": "Apartamento à Venda, por R$ 198;000,00 - Bela Vista  * 1 dormitório, cozinha e banheiro. Sem vaga.  Nos arredores do condomínio há diversos pontos de interesse com destaque para : Escola De Economia - Fundação Getúlio Vargas, Academia Ajk, Hospital Sirio-libanes, Teatro Raul Cortez, Masp - Museu De Arte De São Paulo.  Agende já sua visita!",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "25m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01312-000",
+                "streetAddress": "Avenida Nove de Julho, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64825",
+                "longitude": "-23.55366"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-bela-vista-RS198000/id-11328372/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-bela-vista-RS198000/id-11328372/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento em república  -  são paulo",
+            "description": "Kit net de 33 metros proximo a metrô, farmácias e supermercados.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "--m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Rua Rego Freitas, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64662",
+                "longitude": "-23.54499"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-republica-RS198000/id-6823343/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-republica-RS198000/id-6823343/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 dormitório à venda, 35 m² por r$ 198.000,00 - bela vista - são paulo/sp",
+            "description": "Procura conforto e modernidade? Esta é sua grande chance! Apartamento living integrado ao dormitório, cozinha e área de serviço. Possui uma iluminação natural incrível! Perfeito para reunir família e amigos!  Possui também estrutura de segurança completa. Você dormirá o mais tranquilamente possível. Localização privilegiada próxima ao Metrô Japão Liberdade. Além de conter acesso a supermercados, academias, farmácias, hospitais, colégios e vias de fácil acesso como a Corredor Norte-Sul e Av. Nove de Julho.  Agendamentos disponíveis de segunda a sábado. Aproveite essa oportunidade, agende sua visita e confira!",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "35m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Rua Jandaia, 36"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.63746",
+                "longitude": "-23.55409"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-bela-vista-RS198000/id-9443340/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-bela-vista-RS198000/id-9443340/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento 35 m² com 1 dormitório à venda - bela vista - são paulo/sp",
+            "description": "Apartamento 35 m² com 1 dormitório à venda - Bela Vista - São Paulo/SP Procura conforto e modernidade? Esta é sua grande chance! Apartamento living integrado ao dormitório, cozinha e área de serviço. Possui uma iluminação natural incrível! Perfeito para reunir família e amigos! Possui também estrutura de segurança completa. Você dormirá o mais tranquilamente possível. Localização privilegiada próxima ao Metrô Japão Liberdade. Além de conter acesso a supermercados, academias, farmácias, hospitais, colégios e vias de fácil acesso como a Corredor Norte-Sul e Av. Nove de Julho.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "36m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01316-100",
+                "streetAddress": "Rua Jandaia, 36"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.63746",
+                "longitude": "-23.55409"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-bela-vista-45m2-RS198000/id-15323707/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-bela-vista-45m2-RS198000/id-15323707/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Metrô república sp | apartamento reformado|1 dormitório",
+            "description": "Metrô República SP | Apartamento Reformado|1 Dormitório Imóvel espaçoso na esquina da Vieira de Carvalho Prédio com portaria 24. Horas e elevadores modernos. O apartamento foi toda reforma ele fica em andar alto com ótima vista, cozinha separada, banheiro com box, chuveiro, gabinete e espaço para máquina de lavar, dormitório conjugado com a sala. Visitas com o corretor Clésio Arlen Próximo ao prédio tem metrô, padarias, restaurantes, supermercados e farmácias",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "35m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01209-002",
+                "streetAddress": "Rua Aurora, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.63846",
+                "longitude": "-23.53882"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-santa-ifigenia-RS198000/id-16312901/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-santa-ifigenia-RS198000/id-16312901/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento venda cambuci",
+            "description": "Imóvel com 27m² distribuídos em 01 dormitório, 01 WC, cozinha e sala para duplo ambiente, área de serviço. O condomínio possui playground, salão de festas, espaço pet, sala de estudos, brinquedoteca, academia, portaria 24 horas, interfone, elevadores, sistema de segurança com câmeras e cerca elétricas e churrasqueira.  Agende uma visita conosco e venha conhecê-lo!",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "27m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01519-000",
+                "streetAddress": "Rua do Lavapés, 245"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.62932",
+                "longitude": "-23.56045"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-cambuci-RS198000/id-15364659/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-cambuci-RS198000/id-15364659/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento na aclimação",
+            "description": "Amplo apartamento à venda com 1 quarto, banheiro e cozinha grande, sem vaga de garagem porem tem estacionamento embaixo do próprio prédio. Este apartamento fica situado no 3º andar. sol da manhã, silencioso. O condomínio fica localizado em Rua Tenente Otávio Gomes no bairro Aclimação em São Paulo. É bem localizado, próximo a pontos de interesse de Aclimação, tais como Escola Estadual Caetano de Campos, Hospital Adventista de São Paulo, Colégio Nova Geração, Anglo Vestibulares, Santa Margiore e Alfacon. 13 minutos da estação do metrô São Joaquim. Oportunidade de renda Com a Nova São Paulo a compra do seu imóvel é mais segura. Oferecemos assessoria gratuita em financiamento imobiliário, orientando o cliente em todo o processo de negociação. Você pode agendar sua visita ou tirar dúvidas também pelo whatsApp. Confira nossos telefones.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "42m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Rua Tenente Otávio Gomes, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.63208",
+                "longitude": "-23.56345"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-aclimacao-42m2-RS199000/id-10627740/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-aclimacao-42m2-RS199000/id-10627740/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento tipo para venda com 1 quarto, 37m²",
+            "description": "CORRETORES: Este imóvel está na nonStop plataforma de exclusividades. Um apartamento localizado na Rua Mituto Mizumoto, este imóvel apresenta um design atraente e funcional. Situado em um prédio sem elevador. Este encantador apartamento térreo é uma verdadeira jóia no coração de um tranquilo bairro residencial. Com uma localização conveniente, este espaço oferece comodidades modernas e acesso direto ao lado de fora, tornando-o uma escolha ideal para quem valoriza a praticidade e a acessibilidade.  Composto por 1 dormitório e 1 vaga, o apartamento oferece espaço suficiente para um casal.   Uma característica notável deste apartamento é a integração da cozinha com a sala de estar. Esse design moderno cria um ambiente aberto e acolhedor, permitindo que as atividades na cozinha fluam naturalmente para a área de estar, o que é ideal para entretenimento e interação social.  Além disso, a localização estratégica do apartamento é um de seus maiores atrativos. Sendo próximo a vários hospitais, a conveniência em caso de emergências médicas é notável. A proximidade com uma estação de metrô facilita o acesso a diferentes partes da cidade, oferecendo uma opção de transporte público eficiente. O comércio abundante nas proximidades oferece uma variedade de opções para compras, alimentação e entretenimento.  A presença de escolas e faculdades na área torna o apartamento interessante para famílias com crianças em idade escolar ou jovens adultos em busca de educação superior. A facilidade de acesso a instituições educacionais pode ser um fator determinante na escolha deste local como residência.  Em resumo, este apartamento oferece uma série de vantagens, desde o design funcional até a localização estratégica. Apesar da ausência de um elevador, suas características únicas, como a integração da cozinha com a sala, contribuem para criar um ambiente convidativo e prático para os moradores desfrutarem.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "37m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01513-040",
+                "streetAddress": "Rua Mituto Mizumoto, 120-122"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.63209",
+                "longitude": "-23.55781"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-com-garagem-sp-sao-paulo-liberdade-56m2-RS199000/id-18688418/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-com-garagem-sp-sao-paulo-liberdade-56m2-RS199000/id-18688418/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 35 m² por r$ 199.000,00 - sé - são paulo/sp",
+            "description": "Condomínio Edificio Carmelitas!  Apartamento dispõe de: 35m² de área útil 1 Dormitório 1 Banheiro Construção 1957 Torre Única Elevador  Este condomínio é equipado com diversas instalações, como portaria 24 horas.  Fica localizado em Rua das Carmelitas, no bairro Sé, São Paulo, próximo a lugares como Sesc Carmo, FAZESP - Escola Fazendária do Estado de São Paulo, CEI Quintal da Criança, EMEF Duque de Caxias, Parque Dom Pedro II e Museu do Tribunal de Justiça SP.   Valores de condomínio e IPTU podem sofrer alteração sem nosso conhecimento. Sujeito a confirmação de disponibilidade.  Entre em contato conosco pelo WhatsApp (11) 9 ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "35m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01020-010",
+                "streetAddress": "Rua das Carmelitas, 65"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.62909",
+                "longitude": "-23.55093"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-se-RS199000/id-15618258/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-se-RS199000/id-15618258/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 quarto à venda na barao de limeira, --, santa cecília, são paulo, 37 m2 por r$ 199.000",
+            "description": "Apartamento reformado com living, 1 dormitório, banheiro social, cozinha e área de serviço.  A alguns minutos de hospitais, estacionamentos, restaurantes, museus, universidades e shoppings.    Não possui vaga de garagem.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "37m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01202-000",
+                "streetAddress": "Barao De Limeira, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64903",
+                "longitude": "-23.53274"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-santa-cecilia-57m2-RS199000/id-3592057/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-santa-cecilia-57m2-RS199000/id-3592057/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/53126/16557055/sp-sao-paulo-higienopolis-r-das-palmeiras-apartamento-a-venda-1-quarto-652c63eb-1.jpg",
+        "name": "Apartamentos à venda na Zona Central em São Paulo - Página 19 | Chaves na Mão",
+        "description": "12.389 Apartamentos à venda na Zona Central em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Central em São Paulo. - Página 19",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "199000",
+            "priceCurrency": "BRL",
+            "lowPrice": "197000",
+            "offerCount": "12389"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-central/",
+                    "name": "Zona Central"
+                }
+            }
+        ]
+    }
+]

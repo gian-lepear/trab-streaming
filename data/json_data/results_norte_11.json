@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento residencial à venda, parque nações unidas, são paulo - .",
+            "description": "VENDO LINDO APTO COM 1 DORMITORIO NO JARAGUÁ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "36m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.73579",
+                "longitude": "-23.44478"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-parque-nacoes-unidas-51m2-RS159000/id-7864931/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-parque-nacoes-unidas-51m2-RS159000/id-7864931/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento em pirituba",
+            "description": "Apartamento CDHU, a venda na com preço de ocasião.  2 dormitórios, sala, cozinha, um banheiro, garagem demarcada, 1 vaga para carro e 1 vaga para moto, om quadra de futebol nova no condomínio, segurança 24 horas ao lado do Shopping Cantareira Plaza, próximo aos mercados Roldão, Assai e Sondas. Ligue e agende uma visita.   ACEITA PERMUTA POR TERRENO NA FREGUESIA DO Ó. ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "46m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02981-015",
+                "streetAddress": "Avenida Raimundo Pereira De Magalhães, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.72337",
+                "longitude": "-23.50132"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-pirituba-46m2-RS159000/id-18141651/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-pirituba-46m2-RS159000/id-18141651/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 quarto à venda na vila constança, são paulo , 29 m2 por r$ 159.000",
+            "description": "Apto a venda com 1 dorm, sala, coz, wc e lavanderia. R$ 169 mil  Documentação ok. Entra no projeto MINHA CASA, MINHA VIDA.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "29m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.67343",
+                "longitude": "-23.66999"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-constanca-RS159000/id-6763337/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-constanca-RS159000/id-6763337/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 47 m² por r$ 159.574 - vila brasilândia - são paulo/sp",
+            "description": "Apartamento com: - 2 dormitórios com portas camarão e persianas - Sala com persiana, parede com textura, papel de parede e sanca.  -Cozinha com gabinete ,banheiro com box, gabinete e chuveiro , área de serviço com tanque novo. - Quartos e sala com piso de madeira maciço.   01 vaga de garagem.   Quadra   Apartamento pintado e sem reparos para fazer.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "47m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02820-000",
+                "streetAddress": "Rua Ilha da Juventude, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.71247",
+                "longitude": "-23.44843"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-brasilandia-RS159574/id-17348108/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-brasilandia-RS159574/id-17348108/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios, 50 m² - venda por r$ 159.574,49 ou aluguel por r$ 1.360,00/mês - jardim brasília - são paulo/sp",
+            "description": "Apto vago com acabamento: - 2 quartos - Sala - Cozinha - Área de serviço  - Banheiro   Próximo a escola, creche, posto de saúde, transporte. IPTU Isento. Como está em processo para retirada da escritura o pagamento deve ser a vista via contrato particular de compra e venda",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "50m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02858-020",
+                "streetAddress": "Rua José Eduardo Pereira II, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.70227",
+                "longitude": "-23.4467"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-brasilia-RS159574/id-17431505/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-brasilia-RS159574/id-17431505/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 49 m² por r$ 159.999,99 - sítio morro grande - são paulo/sp",
+            "description": "Apartamento 2 dormitórios, sala, cozinha, banheiro, área de serviço e 1 vaga. Não dá financiamento! Próximo de supermercados, padarias, escolas, farmácias, comércio em geral, transporte público. Agende já sua visita e não perca essa oportunidade!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "49m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02810-000",
+                "streetAddress": "Avenida Elísio Teixeira Leite, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.71264",
+                "longitude": "-23.46499"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-sitio-morro-grande-49m2-RS159900/id-17074145/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-sitio-morro-grande-49m2-RS159900/id-17074145/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Excelente apto studio no jardim nordeste",
+            "description": "Apto Studio, com 1 dormitório, banheiro social, sala, cozinha e lavanderia conjugada. Lindo Imóvel",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "35m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "03688-010",
+                "streetAddress": "R Paratiba, 60"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7812772",
+                "longitude": "-23.7464678"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-sao-francisco-RS159900/id-14934663/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-sao-francisco-RS159900/id-14934663/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Pronto pra morar",
+            "description": "Nova oportunidade LUCOR IMOVEIS, excelente apto pronto pra morar,54 m², distribuidos em, dois dormitórios, banheiro, sala para dois ambientes, cozinha e ´área de serviço. Obs. Não possui vaga de garagem. Lazer com, Pista de Skate, salão para festas, quadra poliesportiva, praça central, equipamentos para ginastica,: A cesso facíl escola, creches, comercio local, transporte, posto de saude. Agende a sua visita com um dos nossos corretores e venha conhecer; 11  / 11 9   WhatsApp  (link removido)  CRECI 034447 PJ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "54m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02858-020",
+                "streetAddress": "Rua José Eduardo Pereira Ii, 291"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-49.0923255",
+                "longitude": "-22.3331198"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-brasilia-RS159999/id-17749961/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-brasilia-RS159999/id-17749961/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "- apartamento no bairro vila brasilândia",
+            "description": "Apartamento de 45m, 2 dorms, sala, cozinha, lavanderia, 1 banheiro, 1 vaga de garagem.   ANDAR DO APTO: Térreo   NÃO ACEITA FINANCIAMENTO  Cadu - Executivo de Vendas 0 1 1 - 9 9 9 8 6 - 7 3 3 5 (Nextel) WhatsApp Creci: 123.827  Entrem em contato preferencialmente pelo WhatsApp que já teremos um pronto atendimento !!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02820-000",
+                "streetAddress": "Rua Ilha da Juventude, 2007"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.71247",
+                "longitude": "-23.44843"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-brasilandia-45m2-RS160000/id-13188312/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-brasilandia-45m2-RS160000/id-13188312/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 50 m² por r$ 160.000,00 - jardim brasília - são paulo/sp",
+            "description": "CONJUNTO HABITACIONAL YADOIA/ BLOCO BELA VISTA. CÓD: AP6707  Apartamento de 50m². O imóvel conta com 02 dormitórios com armários planejados, ampla sala de estar, cozinha com armários embutidos e divisa para com área de serviço, 01 banheiro com box em vidro e armários, sem vaga de garagem.  Apartamento com ótimo acesso as grandes vias de São Paulo, condomínio de baixo custo, o edifício se localiza na Brasilândia, bairro com bom acesso aos comércios.  Imobiliária Tukunaga",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "50m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02858-020",
+                "streetAddress": "Rua José Eduardo Pereira Ii, 291"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-49.0923255",
+                "longitude": "-22.3331198"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-brasilia-RS160000/id-7471095/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-brasilia-RS160000/id-7471095/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento no cdhu jardim brasilia!",
+            "description": "Bem localizado, próximo ao Rodoanel. supermercados, escolas, bancos, creche, posto de saúde, comércios, serviços e transporte público. Apartamento reformado! São 2 dormitórios com piso laminado, sala ampla com piso porcelanatpo e sanca, cozinha, 1 banheiro com box de vidro e pia com gabinete, NÃO POSSUI VAGA DE GARAGEM, DOCUMENTAÇÃO TUDO OK PARA FINANCIAR!! Link do imóvel no site da imobiliária:  (link removido) +no+cdhu+jardim+brasilia!?origem=I",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-brasilia-45m2-RS160000/id-14541064/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-brasilia-45m2-RS160000/id-14541064/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Ref 15.596 excelente apartamento  bairro jardim brasília, 54  m²a.u.,  de area útil, com 2 dormitórios, sem vaga de garagem e lazer.",
+            "description": "REF 15.596 Excelente Apartamento localizado no bairro Jardim Brasília, 54 m² de area útil, com 2 dormitórios, Sala, cozinha, 1 banheiro, cozinha e área de serviços, sem vaga de garagem e salão de festas. Excelente localização, próximo de comércios, escolas, creches, posto de saúde, linha de ônibus. Toda infraestrutura próxima, praça com quadra poliesportiva, equipamentos de ginástica, Pista de skate, a 10 min de carro do Rodoanel e a 20 min da nova linha laranja do metrô. Oportunidade Imperdível! Agende já a sua visita. Vale a pena conhecer o imóvel.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "54m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-brasilia-zona-norte--RS160000/id-8770801/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-brasilia-zona-norte--RS160000/id-8770801/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento a venda no bairro jardim damasceno em são paulo - sp.",
+            "description": " (link removido) 74:  Lindo apartamento da CDHU por apenas 160K!!! Documentação em dia para financiamento bancário.  Não perca esta oportunidade, vale a pena conferir, agende sua visita! Somos correspondentes Caixa Econômica Federal/ Itaú/ Santander aprovamos o seu crédito em até 48 horas (crédito sujeito a aprovação). CRECI: J-26805  As informações estão sujeitas a alterações. Consulte o corretor responsável.  ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-damasceno-45m2-RS160000/id-16095601/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-damasceno-45m2-RS160000/id-16095601/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento a venda no bairro jardim damasceno em são paulo - sp.",
+            "description": " REF: L5340 Apartamento para venda no Jardim Damaseno, possui 45m², sala, cozinha, área de serviço, banheiros e 2 dormitó (link removido)  vaga de garagem.  Permitido animais de estimação.  Valor Para Venda: R$160.000,00 Valor de Condomínio: R$158,00  Não perca esta oportunidade, vale a pena conferir, agende sua visita! com a corretora Laryssa Martins 11-9  CRECI: 229055-F  Somos correspondentes Caixa/ Itaú/ Santander aprovamos seu crédito em até 48 horas (crédito sujeito a aprovação).      As informações estão sujeitas a alterações. Consulte o corretor responsável. ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-damasceno-45m2-RS160000/id-18554769/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-damasceno-45m2-RS160000/id-18554769/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento a venda no bairro jardim brasília (zona norte) em são paulo - sp.",
+            "description": "REF 13208 Vendo lindo apto no cdhu Yadoia - Quitado Apto 4° andar com 54m2, 2 dormitórios, sala, cozinha, banheiro e área de serviço. Incluso armário de cozinha, gabinete de pia (cozinha e banheiro), box de vidro fumê, guarda-roupas planejado no quarto de casal. Salão de festas, quadra de esporte, pistas de bicicleta e skate. Próximo a delegacia, padarias, mercados, posto de saúde, escolas, creches. A 15 min do Rodoanel e da futura estação de metrô da linha laranja. Ônibus na porta para diversas regiões de SP: Lapa, Santana, Centro, Barra Funda, Pinheiros, Terminal de ônibus Vila Nova Cachoeirinha. Luz e água individual. Condomínio no valor de R$ 90,00 + consumo de água do apartamento. Valor de venda do imóvel: 160.000,00 Aceita financiamento pelo banco e FGTS.  Não perca esta oportunidade, vale a pena conferir, agende sua visita! Somos correspondentes bancários, aprovamos seu crédito em até 48 horas (crédito sujeito a aprovação). CRECI: J-26805",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "54m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-brasilia-zona-norte-54m2-RS160000/id-5126549/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-brasilia-zona-norte-54m2-RS160000/id-5126549/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/52206/7864931/sp-sao-paulo-parque-nacoes-unidas-apartamento-a-venda-1-quarto-64151e0a-1.jpg",
+        "name": "Apartamentos à venda na Zona Norte em São Paulo - Página 11 | Chaves na Mão",
+        "description": "27.580 Apartamentos à venda na Zona Norte em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Norte em São Paulo. - Página 11",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "160000",
+            "priceCurrency": "BRL",
+            "lowPrice": "159000",
+            "offerCount": "27580"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-norte/",
+                    "name": "Zona Norte"
+                }
+            }
+        ]
+    }
+]

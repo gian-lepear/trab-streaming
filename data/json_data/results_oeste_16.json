@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na rua kenkiti shimomoto, --, jardim boa vista (zona oeste), são paulo por r$ 200.000",
+            "description": "Apartamento no segundo andar, reformado com 2 dormitórios, banheiro, cozinha com gabinete e lavanderia . Vista excelente. O condomínio oferece vaga rotativa descoberta, portaria 24horas, 2 salões de festas, sendo que um poderá ser mantido mesa de bilhar e mesa de ping pong, churrasqueira e área de lazer (play ground).",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "39m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Rua Kenkiti Shimomoto, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7875",
+                "longitude": "-23.57652"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-boa-vista-zona-oeste-39m2-RS200000/id-14750287/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-boa-vista-zona-oeste-39m2-RS200000/id-14750287/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 43 m² por r$ 200.000,00 - jardim boa vista (zona oeste) - são paulo/sp",
+            "description": "Apartamento para venda de 2 dormitórios, andar alto e vista livre, no bairro do Jardim Boa Vista - Butantã -SP  Aceita proposta!!  Com 43m², com 2 dormitórios, banheiro, sala, cozinha, área de serviço. Apartamento com ótimo acabamento, condomínio com salão de festas, churrasqueira, elevador, portaria 24h e acesso por token e digital na portaria, elevador, O apartamento possui vista livre, sendo todos os cômodos sem prédios na frente, tornando muito mais privativo.   Acesso fácil para Raposo Tavares, condomínio fica atrás do Parque Chico Mendes no Jardim Boa Vista divisa de Osasco com Butantã.  Aproveite e agende sua visita!!   (link removido) ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "43m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05583-000",
+                "streetAddress": "Rua Kenkiti Shimomoto, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7875",
+                "longitude": "-23.57652"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-boa-vista-zona-oeste-43m2-RS200000/id-12120768/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-boa-vista-zona-oeste-43m2-RS200000/id-12120768/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 39 m² - butantã - são paulo/sp",
+            "description": "Apartamento reformado com 2 dormitórios, 1 banheiro, cozinha e lavanderia com gabinete de pia de cozinha.  Vista excelente de frente para a Rua Kenkiti Shimomoto. O condomínio oferece vaga rotativa descoberta. O condomínio tem portaria 24horas, salão de festas, área de lazer e academia. Próximo ao comércio, com fácil acesso as principais vias do bairro e ao transporte público. Agende sua visita. Cuidamos do seu financiamento sem nenhum custo.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "39m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05583-000",
+                "streetAddress": "Rua Kenkiti Shimomoto, 1500"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7827",
+                "longitude": "-23.57484"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-butanta-39m2-RS200000/id-15188347/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-butanta-39m2-RS200000/id-15188347/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento jardim ipanema - jaraguá 2 dormitórios, 1 vaga rotativa e opções de lazer",
+            "description": "Apartamento Jardim Ipanema - Jaraguá  * 2 dormitórios; * sala para 2 ambientes * cozinha americana; * banheiro; * área de serviço conjugada; * 1 vaga de garagem rotativa.  Porcelanato na cozinha, piso laminado em todo o apartamento.  Apartamento bem iluminado e arejado.  Condomínio com estacionamento para motos, 2 áreas para churrasqueira, área para pets, salão de festas, playground, quadra poliesportiva, mini mercado para condôminos. Portaria e segurança 24h.  Documentos OK, aceita financiamento.  Agende sua visita.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "38m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05187-010",
+                "streetAddress": "Avenida Alexios Jafet, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74821",
+                "longitude": "-23.44768"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-ipanema-zona-oeste-38m2-RS200000/id-17463396/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-ipanema-zona-oeste-38m2-RS200000/id-17463396/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 52 m² por r$ 200.000,00 - jardim celeste - são paulo/sp",
+            "description": "Lindo Imóvel, Agende já a sua visita ! Imóvel amplo a venda com 2 quartos, e 1 banheiro no total.  o condomínio fica localizado em Rua Augusto Santel no bairro Parque do estado em São Paulo. Esta bem localizado, próximos de pontos de interesse de Parque do estado , tais como Zoo Safari, inclusive no valor do condomínio R$ 555 incluso a agua no mesmo !  Reserve já uma visita !",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "52m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.75078",
+                "longitude": "-23.599"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-celeste-52m2-RS200000/id-13891723/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-celeste-52m2-RS200000/id-13891723/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 dormitório na penha",
+            "description": "1 Dormitório com porcelanato; Sala conjugada, piso porcelanato; Cozinha conjugada, piso porcelanato; Banheiro social; Lavanderia conjugada; Sem garagem. Venha falar com o corretor Valmir e fazer um ótimo negócio.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "28m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.53356",
+                "longitude": "-23.52728"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-beatriz-45m2-RS200000/id-17289781/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-beatriz-45m2-RS200000/id-17289781/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 38 m² por r$ 200.000 - jardim ipanema (zona oeste) - são paulo/sp",
+            "description": "Apartamento de 38m² com 2 dormitórios, sala, cozinha, lavanderia, banheiro e 1 vaga.   Condomínio com salão de festas e portaria 24h.  Apto todo reformado Cerâmica e Revestimento de ótima qualidade em todo o apto. Pintura completa feita recentemente. Porta de entrada trocada junto a fechadura e puxadores. Plafon na cozinha, lavanderia e Banheiro.  Janelas todas com insufilme e Tela mosqueteira. Pia da cozinha e mesa americana de Granito. Pia banheiro de mármore. Apto todo com acabamento do teto com gesso. Armário da cozinha que fica em cima da pia e gabinete ficam no apto. Armário do banheiro fica na cozinha, junto ao box de vidro.  5 min de carro e 10 min a pé a Estação Jaraguá  Mercados próximos Kibe e Cristal Condomínio em frente a academia, loja de materiais de construção e estacionamento. Ponto de ônibus em frente ao condomínio. Entre os Bairros Vila Aurora e Cidade de Abril.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "38m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05187-010",
+                "streetAddress": "Avenida Alexios Jafet, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74821",
+                "longitude": "-23.44768"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-ipanema-zona-oeste--RS200000/id-16614707/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-ipanema-zona-oeste--RS200000/id-16614707/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 42 m² por r$ 200.000,00 - jardim boa vista (zona oeste) - são paulo/sp",
+            "description": "Vende-se apartamento no Tenda Agua Marinha - Jardim boa vista   * 2 dormitórios  * 1 banheiro * Sala * Cozinha  * Lavanderia   Condomínio conta com:  * Segurança 24h * Leitura facial  * Salão de festa * Playground  * Churrasqueira  AGENDE JÁ SUA VISITA!!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "42m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05583-000",
+                "streetAddress": "Rua Kenkiti Shimomoto, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7875",
+                "longitude": "-23.57652"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-boa-vista-zona-oeste-42m2-RS200000/id-14234314/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-boa-vista-zona-oeste-42m2-RS200000/id-14234314/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento para venda em são paulo, jardim paulistano, 3 dormitórios, 1 banheiro",
+            "description": "REFORMADO, ÓTIMA LOCALIZAÇÃO.   NÃO ACEITA FINANCIAMENTO.       - Cômodos: Área de Serviço, Copa, Cozinha,     - Proximidades: Bares e Restaurantes, Escola, Farmácia, Shopping Center, Supermercado,",
+            "numberOfRooms": "3",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "--m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.68685",
+                "longitude": "-23.57191"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-3-quartos-sp-sao-paulo-jardim-paulistano-RS200000/id-13377980/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-3-quartos-sp-sao-paulo-jardim-paulistano-RS200000/id-13377980/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento para venda em são paulo, jardim são joão - jaragua, 2 dormitórios, 1 banheiro",
+            "description": "Apartamento para Venda no bairro JARDIM SÃO JOÃO - JARAGUA , localizado na cidade de São Paulo SP.     Com 2 dormitórios, possui 1 banheiro, 1 sala.     Valor do Imóvel R$ 200.000,00.     Características: Portão Eletrônico.     Cômodos: Área de Serviço, Cozinha.     Proximidades: Bares e Restaurantes, Escola, Farmácia, Shopping Center, Supermercado.           - Características: Portão Eletrônico,     - Cômodos: Área de Serviço, Cozinha,     - Proximidades: Bares e Restaurantes, Escola, Farmácia, Shopping Center, Supermercado,     Observação: APARTAMENTO ESTÁ VAZIO",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "--m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-sao-joao-jaragua--RS200000/id-17109561/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-sao-joao-jaragua--RS200000/id-17109561/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Flat à venda no morumbi, totalmente mobiliado com serviços, próximo ao hospital albert einstein!",
+            "description": "Flat à venda no Morumbi, totalmente mobiliado com serviços, próximo ao Hospital Albert Einstein!  Apto com 38 m², 01 dormitório, cozinha americana, sala, 01 banheiro e 01 vaga de garagem. O flat oferece tv a cabo, água, gás, serviço de arrumação de quarto diariamente, manobrista, recepção e segurança 24hs, lavanderia coletiva, lazer com piscina, sala de ginástica, salão de festas, salão de jogos e espaço gourmet com churrasqueira.  Excelente localização, próximo ao Hipermercado Extra, Hospital Albert Einstein, Palácio dos Bandeirantes, Estádio do Morumbi, Parque Burle Marx, Shopping Morumbi, supermercados, padarias e farmácias. Fácil acesso as principais Avenidas (Marginal Pinheiros, Morumbi e Giovanni Gronchi)  Condições, valores e serviços sujeitos à alteração, sem aviso prévio.  Consulte-nos!",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05705-170",
+                "streetAddress": "Rua Doutor Chibata Miyakoshi, 183"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.723028",
+                "longitude": "-23.6265279"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-com-garagem-sp-sao-paulo-morumbi-69m2-RS200000/id-4129723/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-com-garagem-sp-sao-paulo-morumbi-69m2-RS200000/id-4129723/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento a venda no jardim ipanema av alexios jafet",
+            "description": "Condomínio Residencial das Palmeiras, Avenida Alexios Jafet Valor de Venda: R$ 190 mil Valor de condomínio: 300,00 Valor de IPTU: isento Área útil: 38 Área Total: 38   Armários planejados banheiro, cozinha, área de serviço, um quarto. Box no banheiro  Condomínio com: Portaria 24 horas Playground Salão de festas  Churrasqueira Quadra de esporte Gás encanado  Apartamento a venda no Jardim Ipanema, Jaraguá whats (11) 9 /9  proprietário aceita financiamento",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "38m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-ipanema-zona-oeste-38m2-RS200000/id-14187028/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-ipanema-zona-oeste-38m2-RS200000/id-14187028/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento para venda em são paulo, butantã, 1 dormitório, 1 banheiro",
+            "description": "Studio à Venda no bairro Butantã, localizado na cidade de São Paulo SP, situado na zona Oeste, região Oeste, ponto de referência Universidade de São Paulo.     Studio muito bem localizado, ao lado da Av. Corifeu de Azevedo Marques, com o supermercado atacadista Roldão ao lado, próximo de bancos, farmácias, restaurantes e da Univerisade de São Paulo, com diversas conveniências que podem ser alcançadas à pé. O studio é ideal para pessoas solteiras, estudantes e para investimento, sendo uma opção interessante ao Airbnb e  (link removido) .   A pintura está recém realizada, o banheiro possui ladrilho chão-teto e a varanda tem vista para o entorno. A região está em processo de valorização com diversos investimentos feitos em infraestrutura e mobilidade nos últimos 5 anos. Ligue para a gente e vamos marcar uma visita. Vale à pena conhecer.     Com 1 dormitório, possui 1 banheiro, 1 sala, localizado em condomínio.     Área Total de 26,00 mº, Área Privativa de 26,00 mº, Área Construída com 27,30 mº.     Valor do Imóvel R$ 200.000,00, Valor do Condomínio R$ 335,00.     Características: Árvores no terreno, Churrasqueira, Elevador, Mini Market, Piscina, Playground, Portaria 24h, Salão de Festas, Solarium.     Proximidades: Bares e Restaurantes, Escola, Farmácia, Shopping Center, Supermercado, Academia, Banco, Clube, Hospital, Parque, Universidade.           - Características: Árvores no terreno, Churrasqueira, Elevador, Mini Market, Piscina, Playground, Portaria 24h, Salão de Festas, Solarium,     - Proximidades: Bares e Restaurantes, Escola, Farmácia, Shopping Center, Supermercado, Academia, Banco, Clube, Hospital, Parque, Universidade,",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "26m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05360-130",
+                "streetAddress": "Rua Pangaré, 462"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74375",
+                "longitude": "-23.565"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-butanta-26m2-RS200000/id-16664510/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-butanta-26m2-RS200000/id-16664510/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na rua kenkiti shimomoto, --, jardim boa vista (zona oeste), são paulo por r$ 200.000",
+            "description": "Apartamento no segundo andar, reformado com 2 dormitórios, banheiro, cozinha com gabinete e lavanderia . Vista excelente. O condomínio oferece vaga rotativa descoberta, portaria 24horas, 2 salões de festas, sendo que um poderá ser mantido mesa de bilhar e mesa de ping pong, churrasqueira e área de lazer (play ground).",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "39m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05583-000",
+                "streetAddress": "Rua Kenkiti Shimomoto, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7875",
+                "longitude": "-23.57652"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-boa-vista-zona-oeste-39m2-RS200000/id-14623329/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-boa-vista-zona-oeste-39m2-RS200000/id-14623329/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 dormitório à venda, 43 m² por r$ 200.000,00 - jardim boa vista (zona oeste) - são paulo/sp",
+            "description": "Apartamento para venda de 1 dormitório- Condomínio Granada - Jardim Boa Vista, na divisa de Osasco com Butantã - SP  Detalhes do condomínio Condomínio fechado, elevador, Segurança 24h, Portaria, Permitido animais  NÃO POSSUI VAGA DE GARAGEM  Aproveite e agende sua visita e não perca essa oportunidade!   (link removido) ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "43m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05583-000",
+                "streetAddress": "Rua Kenkiti Shimomoto, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7875",
+                "longitude": "-23.57652"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jardim-boa-vista-zona-oeste-43m2-RS200000/id-16657931/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jardim-boa-vista-zona-oeste-43m2-RS200000/id-16657931/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/116649/14750287/sp-sao-paulo-jardim-boa-vista-zona-oeste-kenkiti-shimomoto-apartamento-a-venda-2-quartos-6480f02c-1.jpg",
+        "name": "Apartamentos à venda na Zona Oeste em São Paulo - Página 16 | Chaves na Mão",
+        "description": "14.908 Apartamentos à venda na Zona Oeste em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Oeste em São Paulo. - Página 16",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "200000",
+            "priceCurrency": "BRL",
+            "lowPrice": "200000",
+            "offerCount": "14908"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-oeste/",
+                    "name": "Zona Oeste"
+                }
+            }
+        ]
+    }
+]

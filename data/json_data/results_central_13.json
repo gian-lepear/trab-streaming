@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 42 m² por r$ 184.000,00 - república - são paulo/sp",
+            "description": "Condomínio Edificio Imperio!  Apartamento dispõe de: 42m² de área útil 1 Dormitório 1 Banheiro Construção 1948 Torre Única Elevador  O Condomínio Edifício Império é equipado com diversas instalações, como gás encanado.  Fica localizado em Rua Coronel Xavier de Toledo, no bairro República, São Paulo, próximo a lugares como Universidade Estadual Paulista Júlio de Mesquita Filho, Galeria Sete de Abril, Estação Anhangabaú, Terminal Bandeira, Centro de Referência da Dança e Theatro Municipal de São Paulo.   Valores de condomínio e IPTU podem sofrer alteração sem nosso conhecimento. Sujeito a confirmação de disponibilidade.  Entre em contato conosco pelo WhatsApp (11) 9 ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "42m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01048-000",
+                "streetAddress": "Rua Coronel Xavier de Toledo, 234"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64045",
+                "longitude": "-23.54732"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-republica-RS184000/id-14793721/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-republica-RS184000/id-14793721/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Flat champ´s elysées disponível para venda com 33m², 01 dormitório e 01 vaga de garagem",
+            "description": "Flat Champ´s Elysée  Cod: 20933  Fotos reais do apartamento  O Champs Elysees está localizado na Av. Rio Branco acesso fácil as vias de São Paulo. A poucos metros do Metrô Luz, acesso a todas as regiões de São Paulo. Este flat com localização estratégica a e a boa arquitetura dos prédios é um dos pontos fortes da retomada desta região, guiada sobretudo por uma troca geracional, onde antigos moradores foram deixando o lugar para uma nova leva de habitantes que vem mesclando ares novos com os charmes já pre-existentes trazendo inovação e atraindo novos investimentos.    Este edifício que possui uma ótima infra-estrutura e serviços, tem atraindo pessoas que buscam estar próximas a tudo que necessitam, bem como para quem vai investir ou morar.  No Champs Elysees você poderá usufruir de:    apartamento mobiliado  ar condicionado  tv a cabo  interfone  arrumação diária  internet (sob consulta)  lavanderia,  área de lazer  piscina,  sauna  e academia.    Excelente negócio.    Flat/Condo Hotel com excelente rentabilidade na locação convencional intermediada pela Só Flats ou locação através das Plataformas Digitais, gerando os melhores rendimentos do mercado e valorização do seu imóvel.    A Só Flats é uma empresa especializada em compra e venda de Flats dentro e fora da cidade de São Paulo, para moradia ou investimento.    Não deixe de nos consultar.    Sujeito à confirmação de disponibilidade e valores, sem aviso prévio.  Só Flats Negócios Imobiliários  Creci 19.926-j",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "33m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01206-001",
+                "streetAddress": "Av Rio Branco, 1658"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64682",
+                "longitude": "-23.52992"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-com-garagem-sp-sao-paulo-centro-35m2-RS185000/id-18609461/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-com-garagem-sp-sao-paulo-centro-35m2-RS185000/id-18609461/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Flat champ´s elysées disponível para venda com 31m², 01 dormitório e 01 vaga de garagem",
+            "description": "Flat Champ´s Elysée  Cod: 13108  O Champs Elysees está localizado na Av. Rio Branco acesso fácil as vias de São Paulo. A poucos metros do Metrô Luz, acesso a todas as regiões de São Paulo. Este flat com localização estratégica a e a boa arquitetura dos prédios é um dos pontos fortes da retomada desta região, guiada sobretudo por uma troca geracional, onde antigos moradores foram deixando o lugar para uma nova leva de habitantes que vem mesclando ares novos com os charmes já pre-existentes trazendo inovação e atraindo novos investimentos.    Este edifício que possui uma ótima infra-estrutura e serviços, tem atraindo pessoas que buscam estar próximas a tudo que necessitam, bem como para quem vai investir ou morar.  No Champs Elysees você poderá usufruir de:    apartamento mobiliado  ar condicionado  tv a cabo  interfone  arrumação diária  internet (sob consulta)  lavanderia,  área de lazer  piscina,  sauna  e academia.    Excelente negócio.    Flat/Condo Hotel com excelente rentabilidade na locação convencional intermediada pela Só Flats ou locação através das Plataformas Digitais, gerando os melhores rendimentos do mercado e valorização do seu imóvel.    A Só Flats é uma empresa especializada em compra e venda de Flats dentro e fora da cidade de São Paulo, para moradia ou investimento.    Não deixe de nos consultar.    Sujeito à confirmação de disponibilidade e valores, sem aviso prévio.  Só Flats Negócios Imobiliários  Creci 19.926-j",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "31m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01206-001",
+                "streetAddress": "Av Rio Branco, 1658"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64682",
+                "longitude": "-23.52992"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-com-garagem-sp-sao-paulo-centro-35m2-RS185000/id-18642517/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-com-garagem-sp-sao-paulo-centro-35m2-RS185000/id-18642517/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Studio 38²m   na rua dos carmelitas ao lado do metrô sé - centro sap paulo",
+            "description": "Studio em prédio com menos de 20 anos, excelente estado de conservação, 38m2 de área útil, com varanda e lavanderia, ao lado metrô Sé.  Valor do Condomínio R$ 208 , Studio sendo 1 Quarto, 1 Sala, 1 Banheiro ,Área de serviço, Armários na cozinha, Varanda Condomínio com Elevador, Segurança 24h, Portaria, Permitido animais.  SEM Vaga de garagem",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "38m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01020-010",
+                "streetAddress": "Rua das Carmelitas, 109"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.62899",
+                "longitude": "-23.55134"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-se-38m2-RS185000/id-13073297/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-se-38m2-RS185000/id-13073297/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Studio no centro histórico de são paulo, 33m²",
+            "description": "Apartamento tipo Kitnet, muito bem localizado, no Centro Histórico da cidade, próximo ao triângulo histórico, a 5 minutos andando do metrô Sé, recém reformado e mobiliado. São 33m², dormitório com armário planejado, banheiro, sala e cozinha mobiliada. Andar alto. NÂO tem vaga de garagem.. Portaria 24 horas Gostou?.... Agende sua visita!!",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "33m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01020-010",
+                "streetAddress": "Rua Das Carmelitas, 167"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.6291809",
+                "longitude": "-23.5518093"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-33m2-RS185000/id-14682102/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-33m2-RS185000/id-14682102/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento centro sao paulo sp brasil",
+            "description": " CENTRO - Proximo a Pinacoteca do Estado de Sao Paulo. Apartamento bem localizado, no coracao da cidade de Sao Paulo. Muito proximo a ampla variedade de comercio, restaurantes, alem de opcoes de cultura, lazer e entretenimento. Bem conservado, oportunidade unica de investimento! Seus quase 35m sao divididos em 1 dormitorio, 1 sala, cozinha e banheiro. Sua localizacao permite que se desloque por toda a cidade de Sao Paulo de maneira facil e sem a necessidade do uso de transporte publico.   ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "34m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-34m2-RS185000/id-5411997/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-34m2-RS185000/id-5411997/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento tipo studio centro à 300 metros do metrô santa cecília",
+            "description": "Apartamento tipo Studio à 300 Metros do Metrô Santa Cecília  27m2, 1 Dormitório com Armário, Sala com Cozinha Americana, 1 banheiro, alguns móveis e eletrodomésticos embutidos ,pronto para morar, prédio familiar.  Aceita Financiamento.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "27m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01201-060",
+                "streetAddress": "Rua Ana Cintra, 63"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64691",
+                "longitude": "-23.53756"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-santa-cecilia-37m2-RS185000/id-16416382/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-santa-cecilia-37m2-RS185000/id-16416382/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda!!!",
+            "description": "APARTAMENTO À VENDA O apartamento possui 38 metros, sendo 1 quarto. 2 elevadores 14 andares - 5 apartamentos por andar Tem salão de festas e bicicletário sem vaga de garagem ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "38m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-RS185000/id-2851741/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-RS185000/id-2851741/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Flat champs elysees disponível para venda com 32m² e 01 vaga de garagem",
+            "description": "CHAMPS ELYSEES  COD 38129  A poucos metros do Metrô Luz, acesso a todas as regiões de São Paulo. Este flat com localização estratégica a e a boa arquitetura dos prédios é um dos pontos fortes da retomada desta região, guiada sobretudo por uma troca geracional, onde antigos moradores foram deixando o lugar para uma nova leva de habitantes que vem mesclando ares novos com os charmes já pre-existentes trazendo inovação e atraindo novos investimentos.  Este edifício que possui uma ótima infra-estrutura e serviços, tem atraindo pessoas que buscam estar próximas a tudo que necessitam, bem como para quem vai investir ou morar.  No Champs Elysees você poderá usufruir de:  apartamento mobiliado ar condicionado tv a cabo interfone arrumação diária internet (sob consulta) lavanderia área de lazer piscina sauna academia  Excelente negócio.  Flat/Condo Hotel com excelente rentabilidade na locação convencional intermediada pela Só Flats ou locação através das Plataformas Digitais, gerando os melhores rendimentos do mercado e valorização do seu imóvel.  A Só Flats é uma empresa especializada em compra e venda de Flats dentro e fora da cidade de São Paulo, para moradia ou investimento.  Não deixe de nos consultar.  Sujeito à confirmação de disponibilidade e valores, sem aviso prévio.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "32m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01206-001",
+                "streetAddress": "Av Rio Branco, 1658"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64682",
+                "longitude": "-23.52992"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-com-garagem-sp-sao-paulo-centro-35m2-RS185000/id-17296425/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-com-garagem-sp-sao-paulo-centro-35m2-RS185000/id-17296425/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Flat champs elysees disponível para venda com 31m², 01 dorm e 01 vaga de garagem",
+            "description": "Flat Champs Elysees  Cod: 14487  O Champs Elysees está localizado na Av. Rio Branco acesso fácil as vias de São Paulo. A poucos metros do Metrô Luz, acesso a todas as regiões de São Paulo. Este flat com localização estratégica a e a boa arquitetura dos prédios é um dos pontos fortes da retomada desta região, guiada sobretudo por uma troca geracional, onde antigos moradores foram deixando o lugar para uma nova leva de habitantes que vem mesclando ares novos com os charmes já pre-existentes trazendo inovação e atraindo novos investimentos.  Este edifício que possui uma ótima infra-estrutura e serviços, tem atraindo pessoas que buscam estar próximas a tudo que necessitam, bem como para quem vai investir ou morar.  No Champs Elysees você poderá usufruir de:  apartamento mobiliado  ar condicionado  tv a cabo  interfone  arrumação diária  internet (sob consulta)  lavanderia,  área de lazer  piscina,  sauna  e academia.    Excelente negócio.    Flat/Condo Hotel com excelente rentabilidade na locação convencional intermediada pela Só Flats ou locação através das Plataformas Digitais, gerando os melhores rendimentos do mercado e valorização do seu imóvel.    A Só Flats é uma empresa especializada em compra e venda de Flats dentro e fora da cidade de São Paulo, para moradia ou investimento.    Não deixe de nos consultar.    Sujeito à confirmação de disponibilidade e valores, sem aviso prévio.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "31m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01206-001",
+                "streetAddress": "Av Rio Branco, 1658"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64682",
+                "longitude": "-23.52992"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-com-garagem-sp-sao-paulo-centro-40m2-RS185000/id-18635062/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-com-garagem-sp-sao-paulo-centro-40m2-RS185000/id-18635062/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Flat champ´s elysées disponível para venda com 31m², 01 dormitório e 01 vaga de garagem",
+            "description": "Flat Champ´s Elysée  Cod: 12506  O Champs Elysees está localizado na Av. Rio Branco acesso fácil as vias de São Paulo. A poucos metros do Metrô Luz, acesso a todas as regiões de São Paulo. Este flat com localização estratégica a e a boa arquitetura dos prédios é um dos pontos fortes da retomada desta região, guiada sobretudo por uma troca geracional, onde antigos moradores foram deixando o lugar para uma nova leva de habitantes que vem mesclando ares novos com os charmes já pre-existentes trazendo inovação e atraindo novos investimentos.    Este edifício que possui uma ótima infra-estrutura e serviços, tem atraindo pessoas que buscam estar próximas a tudo que necessitam, bem como para quem vai investir ou morar.  No Champs Elysees você poderá usufruir de:    apartamento mobiliado  ar condicionado  tv a cabo  interfone  arrumação diária  internet (sob consulta)  lavanderia,  área de lazer  piscina,  sauna  e academia.    Excelente negócio.    Flat/Condo Hotel com excelente rentabilidade na locação convencional intermediada pela Só Flats ou locação através das Plataformas Digitais, gerando os melhores rendimentos do mercado e valorização do seu imóvel.    A Só Flats é uma empresa especializada em compra e venda de Flats dentro e fora da cidade de São Paulo, para moradia ou investimento.    Não deixe de nos consultar.    Sujeito à confirmação de disponibilidade e valores, sem aviso prévio.  Só Flats Negócios Imobiliários  Creci 19.926-j",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "31m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01206-001",
+                "streetAddress": "Av Rio Branco, 1658"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64682",
+                "longitude": "-23.52992"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-com-garagem-sp-sao-paulo-centro-35m2-RS185000/id-18642506/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-com-garagem-sp-sao-paulo-centro-35m2-RS185000/id-18642506/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 quarto à venda na oscar cintra gordinho, --, sé, são paulo por r$ 185.000",
+            "description": "Apartamento com 1 quarto à venda na oscar cintra gordinho, --, sé, são paulo por r$ 185.000",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "--m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01512-010",
+                "streetAddress": "Oscar Cintra Gordinho, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.62911",
+                "longitude": "-23.55322"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-se-RS185000/id-13210533/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-se-RS185000/id-13210533/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda na avenida duque de caxias, santa cecília, são paulo, 37 m2 por r$ 185.000",
+            "description": "Studio em andar alto e ensolarado no bairro de Santa Cecília. Living com sacada e armários embutidos, cozinha com armários, W.C social com área de serviço conjugada, piso frio e 37 m² de área útil. O prédio possui porteiro eletrônico e está localizado próximo à estação de metrô Santa Cecília e República, Terminal Amaral Gurgel, Galeria do Rock, Theatro Municipal de São Paulo, Santa Casa de Misericórdia entre outros estabelecimentos da região. Fácil acesso a Avenida São João, Avenida Duque de Caxias e Avenida Rio Branco. Código de Referência: 10381.",
+            "numberOfRooms": "0",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "37m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01214-000",
+                "streetAddress": "Avenida Duque De Caxias, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64313",
+                "longitude": "-23.5369"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-sp-sao-paulo-santa-cecilia-RS185000/id-11019126/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-sp-sao-paulo-santa-cecilia-RS185000/id-11019126/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 quarto à venda na avenida ipiranga, --, centro, são paulo, 39 m2 por r$ 185.000",
+            "description": "Apartamento REFORMADO com 39m², 1 dorm., sala ampla, cozinha independente e lavanderia.   Condomínio tranquilo com elevador, localizado no centro da cidade de São Paulo, na confluência da Avenida Ipiranga com a Avenida Cásper Líbero. Entrada para as duas avenidas. Foi projetado por Oscar Niemeyer em 1951 e inaugurado em 1954.  Ótima localização, entre as estações República e Luz do metrô, 700mts da Praça da República. Próximo a bares, restaurantes, drogarias, lojas, comércio em geral e transportes públicos.  Peça pela ref. JG014 e agende sua visita.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "39m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Avenida Ipiranga, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-45.40106",
+                "longitude": "-23.8016"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-51m2-RS185000/id-6503610/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-51m2-RS185000/id-6503610/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 24 m² por r$ 185.000,00 - centro - são paulo/sp",
+            "description": "CONDOMÍNIO PALACETE RIACHUELO!!!  Apartamento dispõe de: 24m² de área 1 Dormitório 1 Banheiro Reformado  Diferenciais: Elevador Interfone Guarita Churrasqueira Monitoramento 24 horas  Prédio histórico no centro de SP. Linda vista do centro de São Paulo, na porta do metro Anhangabaú, 24 metros com vista para o shopping light, ao lado do tribunal eleitoral, e sede da prefeitura de são Paulo, local bem iluminado e com segurança urbana.  Você conta com serviços opcionais como: Assessoria Imobiliária para resolver toda a burocracia jurídica e trazer segurança para sua negociação; Suporte para aprovação do  financiamento imobiliário sem custo algum através da nossa assessoria de crédito; Além de todos os suportes do nosso time de especialistas no assunto.   Valores de condomínio e IPTU podem sofrer alteração sem nosso conhecimento. Sujeito a confirmação de disponibilidade.  Entre em contato conosco pelo WhatsApp  (11) 9  BeG Imóveis atendimento com qualidade e rapidez!",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "24m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01007-010",
+                "streetAddress": "Rua Doutor Falcão Filho, 151"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.63850021362305",
+                "longitude": "-23.548500061035156"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-RS185000/id-8326464/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-RS185000/id-8326464/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/40097/14793721/sp-sao-paulo-republica-rua-coronel-xavier-de-toledo-apartamento-a-venda-1-quarto-6480fce2-1.jpg",
+        "name": "Apartamentos à venda na Zona Central em São Paulo - Página 13 | Chaves na Mão",
+        "description": "12.389 Apartamentos à venda na Zona Central em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Central em São Paulo. - Página 13",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "185000",
+            "priceCurrency": "BRL",
+            "lowPrice": "184000",
+            "offerCount": "12389"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-central/",
+                    "name": "Zona Central"
+                }
+            }
+        ]
+    }
+]

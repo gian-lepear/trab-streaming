@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Lindo apartamento 1 dormitório no bairro da freguesia do o com lazer completo",
+            "description": "Lindo apartamento 1 dormitório no Bairro da Freguesia so Ó com área de Lazer e convivência. Elevador que garante o transporte das suas malas e compras. Encontra-se na privacidade de um condomínio fechado.  Escritura Grátis (consultar condições na visita) Programa Minha Casa Minha Vida Entrega - Janeiro/26 Garanto o menor juros do Mercado   Financiamento CAIXA ECONÔMICA FEDERAL Entrada parcelada direto com a Construtora, Aceita Fundo de Garantia e Financiamento bancário Agende agora mesmo a sua visita comigo Corretora Sonia Morena  whatsapp 11    Atenção Visita somente com a corretora ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "25m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02861-190",
+                "streetAddress": "Avenida Inajar de Souza, 2976"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.677372",
+                "longitude": "-23.482284"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-freguesia-do-o-RS169000/id-17098506/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-freguesia-do-o-RS169000/id-17098506/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento-são paulo-jaçanã | ref.: reo642406",
+            "description": "Apartamento novo muito bem localizado, próximo a supermercados, escolas, academias, fácil acesso para rodovias e marginais. Fácil acesso ao metrô Tucuruvi. O imóvel tem 1 dormitório, 1 sala e 1 banheiro, o empreendimento está fase final de acabamento, previsão de entrega de 120 dias. Esse Stúdio tem a metragem de 26,64. ******************** Traga sua proposta",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "26m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02262-040",
+                "streetAddress": "Rua Astecas, 110"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.5751906",
+                "longitude": "-23.4656803"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-26m2-RS169000/id-14687268/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-26m2-RS169000/id-14687268/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento-são paulo-jaçanã | ref.: reo642085",
+            "description": "Apartamento novo muito bem localizado, próximo a supermercados, escolas, academias, fácil acesso para rodovias e marginais. Fácil acesso ao metrô Tucuruvi. O imóvel tem 1 dormitório, 1 sala e 1 banheiro, o empreendimento está fase final de acabamento, previsão de entrega de 120 dias. Esse Stúdio tem a metragem de 26,64. ******************** Traga sua proposta.***",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "26m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02262-040",
+                "streetAddress": "Rua Astecas, 110"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.57536",
+                "longitude": "-23.46568"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-26m2-RS169000/id-15456193/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-26m2-RS169000/id-15456193/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento-são paulo-jaçanã | ref.: reo642007",
+            "description": "Apartamento novo muito bem localizado, próximo a supermercados, escolas, academias, fácil acesso para rodovias e marginais. Fácil acesso ao metrô Tucuruvi. O imóvel tem 1 dormitório, 1 sala e 1 banheiro, o empreendimento está fase final de acabamento, previsão de entrega de 120 dias. Esse Stúdio tem a metragem de Traga sua proposta",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "26m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02262-040",
+                "streetAddress": "Rua Astecas, 110"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.57536",
+                "longitude": "-23.46568"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-26m2-RS169000/id-15456191/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-26m2-RS169000/id-15456191/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento-são paulo-jaçanã | ref.: reo642118",
+            "description": "Apartamento novo muito bem localizado, próximo a supermercados, escolas, academias, fácil acesso para rodovias e marginais. Fácil acesso ao metrô Tucuruvi. O imóvel tem 1 dormitório, 1 sala e 1 banheiro, o empreendimento está fase final de acabamento, previsão de entrega de 120 dias. Esse Stúdio tem a metragem de 26,64. Traga sua proposta***",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "26m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02262-040",
+                "streetAddress": "Rua Astecas, 110"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.57536",
+                "longitude": "-23.46568"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-26m2-RS169000/id-15456177/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-26m2-RS169000/id-15456177/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento-são paulo-jaçanã | ref.: reo642110",
+            "description": "Apartamento novo muito bem localizado, próximo a supermercados, escolas, academias, fácil acesso para rodovias e marginais. Fácil acesso ao metrô Tucuruvi. O imóvel tem 1 dormitório, 1 sala e 1 banheiro, o empreendimento está fase final de acabamento, previsão de entrega de 120 dias. Esse Stúdio tem a metragem de 26,64. Traga sua proposta. *** ********************",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "26m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02262-040",
+                "streetAddress": "Rua Astecas, 110"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.5751906",
+                "longitude": "-23.4656803"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-26m2-RS169000/id-14690292/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-26m2-RS169000/id-14690292/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento a venda no bairro parque nações unidas em são paulo - sp.",
+            "description": "  (link removido) 782 Apartamento Quitado 2 Dormitórios em uma Ótima Região com Excelente Localização à 5 minutos do Shopping Cantareira Apartamento Todo Reformado pronto pra morar!!!!  VALOR R$ 169.000,00 VENDA SÓ A VISTA !!!  Não perca esta oportunidade, vale a pena conferir, agende sua visita! com o corretor Machado 11-9-   Somos correspondentes Caixa/ Itaú/ Santander aprovamos seu crédito em até 48 horas (crédito sujeito a aprovação). CRECI: J-26805 ,      As informações estão sujeitas a alterações. Consulte o corretor responsável. ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "49m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-parque-nacoes-unidas-49m2-RS169000/id-5132685/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-parque-nacoes-unidas-49m2-RS169000/id-5132685/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento-são paulo-jaçanã | ref.: reo642111",
+            "description": "Apartamento novo muito bem localizado, próximo a supermercados, escolas, academias, fácil acesso para rodovias e marginais. Fácil acesso ao metrô Tucuruvi. O imóvel tem 1 dormitório, 1 sala e 1 banheiro, o empreendimento está fase final de acabamento, previsão de entrega de 120 dias. Esse Stúdio tem a metragem de 26. Traga sua proposta***",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "26m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02262-040",
+                "streetAddress": "Rua Astecas, 110"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.57536",
+                "longitude": "-23.46568"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-26m2-RS169000/id-15456176/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-26m2-RS169000/id-15456176/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento-são paulo-jaçanã | ref.: reo642080",
+            "description": "Apartamento novo muito bem localizado, próximo a supermercados, escolas, academias, fácil acesso para rodovias e marginais. Fácil acesso ao metrô Tucuruvi. O imóvel tem 1 dormitório, 1 sala e 1 banheiro, o empreendimento está fase final de acabamento, previsão de entrega de 120 dias.~ Esse Stúdio tem a metragem de 26,64. Traga sua proposta. ***********************",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "26m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02262-040",
+                "streetAddress": "Rua Astecas, 110"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.57536",
+                "longitude": "-23.46568"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-26m2-RS169000/id-15456192/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-26m2-RS169000/id-15456192/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento-são paulo-jaçanã | ref.: reo642137",
+            "description": "Apartamento novo muito bem localizado, próximo a supermercados, escolas, academias, fácil acesso para rodovias e marginais. Fácil acesso ao metrô Tucuruvi. O imóvel tem 1 dormitório, 1 sala e 1 banheiro, o empreendimento está fase final de acabamento, previsão de entrega de 120 dias. Esse Stúdio tem a metragem de 26,64. ******************** Traga sua proposta***",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "26m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02262-040",
+                "streetAddress": "Rua Astecas, 110"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.57536",
+                "longitude": "-23.46568"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-26m2-RS169000/id-15456178/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-26m2-RS169000/id-15456178/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento-são paulo-jaçanã | ref.: reo642131",
+            "description": "Apartamento novo muito bem localizado, próximo a supermercados, escolas, academias, fácil acesso para rodovias e marginais. Fácil acesso ao metrô Tucuruvi. O imóvel tem 1 dormitório, 1 sala e 1 banheiro, o empreendimento está fase final de acabamento, previsão de entrega de 120 dias. Esse Stúdio tem a metragem de 26,64. ******************** Traga sua proposta***",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "26m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02262-040",
+                "streetAddress": "Rua Astecas, 110"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.5751906",
+                "longitude": "-23.4656803"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-26m2-RS169000/id-14690386/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-26m2-RS169000/id-14690386/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento-são paulo-jaçanã | ref.: reo642093",
+            "description": "Apartamento novo muito bem localizado, próximo a supermercados, escolas, academias, fácil acesso para rodovias e marginais. Fácil acesso ao metrô Tucuruvi. O imóvel tem 1 dormitório, 1 sala e 1 banheiro, o empreendimento está fase final de acabamento, previsão de entrega de 120 dias. Esse Stúdio tem a metragem de 26,64. Traga sua proposta.*** ********************",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "26m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02262-040",
+                "streetAddress": "Rua Astecas, 110"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.5751906",
+                "longitude": "-23.4656803"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-26m2-RS169000/id-14690240/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-26m2-RS169000/id-14690240/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento em jardim dos francos  -  são paulo",
+            "description": "Apartamento com 2 dormitórios, sala, cozinha e banheiro, área de serviço e 1 vaga de garagem. Armários nos dormitórios",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "44m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Avenida General Penha Brasil, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.67541",
+                "longitude": "-23.45463"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-dos-francos-6000m2-RS169000/id-11893037/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-dos-francos-6000m2-RS169000/id-11893037/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda no conjunto residencial elisio teixeira leite, são paulo , 55 m2 por r$ 169.600",
+            "description": "Apartamento com 2 dormitorios, 1 cizinha, 1 banheiro, lavanderia. Possui o condominio todo reformado com salao de festa privativo.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "55m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7152173",
+                "longitude": "-23.4461221"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-conjunto-residencial-elisio-teixeira-leite-RS169600/id-6765019/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-conjunto-residencial-elisio-teixeira-leite-RS169600/id-6765019/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Metrocasa pirituba 02 | construtora metrocasa | construção | 16 metros | studios sem varanda",
+            "description": "Em Construção- Entrega em Julho de 2024.   O empreendimento METROCASA PIRITUBA 02 está sendo construído em uma torre única, 10 pavimentos, 02 elevadores, 211 apartamentos no total.   OPÇÕES DE PLANTAS: 16m² à 17m²- Studios, sem varanda e vaga. 30m² à 34m²- 01 dormitório, com varanda, office, sem vaga. 34m²- 02 dormitórios, varanda, sem vaga.   ÁREA DE LAZER: Hall social, academia, bicicletário, brinquedoteca, cross training, delivery space, espaço kids, espaço multiuso, lavanderia, lounge, market, pet place, praça de convivência e salão de jogos.   DESENVOLVIMENTO: Construtora e Incorporadora: Metrocasa.   LOCALIZAÇÃO: Está localizado na rua Celso Vieira, 261- Vila Pereira Barreto- Zona Norte- São Paulo. Apenas 2,2 km da Estação Pirituba.   Prezados clientes, sou Adriano Caglioni, CEO da Imobiliária  Segundo Imóvel .   Trabalhamos diretamente com TODAS as construtoras de São Paulo, 2.200 opções de apartamentos e estúdios.   Compartilhe AGORA a localização, valor, metragem do imóvel e permita-me ajudá-lo a encontrar o apartamento perfeito para você!   Comprando com o  Segundo Imóvel  você ganha um jantar ESPECIAL para 02 pessoas como forma de agradecimento por escolher a nossa empresa.   Escolha uma das opções abaixo: Para obter mais informações, digite (1). Para agendar uma visita, digite (2). Buscar pelo melhor preço ou deseja enviar uma proposta? Digite (3).   Pedimos uma ÚNICA oportunidade para fazer o melhor negócio!!   Lembramos que os valores sempre sofrem alterações..   Somos o  GOOGLE  do mercado Imobiliário, a maior imobiliária de São Paulo!  Traga sua PROPOSTA para o SEGUNDO IMÓVEL negociar e brigar por você!  Digita no Google (SEGUNDO IMÓVEL), você terá acesso aos BOOKS TÉCNICOS, DESCRITIVOS, STREET VIEW, VIDEOS, TOUR VIRTUAL E MUITO MAIS. O site segundo imóvel é lindo demais. -------------------------------------------------- O SENHOR é o meu pastor e nada me faltará!  Deus está sempre comigo. Eu ando pela Fé.  Deus é bom o tempo todo.  O AMOR É O ÚNICO CAMINHO...  Em tudo daí graças..   Código do Anúncio:  26  Este imóvel tem as seguintes características:   Lazer: Academia, Bicicletário, Brinquedoteca, Churrasqueira, Espaço Delivery, Lavanderia, Mini Mercado, Pet Place, Praça, Salão de Jogos  Regiões: Zona Norte  ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "16m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02919-120",
+                "streetAddress": "Rua Celso Vieira, 261"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.71718",
+                "longitude": "-23.49247"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-pereira-barreto-16m2-RS169915/id-14551280/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-pereira-barreto-16m2-RS169915/id-14551280/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/386924/17098506/sp-sao-paulo-jardim-peri-viela-um-apartamento-a-venda-1-quarto-651c2a3d-00.jpg",
+        "name": "Apartamentos à venda na Zona Norte em São Paulo - Página 15 | Chaves na Mão",
+        "description": "27.580 Apartamentos à venda na Zona Norte em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Norte em São Paulo. - Página 15",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "169915",
+            "priceCurrency": "BRL",
+            "lowPrice": "169000",
+            "offerCount": "27580"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-norte/",
+                    "name": "Zona Norte"
+                }
+            }
+        ]
+    }
+]

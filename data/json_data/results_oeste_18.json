@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Cond jade - oportunidade única em sao paulo - sp | tipo: apartamento | negociação: leilão  | situação: imóvel apartamento",
+            "description": "  2 Quartos, Wc, Sala, Cozinha.  - Penhora - - Regularização Por Parte do Adquirente Baixar edital e anexosRUA RUA KENKITI SHIMOMOTO,N. 1600 APTO. 8 BL 01, JARDIM BOA VISTA (ZONA OESTE) - CEP: 05583-000, SAO PAULO - SAO PAULO.     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  Imóvel NÃO aceita utilização de FGTS. FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio..     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  Imóvel NÃO aceita utilização de FGTS. FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio.  ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "41m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05583-000",
+                "streetAddress": "Rua Rua Kenkiti Shimomoto, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7875",
+                "longitude": "-23.57652"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-boa-vista-zona-oeste-75m2-RS200551/id-18442854/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-boa-vista-zona-oeste-75m2-RS200551/id-18442854/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 40 m² por r$ 201.000,00 - butantã - são paulo/sp",
+            "description": "Apartamento à venda com 2 quartos e 40 m2 no Butantã/SP   ** Oportunidade **  São dois quartos, um banheiro, armários planejados no quarto e na cozinha, vaga de carro e moto. Condomínio fechado com elevador e total segurança, playground, churrasqueira, academia, salão de festas. mini quadra.   Localizado no Km 19 da Rodovia Raposo Tavares. Fácil acesso a diversos comércios e próximo do metrô Butantã.  Aceita  (link removido)  seu crédito em até 72h  Agende já a sua visita e venha morar próximo de tudo numa das regiões que mais cresce em SP.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05574-010",
+                "streetAddress": "Rua Joaquim Guimarães, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.80232",
+                "longitude": "-23.59059"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-butanta-40m2-RS201000/id-10623564/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-butanta-40m2-RS201000/id-10623564/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Bem viver lopes de oliveira - nr - breve lançamento",
+            "description": "Um empreendimento completo com toda segurança, conforto e lazer que você merece. Preço e disponibilidade do imóvel sujeitos a alteração sem aviso prévio.   Código do Anúncio:  15  Este imóvel tem as seguintes características:   Lazer: Academia, Salão de Festas  Destaques: Bicicletário  Básico: Elevador  Estrutura: Lavanderia, Portaria 24h  ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "23m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01152-010",
+                "streetAddress": "Rua Lopes de Oliveira, 596"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.65599",
+                "longitude": "-23.53221"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-barra-funda-23m2-RS201000/id-17416107/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-barra-funda-23m2-RS201000/id-17416107/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na cachoeira poraque, --, raposo tavares, são paulo por r$ 202.000",
+            "description": "Proximo da Etec, Supermercado Barbosa e Carrefour, McDonald s e Shopping Raposo, facil acesso Rodovia Raposo Tavares e Rodoanel. Comércio mercado, padaria, açougue tudo próximo Transporte público na porta, facil acesso para todas as cidades da região oeste e capital. Aceito carro como parte de pagamento se necessário",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05574-450",
+                "streetAddress": "Cachoeira Poraque, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.80086",
+                "longitude": "-23.58664"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-raposo-tavares-45m2-RS202000/id-17744961/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-raposo-tavares-45m2-RS202000/id-17744961/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 49 m² por r$ 202.000,00 - conjunto promorar raposo tavares - são paulo/sp",
+            "description": "Apartamento com 2 dormitórios à venda, 49 m² - Conjunto Promorar Raposo Tavares - São Paulo/SP  O imóvel contém sala, cozinha, 2 dormitórios, banheiro e 1 garagem coberta. Apartamento com planejados na cozinha, dormitórios e banheiro.   Excelente localização, próximo do ponto de ônibus, mercado, sacolão e academia.  Agende já a sua Visita!!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "49m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05574-450",
+                "streetAddress": "Rua Cachoeira Poraquê, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.79903",
+                "longitude": "-23.58762"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-promorar-raposo-tavares-49m2-RS202000/id-12564419/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-conjunto-promorar-raposo-tavares-49m2-RS202000/id-12564419/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na avenida alexios jafet, --, jardim ipanema (zona oeste), são paulo por r$ 202.000",
+            "description": "Apresentamos o Residencial Palmeiras, um condomínio confortável e bem localizado na Avenida Alexios Jafet, n° 555. Este apartamento possui 40 metros quadrados, com 2 dormitórios e 1 banheiro, sem suíte e sem vaga de garagem.  O condomínio oferece uma estrutura completa para seus moradores, com segurança 24 horas e valor de condomínio acessível, de apenas R$ 300,00. Além disso, o valor do IPTU é isento, o que representa uma grande economia para o proprietário.  Sua localização é privilegiada, próxima a diversos serviços, comércio, escolas e transporte público, facilitando a rotina dos moradores. Não perca a oportunidade de conhecer este ótimo apartamento, agende já uma visita e aproveite para conferir todos os detalhes deste imóvel!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Avenida Alexios Jafet, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74821",
+                "longitude": "-23.44768"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-ipanema-zona-oeste-40m2-RS202000/id-14740771/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-ipanema-zona-oeste-40m2-RS202000/id-14740771/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na avenida alexios jafet, 1055, jardim ipanema (zona oeste), são paulo por r$ 202.000",
+            "description": "Apresentamos o Residencial Palmeiras, um condomínio confortável e bem localizado na Avenida Alexios Jafet, n° 555. Este apartamento possui 40 metros quadrados, com 2 dormitórios e 1 banheiro, sem suíte e sem vaga de garagem.  O condomínio oferece uma estrutura completa para seus moradores, com segurança 24 horas e valor de condomínio acessível, de apenas R$ 300,00. Além disso, o valor do IPTU é isento, o que representa uma grande economia para o proprietário.  Sua localização é privilegiada, próxima a diversos serviços, comércio, escolas e transporte público, facilitando a rotina dos moradores. Não perca a oportunidade de conhecer este ótimo apartamento, agende já uma visita e aproveite para conferir todos os detalhes deste imóvel!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05187-010",
+                "streetAddress": "Avenida Alexios Jafet, 1055"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74807",
+                "longitude": "-23.44707"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-ipanema-zona-oeste-40m2-RS202000/id-16731219/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-ipanema-zona-oeste-40m2-RS202000/id-16731219/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na cachoeira poraque, --, raposo tavares, são paulo por r$ 202.000",
+            "description": "Proximo da Etec, Supermercado Barbosa e Carrefour, McDonald s e Shopping Raposo, facil acesso Rodovia Raposo Tavares e Rodoanel. Comércio mercado, padaria, açougue tudo próximo Transporte público na porta, facil acesso para todas as cidades da região oeste e capital. Aceito carro como parte de pagamento se necessário",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05574-450",
+                "streetAddress": "Cachoeira Poraque, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.80084",
+                "longitude": "-23.58662"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-raposo-tavares-45m2-RS202000/id-18581945/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-raposo-tavares-45m2-RS202000/id-18581945/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 38 m² por r$ 202.000,00 - jardim boa vista (zona oeste) - são paulo/sp",
+            "description": "Apartamento com 2 dormitórios para venda 38 m² - Jardim Boa Vista (Zona Oeste) - São Paulo/SP  Aceita Financiamento.   Sala para dois ambientes  Piso Porcelanato e Laminado  Cozinha integrada com a lavanderia. 1 Banheiro com box de vidro e pia com Gabinete Sem vaga de Garagem  Apartamento Vazio  Aceita Pet  3° Andar    Localizado na divisa de Osasco com SP, bairro super tranquilo e acessível a diversos comércios da região.   *Não possui vaga de garagem. É apartamento TENDA. Dá para estacionar na rua em frente ao condomínio  Condomínio possui churrasqueira, salão de festas e playground. Fica localizado na R: Kenkite Shimomoto.  - A 1km do Parque Chico Mendes - A 3 km da Rodovia Raposo Tavares. - A 1 km do UBS Jd de Abril  Agende já uma visita!!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "38m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05583-000",
+                "streetAddress": "Rua Kenkiti Shimomoto, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7875",
+                "longitude": "-23.57652"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-boa-vista-zona-oeste-38m2-RS202000/id-11599596/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-boa-vista-zona-oeste-38m2-RS202000/id-11599596/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 38 m² por r$ 202.000,00 - jardim ipanema (zona oeste) - são paulo/sp",
+            "description": "Apto 38m², 2 dormitórios, sala, cozinha, banheiro, 1 vaga Planejados: cozinha, banheiro, 1 quarto, área de serviço. Piso laminado, Box no banheiro",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "38m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.75419",
+                "longitude": "-23.44262"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-ipanema-zona-oeste-38m2-RS202000/id-14883741/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-ipanema-zona-oeste-38m2-RS202000/id-14883741/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na avenida alexios jafet, --, jardim ipanema (zona oeste), são paulo por r$ 202.000",
+            "description": "Apresentamos o Residencial Palmeiras, um condomínio confortável e bem localizado na Avenida Alexios Jafet, n° 555. Este apartamento possui 40 metros quadrados, com 2 dormitórios e 1 banheiro, sem suíte e sem vaga de garagem.  O condomínio oferece uma estrutura completa para seus moradores, com segurança 24 horas e valor de condomínio acessível, de apenas R$ 300,00. Além disso, o valor do IPTU é isento, o que representa uma grande economia para o proprietário.  Sua localização é privilegiada, próxima a diversos serviços, comércio, escolas e transporte público, facilitando a rotina dos moradores. Não perca a oportunidade de conhecer este ótimo apartamento, agende já uma visita e aproveite para conferir todos os detalhes deste imóvel!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05187-010",
+                "streetAddress": "Avenida Alexios Jafet, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74807",
+                "longitude": "-23.44707"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-ipanema-zona-oeste-40m2-RS202000/id-18606486/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-ipanema-zona-oeste-40m2-RS202000/id-18606486/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 42 m² por r$ 202.000,00 - jardim do lago - são paulo/sp",
+            "description": "Apt à venda de 2 dormitórios 41 m² em Jd. Boa Vista - São Paulo/SP     Residencial Rubi  - Sala - Cozinha  - 2 dormitórios - 1 Banheiro  - Lavanderia - 1º andar (com elevador)  Apartamento com janelas amplas e muita luminosidade, localizado em Santa Amélia 141, n.1.300 no bairro Jd. Do Lago na divisa de SP com Osasco. Região super tranquila e acessível a diversos comércios, padaria, açougue e farmá (link removido) ínio novo, com segurança 24h, portaria, playground, churrasqueira, minimercado 24h para a sua comodidade, salão de festas, playground e bicicletário.  Obs: Vaga de garagem é rotativa  - A 13 minutos do metrô Vila Sônia - 100 mts do centro comercial do Jd de Abril - 600mts da EMEF Luiz Eduardo Matarazzo - 1 km do PEI Rosa Bonfiglioli (Escola Fundamental integral) - 2 km da Rodovia Raposo Tavares km 18 - Fácil acesso Rodoanel e Av: Esc. Politécnica  A menos de 600 mts do condomínio passam diversas linhas de ônibus para: Pinheiros, Vila Sônia, Lapa e centro de Osasco.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "42m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05550-095",
+                "streetAddress": "Rua Santa Amélia, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.73731",
+                "longitude": "-23.82614"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-do-lago-42m2-RS202000/id-10623980/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-do-lago-42m2-RS202000/id-10623980/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na cachoeira poraque, 549, raposo tavares, são paulo por r$ 202.000",
+            "description": "Proximo da Etec, Supermercado Barbosa e Carrefour, McDonald s e Shopping Raposo, facil acesso Rodovia Raposo Tavares e Rodoanel. Comércio mercado, padaria, açougue tudo próximo Transporte público na porta, facil acesso para todas as cidades da região oeste e capital. Aceito carro como parte de pagamento se necessário",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05574-450",
+                "streetAddress": "Cachoeira Poraque, 549"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.80084",
+                "longitude": "-23.58662"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-raposo-tavares-45m2-RS202000/id-16715921/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-raposo-tavares-45m2-RS202000/id-16715921/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na avenida alexios jafet, --, jardim ipanema (zona oeste), são paulo por r$ 202.000",
+            "description": "Apresentamos o Residencial Palmeiras, um condomínio confortável e bem localizado na Avenida Alexios Jafet, n° 555. Este apartamento possui 40 metros quadrados, com 2 dormitórios e 1 banheiro, sem suíte e sem vaga de garagem.  O condomínio oferece uma estrutura completa para seus moradores, com segurança 24 horas e valor de condomínio acessível, de apenas R$ 300,00. Além disso, o valor do IPTU é isento, o que representa uma grande economia para o proprietário.  Sua localização é privilegiada, próxima a diversos serviços, comércio, escolas e transporte público, facilitando a rotina dos moradores. Não perca a oportunidade de conhecer este ótimo apartamento, agende já uma visita e aproveite para conferir todos os detalhes deste imóvel!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05187-010",
+                "streetAddress": "Avenida Alexios Jafet, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74821",
+                "longitude": "-23.44768"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-ipanema-zona-oeste-40m2-RS202000/id-14617473/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-ipanema-zona-oeste-40m2-RS202000/id-14617473/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 quartos à venda na cachoeira poraque, --, raposo tavares, são paulo por r$ 202.000",
+            "description": "Proximo da Etec, Supermercado Barbosa e Carrefour, McDonald s e Shopping Raposo, facil acesso Rodovia Raposo Tavares e Rodoanel. Comércio mercado, padaria, açougue tudo próximo Transporte público na porta, facil acesso para todas as cidades da região oeste e capital. Aceito carro como parte de pagamento se necessário",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Cachoeira Poraque, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.80086",
+                "longitude": "-23.58664"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-raposo-tavares-45m2-RS202000/id-16279362/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-raposo-tavares-45m2-RS202000/id-16279362/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/46781/18442854/sp-sao-paulo-jardim-boa-vista-zona-oeste-rua-rua-kenkiti-shimomoto-apartamento-a-venda-2-quartos-6586fe98-1.jpg",
+        "name": "Apartamentos à venda na Zona Oeste em São Paulo - Página 18 | Chaves na Mão",
+        "description": "14.908 Apartamentos à venda na Zona Oeste em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Oeste em São Paulo. - Página 18",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "202000",
+            "priceCurrency": "BRL",
+            "lowPrice": "200551",
+            "offerCount": "14908"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-oeste/",
+                    "name": "Zona Oeste"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento-são paulo-jaçanã | ref.: reo634385",
+            "description": "Studio novo muito bem localizado, próximo a supermercados, escolas, academias. Fácil acesso ao metrô Tucuruvi. O imóvel tem 1 dorm, 1 sala e 1 banheiro, o imóvel é completamente novo e reformado.... *UNIDADE COM 24,20m². FASE DE ACABAMENTO. As unidades serão entregues com piso nas áreas quentes, azulejos no banheiro até o teto Prestigie o meu trabalho e agende uma visita..",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "178m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02262-050",
+                "streetAddress": "Rua Antônio Eduardo, 101"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.5753632",
+                "longitude": "-23.4658947"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-192m2-RS171000/id-14682771/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-192m2-RS171000/id-14682771/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Residencial jd modelo",
+            "description": "Novo Studio muito bem localizado, próximo a supermercados, escolas, academias. Fácil acesso ao metro Tucuruvi. O imóvel tem 1 dorm, 1 sala, 1 quarto e 1 banheiro, o imóvel é completamente novo e reformado. FASE DE ACABAMENTO. Prestigie o meu trabalho e agende uma visita.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "178m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02262-050",
+                "streetAddress": "Rua Antônio Eduardo, 101"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.57527",
+                "longitude": "-23.46582"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-192m2-RS171000/id-14586869/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-192m2-RS171000/id-14586869/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 quarto à venda na rua malie brenner, 215, parada inglesa, são paulo, 28 m2 por r$ 171.000",
+            "description": "        LANÇAMENTO  STÚDIO PARADA INGLESA   1 DORMITÓRIO, SALA, COZINHA, W.C e ÁREA DE SERVIÇO.      IMÓVEL: 146653    Arteri Imóveis / CRECI J-38465       IMPORTANTE: A responsabilidade do anúncio 146653 e inserção dos dados aqui apresentados é de Arteri Imóveis sob o CRECI J-38465 e SOMENTE tal poderá esclarecer e responder dúvidas sobre esse anúncio. A Imoblist não garante a veracidade ou precisão das informações desse anúncio. Para contatar o responsável, preencha o formulário presente no anúncio.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "28m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02243-020",
+                "streetAddress": "Rua Malie Brenner, 215"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.60388",
+                "longitude": "-23.48997"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-parada-inglesa-RS171000/id-18646937/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-parada-inglesa-RS171000/id-18646937/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento-são paulo-jaçanã | ref.: reo634349",
+            "description": "Studio novo muito bem localizado, próximo a supermercados, escolas, academias. Fácil acesso ao metrô  (link removido)  O imóvel tem 1 dorm, 1 sala e 1 banheiro, o imóvel é completamente novo e reformado. *UNIDADE COM 24,20m². FASE DE ACABAMENTO. As unidades serão entregues com piso nas áreas quentes, azulejos no banheiro até o teto +9+9+ Prestigie o meu trabalho e agende uma visita.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "178m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02262-050",
+                "streetAddress": "Rua Antônio Eduardo, 101"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.5753632",
+                "longitude": "-23.4658947"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-192m2-RS171000/id-14687877/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-192m2-RS171000/id-14687877/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento-são paulo-jaçanã | ref.: reo634376",
+            "description": "Studio novo muito bem localizado, próximo a supermercados, escolas, academias. Fácil acesso ao metrô Tucuruvi. O imóvel tem 1 dorm, 1 sala e 1 banheiro, o imóvel é completamente novo e reformado. *UNIDADE COM 24,20m². FASE DE ACABAMENTO. As unidades serão entregues com piso nas áreas quentes, azulejos no banheiro até o teto Prestigie o meu trabalho e agende uma visita..+",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "178m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02262-050",
+                "streetAddress": "Rua Antônio Eduardo, 101"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.5753632",
+                "longitude": "-23.4658947"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-192m2-RS171000/id-14682596/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-192m2-RS171000/id-14682596/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento-são paulo-jaçanã | ref.: reo634408",
+            "description": "Studio novo muito bem localizado, próximo a supermercados, escolas, academias. Fácil acesso ao metrô Tucuruvi. O imóvel tem 1 dorm, 1 sala e 1 banheiro, o imóvel é completamente novo e reformado.´ *UNIDADE COM 24,20m². FASE DE ACABAMENTO. As unidades serão entregues com piso nas áreas quentes, azulejos no banheiro até o teto Prestigie o meu trabalho e agende uma visita. ****************",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "178m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02262-050",
+                "streetAddress": "Rua Antônio Eduardo, 101"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.5753632",
+                "longitude": "-23.4658947"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-192m2-RS171000/id-14682977/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-192m2-RS171000/id-14682977/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento-são paulo-jaçanã | ref.: reo634387",
+            "description": "Studio novo muito bem localizado, próximo a supermercados, escolas, academias. Fácil acesso ao metrô Tucuruvi. O imóvel tem 1 dorm, 1 sala e 1 banheiro, o imóvel é completamente novo e reformado. *UNIDADE COM 24,20m². FASE DE ACABAMENTO. As unidades serão entregues com piso nas áreas quentes, azulejos no banheiro até o teto Prestigie o meu trabalho e agende uma visita..++",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "178m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02262-050",
+                "streetAddress": "Rua Antônio Eduardo, 101"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.5753632",
+                "longitude": "-23.4658947"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-192m2-RS171000/id-14682832/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-jacana-192m2-RS171000/id-14682832/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Conj hab edvaldo santiago silva (par) - oportunidade única em sao paulo - sp | tipo: apartamento | negociação: venda direta far  | situação: imóvel apartamento",
+            "description": "  2 Quartos, Área de Serviço, Wc, Sala, Cozinha. Imóvel Far  138. Matrícula Caixa n. 187969 -18. ri de São Paulo/sp. Sem Utilização de Fgts. Com Ação Jud. Proc. Nr.   00 - 8. vf de São Paulo/sp.  Baixar edital e anexosRUA MONTE AZUL PAULISTA,N. 253 APTO. 52 BL G, VILA NOVA PARADA - CEP: 02883-050, SAO PAULO - SAO PAULO.     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  Imóvel NÃO aceita utilização de FGTS. FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio..     Bem-vindo à 007 SRamos Imóveis Ltda e SRamos Corretor de Imóveis!   Venda de Imóveis em leilão da Caixa!   Explore nossas listas para encontrar casas, apartamentos, terrenos e outros tipos de propriedades, em leilão, licitação aberta, licitação fechada, concorrência pública, venda direta FAR, venda direta, venda online, venda direta online.  Tudos os imóveis da Caixa Econômica Federal - CEF com a garantia de um processo seguro e transparente, fornecido pela 007 SRamos Imóveis Ltda .   Nossa equipe de corretores com profissionais com Creci e está disponível para ajudá-lo em todas as etapas de sua jornada de compra, esclarecendo suas dúvidas, garantindo que você tenha a melhor experiência ao adquirir seu novo lar.  Estamos ansiosos para ajudar Você a encontrar o imóvel caixa ideal!!!!   Não deixe de indicar a 007 SRamos Imóveis Ltda em sua proposta e tenha assessoria de uma imobiliária experiente nos imóveis caixa  -  CRECI: - SP 22.944 J - PR 9.069 J - RJ 10.688 J - MG 8482 J - GO 39.882 J  Imóvel NÃO aceita utilização de FGTS. FINANCIAMENTO (consulte condições). Imóvel NÃO aceita parcelamento. Imóvel NÃO aceita consórcio.  ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "39m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02883-050",
+                "streetAddress": "Rua Monte Azul Paulista, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.71294",
+                "longitude": "-23.44051"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-vila-nova-parada-45m2-RS172000/id-11731154/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-vila-nova-parada-45m2-RS172000/id-11731154/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Leilão de apartamento 83 m² (unid. 83) - jaraguá - são paulo - sp",
+            "description": "IMÓVEL EM LEILÃO PELA EMPRESA MEGA LEILÕES. Para adquirir este imóvel acesse nosso website em  (link removido) , cadastre-se e participe do leilão virtual. Procure pelo código do leilão: ML27044 (Leilão Extrajudicial) - Valor do lance inicial: R$ 172400.00 - Valor de incremento dos lances: R$ 5.000,00 - Inicio da captação de lances: 11/12/2023 às 14:00 - Fim da capitação de lances: 17/01/2024 às 16:47 ----- Apartamento, Padro, Ocupado, 1 vaga(s) de garagem. rea(s): 148,82 m de rea total, 83,32 m de rea construda, 83,32 m de rea privativa, 65,5 m de rea comum. Matrcula(s): 256.440. Cartrio: 18 CRI DE SO PAULO. Inscrio da Prefeitura: 214.024.0121-1. >brbrbrbrbrbrbrbr . Acesse nosso website em  (link removido)  e conheça outras oportunidades incríveis. Conquiste seu imóvel. Preços até 60% abaixo do valor de mercado. Condições especiais de pagamento em alguns casos.",
+            "numberOfRooms": "0",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "83m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02998-030",
+                "streetAddress": "Rua Professor Nobil Marcacini, 200"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.72358",
+                "longitude": "-23.44057"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-com-garagem-sp-sao-paulo-jaragua-148m2-RS172400/id-18305635/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-com-garagem-sp-sao-paulo-jaragua-148m2-RS172400/id-18305635/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 31 m² por r$ 175.000,00 - vila leonor - são paulo/sp",
+            "description": "Excelente oportunidade para morar em um apartamento novo e moderno!   Localizado no bairro Vila Ede, na Zona Norte de São Paulo, esse imóvel possui 31 m² de área útil, com 1 quarto, 1 suíte e 1 banheiro.   Além disso, algumas unidades possuem quintal, o que é raro de se encontrar em apartamentos de 1 quarto.  A localização é perfeita, pois você encontra facilmente serviços essenciais como hospitais, escolas, colégios, faculdades e estações de metrô.   Entre os destaques, estão a UBS Vila Ede, Colégio Sales, CEI, Escola Sebastião S. Bueno, Centro de Cultura Cerâmica, Universidade Anhanguera de São Paulo, Unidade Maria Cândida e Idioma e informática.   Além disso, as estações de metrô Tucuruvi e Parada Inglesa ficam a apenas 9 minutos e 7 minutos de distância, respectivamente, permitindo fácil acesso à outras regiões da cidade.  Não perca mais tempo e agende já sua visita!   Entre em contato conosco para mais informações e garanta sua chance de morar neste incrível apartamento no bairro Vila Ede.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "31m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02203-001",
+                "streetAddress": "Avenida Ede, 563"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.59224",
+                "longitude": "-23.49443"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-leonor-RS175000/id-17726651/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-leonor-RS175000/id-17726651/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 31 m² por r$ 175.000,00 - vila maria - são paulo/sp",
+            "description": "Excelente apartamento NOVO, este apartamento foi recém construído e fica localizado no bairro do Vila Ede, neste apartamento temos unidades com 1 dormitório sendo 1 suíte, cozinha e área de serviço.   Temos unidades com Quintal!  O bairro do Vila Ede fica em uma ótima localização na Zona Norte, tendo em suas proximidades: Hospitais:UBS Vila Ede fica nessa região.  Escolas ou colégios:-Colégio Sales, -CEI; -Escola Sebastião S. Bueno.  Faculdades:- Centro de Cultura Cerâmica;- Universidade Anhanguera de São Paulo; - Unidade Maria Cândida; - Idioma e informática.  Metrôs:- Tucuruvi 9 min - Parada Inglesa 7 min Entre em contato com a gente, Agende já sua visita!",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "31m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02203-001",
+                "streetAddress": "Avenida Ede, 563"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.59224",
+                "longitude": "-23.49443"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-maria-RS175000/id-17726656/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-maria-RS175000/id-17726656/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 31 m² por r$ 175.000,00 - vila medeiros - são paulo/sp",
+            "description": "Excelente oportunidade para morar em um apartamento novo e moderno!   Localizado no bairro Vila Ede, na Zona Norte de São Paulo, esse imóvel possui 31 m² de área útil, com 1 quarto, 1 suíte e 1 banheiro.   Além disso, algumas unidades possuem quintal, o que é raro de se encontrar em apartamentos de 1 quarto.  A localização é perfeita, pois você encontra facilmente serviços essenciais como hospitais, escolas, colégios, faculdades e estações de metrô.   Entre os destaques, estão a UBS Vila Ede, Colégio Sales, CEI, Escola Sebastião S. Bueno, Centro de Cultura Cerâmica, Universidade Anhanguera de São Paulo, Unidade Maria Cândida e Idioma e informática.   Além disso, as estações de metrô Tucuruvi e Parada Inglesa ficam a apenas 9 minutos e 7 minutos de distância, respectivamente, permitindo fácil acesso à outras regiões da cidade.  Não perca mais tempo e agende já sua visita!   Entre em contato conosco para mais informações e garanta sua chance de morar neste incrível apartamento no bairro Vila Ede.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "31m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02203-001",
+                "streetAddress": "Avenida Ede, 563"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.59224",
+                "longitude": "-23.49443"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-medeiros-RS175000/id-17726950/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-medeiros-RS175000/id-17726950/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda, 31 m² por r$ 175.000,00 - vila ede - são paulo/sp",
+            "description": "Excelente oportunidade para morar em um apartamento novo e moderno!   Localizado no bairro Vila Ede, na Zona Norte de São Paulo, esse imóvel possui 31 m² de área útil, com 1 quarto, 1 suíte e 1 banheiro.   Além disso, algumas unidades possuem quintal, o que é raro de se encontrar em apartamentos de 1 quarto.  A localização é perfeita, pois você encontra facilmente serviços essenciais como hospitais, escolas, colégios, faculdades e estações de metrô.   Entre os destaques, estão a UBS Vila Ede, Colégio Sales, CEI, Escola Sebastião S. Bueno, Centro de Cultura Cerâmica, Universidade Anhanguera de São Paulo, Unidade Maria Cândida e Idioma e informática.   Além disso, as estações de metrô Tucuruvi e Parada Inglesa ficam a apenas 9 minutos e 7 minutos de distância, respectivamente, permitindo fácil acesso à outras regiões da cidade.  Não perca mais tempo e agende já sua visita!   Entre em contato conosco para mais informações e garanta sua chance de morar neste incrível apartamento no bairro Vila Ede.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "31m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02203-001",
+                "streetAddress": "Avenida Ede, 563"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.59224",
+                "longitude": "-23.49443"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-ede-RS175000/id-17726064/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-ede-RS175000/id-17726064/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento / tremembé",
+            "description": "OPORTUNIDADE UNICA!! preço abaixo, bem localizado ,sendo 2 dormitórios, sala para 2 ambientes, cozinha, aréa de serviço, 1 vaga, a 15 min do metro Tucuruvi, 2 km do Supermercado Ourinhos, Local arborizado e tranquilo, ponto de ônibus na frente com acesso ao Tucuruvi/ Santana, com 2 espaços para festa, campo de futebol, playground, portaria 24hrs. Valor abaixo do mercado!! Doc. OK",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "50m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02366-001",
+                "streetAddress": "Avenida Coronel Sezefredo Fagundes, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.570381",
+                "longitude": "-23.567387"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-francisco-mendes-RS175000/id-14913550/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-francisco-mendes-RS175000/id-14913550/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento novo vila roque - imirim 1 dormitório, sacada. lindo!",
+            "description": "Excelente oportunidade  Apartamento Vila Roque - Imirim NOVO.  * 35 metros; * 1 dormitório; * sala para 2 ambientes; * sacada; * cozinha; * banheiro com box de vidro; * área de serviço.  Condomínio com quintal e churrasqueira.  Localizado ao lado do Hipermercado Andorianha e Av Imirim.  Documentos OK, aceita financiamento.  Agende sua visita.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "35m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02474-020",
+                "streetAddress": "Rua Assuero Roque, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.65548",
+                "longitude": "-23.47811"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-imirim-35m2-RS175000/id-17369382/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-imirim-35m2-RS175000/id-17369382/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/320258/14682771/sp-sao-paulo-jacana-rua-antonio-eduardo-apartamento-a-venda-1-quarto-6484bbac-1.jpg",
+        "name": "Apartamentos à venda na Zona Norte em São Paulo - Página 19 | Chaves na Mão",
+        "description": "27.580 Apartamentos à venda na Zona Norte em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Norte em São Paulo. - Página 19",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "175000",
+            "priceCurrency": "BRL",
+            "lowPrice": "171000",
+            "offerCount": "27580"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-norte/",
+                    "name": "Zona Norte"
+                }
+            }
+        ]
+    }
+]

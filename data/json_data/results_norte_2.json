@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Lançamento urban vila maria - apartamentos e studios de 25 a 45 m2, com 1 ou 2 quartos, 1 banheiro e opções de suíte e varanda na zona norte de são paulo",
+            "description": "Lançamento Urban Vila Maria sucesso de vendas na Zona Norte de São Paulo - Na planta - Valores a partir de 250 mil reais (a confirmar direto na tabela da construtora com o mês vigente).  São 4 tipos de plantas de apartamentos e studios de 25 a 45 m², com 1 ou 2 dormitórios e opções de suíte e varanda.   O condomínio possui lazer completo e muita diversão com Beach Tennis , Bicicletário , Brinquedoteca , Churrasqueira , Espaço Delivery , Fitness , Fitness Externo , Lavanderia , Mini market , Pet Care , Pet place , Piscina Adulto , Piscina Infantil , Playground , Quadra gramada , Salão de festas , Salão Jogos , Sauna.  Quem busca imóveis na Zona Norte de São Paulo vai se surpreender com tudo o que a região pode oferecer. Além de excelentes bairros, a localidade também dispõe de facilidade de locomoção, ampla gama de comércios e variedade de lazer, que fazem com que ela seja ainda mais atrativa.  A Zona Norte está se desenvolvendo anualmente, seu crescimento é rápido e progressivo, o que faz com que cada vez mais pessoas elejam o local para viver em família ou, até mesmo, sozinhas.  Previsão de entrega em Novembro de 2026.  Agende agora mesmo sua visita aos apartamentos decorados.",
+            "numberOfRooms": "1 a 2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "25 a 45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02056-080",
+                "streetAddress": "Rua João Veloso Filho, 1402"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.5975926",
+                "longitude": "-23.520345"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/lancamento/lancamento-urban-vila-maria-apartamentos-e-studios-de-25-a-45-m2-com-1-ou-2-quartos-1-banheiro-e-opcoes-de-suite-e-varanda-na-zona-norte-de-sao-paulo/id-18187427/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/lancamento/lancamento-urban-vila-maria-apartamentos-e-studios-de-25-a-45-m2-com-1-ou-2-quartos-1-banheiro-e-opcoes-de-suite-e-varanda-na-zona-norte-de-sao-paulo/id-18187427/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 47 m² por r$ 116.600 - jardim bandeirantes - são paulo/sp",
+            "description": "Apartamento com 2 dormitórios, sala, cozinha, lavanderia e 1 vaga de garagem",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "47m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04470-260",
+                "streetAddress": "Rua Davide Perez, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-47.42294",
+                "longitude": "-22.03026"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-bandeirantes-47m2-RS116600/id-13832609/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-bandeirantes-47m2-RS116600/id-13832609/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 50 m² por r$ 119.148,95 - jardim brasília - são paulo/sp",
+            "description": "APARTAMENTO CDHU YADOYA Abaixo do valor de mercado -2 dormitorios - Sala - Cozinha - Wc e lavanderia  Local de fácil acesso a varias linhas de ônibus, escolas, comércio em geral. Ao lado do parque linear.  Espaço para atividade física(caminhada, ginástica), equipamento público para exercícios, quadra de esportes. Valor para quitação +/- R$ 5.800 cdhu Mensalidade cdhu: R$122,00 Condomínio 75,00 mais taxa agua Documentação: Contrato de gaveta  Agende uma visita!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "50m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02858-020",
+                "streetAddress": "Rua José Eduardo Pereira II, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.70227",
+                "longitude": "-23.4467"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-brasilia-RS119148/id-17431528/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-brasilia-RS119148/id-17431528/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Ótimo apartamento no conjunto city jaraguá",
+            "description": "Conjunto City Jaraguá  139.000 Quitado ou 120.000 + 156 Parcelas de R$120,00 Mensal   - Apartamento com 45m², 2 Quartos, Sala, Cozinha, Lavanderia, 1 Banheiro; 1 Vaga de Garagem Coberta para Carro e Moto..  Andar: 2º Valor de Condomínio: 125,00 Incluso água Valor de Iptu: 120,00 Mensal  - Não Aceita Financiamento -  Cadu - Executivo de Vendas 0 1 1 - 9 9 9 8 6 - 7 3 3 5 (Nextel) WhatsApp Creci: 123.827  Entrem em contato preferencialmente pelo WhatsApp que já teremos um pronto atendimento !!",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02998-140",
+                "streetAddress": "Rua Paulo Arentino, 240"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.73485",
+                "longitude": "-23.43538"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-loteamento-city-jaragua-45m2-RS120000/id-16354090/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-loteamento-city-jaragua-45m2-RS120000/id-16354090/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 45 m² por r$ 120.000,00 - vila caiúba - são paulo/sp",
+            "description": "Apartamento quitado para venda em Perus!  Com 02 dormitórios, sala, cozinha, banheiro, lavanderia e vaga de garagem.   NÃO ACEITA FINANCIAMENTO (DOCUMENTAÇÃO EM ANDAMENTO).   Proximidades: Bares e Restaurantes, Escola, Farmácia, Shopping Center, Supermercado, Atacadistas, Bancos, Fácil acesso a estação CPTM, Hospital, Metrô, Padaria, Parques.   Segurança: Cameras de Segurança, Portão eletronico, Portaria 24 horas.  Proprietário aceita 80.000,00 de entrada e parcela a diferença.   Venha agendar uma visita!  Corretora Erica Melo - 9 ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05207-090",
+                "streetAddress": "Rua Felipe Cardoso de Campos, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.75327",
+                "longitude": "-23.39845"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-vila-caiuba-45m2-RS120000/id-10782325/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-vila-caiuba-45m2-RS120000/id-10782325/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Cury dez limão - 2dorm 34 à 45m2 opção de sacada, suíte e vaga",
+            "description": "Cury Dez Limão - 2Dorm 34 à 45m2 opção de Sacada, Suíte e Vaga  FICHA TÉCNICA – DEZ LIMÃO  ENDEREÇO: Rua Rocha Lima, 411  Área do terreno: 3.648,24m²  Número de torres: 02  Número de elevadores: 04 Elevadores por Torre  Número de unidades: 417  Número de vagas: 75 Vagas Carro, 03 Vagas Moto e 01 Vaga PCD  Número de andares: Térreo + 14 Pavimentos  Apartamentos por Andar: Torre 01 – 16 unidades / Torre 02 – 14 unidades.  Tipologia: Apartamentos de 1 e 2 dormitórios.  Realização e Construção: Cury Construtora e Incorporadora S/A.  Torre 01  34m² - 02 dormitórios sem sacada - Finais: 02, 04, 05,  06, 07, 08, 11, 12, 13, 14 e 15 (unidades de meio)  36,62m² - 02 dormitórios sem sacada – Final: 03  (unidade de quina)  44,73m² - 02 dormitórios com suíte e sacada –  Finais: 01, 09, 10 e 16 (unidades de ponta)   Torre 02  34m² - 01 dormitório sem sacada PNE – Final: 09  (unidade de meio)  34m² - 02 dormitórios sem sacada – Finais: 01, 02,  03, 06, 07, 08, 10, 13 e 14 (unidades de meio)  42,58m² - 02 dormitórios com sacada – Finais: 04, 05,  11 e 12 (unidades de ponta)  LAZER COBERTO:  Brinquedoteca Pet Care  Churrasqueiras Salão de Festas  Coworking Salão de Jogos  Delivery Salão Multiuso  Fitness Sport Bar  Lavanderia  Torre 01  34m² - 02 dormitórios sem sacada - Finais: 02, 04, 05,  06, 07, 08, 11, 12, 13, 14 e 15 (unidades de meio)  36,62m² - 02 dormitórios sem sacada – Final: 03  (unidade de quina)  44,73m² - 02 dormitórios com suíte e sacada –  Finais: 01, 09, 10 e 16 (unidades de ponta)   Torre 02  34m² - 01 dormitório sem sacada PNE – Final: 09  (unidade de meio)  34m² - 02 dormitórios sem sacada – Finais: 01, 02,  03, 06, 07, 08, 10, 13 e 14 (unidades de meio)  42,58m² - 02 dormitórios com sacada – Finais: 04, 05,  11 e 12 (unidades de ponta)  LAZER DESCOBERTO:  Bicicletário Piquenique  Fitness Externo Playground  Mini Quadra Sintética Praça do Fogo  Pet Place  LAZER COBERTO:  Brinquedoteca Pet Care  Churrasqueiras Salão de Festas  Coworking Salão de Jogos  Delivery Salão Multiuso  Fitness Sport Bar  Lavanderia  DIFERENCIAIS DO PRODUTO:  Piso laminado nos quartos.  Duplo acionamento nos vasos sanitários.  Arejadores nas torneiras.  Persina de enrolar (dormitórios R2V).  Infra para ar condicionada (dormitórios R2V).  Bancadas em granito (Banheiros e Cozinha R2V).  Aquecedor de Passagem a gás (Unidades de Ponta).  LOCALIZAÇÃO  *Giga Atacado *Leroy Merlin *Assaí Atacadista  *Carrefour Hipermercado *Centro de Tradições  Nordestinas (CTN) *Bourbon Shopping  *Sambódromo do Anhembi *ETEC Albert Einsten  *Terminal Casa Verde *Estação Água Branca  *Terminal Barra Funda *Av. Marginal Tietê",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "35m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02554-010",
+                "streetAddress": "Rua Rocha Lima, 411"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.67059",
+                "longitude": "-23.50011"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/lancamento/cury-dez-limao-2dorm-34-a-45m2-opcao-de-sacada-suite-e-vaga/id-17679504/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/lancamento/cury-dez-limao-2dorm-34-a-45m2-opcao-de-sacada-suite-e-vaga/id-17679504/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 47 m² por r$ 120.000,00 - conjunto city jaraguá - são paulo/sp",
+            "description": "Apartamento de 2 Dormitórios à Venda no Conjunto City Jaraguá - São Paulo/SP. Não aceita financiamento.   Explore a oportunidade de adquirir um apartamento confortável e bem localizado no Conjunto City Jaraguá, em São Paulo. Este imóvel oferece praticidade, segurança e uma localização estratégica para a sua comodidade.  Detalhes do Apartamento:  Localização: Conjunto City Jaraguá, São Paulo/SP Dormitórios: 2 dormitórios Sala: Sala de estar com dois ambientes Cozinha com Armários: Cozinha equipada com armários, oferecendo espaço para armazenamento Área de Serviço: Um espaço dedicado para suas tarefas de lavagem e limpeza Banheiro: Um banheiro no apartamento Vaga de Garagem Rotativa: Uma vaga de garagem rotativa para sua conveniência  Condomínio Fechado: Oferecendo segurança e privacidade Segurança 24 Horas: Garantindo tranquilidade e proteção para os moradores  Taxa Municipal: Taxa mensal de R$ 57,00 destinada à Prefeitura (não tem IPTU) Valor do Condomínio: R$ 150,00  Localização Estratégica: Este apartamento tem uma localização altamente conveniente:  Shopping Cantareira: Bem ao lado do shopping, proporcionando opções de compras e entretenimento Supermercados: Próximo ao Supermercado Sondas, Atacadão, Roldão e Assaí Pontos de Ônibus: Fácil acesso a pontos de ônibus, facilitando a mobilidade pela cidade  Esta é uma excelente oportunidade de explorar o potencial deste apartamento pessoalmente. Agende já a sua visita e conheça todas as vantagens e comodidades que esse imóvel tem a oferecer.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "47m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02998-140",
+                "streetAddress": "Rua Paulo Arentino, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.73485",
+                "longitude": "-23.43538"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-loteamento-city-jaragua-47m2-RS120000/id-16109781/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-loteamento-city-jaragua-47m2-RS120000/id-16109781/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Jardim filhos da terra - são paulo/sp",
+            "description": "LOCALIZAÇÃO: Edifício Renascer - Em ótima localização, próximo ao Supermercado, Comercio, Farmácia, linhas de Ônibus Tucuruvi, Parada Inglesa.  AMBIENTES: Sala, cozinha, 2 quartos, banheiro social, área de serviço e 1 vaga de garagem.  DIFERENCIAIS: Revestimento até o teto nas áreas molhadas, e fino acabamento nas demais áreas.  CONDOMÍNIO: O condomínio não possui elevador.  Aceita proposta e permuta Carro ***  Mais informações: (11)  ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "54m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02325-090",
+                "streetAddress": "Travessa Igarapé Primavera, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.58452",
+                "longitude": "-23.45423"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-filhos-da-terra-54m2-RS120000/id-11312956/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-filhos-da-terra-54m2-RS120000/id-11312956/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento para venda em são paulo, cohab brasilandia, 2 dormitórios, 1 banheiro, 1 vaga",
+            "description": "      - Cômodos: Área de Serviço, Cozinha,     - Lazer: Playground,     - Proximidades: Bares e Restaurantes, Escola, Farmácia, Shopping Center, Supermercado,     NÃO ESTA QUITADO",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "--m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74371",
+                "longitude": "-23.45767"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jaragua-RS120000/id-13378101/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jaragua-RS120000/id-13378101/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento para venda em são paulo, cohab brasilandia, 2 dormitórios, 1 banheiro, 1 vaga",
+            "description": "TEM SALDO DE R$ 17.000,00   PRESTAÇÃO NO VALOR DE R$ 226,00       - Características: Portão Eletrônico,     - Cômodos: Área de Serviço,     - Proximidades: Bares e Restaurantes, Escola, Farmácia, Shopping Center, Supermercado,",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "--m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74371",
+                "longitude": "-23.45767"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jaragua-RS120000/id-13378007/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jaragua-RS120000/id-13378007/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 43 m² por r$ 120.000,00 - jaraguá - são paulo/sp",
+            "description": "Apartamento com 2 dormitórios, sala,cozinha, wc, lavanderia e 1 vaga para carro... próximo ao terminal de ônibus da Voith...  NÃO ACEITA FINANCIAMENTO .  OBS: QUITADO 1200000 quitado",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "43m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02995-000",
+                "streetAddress": "Rua Friedrich Von Voith, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74029",
+                "longitude": "-23.44111"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jaragua-43m2-RS120000/id-9657594/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jaragua-43m2-RS120000/id-9657594/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento para venda em são paulo, parque nações unidas, 2 dormitórios, 1 banheiro",
+            "description": "Apartamento para Venda no bairro PARQUE NAÇÕES UNIDAS, localizado na cidade de São Paulo SP.     Com 2 dormitórios, possui 1 banheiro, 1 sala.     Valor do Imóvel R$ 120.000,00.     Proximidades: Bares e Restaurantes, Escola, Farmácia, Shopping Center, Supermercado.           - Proximidades: Bares e Restaurantes, Escola, Farmácia, Shopping Center, Supermercado,",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "--m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.73579",
+                "longitude": "-23.44478"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-parque-nacoes-unidas-RS120000/id-15088479/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-parque-nacoes-unidas-RS120000/id-15088479/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento para venda em são paulo, panamericano, 2 dormitórios, 1 banheiro, 1 vaga",
+            "description": "TÉRREO       - Cômodos: Área de Serviço, Cozinha,     - Proximidades: Bares e Restaurantes, Escola, Farmácia, Shopping Center, Supermercado,",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "--m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.72973",
+                "longitude": "-23.44878"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-parque-panamericano-RS120000/id-13378226/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-parque-panamericano-RS120000/id-13378226/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 46 m² por r$ 120.000,00 - vila brasilândia - são paulo/sp",
+            "description": "Excelente oportunidade Saia do aluguel. Belo apartamento QUITADO ao lado de ponto de ônibus e posto saúde UPA e AMA.  Dois dormitórios, sala, cozinha, banheiro, área de serviço e uma vaga de garagem. Próximo a supermercados, açougue, padaria, pizzaria, farmácias etc..  Não aceita financiamento bancário.  Agende uma visita 11   Ou via Whatsapp 11 9 ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "46m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "02820-070",
+                "streetAddress": "Rua Vale do Sol, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.70822",
+                "longitude": "-23.44769"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-brasilandia-46m2-RS120000/id-13203056/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-brasilandia-46m2-RS120000/id-13203056/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Lindo apartamento na zona norte.",
+            "description": "Apartamentos de 1 e 2 dormitórios com opção de sacada e vaga de garagem, studios e muito mais, opções para você que quer morar ou investir, condomínio com lazer de clube e todos os ambientes já equipados, não perca esta oportunidade! Você pode usar seu FGTS Programa Minha Casa Minha Vida, com direito a subsídio. Studios a partir de R$ 215.000,00 2 Dormitórios a partir de R$ 235.000,00 2 Dormitórios, Sacada a partir de R$ 290.000,00  2 Dormitórios, Sacada e Vaga a partir de R$ 340.000,00 2 Dormitórios, 1 Suíte, Sacada e Vaga a partir de R$ 355.000,00 ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "34 a 44m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Rua Rocha Lima, 411"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.67059",
+                "longitude": "-23.50011"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/lancamento/lindo-apartamento-na-zona-norte-/id-17812865/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/lancamento/lindo-apartamento-na-zona-norte-/id-17812865/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/207422/13832609/sp-sao-paulo-jardim-bandeirantes-rua-davide-perez-apartamento-a-venda-2-quartos-643a571c-1.jpg",
+        "name": "Apartamentos à venda na Zona Norte em São Paulo - Página 2 | Chaves na Mão",
+        "description": "27.580 Apartamentos à venda na Zona Norte em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Norte em São Paulo. - Página 2",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "235000",
+            "priceCurrency": "BRL",
+            "lowPrice": "116600",
+            "offerCount": "27580"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-norte/",
+                    "name": "Zona Norte"
+                }
+            }
+        ]
+    }
+]

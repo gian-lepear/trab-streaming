@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 42 m² por r$ 198.000,00 - jardim do lago - são paulo/sp",
+            "description": "Apt *NOVO* 2 quartos à venda, 42 m² - Jardim do Lago - São Paulo/SP   - Residencial Onix -  Apartamento Tenda no programa Casa Verde e Amarela. Saia do aluguel e conquiste seu apartamento. Dê o primeiro passo agora mesmo.  - Sala - Cozinha - 2 quartos - Banheiro - Área de serviço - 2º andar (com elevador)  Lindo apartamento * NOVO * e recém entregue pela construtora. Localizado na divisa de Osasco com SP, bairro super tranquilo e acessível a diversos comércios da região.  *Não possui vaga de garagem. É apartamento TENDA. Dá para estacionar na rua em frente ao condomínio. Condomínio: R$ 300,00 com água e gás encanado já incluso. Isento de IPTU.  Condomínio também novo com linda vista, localizado em rua sem saída. Possui salão de festas, playground, bicicletário e fitness externo. Localizado na Rua Emília Pilon n. 47 - Próximo de mercado, farmácia, UBS, escolas e creches.  - A 1 km do centro comercial do Jd de Abril - A 2 km da Rodovia Raposo Tavares km 18 - Fácil acesso à Av: Escola Politécnica  A menos de 500 metros do condomínio passam várias linhas de ônibus para o Terminal Metrô Butantã ou Vila Sônia e centro de Osasco.  *Aceita financiamento bancário e Casa Verde Amarela*",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "42m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05550-100",
+                "streetAddress": "Rua Emília Pilon, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.77917",
+                "longitude": "-23.67498"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-do-lago-42m2-RS198000/id-10891985/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-do-lago-42m2-RS198000/id-10891985/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 quarto à venda na barão do bananal, --, perdizes, são paulo por r$ 198.000",
+            "description": "Quando você se conecta, sua vida muda. Quando tudo está conectado, seu mundo muda. Desenvolvido para se conectar com você e seu estilo de vida. Localizado num bairro repleto de facilidades, de juventude, entretenimento e mobilidade, o B.Connect é um empreendimento conectado com tudo que você precisa. Preço e disponibilidade do imóvel sujeitos a alteração sem aviso prévio.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "--m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05024-000",
+                "streetAddress": "Barão Do Bananal, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.68434",
+                "longitude": "-23.52706"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-perdizes-RS198000/id-14053757/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-perdizes-RS198000/id-14053757/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 quarto à venda na barão do bananal, 240, perdizes, são paulo, 20 m2 por r$ 198.000",
+            "description": "Quando você se conecta, sua vida muda. Quando tudo está conectado, seu mundo muda. Desenvolvido para se conectar com você e seu estilo de vida. Localizado num bairro repleto de facilidades, de juventude, entretenimento e mobilidade, o B.Connect é um empreendimento conectado com tudo que você precisa. Preço e disponibilidade do imóvel sujeitos a alteração sem aviso prévio.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "20m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05024-000",
+                "streetAddress": "Barão Do Bananal, 240"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.68434",
+                "longitude": "-23.52706"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-perdizes-RS198000/id-13066130/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-perdizes-RS198000/id-13066130/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Residencial - jardim gilda maria",
+            "description": "VENHA FAZER O SONHO DA CASA PRÓPRIA VIRAR REALIDADE!  Entrada facilitada, renda familiar de R$2.500 e ainda pode contar com o subsídio do Minha Casa, Minha Vida (Programa Casa Verde e Amarela) de até R$29.000,00. More com todo o conforto, COM LAZER E A SEGURANÇA DE CONDOMÍNIO FECHADO. //  VENHA REALIZAR O SONHO DA CASA PRÓPRIA!  Apartamento novo com 2 dormitórios, sala, cozinha, benheiro, medidores individuais de água e gás, antena coletiva de TV aberta, interfone, condomínio com portaria, salão de festas, playground, horta, praça com paisagismo, bicicletário e redário..//  Localização privilegiada a 500m do Parque Chico Mendes - City Bussocaba - Osasco/SP com ampla rede de comércio local e várias linhas de ônibus que saem do terminal Jd. D´Abril. Rápido acesso para a Rodovia Raposo Tavares e Carrefour.  E além de tudo isso você ainda pode contar com subsídio de até R$42 mil!, programa MCMV - MINHA CASA MINHA VIDA, descontos especiais da Construtora TENDA, condições exclusivas para clientes da ZEQUINHA IMÓVEIS. //  -ENTRE EM CONTATO PELO TELEFONE: 11-  PARA FAZER UMA SIMULAÇÃO-  É a realização de um sonho, e ainda dispõe de:  * Salão de festas * Churrasqueira gourmet * Fitness externo * Horta/pomar * Piquenique * Playground * Quadra gramada * Redário * Praça de estar  ENTRE EM CONTATO - FAÇA UMA SIMULAÇÃO!!! ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "42m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-gilda-maria-42m2-RS198000/id-7284411/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-gilda-maria-42m2-RS198000/id-7284411/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento gran kazzas jaguaré - fase 1 37m² 2d",
+            "description": "Um empreendimento completo com toda segurança, conforto e lazer que você merece. Preço e disponibilidade do imóvel sujeitos a alteração sem aviso prévio.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "38m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Avenida Dracena, T50703"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74763",
+                "longitude": "-23.54207"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jaguare-38m2-RS198413/id-15091317/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jaguare-38m2-RS198413/id-15091317/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 28 m² por r$ 199.000,00 - vila beatriz - são paulo/sp",
+            "description": "LANÇAMENTO DE APTO. 1 E 2 DORMITORIOS, SALA, COZINHA , BANHEIRO, SEM VAGA, PROXIMO AO METRO VILA MATILDE, ACADEMIA GAVIOES, PADARIA REQUINTE.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "28m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "03643-010",
+                "streetAddress": "Rua Manuel Oliveira Bueno, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.53421",
+                "longitude": "-23.5274"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-vila-beatriz-RS199000/id-13364255/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-vila-beatriz-RS199000/id-13364255/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 35 m² por r$ 199.000,00 - vila beatriz - são paulo/sp",
+            "description": "LANÇAMENTO DE APTO. COM 2 DORMITORIOS, 1 BANHEIRO, SEM VAGA, PROXIMO A PADARIA REQUINTE, APARTIR DE r$ 199.000,00, CONSULTE NOSSOS CORRETORES",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "35m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "03643-010",
+                "streetAddress": "Rua Manuel Oliveira Bueno, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.53421",
+                "longitude": "-23.5274"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-vila-beatriz-RS199000/id-16544579/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-vila-beatriz-RS199000/id-16544579/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 41 m² por r$ 199.000,00 - jardim boa vista (zona oeste) - são paulo/sp",
+            "description": "Apartamento semi-novo, pronto para morar com piso, revestimento completo na cozinha, área de serviço e banheiro. Tela de proteção em todos os cômodos. O condomínio possui salão de festas com churrasqueira, playground, bicicletário e portaria 24horas. O prédio não possui elevador, e as vagas são rotativas.   Localizado próximo ao km 16 da Rod. Raposo Tavares, 20 minutos de carro até a Estação Butantã e 5 minutos do Parque Chico Mendes.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "41m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05583-000",
+                "streetAddress": "Rua Kenkiti Shimomoto, 1500"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.7827",
+                "longitude": "-23.57484"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-boa-vista-zona-oeste-41m2-RS199000/id-18147497/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-boa-vista-zona-oeste-41m2-RS199000/id-18147497/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento residencial cond. fechado / venda  - jd. sarah  -  sp.",
+            "description": "Excelente Oportunidade!! Apartamento Novo Cond. Fechado, Não perca oportunidade de realizar o sonho da sua casa própria, 2 dormitórios, 1banheiro, 1 sala, sacada com piso em porcelanato, cozinha, área de serviço, comercio local, mercado, escola, drogaria, transporte publico, acesso a Rod Raposo Tavares, Av. Rio pequeno com extenso centro comercial em geral, posto de saúde, fácil acesso as principais Vias Publicas. Obs:- Valor do IPTU 30,00 mensal, valor condomínio 100,00.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05374-170",
+                "streetAddress": "Rua Joaquim Celidônio Gomes dos Reis, 73"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.68949",
+                "longitude": "-23.57084"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-sarah-40m2-RS199000/id-17460913/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-sarah-40m2-RS199000/id-17460913/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento, 1 dormitorio, jardim celeste",
+            "description": "Se você está procurando um lugar tranquilo, confortável e bem localizado, este é o apartamento ideal para você! Com 51m², 1 dormitório, armários planejados, cozinha, sala, área de serviço e 1 vaga de garagem, este apartamento é perfeito para quem busca praticidade e qualidade de vida. O condomínio oferece diversas opções de lazer, como salão de festas, churrasqueira e playground, perfeito para você curtir com sua família e amigos. Além disso, a rua é muito tranquila e fica a apenas 200 metros da entrada do Zoo Safári, um dos principais pontos turísticos da região. Você também terá acesso fácil a diversos comércios, como posto de gasolina, mini mercado, academia, padaria, escola municipal e posto de saúde, tudo isso a poucos minutos de distância do apartamento. E se você precisa se locomover, o apartamento oferece uma farta condução para as estações de metrô linha azul, São Judas, Saúde e Praça da Árvore e linha verde, Alto do Ipiranga e Sacomã. Não perca a oportunidade de morar em um apartamento completo e bem localizado como esse! Com a Nova São Paulo a compra do seu imóvel é mais segura. Oferecemos assessoria gratuita em financiamento imobiliário, orientando o cliente em todo o processo de negociação. Você pode agendar sua visita ou tirar dúvidas também pelo whatsApp. Confira nossos telefones.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "51m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "04195-120",
+                "streetAddress": "Rua Augusta Santel, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.61301",
+                "longitude": "-23.65651"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-celeste-51m2-RS199000/id-18687191/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-celeste-51m2-RS199000/id-18687191/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento para venda em são paulo, vila beatriz, 2 dormitórios, 1 banheiro",
+            "description": "Apartamento para Venda no bairro Vila Beatriz, localizado na cidade de São Paulo SP.     Com 2 dormitórios, possui 1 banheiro, 1 sala.     Área Total de 27,44 m².     Valor do Imóvel R$ 199.000,00.     Acabamentos: Piso Frio.     Cômodos: Cozinha, Banheiro, Sala de Estar, Dormitorio.     Proximidades: Bares e Restaurantes, Farmácia, lojas, Padaria, Shopping Center, Supermercado, Escolas e Faculdades, Parques Munic. ou Estaduais, Postos de Saude e Hospitais.     Região I: Imovel na Capital.           - Acabamentos: Piso Frio,     - Cômodos: Cozinha, Banheiro, Sala de Estar, Dormitorio,     - Proximidades: Bares e Restaurantes, Farmácia, lojas, Padaria, Shopping Center, Supermercado, Escolas e Faculdades, Parques Munic. ou Estaduais, Postos de Saude e Hospitais,     - Região I: Imovel na Capital,",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "27m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-vila-beatriz-27m2-RS199000/id-17624928/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-vila-beatriz-27m2-RS199000/id-17624928/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 dormitório à venda, 28 m² por r$ 199.000,00 - vila beatriz - são paulo/sp",
+            "description": "APTO.1 DORMITORIO, SEM VAGA, ACABAMENTO EM PORCELANATO. PROXIMO A RUA MIRANDINHA, AMADOR BUENO.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "28m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "03643-010",
+                "streetAddress": "Rua Manuel Oliveira Bueno, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.53421",
+                "longitude": "-23.5274"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-beatriz-RS199000/id-14490218/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-beatriz-RS199000/id-14490218/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Lindo apartamento a venda no jaraguá com 2 dormitórios",
+            "description": "Totalmente reformado, 2 dormitórios. Sala com sanca e gesso, cozinha e banheiro. Possui 40m². Vaga de garagem rotativa. Condomínio arborizado, quadra poliesportiva, salão de festas, próximo a comércios, escolas, padarias, ponto de ônibus e estação de trem.  Fácil acesso à Rodovia Anhanguera e Estrada Turística do Jaraguá. Valor do condomínio: R$300,00",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-ipanema-zona-oeste-40m2-RS199000/id-10682177/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-sp-sao-paulo-jardim-ipanema-zona-oeste-40m2-RS199000/id-10682177/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento - butantã | batelli imóveis",
+            "description": "  A Batelli Im&oacute;veis apresenta o empreendimento VIBRA &ndash; Butant&atilde;, situado em um terreno de 2.515 m&sup2;, com apartamentos de 02 dormit&oacute;rios, somente 01 torre com 20 andares, com completa infraestrutura e a poucos minutos da esta&ccedil;&atilde;o de metr&ocirc; Butant&atilde; e f&aacute;cil acesso a marginal Pinheiros que faz a liga&ccedil;&atilde;o com as principais vias da cidade.  Apartamentos de 34,07 a 36,90 m&sup2;, com 02 quartos, sala, cozinha americana com bancada em m&aacute;rmore sint&eacute;tico com cuba de inox, banheiro e &aacute;rea de servi&ccedil;o, com varanda, imovel incluso no programa CASA VERDE E AMARELA.  Infraestrutura com portaria, seguran&ccedil;a, &aacute;reas comuns equipadas, biciclet&aacute;rio, piscina, pet place, churrasqueira, academia, sal&atilde;o de festas, sal&atilde;o de jogos entre outras op&ccedil;&otilde;es para voc&ecirc; que busca qualidade de vida e conforto.  More em um condom&iacute;nio com lazer completo, a poucos minutos da USP e da Av. Corifeu de Azevedo Marques, com f&aacute;cil acesso ao metr&ocirc; Butant&atilde; e ao Shopping Eldorado, praticidade de estar perto de tudo, shoppings, bancos, restaurantes e escolas. Vibra Butanta, tudo o que voc&ecirc; precisa para morar bem.  Obras iniciadas - Previs&atilde;o de entrega - setembro de 2024  Agende sua visita.   A Batelli Im&oacute;veis pode auxilia-lo na venda, loca&ccedil;&atilde;o e administra&ccedil;&atilde;o de seu im&oacute;vel, entre em contato.   ",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "34m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05589-090",
+                "streetAddress": "Rua Coronel Ferreira Leal, 117"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.73771",
+                "longitude": "-23.57491"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-vila-gomes-34m2-RS199000/id-10417312/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-vila-gomes-34m2-RS199000/id-10417312/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 2 dormitórios à venda, 40 m² por r$ 199.000,00 - jardim sarah - são paulo/sp",
+            "description": "Apartamentos novos com um preço bem acessível para você e sua família morar , com 40 metros quadrados 2 dormitórios sem vaga de garagem , condomínio no valor de 155,00 incluso agua e gás.  Agende sua visita.",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "40m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "05374-170",
+                "streetAddress": "Rua Joaquim Celidônio Gomes dos Reis, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.76328",
+                "longitude": "-23.57692"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-sarah-40m2-RS199000/id-16128459/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-jardim-sarah-40m2-RS199000/id-16128459/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/237587/10891985/sp-sao-paulo-jardim-do-lago-rua-emilia-pilon-apartamento-a-venda-2-quartos-637106de-1.jpg",
+        "name": "Apartamentos à venda na Zona Oeste em São Paulo - Página 14 | Chaves na Mão",
+        "description": "14.908 Apartamentos à venda na Zona Oeste em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Oeste em São Paulo. - Página 14",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "199000",
+            "priceCurrency": "BRL",
+            "lowPrice": "198000",
+            "offerCount": "14908"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-oeste/",
+                    "name": "Zona Oeste"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,693 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "logo": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "name": "Chaves na Mão",
+        "description": "No Chaves na Mão você encontra imóveis, casas para alugar, apartamentos à venda, terrenos, kitnet, carros usados e seminovos, motos, tabela fipe e muito mais.",
+        "url": "https://www.chavesnamao.com.br/",
+        "sameAs": [
+            "https://www.facebook.com/ChavesNaMao",
+            "https://www.youtube.com/ChavesNaMao",
+            "https://www.tiktok.com/@portalchavesnamao",
+            "https://instagram.com/chavesnamao/",
+            "https://www.linkedin.com/company/chavesnamao/",
+            "https://br.pinterest.com/chavesnamao/"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento  - santa cecília - 1 dormt",
+            "description": "Studio na região de Santa Cecilia, com 1 dormitório, 1 sala, banheiro e cozinha, bem iluminado e bem arejado Sem vaga de garagem.  Comodidades disponíveis: segurança e portaria.   Excelente localização da rua Barão de Limeira, próximo a hospitais, mercados, serviços essenciais, padarias, farmácias, escolas, restaurantes. Acesso as principais vias de circulação, próximo a estação Marechal Deodoro do Metro e terminal de ônibus Princesa Isabel.  Agende uma visita com um de nossos corretores!  Estamos à disposição para melhor atendê-los.  *Os valores estão sujeitos à alterações sem aviso prévio*",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "34m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01202-000",
+                "streetAddress": "Al Barão De Limeira, --"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64903",
+                "longitude": "-23.53274"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-santa-cecilia-RS195000/id-6557455/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-santa-cecilia-RS195000/id-6557455/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Kitnet a venda em sp centro",
+            "description": "Kitnet a venda no Centro com 30 m² - Possui sala, cozinha e banheiro. - Ótima localização, próximo ao metrô São Bento. - Comércios próximo e região bem valorizada no Centro Histórico de São Paulo.  Comprando com a Lopes você conta com um atendimento personalizado e com diversos serviços inclusos, como: assessoria jurídica, certidão do imóvel e dos vendedores e avaliação de crédito através da plataforma exclusiva Lopes / Itaú.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "30m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01032-010",
+                "streetAddress": "Rua Riskallah Jorge, 80"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.63519",
+                "longitude": "-23.54155"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-historico-RS195000/id-16759109/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-historico-RS195000/id-16759109/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Kit net residencial -  vila buarque- sp",
+            "description": "Venha conhecer essa incrível KIT NET residencial localizada na Vila Buarque, em São Paulo. Com ótimo estado de conservação, esse imóvel conta com 01 quarto, banheiro e cozinha, além de já estar equipado com botijão de gás.   O diferencial desse prédio é o serviço de portaria, que está disponível de segunda à sexta, das 08:00 às 17:00, proporcionando maior segurança e comodidade aos moradores. E mesmo após o horário comercial, cada morador tem acesso às dependências do condomínio com sua própria chave, garantindo total liberdade e independência.  A localização é um dos grandes atrativos desse imóvel. Próximo à Estação Santa Cecília e República do Metrô, ao Terminal de ônibus Amaral Gurgel, à renomada Universidade Mackenzie e à Faculdade de Medicina da Santa Casa de São Paulo, você estará rodeado de opções de transporte e ensino de qualidade. Além disso, a Praça Roosevelt, a Rua Consolação e o Largo do Arouche estão a poucos passos de distância, proporcionando uma vida cercada de cultura, lazer e entretenimento.  Não perca essa oportunidade de morar em uma região privilegiada, com tudo o que você precisa ao seu alcance. Agende agora mesmo uma visita e venha se encantar com essa KIT NET residencial na Vila Buarque!",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "39m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01221-001",
+                "streetAddress": "Rua Amaral Gurgel, 97"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.6476",
+                "longitude": "-23.54262"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-buarque-RS195000/id-18190090/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-vila-buarque-RS195000/id-18190090/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento em bela vista  -  são paulo",
+            "description": "Imóvel totalmente reformado, localizado em um bairro com fácil acesso a tudo, próximo a academias, supermercados, padarias.  Imóvel já com inquilino Agende sua visita:  ",
+            "numberOfRooms": "0",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "23m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Rua Santo Amaro, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64005",
+                "longitude": "-23.55606"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-sp-sao-paulo-bela-vista-RS195000/id-13486321/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-sp-sao-paulo-bela-vista-RS195000/id-13486321/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Flat champ´s elysées disponível para venda com 33m², 01 dormitório e 01 vaga de garagem",
+            "description": "Flat Champ´s Elysée  Cod: 15572  O Champs Elysees está localizado na Av. Rio Branco acesso fácil as vias de São Paulo. A poucos metros do Metrô Luz, acesso a todas as regiões de São Paulo. Este flat com localização estratégica a e a boa arquitetura dos prédios é um dos pontos fortes da retomada desta região, guiada sobretudo por uma troca geracional, onde antigos moradores foram deixando o lugar para uma nova leva de habitantes que vem mesclando ares novos com os charmes já pre-existentes trazendo inovação e atraindo novos investimentos.    Este edifício que possui uma ótima infra-estrutura e serviços, tem atraindo pessoas que buscam estar próximas a tudo que necessitam, bem como para quem vai investir ou morar.  No Champs Elysees você poderá usufruir de:    apartamento mobiliado  ar condicionado  tv a cabo  interfone  arrumação diária  internet (sob consulta)  lavanderia,  área de lazer  piscina,  sauna  e academia.    Excelente negócio.    Flat/Condo Hotel com excelente rentabilidade na locação convencional intermediada pela Só Flats ou locação através das Plataformas Digitais, gerando os melhores rendimentos do mercado e valorização do seu imóvel.    A Só Flats é uma empresa especializada em compra e venda de Flats dentro e fora da cidade de São Paulo, para moradia ou investimento.    Não deixe de nos consultar.    Sujeito à confirmação de disponibilidade e valores, sem aviso prévio.  Só Flats Negócios Imobiliários  Creci 19.926-j",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "33m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01206-001",
+                "streetAddress": "Av Rio Branco, 1658"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64682",
+                "longitude": "-23.52992"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-com-garagem-sp-sao-paulo-republica-35m2-RS195000/id-18263418/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-com-garagem-sp-sao-paulo-republica-35m2-RS195000/id-18263418/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento à venda no bairro bela vista - são paulo/sp",
+            "description": "Descubra o encanto do estúdio  Visão !   Localizado em um edifício histórico em frente à Câmara dos Vereadores, esse charmoso apartamento de 36m² oferece uma localização privilegiada, com fácil acesso ao metrô Anhangabaú e diversos comércios ao redor.   Aproveite a segurança da portaria 24 horas e desfrute de todo o encanto da região.   Não perca tempo, agende sua visita agora mesmo e garanta sua chance de viver bem no coração da cidade com um preço imperdível!  As informações estão sujeitas a alterações. Consulte o corretor responsável.    Chave do anúncio: 1Dm68WQCu5JtBiN4",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "36m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01319-030",
+                "streetAddress": "Rua Japurá, 21"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.6416",
+                "longitude": "-23.55132"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-bela-vista-36m2-RS195000/id-17725322/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-bela-vista-36m2-RS195000/id-17725322/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Liberdade: apto  de 45m2 com 1 dormitorio e àrea de serviço",
+            "description": "Apartamento com ótima planta! Composto com sala, banheiro espaçoso, 1 dormitório e área de serviço. Localizado no 1 andar de prédio bem localizado na região central. Possui elevador. Próximo ao metrô. Excelente oportunidade para morar ou investir.  ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "45m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "00000-000",
+                "streetAddress": "não disponível"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS195000/id-12021154/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-liberdade-RS195000/id-12021154/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Kitnet 35m2 na avenida são joão",
+            "description": "Condomínio Edificio Isnard Avenida São João, 1382 • Campos Elísios Apto com 35m2, 1 banheiro, acabou de ser reformado. Venha visitar, entre em contato com o corretor. O condomínio Edificio Isnard foi construído em 1958 (há 64 anos) e está localizado em Avenida São João no bairro Campos Elísios, na cidade São Paulo-SP.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "35m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01211-000",
+                "streetAddress": "Avenida São João, 1382"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.64634",
+                "longitude": "-23.53881"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-santa-cecilia-35m2-RS195000/id-15343413/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-santa-cecilia-35m2-RS195000/id-15343413/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 quarto à venda na rua frutas de santo amaro, 341, bela vista, são paulo por r$ 195.000",
+            "description": "LINDA KITCHENETTE, TODA REFORMADA, COM PISO FRIO, BANHEIRO COM BOX DE VIDRO.  IDEAL PARA MORADIA OU INVESTIMENTO.  ORIENTAMOS O CLIENTE EM TODO O PROCESSO DE NEGOCIAÇÃO. AGENDE UMA VISITA E VENHA CONHECER.  O CONDOMÍNIO EDIFICIO FORTUNA FOI CONSTRUÍDO EM 1965 E ESTÁ LOCALIZADO EM RUA SANTO AMARO NO BAIRRO REPÚBLICA, NA CIDADE SÃO PAULO-SP.  BEM LOCALIZADO, TEM FÁCIL ACESSO AO CENTRO DA CIDADE, PRÓXIMO A AV. BRIGADEIRO LUÍS ANTÔNIO (5 MINUTOS A PÉ) E AV. VINTE TRÊS DE MAIO (3 MINUTOS DE CARRO, SENTIDO ZONA SUL), CONTA COM UMA ÓTIMA INFRAESTRUTURA DE TRANSPORTES, COMO O METRÔ ANHANGABAÚ (6 MINUTOS A PÉ) E O TERMINAL BANDEIRA (5 MINUTOS A PÉ) , SERVIÇOS AO SEU ENTORNO COMO PADARIAS, RESTAURANTES, ACADEMIAS, HOSPITAL, HOSPITAL PÉROLA BYINGTON (5 MINUTOS A PÉ). LOCALIZADO TAMBÉM A 2 MIN A PÉ DA CÂMARA MUNICIPAL E 2 KM DA AVENIDA PAULISTA (ALTURA DO METRÔ BRIGADEIRO).",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "--m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01315-001",
+                "streetAddress": "Rua Frutas de Santo Amaro, 341"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.59114",
+                "longitude": "-23.61167"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-bela-vista-RS195000/id-14981889/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-bela-vista-RS195000/id-14981889/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento em centro capital  -  são paulo",
+            "description": "Apartamento em centro capital  -  são paulo",
+            "numberOfRooms": "2",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "--m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Mirante Do Vale, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.74739",
+                "longitude": "-23.44507"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-centro-RS195000/id-8405784/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-sp-sao-paulo-centro-RS195000/id-8405784/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento em centro  -  são paulo",
+            "description": "Imovel totalmente reformado com salas dividias, banheiro, e cozinha, Santa Efigenia, Proximo a 25 de Março, Galeira do Rock. A planta do prédio oferece a opção de mooradia e comercio. Imovel completamennte mobiliado,com sannca de gesso e grafiato e ar condicionado.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "--m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "",
+                "streetAddress": "Avenida Prestes Maia, "
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.63392",
+                "longitude": "-23.54031"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-RS195000/id-6822410/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-RS195000/id-6822410/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento a venda em sp sé",
+            "description": "Studio em prédio com menos de 20 anos, excelente estado de conservação, 38m2 de área útil, com varanda e lavanderia, ao lado metrô Sé.  Área de serviço, Armários na cozinha, Varanda, Elevador, Segurança 24h, Portaria, Permitido animais",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "35m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01020-010",
+                "streetAddress": "Rua das Carmelitas, 109"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.62899",
+                "longitude": "-23.55134"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-se-52m2-RS195000/id-10037864/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-se-52m2-RS195000/id-10037864/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento com 1 quarto à venda na avenida prestes maia, 241, centro, são paulo por r$ 195.012",
+            "description": "Apartamento com 1 quarto à venda na avenida prestes maia, 241, centro, são paulo por r$ 195.012",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "37m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01031-001",
+                "streetAddress": "Avenida Prestes Maia, 241"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.6166428",
+                "longitude": "-23.6844063"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-37m2-RS195012/id-6788169/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-37m2-RS195012/id-6788169/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "K centro | construtora kazzas | construção | 25 metros | 01 dormitório | com varanda",
+            "description": "Em Construção- Entrega em Dezembro de 2024.   O empreendimento K CENTRO está sendo construído em um terreno de 1.120m², torre única, 12 apartamentos por andar, 03 elevadores, 19 pavimentos, 216 apartamentos no total.   OPÇÕES DE PLANTAS: 25m² e 27m²- 01 dormitório, com varanda, sem vaga. 38m² e 40m²- 02 dormitórios, com varanda, com ou sem vaga.   ÁREA DE LAZER: Hall social, bicicletário, espaço delivery, salão de jogos, lavanderia coletiva, brinquedoteca, playground, coworking, churrasqueira gourmet, salão de festas com apoio, piscina adulto e infantil com solário, academia, espaço funcional, pet place, deck lounge, horta, espaço zen, espaço luau e mini mercado.   DESENVOLVIMENTO: Construtora e Incorporadora: Kazzas e Kallas. Projeto de Paisagismo: K+M Arquitetura Paisagística. Projeto de Interiores: Studio Kor. Projeto de Arquitetura: Agres Arquitetura.   LOCALIZAÇÃO: Está localizado na rua Mauá 1.100- Zona Central - São Paulo. Apenas 500 metros da Estação Luz, rua 25 de Março e Mercado Municipal.    Prezados clientes, sou Adriano Caglioni, CEO da Imobiliária  Segundo Imóvel .   Trabalhamos diretamente com TODAS as construtoras de São Paulo, 2.200 opções de apartamentos e studios.   Compartilhe AGORA a localização, valor, metragem do imóvel e permita-me ajudá-lo a encontrar o apartamento perfeito para você!   Comprando com o  Segundo Imóvel  você ganha um jantar ESPECIAL para 02 pessoas como forma de agradecimento por escolher a nossa empresa.   Pedimos uma ÚNICA oportunidade para fazer o melhor negócio!!   Lembramos que os valores sempre sofrem alterações..    Somos o  GOOGLE  do mercado Imobiliário, a maior imobiliária de São Paulo!  Traga sua PROPOSTA para o SEGUNDO IMÓVEL negociar e brigar por você!  Digita no Google (SEGUNDO IMÓVEL), você terá acesso aos BOOKS TÉCNICOS, DESCRITIVOS, STREET VIEW, VIDEOS, TOUR VIRTUAL E MUITO MAIS. O site segundo imóvel é lindo demais. -------------------------------------------------- O SENHOR é o meu pastor e nada me faltará!  Deus está sempre comigo. Eu ando pela Fé.  Deus é bom o tempo todo.  O AMOR É O ÚNICO CAMINHO...  Em tudo daí graças..   Código do Anúncio:  64  Este imóvel tem as seguintes características:   Lazer: Academia, Bicicletário, Brinquedoteca, Churrasqueira, Coworking, Espaço Delivery, Espaço Gourmet, Hall Social, Horta, Lavanderia, Lobby, Mini Mercado, Pet Place, Piscina, Piscina Infantil, Playground, Salão de Festas, Salão de Jogos  Regiões: Centro de São Paulo  ",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "25m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01028-000",
+                "streetAddress": "Rua Mauá, 1100"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.62948595129",
+                "longitude": "-23.536877170995"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-25m2-RS195980/id-9892617/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-25m2-RS195980/id-9892617/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "SellAction",
+        "object": {
+            "@type": "Apartment",
+            "name": "Apartamento-são paulo-centro | ref.: reo791549",
+            "description": "Condomínio Edificio Montreal Avenida Ipiranga, 1284 • Campos Elísios Apto com 40m2, 1 banheiro, cozinha, o apartamento acabou de ser reformado. Venha visitar, entre em contato com o corretor. O condomínio Edificio Montreal foi construído em 1954 (há 68 anos) e está localizado em Avenida Ipiranga no bairro República, na cidade São Paulo-SP.",
+            "numberOfRooms": "1",
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitText": "38m²",
+                "unitCode": "MTK"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "BR"
+                },
+                "addressLocality": "São Paulo",
+                "addressRegion": "SP",
+                "postalCode": "01040-000",
+                "streetAddress": "Avenida Ipiranga, 1284"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-46.63668",
+                "longitude": "-23.53991"
+            },
+            "numberOfBathroomsTotal": "0",
+            "numberOfBedrooms": "0",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-38m2-RS196800/id-15344100/",
+            "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-1-quarto-sp-sao-paulo-centro-38m2-RS196800/id-15344100/"
+        },
+        "participant": {
+            "@type": "Organization",
+            "name": "Chaves na Mão",
+            "url": "www.chavesnamao.com.br"
+        },
+        "location": "chavesnamao.com.br"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "image": "https://www.chavesnamao.com.br/imn/0500x0350/N/imoveis/153903/6557455/sp-sao-paulo-campos-eliseos-alameda-barao-de-limeira-apartamento-a-venda-1-quarto-62100b1e-1.jpg",
+        "name": "Apartamentos à venda na Zona Central em São Paulo - Página 18 | Chaves na Mão",
+        "description": "12.389 Apartamentos à venda na Zona Central em São Paulo. Acesse o Chaves na Mão e conheça as ofertas de apartamentos para comprar na Zona Central em São Paulo. - Página 18",
+        "offers": {
+            "@type": "AggregateOffer",
+            "highPrice": "196800",
+            "priceCurrency": "BRL",
+            "lowPrice": "195000",
+            "offerCount": "12389"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "0",
+                "item": {
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "/apartamentos-a-venda/brasil/",
+                    "name": "Apartamentos à venda"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp/",
+                    "name": "SP"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/",
+                    "name": "São Paulo"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "/apartamentos-a-venda/sp-sao-paulo/zona-central/",
+                    "name": "Zona Central"
+                }
+            }
+        ]
+    }
+]
