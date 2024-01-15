@@ -152,3 +152,8 @@ docker compose stop
 # ou
 docker compose down -v
 ```
+
+### Demonstração da execução do Pipeline de Streaming
+
+https://github.com/gian-lepear/trab-streaming/assets/11441766/b1a54bc2-d32b-4426-b5f6-92f43f5136a6
+
